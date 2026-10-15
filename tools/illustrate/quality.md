@@ -89,3 +89,9 @@ The Design chat, checking galleries for the "Worth the swipe" dots, flagged 43 p
 - 70 photos taken out: other buildings (Tower of London in the Curtain Wall House, a pagoda forest in the Centre for Earth Architecture, Trump Tower in 330 North Wabash, Emerson's Boston buildings, Hotel Adlon, the Bundeskunsthalle), plus artworks, people, night shots and a satellite view.
 - 4 buildings came off the wall because no free photo shows them from outside: Grande Arche (France has no freedom of panorama, so Commons keeps only details), Athens Olympic Stadium roof, Notre-Dame-de-Lourdes in Casablanca, and the Fagnano Olona school. The photo rescue will look again.
 - Left as it is: the Capanema Palace main photo (the pilotis are the subject; the child is tiny).
+
+## Coordinates check (15 Oct 2026)
+
+Adding map coordinates exposed a hidden photo problem. 16 buildings had a `commons` field naming a same-name Commons category for another building, in another country, so their galleries showed that other building. Examples: the Beirut Cinema Opera showed the Reims one, Halifax Central Library (Canada) showed the one in England, and the Merck headquarters showed SAS in Stockholm.
+- Wrong photos came out of 7 galleries, and 5 buildings were held back.
+- These were caught only because the coordinates landed in the wrong country. Same-country mix-ups would not show up this way.

@@ -60,7 +60,11 @@ window.BUILDINGS = [
   "has": [
    "Drawing"
   ],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   48.92444,
+   2.02833
+  ]
  },
  {
   "id": "unite-dhabitation",
@@ -133,7 +137,11 @@ window.BUILDINGS = [
   "has": [
    "Drawing"
   ],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   43.2614,
+   5.39639
+  ]
  },
  {
   "id": "notre-dame-du-haut",
@@ -255,7 +263,11 @@ window.BUILDINGS = [
    "Model",
    "Drawing"
   ],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   47.70451,
+   6.62057
+  ]
  },
  {
   "id": "sainte-marie-de-la-tourette",
@@ -390,7 +402,11 @@ window.BUILDINGS = [
    "Model",
    "Drawing"
   ],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   45.81944,
+   4.6225
+  ]
  },
  {
   "id": "palace-of-assembly",
@@ -510,7 +526,11 @@ window.BUILDINGS = [
   ],
   "commons": "Category:Palace of Assembly (Chandigarh)",
   "has": [],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   30.76111,
+   76.80306
+  ]
  },
  {
   "id": "mill-owners-association-building",
@@ -582,7 +602,11 @@ window.BUILDINGS = [
   ],
   "commons": "Category:Mill Owners' Association Building",
   "has": [],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   23.0325,
+   72.57083
+  ]
  },
  {
   "id": "barcelona-pavilion",
@@ -716,7 +740,11 @@ window.BUILDINGS = [
   "has": [
    "Plan"
   ],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   41.37056,
+   2.15
+  ]
  },
  {
   "id": "villa-tugendhat",
@@ -850,7 +878,11 @@ window.BUILDINGS = [
   "has": [
    "Model"
   ],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   49.20722,
+   16.61583
+  ]
  },
  {
   "id": "farnsworth-house",
@@ -946,7 +978,11 @@ window.BUILDINGS = [
   ],
   "commons": "Category:Farnsworth House",
   "has": [],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   41.635,
+   -88.53569
+  ]
  },
  {
   "id": "s-r-crown-hall",
@@ -1054,7 +1090,11 @@ window.BUILDINGS = [
   ],
   "commons": "Category:Crown Hall",
   "has": [],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   41.83306,
+   -87.62722
+  ]
  },
  {
   "id": "seagram-building",
@@ -1176,7 +1216,11 @@ window.BUILDINGS = [
   "has": [
    "Plan"
   ],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   40.75844,
+   -73.97214
+  ]
  },
  {
   "id": "neue-nationalgalerie",
@@ -1273,7 +1317,11 @@ window.BUILDINGS = [
   "commons": "Category:Neue Nationalgalerie",
   "has": [],
   "gv": 3,
-  "lead": "Berlin-Neue Nationalgalerie-06-Ludwig Mies van der Rohe-2016-gje.jpg"
+  "lead": "Berlin-Neue Nationalgalerie-06-Ludwig Mies van der Rohe-2016-gje.jpg",
+  "coords": [
+   52.50694,
+   13.36778
+  ]
  },
  {
   "id": "fallingwater",
@@ -1421,7 +1469,11 @@ window.BUILDINGS = [
    "Model",
    "Drawing"
   ],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   39.90639,
+   -79.46806
+  ]
  },
  {
   "id": "johnson-wax-headquarters",
@@ -1530,7 +1582,11 @@ window.BUILDINGS = [
   "commons": "Category:Johnson Wax Headquarters",
   "has": [],
   "gv": 3,
-  "lead": "Frank Lloyd Wright - Racine, WI - Johnson Wax Headquarters (D).jpg"
+  "lead": "Frank Lloyd Wright - Racine, WI - Johnson Wax Headquarters (D).jpg",
+  "coords": [
+   42.71361,
+   -87.79083
+  ]
  },
  {
   "id": "solomon-r-guggenheim-museum",
@@ -1652,7 +1708,11 @@ window.BUILDINGS = [
   "has": [
    "Model"
   ],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   40.78306,
+   -73.95889
+  ]
  },
  {
   "id": "bauhaus-dessau",
@@ -1786,7 +1846,11 @@ window.BUILDINGS = [
   "has": [
    "Plan"
   ],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   51.8392,
+   12.2267
+  ]
  },
  {
   "id": "rietveld-schroder-house",
@@ -1909,7 +1973,11 @@ window.BUILDINGS = [
    "Model",
    "Drawing"
   ],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   52.08533,
+   5.1476
+  ]
  },
  {
   "id": "paimio-sanatorium",
@@ -2017,7 +2085,11 @@ window.BUILDINGS = [
   ],
   "commons": "Category:Paimio Sanatorium",
   "has": [],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   60.46506,
+   22.73477
+  ]
  },
  {
   "id": "villa-mairea",
@@ -2164,7 +2236,11 @@ window.BUILDINGS = [
    "Plan",
    "Model"
   ],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   61.59745,
+   21.87451
+  ]
  },
  {
   "id": "saynatsalo-town-hall",
@@ -2286,7 +2362,11 @@ window.BUILDINGS = [
   "has": [
    "Drawing"
   ],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   62.14025,
+   25.76917
+  ]
  },
  {
   "id": "eames-house",
@@ -2408,7 +2488,11 @@ window.BUILDINGS = [
   "has": [
    "Drawing"
   ],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   34.02972,
+   -118.51944
+  ]
  },
  {
   "id": "glass-house",
@@ -2556,7 +2640,11 @@ window.BUILDINGS = [
    "Sketch",
    "Drawing"
   ],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   41.14243,
+   -73.5294
+  ]
  },
  {
   "id": "casa-luis-barragan",
@@ -2690,7 +2778,11 @@ window.BUILDINGS = [
   "has": [
    "Plan"
   ],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   19.41111,
+   -99.1925
+  ]
  },
  {
   "id": "cathedral-of-brasilia",
@@ -2810,7 +2902,11 @@ window.BUILDINGS = [
   ],
   "commons": "Category:Catedral Metropolitana de Brasília",
   "has": [],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   -15.79833,
+   -47.87556
+  ]
  },
  {
   "id": "hiroshima-peace-memorial-museum",
@@ -2930,7 +3026,11 @@ window.BUILDINGS = [
   ],
   "commons": "Category:Hiroshima Peace Memorial Museum",
   "has": [],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   34.39147,
+   132.45306
+  ]
  },
  {
   "id": "golconde",
@@ -2967,6 +3067,10 @@ window.BUILDINGS = [
   "gv": 3,
   "has": [
    "Drawing"
+  ],
+  "coords": [
+   11.93813,
+   79.83404
   ]
  },
  {
@@ -3087,7 +3191,11 @@ window.BUILDINGS = [
   ],
   "commons": "Category:Salk Institute for Biological Studies",
   "has": [],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   32.8874,
+   -117.24534
+  ]
  },
  {
   "id": "phillips-exeter-academy-library",
@@ -3207,7 +3315,11 @@ window.BUILDINGS = [
   ],
   "commons": "Category:Phillips Exeter Academy Library",
   "has": [],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   42.9789,
+   -70.9494
+  ]
  },
  {
   "id": "kimbell-art-museum",
@@ -3327,7 +3439,11 @@ window.BUILDINGS = [
   ],
   "commons": "Category:Kimbell Art Museum",
   "has": [],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   32.74861,
+   -97.365
+  ]
  },
  {
   "id": "iim-ahmedabad",
@@ -3411,7 +3527,11 @@ window.BUILDINGS = [
   ],
   "commons": "Category:Indian Institute of Management Ahmedabad",
   "has": [],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   23.03167,
+   72.53611
+  ]
  },
  {
   "id": "national-assembly-of-bangladesh",
@@ -3519,7 +3639,11 @@ window.BUILDINGS = [
   ],
   "commons": "Category:National Parliament Building of Bangladesh",
   "has": [],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   23.76222,
+   90.37861
+  ]
  },
  {
   "id": "yale-art-and-architecture-building",
@@ -3639,7 +3763,11 @@ window.BUILDINGS = [
   ],
   "commons": "Category:Yale Art and Architecture Building",
   "has": [],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   41.3123,
+   -72.924
+  ]
  },
  {
   "id": "boston-city-hall",
@@ -3759,7 +3887,11 @@ window.BUILDINGS = [
   ],
   "commons": "Category:Boston City Hall",
   "has": [],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   42.3603,
+   -71.058
+  ]
  },
  {
   "id": "yoyogi-national-gymnasium",
@@ -3856,7 +3988,11 @@ window.BUILDINGS = [
   "commons": "Category:Yoyogi National Gymnasium",
   "has": [],
   "gv": 3,
-  "lead": "Gym stadium @ Harajuku (8972770585).jpg"
+  "lead": "Gym stadium @ Harajuku (8972770585).jpg",
+  "coords": [
+   35.6675,
+   139.70028
+  ]
  },
  {
   "id": "habitat-67",
@@ -3990,7 +4126,11 @@ window.BUILDINGS = [
   "has": [
    "Model"
   ],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   45.5,
+   -73.54389
+  ]
  },
  {
   "id": "fau-usp-building",
@@ -4110,7 +4250,11 @@ window.BUILDINGS = [
   ],
   "commons": "Category:Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo",
   "has": [],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   -23.56012,
+   -46.72985
+  ]
  },
  {
   "id": "masp",
@@ -4206,7 +4350,11 @@ window.BUILDINGS = [
   ],
   "commons": "Category:Museu de Arte de São Paulo",
   "has": [],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   -23.56111,
+   -46.65583
+  ]
  },
  {
   "id": "sesc-pompeia",
@@ -4326,7 +4474,11 @@ window.BUILDINGS = [
   ],
   "commons": "Category:SESC Pompeia",
   "has": [],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   -23.52581,
+   -46.68299
+  ]
  },
  {
   "id": "trellick-tower",
@@ -4434,7 +4586,11 @@ window.BUILDINGS = [
   ],
   "commons": "Category:Trellick Tower",
   "has": [],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   51.52378,
+   -0.2055
+  ]
  },
  {
   "id": "barbican-estate",
@@ -4568,7 +4724,11 @@ window.BUILDINGS = [
   "has": [
    "Plan"
   ],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   51.51919,
+   -0.09461
+  ]
  },
  {
   "id": "sydney-opera-house",
@@ -4702,7 +4862,11 @@ window.BUILDINGS = [
   "has": [
    "Model"
   ],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   -33.85706,
+   151.2149
+  ]
  },
  {
   "id": "bagsvaerd-church",
@@ -4822,7 +4986,11 @@ window.BUILDINGS = [
   ],
   "commons": "Category:Bagsværd Kirke",
   "has": [],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   55.7618,
+   12.4445
+  ]
  },
  {
   "id": "nakagin-capsule-tower",
@@ -4944,7 +5112,11 @@ window.BUILDINGS = [
   "has": [
    "Model"
   ],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   35.66564,
+   139.76345
+  ]
  },
  {
   "id": "gandhi-smarak-sangrahalaya",
@@ -5004,7 +5176,11 @@ window.BUILDINGS = [
   ],
   "commons": "Category:Sabarmati Ashram",
   "has": [],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   23.06,
+   72.58083
+  ]
  },
  {
   "id": "cept-university",
@@ -5124,7 +5300,11 @@ window.BUILDINGS = [
   ],
   "commons": "Category:CEPT University",
   "has": [],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   23.0375,
+   72.54972
+  ]
  },
  {
   "id": "sangath",
@@ -5370,7 +5550,11 @@ window.BUILDINGS = [
    "Plan",
    "Drawing"
   ],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   26.8763,
+   75.80917
+  ]
  },
  {
   "id": "centre-for-development-studies",
@@ -5455,7 +5639,11 @@ window.BUILDINGS = [
   ],
   "commons": "Category:Geoffrey Bawa",
   "has": [],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   7.87114,
+   80.70769
+  ]
  },
  {
   "id": "new-gourna-village",
@@ -5589,7 +5777,11 @@ window.BUILDINGS = [
   "has": [
    "Section"
   ],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   25.71482,
+   32.62281
+  ]
  },
  {
   "id": "gando-primary-school",
@@ -5661,7 +5853,11 @@ window.BUILDINGS = [
   ],
   "commons": "Category:Primary School, Gando",
   "has": [],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   11.8423,
+   -0.4872
+  ]
  },
  {
   "id": "leca-swimming-pools",
@@ -5781,7 +5977,11 @@ window.BUILDINGS = [
   ],
   "commons": "Category:Piscinas de Marés de Leça da Palmeira",
   "has": [],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   41.19286,
+   -8.70778
+  ]
  },
  {
   "id": "can-lis",
@@ -5829,7 +6029,11 @@ window.BUILDINGS = [
   ],
   "commons": "Category:Can Lis, Mallorca",
   "has": [],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   39.35278,
+   3.20694
+  ]
  },
  {
   "id": "castelvecchio-museum",
@@ -5949,7 +6153,11 @@ window.BUILDINGS = [
   ],
   "commons": "Category:Museo di Castelvecchio (Verona)",
   "has": [],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   45.44,
+   10.98778
+  ]
  },
  {
   "id": "brion-cemetery",
@@ -6069,7 +6277,11 @@ window.BUILDINGS = [
   ],
   "commons": "Category:Tomba Brion",
   "has": [],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   45.75132,
+   11.91334
+  ]
  },
  {
   "id": "therme-vals",
@@ -6189,7 +6401,11 @@ window.BUILDINGS = [
   ],
   "commons": "Category:Therme Vals",
   "has": [],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   46.622,
+   9.181
+  ]
  },
  {
   "id": "bruder-klaus-field-chapel",
@@ -6309,7 +6525,11 @@ window.BUILDINGS = [
   ],
   "commons": "Category:Feldkapelle (Wachendorf)",
   "has": [],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   50.59298,
+   6.72739
+  ]
  },
  {
   "id": "kolumba-museum",
@@ -6406,7 +6626,11 @@ window.BUILDINGS = [
   "commons": "Category:Kolumba (museum)",
   "has": [],
   "gv": 3,
-  "lead": "Kolumba-Museum Köln. Ansicht von der Brückenstraße-9987.jpg"
+  "lead": "Kolumba-Museum Köln. Ansicht von der Brückenstraße-9987.jpg",
+  "coords": [
+   50.93842,
+   6.95428
+  ]
  },
  {
   "id": "ningbo-history-museum",
@@ -6514,7 +6738,11 @@ window.BUILDINGS = [
   ],
   "commons": "Category:Ningbo Museum",
   "has": [],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   29.81739,
+   121.54122
+  ]
  },
  {
   "id": "quinta-monroy",
@@ -6551,6 +6779,10 @@ window.BUILDINGS = [
   "gv": 3,
   "has": [
    "Drawing"
+  ],
+  "coords": [
+   -20.22972,
+   -70.13611
   ]
  },
  {
@@ -6599,7 +6831,11 @@ window.BUILDINGS = [
   ],
   "commons": "Category:Azuma House",
   "has": [],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   34.61052,
+   135.49229
+  ]
  },
  {
   "id": "church-of-the-light",
@@ -6671,7 +6907,11 @@ window.BUILDINGS = [
   ],
   "commons": "Category:Church of the Light (Ibaraki Kasugaoka Kyokai Church)",
   "has": [],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   34.81861,
+   135.53694
+  ]
  },
  {
   "id": "sendai-mediatheque",
@@ -6793,7 +7033,11 @@ window.BUILDINGS = [
   "has": [
    "Drawing"
   ],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   38.26556,
+   140.86556
+  ]
  },
  {
   "id": "21st-century-museum-of-contemporary-art-kanazawa",
@@ -6913,7 +7157,11 @@ window.BUILDINGS = [
   ],
   "commons": "Category:21st Century Museum of Contemporary Art, Kanazawa",
   "has": [],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   36.5608,
+   136.658
+  ]
  },
  {
   "id": "moriyama-house",
@@ -6950,6 +7198,10 @@ window.BUILDINGS = [
   "gv": 3,
   "has": [
    "Drawing"
+  ],
+  "coords": [
+   35.5676,
+   139.7097
   ]
  },
  {
@@ -6987,6 +7239,10 @@ window.BUILDINGS = [
   "gv": 3,
   "has": [
    "Drawing"
+  ],
+  "coords": [
+   35.48611,
+   139.34167
   ]
  },
  {
@@ -7107,7 +7363,11 @@ window.BUILDINGS = [
   ],
   "commons": "Category:Teshima Art Museum",
   "has": [],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   34.48984,
+   134.09031
+  ]
  },
  {
   "id": "house-na",
@@ -7255,7 +7515,11 @@ window.BUILDINGS = [
   "has": [
    "Sketch"
   ],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   48.86064,
+   2.35224
+  ]
  },
  {
   "id": "lloyds-building",
@@ -7389,7 +7653,11 @@ window.BUILDINGS = [
   "has": [
    "Plan"
   ],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   51.51306,
+   -0.0825
+  ]
  },
  {
   "id": "hsbc-main-building",
@@ -7509,7 +7777,11 @@ window.BUILDINGS = [
   ],
   "commons": "Category:HSBC Hong Kong headquarters building",
   "has": [],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   22.28027,
+   114.15953
+  ]
  },
  {
   "id": "vitra-fire-station",
@@ -7629,7 +7901,11 @@ window.BUILDINGS = [
   ],
   "commons": "Category:Fire Station (Zaha Hadid)",
   "has": [],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   47.60036,
+   7.61463
+  ]
  },
  {
   "id": "guggenheim-bilbao",
@@ -7749,7 +8025,11 @@ window.BUILDINGS = [
   ],
   "commons": "Category:Guggenheim Museum Bilbao",
   "has": [],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   43.26883,
+   -2.9341
+  ]
  },
  {
   "id": "tate-modern",
@@ -7869,7 +8149,11 @@ window.BUILDINGS = [
   ],
   "commons": "Category:Tate Modern",
   "has": [],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   51.50778,
+   -0.09944
+  ]
  },
  {
   "id": "jewish-museum-berlin",
@@ -8016,7 +8300,11 @@ window.BUILDINGS = [
    "Model",
    "Drawing"
   ],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   52.50231,
+   13.39545
+  ]
  },
  {
   "id": "seattle-central-library",
@@ -8136,7 +8424,11 @@ window.BUILDINGS = [
   ],
   "commons": "Category:Seattle Central Library",
   "has": [],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   47.6061,
+   -122.333
+  ]
  },
  {
   "id": "casa-da-m-sica",
@@ -8256,7 +8548,11 @@ window.BUILDINGS = [
   ],
   "commons": "Category:Casa da Música",
   "has": [],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   41.15889,
+   -8.63071
+  ]
  },
  {
   "id": "beijing-national-stadium",
@@ -8366,7 +8662,11 @@ window.BUILDINGS = [
   "has": [
    "Model"
   ],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   39.99154,
+   116.39048
+  ]
  },
  {
   "id": "oslo-opera-house",
@@ -8474,7 +8774,11 @@ window.BUILDINGS = [
   ],
   "commons": "Category:Oslo Opera house",
   "has": [],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   59.90694,
+   10.75361
+  ]
  },
  {
   "id": "8-house",
@@ -8594,7 +8898,11 @@ window.BUILDINGS = [
   ],
   "commons": "Category:8 House",
   "has": [],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   55.61743,
+   12.57179
+  ]
  },
  {
   "id": "cctv-headquarters",
@@ -8702,7 +9010,11 @@ window.BUILDINGS = [
   ],
   "commons": "Category:CCTV Headquarters (2010)",
   "has": [],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   39.91384,
+   116.45798
+  ]
  },
  {
   "id": "elbphilharmonie",
@@ -8824,7 +9136,11 @@ window.BUILDINGS = [
   "has": [
    "Model"
   ],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   53.54142,
+   9.98419
+  ]
  },
  {
   "id": "louvre-abu-dhabi",
@@ -8934,7 +9250,11 @@ window.BUILDINGS = [
   "has": [
    "Model"
   ],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   24.533,
+   54.40001
+  ]
  },
  {
   "id": "maxxi",
@@ -9042,7 +9362,11 @@ window.BUILDINGS = [
   ],
   "commons": "Category:MAXXI",
   "has": [],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   41.92807,
+   12.46648
+  ]
  },
  {
   "id": "metropol-parasol",
@@ -9176,7 +9500,11 @@ window.BUILDINGS = [
   "has": [
    "Model"
   ],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   37.39325,
+   -5.99188
+  ]
  },
  {
   "id": "heydar-aliyev-center",
@@ -9284,7 +9612,11 @@ window.BUILDINGS = [
   ],
   "commons": "Category:Heydar Aliyev Cultural Center",
   "has": [],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   40.39528,
+   49.86694
+  ]
  },
  {
   "id": "icd-itke-research-pavilion-2012",
@@ -9441,7 +9773,11 @@ window.BUILDINGS = [
   ],
   "commons": "Category:High Line (New York City)",
   "has": [],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   40.7483,
+   -74.005
+  ]
  },
  {
   "id": "stacking-green",
@@ -9588,7 +9924,11 @@ window.BUILDINGS = [
   "has": [
    "Drawing"
   ],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   55.70083,
+   12.5427
+  ]
  },
  {
   "id": "sancaklar-mosque",
@@ -9660,7 +10000,11 @@ window.BUILDINGS = [
   ],
   "commons": "Category:Sancaklar Camii",
   "has": [],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   41.089,
+   28.60158
+  ]
  },
  {
   "id": "bosco-verticale",
@@ -9709,7 +10053,11 @@ window.BUILDINGS = [
   "has": [
    "Drawing"
   ],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   45.48583,
+   9.19028
+  ]
  },
  {
   "id": "zeitz-mocaa",
@@ -9841,7 +10189,11 @@ window.BUILDINGS = [
   ],
   "commons": "Category:Zeitz Museum of Contemporary Art Africa",
   "has": [],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   -33.90833,
+   18.42278
+  ]
  },
  {
   "id": "pantheon",
@@ -9975,7 +10327,11 @@ window.BUILDINGS = [
   "has": [
    "Plan"
   ],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   41.89861,
+   12.47694
+  ]
  },
  {
   "id": "katsura-imperial-villa",
@@ -10098,7 +10454,11 @@ window.BUILDINGS = [
    "Plan",
    "Drawing"
   ],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   34.98389,
+   135.70944
+  ]
  },
  {
   "id": "alhambra",
@@ -10218,7 +10578,11 @@ window.BUILDINGS = [
   ],
   "commons": "Category:Alhambra",
   "has": [],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   37.17634,
+   -3.58821
+  ]
  },
  {
   "id": "chand-baori",
@@ -10350,7 +10714,11 @@ window.BUILDINGS = [
   ],
   "commons": "Category:Chand Baori",
   "has": [],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   27.00729,
+   76.60639
+  ]
  },
  {
   "id": "villa-la-rotonda",
@@ -10485,7 +10853,11 @@ window.BUILDINGS = [
    "Plan",
    "Drawing"
   ],
-  "gv": 3
+  "gv": 3,
+  "coords": [
+   45.53152,
+   11.56027
+  ]
  },
  {
   "id": "bibliotheca-alexandrina",
@@ -36130,7 +36502,10 @@ window.BUILDINGS = [
   "qid": "Q1450753",
   "commons": "Category:Parliament of Sri Lanka",
   "lead": null,
-  "coords": null,
+  "coords": [
+   6.88683,
+   79.9187
+  ],
   "hotlink": true,
   "images": [
    {
@@ -141170,7 +141545,10 @@ window.BUILDINGS = [
   "qid": "Q29527503",
   "commons": "Category:Bianchi House (Via Formeggie 6, Riva San Vitale)",
   "lead": null,
-  "coords": null,
+  "coords": [
+   45.91725,
+   8.96936
+  ],
   "hotlink": true,
   "images": [
    {
@@ -141210,7 +141588,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:ECLAC headquarters",
   "lead": "ECLAC headquarters, Vitacura, Santiago 20260322.jpg",
-  "coords": null,
+  "coords": [
+   -33.40167,
+   -70.60056
+  ],
   "hotlink": true,
   "images": [
    {
@@ -141352,7 +141733,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Faculdade de Arquitectura da Universidade do Porto",
   "lead": "File:Faculdade Arquitectura 1 (Porto).jpg",
-  "coords": null,
+  "coords": [
+   41.15003,
+   -8.63633
+  ],
   "hotlink": true,
   "images": [
    {
@@ -141594,7 +141978,10 @@ window.BUILDINGS = [
   "qid": "Q141503945",
   "commons": "Category:Fundação Iberê Camargo building",
   "lead": "File:RenatoSoares FundacaoIbereCamargo PortoAlegre RS (27094463598).jpg",
-  "coords": null,
+  "coords": [
+   -30.07791,
+   -51.24562
+  ],
   "hotlink": true,
   "images": [
    {
@@ -141734,7 +142121,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Engineering Building, University of Leicester",
   "lead": "File:Leicester University Engineering Building.jpg",
-  "coords": null,
+  "coords": [
+   52.6203,
+   -1.12368
+  ],
   "hotlink": true,
   "images": [
    {
@@ -141822,7 +142212,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Restaurante Los Manantiales",
   "lead": "File:Restaurante Los Manantiales 03.jpg",
-  "coords": null,
+  "coords": [
+   19.24857,
+   -99.09286
+  ],
   "hotlink": true,
   "images": [
    {
@@ -141926,7 +142319,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Middle East Technical University Faculty of Architecture",
   "lead": "File:METU ARCH.jpg",
-  "coords": null,
+  "coords": [
+   39.89746,
+   32.78177
+  ],
   "hotlink": true,
   "images": [
    {
@@ -142094,7 +142490,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Nostra Signora della Misericordia (Baranzate)",
   "lead": "File:Baranzate (MI) - chiesa di Nostra Signora della Misericordia.jpg",
-  "coords": null,
+  "coords": [
+   45.52828,
+   9.11426
+  ],
   "hotlink": true,
   "images": [
    {
@@ -142160,7 +142559,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Gifu Media Cosmos",
   "lead": "File:Gifu Media Cosmos exterior ac (1).jpg",
-  "coords": null,
+  "coords": [
+   35.42744,
+   136.75994
+  ],
   "hotlink": true,
   "images": [
    {
@@ -142260,7 +142662,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Multihalle",
   "lead": "Multihalle DachStuetzen1.jpg",
-  "coords": null,
+  "coords": [
+   49.5044,
+   8.47976
+  ],
   "hotlink": true,
   "images": [
    {
@@ -142348,7 +142753,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Yves Saint Laurent Museum in Marrakesh",
   "lead": "File:Architetti studio ko, museo YSL a Marrakech.jpg",
-  "coords": null,
+  "coords": [
+   31.64279,
+   -8.00314
+  ],
   "hotlink": true,
   "images": [
    {
@@ -142412,7 +142820,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:École nationale supérieure d'architecture de Nantes",
   "lead": "File:L'école d'architecture (Nantes) (9304278276).jpg",
-  "coords": null,
+  "coords": [
+   47.207,
+   -1.55733
+  ],
   "hotlink": true,
   "images": [
    {
@@ -142500,7 +142911,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Maria Königin des Friedens (Neviges)",
   "lead": "File:2023-05-Wallfahrtskirche-Maria-Koenigin-des-Friedens-Neviges-1.jpg",
-  "coords": null,
+  "coords": [
+   51.31278,
+   7.0875
+  ],
   "hotlink": true,
   "images": [
    {
@@ -142600,7 +143014,10 @@ window.BUILDINGS = [
   "qid": "Q3246466",
   "commons": "Category:Extérieur de l'église Notre-Dame du Raincy",
   "lead": "File:Le Raincy Notre-Dame-du-Raincy Fassade.jpg",
-  "coords": null,
+  "coords": [
+   48.89574,
+   2.51354
+  ],
   "hotlink": true,
   "images": [
    {
@@ -142676,7 +143093,10 @@ window.BUILDINGS = [
   "qid": "Q130502",
   "commons": "Category:Punjab and Haryana High Court building",
   "lead": "File:High court building from the front.jpg",
-  "coords": null,
+  "coords": [
+   30.7573,
+   76.8066
+  ],
   "hotlink": true,
   "images": [
    {
@@ -142790,7 +143210,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Oberstufenschulhaus (Paspels)",
   "lead": "File:Schulhaus Paspels 2023.JPG",
-  "coords": null,
+  "coords": [
+   46.74965,
+   9.44785
+  ],
   "hotlink": true,
   "images": [
    {
@@ -142866,7 +143289,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Imam Turki bin Abdullah Grand Mosque",
   "lead": "File:Deera Square and Imam Turki bin Abdullah Mosque (1).jpg",
-  "coords": null,
+  "coords": [
+   24.63056,
+   46.71056
+  ],
   "hotlink": true,
   "images": [
    {
@@ -142958,7 +143384,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:San Cataldo Cemetery (Modena)",
   "lead": "File:Cubo di Aldo Rossi del cimitero di San Cataldo.jpg",
-  "coords": null,
+  "coords": [
+   44.66047,
+   10.90894
+  ],
   "hotlink": true,
   "images": [
    {
@@ -143034,7 +143463,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Mercat de Santa Caterina",
   "lead": "File:410 Mercat de Santa Caterina (Barcelona), façana de l'av. Francesc Cambó.jpg",
-  "coords": null,
+  "coords": [
+   41.38618,
+   2.17834
+  ],
   "hotlink": true,
   "images": [
    {
@@ -143226,7 +143658,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Lambert-St. Louis International Airport",
   "lead": "File:Terminal 1, St. Louis Lambert International Airport, St. Louis, MO - 52832831515.jpg",
-  "coords": null,
+  "coords": [
+   38.74722,
+   -90.36139
+  ],
   "hotlink": true,
   "images": [
    {
@@ -143382,7 +143817,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Honpukuji (Awaji)",
   "lead": "File:7P4056169.jpg",
-  "coords": null,
+  "coords": [
+   34.54621,
+   134.98965
+  ],
   "hotlink": true,
   "images": [
    {
@@ -143472,7 +143910,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Skogskyrkogården",
   "lead": "File:Skogskyrkogården (Unsplash).jpg",
-  "coords": null,
+  "coords": [
+   59.27556,
+   18.09944
+  ],
   "hotlink": true,
   "images": [
    {
@@ -143572,7 +144013,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Hipódromo de la Zarzuela",
   "lead": "File:Hipódromo de la Zarzuela-1.JPG",
-  "coords": null,
+  "coords": [
+   40.46778,
+   -3.75611
+  ],
   "hotlink": true,
   "images": [
    {
@@ -143624,7 +144068,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:23 de Enero",
   "lead": "File:Parte de Los Bloques del 23 de Enero.JPG",
-  "coords": null,
+  "coords": [
+   10.5076,
+   -66.9312
+  ],
   "hotlink": true,
   "images": [
    {
@@ -143728,7 +144175,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Art Biotop Nasu",
   "lead": "File:190725 Art Biotop Nasu Tochigi pref Japan01bs20.jpg",
-  "coords": null,
+  "coords": [
+   37.05931,
+   139.97808
+  ],
   "hotlink": true,
   "images": [
    {
@@ -143768,7 +144218,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Aerohabitat",
   "lead": "File:Alger View Oct-2010 IMG 0549.jpg",
-  "coords": null,
+  "coords": [
+   36.76562,
+   3.04547
+  ],
   "hotlink": true,
   "images": [
    {
@@ -143860,7 +144313,10 @@ window.BUILDINGS = [
   "qid": "Q56295859",
   "commons": "Category:Beirut Terraces",
   "lead": null,
-  "coords": null,
+  "coords": [
+   33.8997,
+   35.49621
+  ],
   "hotlink": true,
   "images": [
    {
@@ -144032,7 +144488,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Chengqi Lou",
   "lead": "File:2012 永定、南靖 土楼 承启楼 - panoramio.jpg",
-  "coords": null,
+  "coords": [
+   24.66346,
+   117.00432
+  ],
   "hotlink": true,
   "images": [
    {
@@ -144220,7 +144679,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Iglesia de San Pedro de Durazno",
   "lead": "File:Iglesia de San Pedro - Durazno.jpg",
-  "coords": null,
+  "coords": [
+   -33.38106,
+   -56.52268
+  ],
   "hotlink": true,
   "images": [
    {
@@ -144384,7 +144846,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:St. Fronleichnam (Aachen)",
   "lead": "File:Aachen - Fronleichnam - Rudolf Schwarz Entwurf.jpg",
-  "coords": null,
+  "coords": [
+   50.7744,
+   6.11491
+  ],
   "hotlink": true,
   "images": [
    {
@@ -145158,7 +145623,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Malé Friday Mosque",
   "lead": "File:Male' Hukuru Miskiy 1.jpg",
-  "coords": null,
+  "coords": [
+   4.17806,
+   73.5125
+  ],
   "hotlink": true,
   "images": [
    {
@@ -145258,7 +145726,10 @@ window.BUILDINGS = [
   "qid": "Q11392907",
   "commons": "Category:Hyogo Children's Center",
   "lead": "File:兵庫県立こどもの館・本館.JPG",
-  "coords": null,
+  "coords": [
+   34.85372,
+   134.62375
+  ],
   "hotlink": true,
   "images": [
    {
@@ -145322,7 +145793,6 @@ window.BUILDINGS = [
   ],
   "study": "Brise-soleil walls, raised blocks and shaded walkways designed for cross-ventilation in the tropics.",
   "qid": null,
-  "commons": "Category:Horlivka Institute for Foreign Languages",
   "lead": "File:Institute of Foreign Languages.jpg",
   "coords": null,
   "hotlink": true,
@@ -145550,7 +146020,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Espai i passera de vianants de La Lira",
   "lead": "File:068 Espai la Lira (Ripoll), des de la passera sobre el Ter.jpg",
-  "coords": null,
+  "coords": [
+   42.19944,
+   2.19156
+  ],
   "hotlink": true,
   "images": [
    {
@@ -145816,23 +146289,10 @@ window.BUILDINGS = [
   ],
   "study": "Long black concrete roof slab resting on huge granite boulders at the edge of a park.",
   "qid": null,
-  "commons": "Category:Mestizo (restaurant)",
-  "lead": "Portland, Oregon, U.S., December 2024 - 61.jpg",
+  "lead": "Restaurante Mestizo en Parque BIcentenario.jpg",
   "coords": null,
   "hotlink": true,
   "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Portland%2C_Oregon%2C_U.S.%2C_December_2024_-_61.jpg/1280px-Portland%2C_Oregon%2C_U.S.%2C_December_2024_-_61.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/mestizo-restaurant/thumbs/3.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Portland, Oregon",
-    "credit": "Another Believer",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Portland,_Oregon,_U.S.,_December_2024_-_61.jpg",
-    "file": "File:Portland, Oregon, U.S., December 2024 - 61.jpg"
-   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Restaurante_Mestizo_en_Parque_BIcentenario.jpg/1280px-Restaurante_Mestizo_en_Parque_BIcentenario.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/mestizo-restaurant/thumbs/0.webp",
@@ -145844,30 +146304,6 @@ window.BUILDINGS = [
     "license": "CC BY 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Restaurante_Mestizo_en_Parque_BIcentenario.jpg",
     "file": "File:Restaurante Mestizo en Parque BIcentenario.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Mestizo_%28restaurant%29%2C_Portland%2C_Oregon%2C_2025_-_02.jpg/1280px-Mestizo_%28restaurant%29%2C_Portland%2C_Oregon%2C_2025_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/mestizo-restaurant/thumbs/1.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Mestizo (restaurant)",
-    "credit": "Another Believer",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Mestizo_(restaurant),_Portland,_Oregon,_2025_-_02.jpg",
-    "file": "File:Mestizo (restaurant), Portland, Oregon, 2025 - 02.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Mestizo_%28restaurant%29%2C_Portland%2C_Oregon%2C_2025_-_03.jpg/1280px-Mestizo_%28restaurant%29%2C_Portland%2C_Oregon%2C_2025_-_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/mestizo-restaurant/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Mestizo (restaurant)",
-    "credit": "Another Believer",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Mestizo_(restaurant),_Portland,_Oregon,_2025_-_03.jpg",
-    "file": "File:Mestizo (restaurant), Portland, Oregon, 2025 - 03.jpg"
    }
   ],
   "has": [],
@@ -146014,7 +146450,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Miyanoura port, Naoshima",
   "lead": "File:Naoshima Ferry Terminal.jpg",
-  "coords": null,
+  "coords": [
+   34.45697,
+   133.97408
+  ],
   "hotlink": true,
   "images": [
    {
@@ -146090,7 +146529,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Viewpoint Snøhetta",
   "lead": "File:Viewpoint Snøhetta.jpg",
-  "coords": null,
+  "coords": [
+   62.22398,
+   9.49006
+  ],
   "hotlink": true,
   "images": [
    {
@@ -146166,7 +146608,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Expo 2017",
   "lead": null,
-  "coords": null,
+  "coords": [
+   51.09125,
+   71.41281
+  ],
   "hotlink": true,
   "images": [
    {
@@ -146206,7 +146651,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:St. Nepomuk (Oberrealta)",
   "lead": "File:St. Nepomuk, Oberrealta.jpg",
-  "coords": null,
+  "coords": [
+   46.75237,
+   9.42266
+  ],
   "hotlink": true,
   "images": [
    {
@@ -146294,7 +146742,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Art Plaza (Oita)",
   "lead": "File:Art Plaza (Oita) 20251227.jpg",
-  "coords": null,
+  "coords": [
+   33.24056,
+   131.6095
+  ],
   "hotlink": true,
   "images": [
    {
@@ -146346,7 +146797,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Holy Spirit Church in Paks",
   "lead": "File:Paks Makovecz church.jpg",
-  "coords": null,
+  "coords": [
+   46.6129,
+   18.8487
+  ],
   "hotlink": true,
   "images": [
    {
@@ -146616,7 +147070,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Ramses Wissa Wassef Art Center",
   "lead": "File:مركز رمسيس ويصا واصف.jpg",
-  "coords": null,
+  "coords": [
+   29.96914,
+   31.17604
+  ],
   "hotlink": true,
   "images": [
    {
@@ -146708,7 +147165,10 @@ window.BUILDINGS = [
   "qid": "Q7414007",
   "commons": "Category:San Francisco Federal Building",
   "lead": "File:San Francisco Federal Building (main structure, seen from Mission and 7th, 2020).jpg",
-  "coords": null,
+  "coords": [
+   37.77917,
+   -122.41194
+  ],
   "hotlink": true,
   "images": [
    {
@@ -146872,7 +147332,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Mercado Municipal de Santa Maria da Feira",
   "lead": "File:Mercado Municipal de Santa Maria da Feira 001.jpg",
-  "coords": null,
+  "coords": [
+   40.92452,
+   -8.54375
+  ],
   "hotlink": true,
   "images": [
    {
@@ -146924,7 +147387,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Writer's House, Sevan, Armenia",
   "lead": "File:Sevan Writers house.jpg",
-  "coords": null,
+  "coords": [
+   40.56289,
+   45.012
+  ],
   "hotlink": true,
   "images": [
    {
@@ -147026,7 +147492,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": null,
   "lead": null,
-  "coords": null,
+  "coords": [
+   35.7714,
+   51.4544
+  ],
   "hotlink": true,
   "images": [
    {
@@ -147066,7 +147535,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Sheraton Doha Resort & Convention Hotel",
   "lead": "File:Sheraton Hotel - 241214.jpg",
-  "coords": null,
+  "coords": [
+   25.31837,
+   51.5365
+  ],
   "hotlink": true,
   "images": [
    {
@@ -147242,7 +147714,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Telecom building (Skopje)",
   "lead": "File:Pošta vo Skopje, Macedonia.jpg",
-  "coords": null,
+  "coords": [
+   41.99755,
+   21.42992
+  ],
   "hotlink": true,
   "images": [
    {
@@ -147318,7 +147793,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Musée Soulages",
   "lead": "File:France Occitanie 12 Rodez Soulages 01.jpg",
-  "coords": null,
+  "coords": [
+   44.35217,
+   2.56772
+  ],
   "hotlink": true,
   "images": [
    {
@@ -147394,7 +147872,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:St. Anna (Düren)",
   "lead": "File:Annakirche 2015 1.JPG",
-  "coords": null,
+  "coords": [
+   50.8014,
+   6.48389
+  ],
   "hotlink": true,
   "images": [
    {
@@ -147548,7 +148029,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Nationalparkhaus Zernez",
   "lead": "File:Zernez-Nationalparkhaus.jpg",
-  "coords": null,
+  "coords": [
+   46.69933,
+   10.09536
+  ],
   "hotlink": true,
   "images": [
    {
@@ -147676,7 +148160,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Termas Geométricas",
   "lead": "File:J27 930 Termas geométricas.jpg",
-  "coords": null,
+  "coords": [
+   -39.50166,
+   -71.8747
+  ],
   "hotlink": true,
   "images": [
    {
@@ -147804,7 +148291,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:The Hive, Nanyang Technological University",
   "lead": "File:The Hive, NTU (I).jpg",
-  "coords": null,
+  "coords": [
+   1.34321,
+   103.68259
+  ],
   "hotlink": true,
   "images": [
    {
@@ -148124,7 +148614,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Umbrella House (Shinohara Kazuo)",
   "lead": "File:Umbrella House Vitra Campus June 2022 01.jpg",
-  "coords": null,
+  "coords": [
+   47.60301,
+   7.61776
+  ],
   "hotlink": true,
   "images": [
    {
@@ -148200,7 +148693,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Unidad Vecinal Portales",
   "lead": "File:Unidad Vecinal Portales, Estación Central, Santiago 20230520 01.jpg",
-  "coords": null,
+  "coords": [
+   -33.44718,
+   -70.69017
+  ],
   "hotlink": true,
   "images": [
    {
@@ -148520,7 +149016,10 @@ window.BUILDINGS = [
   "qid": "Q11568880",
   "commons": "Category:Kumanokodo Nakahechi Museum of Art",
   "lead": null,
-  "coords": null,
+  "coords": [
+   33.81344,
+   135.60617
+  ],
   "hotlink": true,
   "images": [
    {
@@ -148560,7 +149059,10 @@ window.BUILDINGS = [
   "qid": "Q1264855",
   "commons": "Category:The Index (Dubai)",
   "lead": "File:The Index Tower - panoramio.jpg",
-  "coords": null,
+  "coords": [
+   25.20712,
+   55.27902
+  ],
   "hotlink": true,
   "images": [
    {
@@ -148600,7 +149102,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Maison Acquart (Bordeaux)",
   "lead": "File:MAISON À BORDEAUX.jpg",
-  "coords": null,
+  "coords": [
+   44.83778,
+   -0.56813
+  ],
   "hotlink": true,
   "images": [
    {
@@ -148664,7 +149169,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Bibliothèque Alexis de Tocqueville",
   "lead": "File:BATocqueville.jpg",
-  "coords": null,
+  "coords": [
+   49.18265,
+   -0.35055
+  ],
   "hotlink": true,
   "images": [
    {
@@ -148752,7 +149260,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Cité Pablo Picasso (Nanterre)",
   "lead": "Nanterre.jpg",
-  "coords": null,
+  "coords": [
+   48.88949,
+   2.22739
+  ],
   "hotlink": true,
   "images": [
    {
@@ -148816,7 +149327,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Cité des Choux-Fleurs",
   "lead": "File:Créteil (95) Choux de Créteil 618.jpg",
-  "coords": null,
+  "coords": [
+   48.78615,
+   2.44556
+  ],
   "hotlink": true,
   "images": [
    {
@@ -148892,7 +149406,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Arcades du Lac",
   "lead": "File:Arcades du Lac 01.jpg",
-  "coords": null,
+  "coords": [
+   48.76765,
+   2.04434
+  ],
   "hotlink": true,
   "images": [
    {
@@ -148980,7 +149497,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Antigone (Montpellier)",
   "lead": "File:Montpellier. Antigone disctrict (1978-2000) Ricardo Bofill, architect (15201294644).jpg",
-  "coords": null,
+  "coords": [
+   43.608,
+   3.89056
+  ],
   "hotlink": true,
   "images": [
    {
@@ -149275,7 +149795,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Villa Méditerranée",
   "lead": "File:La Villa Méditerranée (Marseille) (14043586448).jpg",
-  "coords": null,
+  "coords": [
+   43.2972,
+   5.36199
+  ],
   "hotlink": true,
   "images": [
    {
@@ -149375,7 +149898,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Cité de l'Océan",
   "lead": "File:Cité de l'océan Biarritz.jpg",
-  "coords": null,
+  "coords": [
+   43.46216,
+   -1.5723
+  ],
   "hotlink": true,
   "images": [
    {
@@ -149415,7 +149941,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:IBM La Gaude",
   "lead": "File:IBM La Gaude, 2014.jpg",
-  "coords": null,
+  "coords": [
+   43.73218,
+   7.16706
+  ],
   "hotlink": true,
   "images": [
    {
@@ -149455,7 +149984,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Le Fresnoy",
   "lead": "File:Tourcoing le fresnoy.jpg",
-  "coords": null,
+  "coords": [
+   50.70011,
+   3.15471
+  ],
   "hotlink": true,
   "images": [
    {
@@ -149507,7 +150039,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Le Cube Orange",
   "lead": "File:Lyon - Le Cube Orange (49526025037).jpg",
-  "coords": null,
+  "coords": [
+   45.73916,
+   4.81459
+  ],
   "hotlink": true,
   "images": [
    {
@@ -149687,7 +150222,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Luma Arles",
   "lead": "File:לומה ארל במבט כולל.jpg",
-  "coords": null,
+  "coords": [
+   43.67333,
+   4.63694
+  ],
   "hotlink": true,
   "images": [
    {
@@ -149787,7 +150325,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Musée Cocteau (Menton)",
   "lead": "File:Le musée Jean Cocteau, collection S. Wunderman (Menton, France) (40635031623).jpg",
-  "coords": null,
+  "coords": [
+   43.77489,
+   7.50629
+  ],
   "hotlink": true,
   "images": [
    {
@@ -149875,7 +150416,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Villa dall'Ava",
   "lead": "File:Villa dall'Ava, Brutarchitekt.jpg",
-  "coords": null,
+  "coords": [
+   48.85587,
+   2.21823
+  ],
   "hotlink": true,
   "images": [
    {
@@ -149929,7 +150473,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Pavillon Noir",
   "lead": "File:Le Pavillon Noir (205248751).jpeg",
-  "coords": null,
+  "coords": [
+   43.5254,
+   5.4401
+  ],
   "hotlink": true,
   "images": [
    {
@@ -149969,7 +150516,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Musée de la Romanité",
   "lead": "File:Musée de la Romanité de Nîmes.jpeg",
-  "coords": null,
+  "coords": [
+   43.8354,
+   4.36081
+  ],
   "hotlink": true,
   "images": [
    {
@@ -150047,7 +150597,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Le Volcan, Le Havre",
   "lead": "File:2017-04 Le Havre- 015-20170422 (33868135563).jpg",
-  "coords": null,
+  "coords": [
+   49.4904,
+   0.10694
+  ],
   "hotlink": true,
   "images": [
    {
@@ -150135,7 +150688,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Carré d'Art (Nîmes)",
   "lead": null,
-  "coords": null,
+  "coords": [
+   43.83806,
+   4.355
+  ],
   "hotlink": true,
   "images": [
    {
@@ -150255,7 +150811,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Opéra de Lyon",
   "lead": "File:Lyon opera.jpg",
-  "coords": null,
+  "coords": [
+   45.76783,
+   4.83661
+  ],
   "hotlink": true,
   "images": [
    {
@@ -150333,7 +150892,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Esherick House",
   "lead": "File:Esherick House Philly A.JPG",
-  "coords": null,
+  "coords": [
+   40.0724,
+   -75.2064
+  ],
   "hotlink": true,
   "images": [
    {
@@ -150409,7 +150971,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Stahl House",
   "lead": "File:Case Study House 22 (Stahl House) (49841751833).jpg",
-  "coords": null,
+  "coords": [
+   34.1004,
+   -118.37
+  ],
   "hotlink": true,
   "images": [
    {
@@ -150549,7 +151114,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Chemosphere",
   "lead": "Chemosphere 2012.jpg",
-  "coords": null,
+  "coords": [
+   34.12756,
+   -118.36878
+  ],
   "hotlink": true,
   "images": [
    {
@@ -150677,7 +151245,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Bavinger House",
   "lead": "File:Bavinger Exterior.JPG",
-  "coords": null,
+  "coords": [
+   35.22778,
+   -97.35278
+  ],
   "hotlink": true,
   "images": [
    {
@@ -150717,7 +151288,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Anthony Hopkins",
   "lead": "File:Hopkins House 49a Downshire Hill, Hampstead 2007-05-05.jpg",
-  "coords": null,
+  "coords": [
+   51.5552,
+   -0.1706
+  ],
   "hotlink": true,
   "images": [
    {
@@ -150857,7 +151431,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Casa Ugalde",
   "lead": "File:194 Casa Ugalde, c. Torrenova (Caldes d'Estrac).JPG",
-  "coords": null,
+  "coords": [
+   41.57044,
+   2.52297
+  ],
   "hotlink": true,
   "images": [
    {
@@ -150895,7 +151472,6 @@ window.BUILDINGS = [
   ],
   "study": "White walled square closed to the outside; a higher central band opens to two courtyards with a pool.",
   "qid": null,
-  "commons": "Category:Casa Lino Gaspar",
   "lead": "File:Casa gaspar exterior.jpg",
   "coords": null,
   "hotlink": true,
@@ -150911,42 +151487,6 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Casa_gaspar_exterior.jpg",
     "file": "File:Casa gaspar exterior.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Vista_geral_da_fachada_principal_da_casa.jpg/1280px-Vista_geral_da_fachada_principal_da_casa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/casa-gaspar/thumbs/1.webp",
-    "w": 1280,
-    "h": 857,
-    "kind": "Exterior",
-    "caption": "Exterior · Casa Lino Gaspar - Oeiras - Portugal - -",
-    "credit": "Senhormario",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Vista_geral_da_fachada_principal_da_casa.jpg",
-    "file": "File:Vista geral da fachada principal da casa.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Vista_parcial_da_fachada_principal_da_casa.jpg/1280px-Vista_parcial_da_fachada_principal_da_casa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/casa-gaspar/thumbs/2.webp",
-    "w": 1280,
-    "h": 878,
-    "kind": "Exterior",
-    "caption": "Exterior · Casa Lino Gaspar - Oeiras - Portugal - -",
-    "credit": "Senhormario",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Vista_parcial_da_fachada_principal_da_casa.jpg",
-    "file": "File:Vista parcial da fachada principal da casa.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Muro_exterior_e_escadaria_de_acesso_no_jardim.jpg/1280px-Muro_exterior_e_escadaria_de_acesso_no_jardim.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/casa-gaspar/thumbs/3.webp",
-    "w": 1280,
-    "h": 856,
-    "kind": "Exterior",
-    "caption": "Exterior · Casa Lino Gaspar - Oeiras - Portugal - -",
-    "credit": "Senhormario",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Muro_exterior_e_escadaria_de_acesso_no_jardim.jpg",
-    "file": "File:Muro exterior e escadaria de acesso no jardim.jpg"
    }
   ],
   "has": [],
@@ -150973,7 +151513,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Casa museo de Blas Infante",
   "lead": "File:Casa De Blas Fotógrafo- Hisao Suzuki.jpg",
-  "coords": null,
+  "coords": [
+   37.27598,
+   -6.06248
+  ],
   "hotlink": true,
   "images": [
    {
@@ -151023,7 +151566,6 @@ window.BUILDINGS = [
   ],
   "study": "Old village house stripped to its stone walls, painted white, with a new roof and one central timber column inside.",
   "qid": null,
-  "commons": "Category:Gelbes Haus (Düsseldorf-Derendorf)",
   "lead": "File:Olgiati, Brutarchitekt.jpg",
   "coords": null,
   "hotlink": true,
@@ -151039,54 +151581,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Olgiati,_Brutarchitekt.jpg",
     "file": "File:Olgiati, Brutarchitekt.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Rather_Stra%C3%9Fe_49a%2C_D%C3%BCsseldorf%2C_2001_%2804%29.jpg/1280px-Rather_Stra%C3%9Fe_49a%2C_D%C3%BCsseldorf%2C_2001_%2804%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/das-gelbe-haus-flims/thumbs/1.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Kürschner  (  talk  ) 10:02, 10 July 2021 (UTC)",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Rather_Stra%C3%9Fe_49a,_D%C3%BCsseldorf,_2001_(04).jpg",
-    "file": "File:Rather Straße 49a, Düsseldorf, 2001 (04).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Gelbes_Haus%2C_Rather_Stra%C3%9Fe_49e%2C_D%C3%BCsseldorf-Derendorf_%2801%29.jpg/1280px-Gelbes_Haus%2C_Rather_Stra%C3%9Fe_49e%2C_D%C3%BCsseldorf-Derendorf_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/das-gelbe-haus-flims/thumbs/2.webp",
-    "w": 1280,
-    "h": 839,
-    "kind": "Exterior",
-    "caption": "Exterior · Gelbes Haus, Rather Straße 49e, Düsseldorf-Derendorf",
-    "credit": "Jula2812",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Gelbes_Haus,_Rather_Stra%C3%9Fe_49e,_D%C3%BCsseldorf-Derendorf_(01).jpg",
-    "file": "File:Gelbes Haus, Rather Straße 49e, Düsseldorf-Derendorf (01).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Gelbes_Haus%2C_Rather_Stra%C3%9Fe_49e%2C_D%C3%BCsseldorf-Derendorf_%2802%29.jpg/1280px-Gelbes_Haus%2C_Rather_Stra%C3%9Fe_49e%2C_D%C3%BCsseldorf-Derendorf_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/das-gelbe-haus-flims/thumbs/3.webp",
-    "w": 1280,
-    "h": 566,
-    "kind": "Exterior",
-    "caption": "Exterior · Gelbes Haus, Rather Straße 49e, Figuren auf Dachfirst, Düsseldorf-Derendorf",
-    "credit": "Jula2812",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Gelbes_Haus,_Rather_Stra%C3%9Fe_49e,_D%C3%BCsseldorf-Derendorf_(02).jpg",
-    "file": "File:Gelbes Haus, Rather Straße 49e, Düsseldorf-Derendorf (02).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Rather_Stra%C3%9Fe_49a%2C_D%C3%BCsseldorf%2C_2001_%2810%29.jpg/1280px-Rather_Stra%C3%9Fe_49a%2C_D%C3%BCsseldorf%2C_2001_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/das-gelbe-haus-flims/thumbs/4.webp",
-    "w": 1280,
-    "h": 844,
-    "kind": "Detail",
-    "caption": "Detail",
-    "credit": "Kürschner  (  talk  ) 10:03, 10 July 2021 (UTC)",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Rather_Stra%C3%9Fe_49a,_D%C3%BCsseldorf,_2001_(10).jpg",
-    "file": "File:Rather Straße 49a, Düsseldorf, 2001 (10).jpg"
    }
   ],
   "has": [],
@@ -151113,7 +151607,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Villa Schreiner",
   "lead": "File:Villa Schreiner - Oslo.JPG",
-  "coords": null,
+  "coords": [
+   59.96493,
+   10.74498
+  ],
   "hotlink": true,
   "images": [
    {
@@ -151153,7 +151650,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Haus Gugalun",
   "lead": "File:Haus Gugalun - Ostseite1.jpeg",
-  "coords": null,
+  "coords": [
+   46.78564,
+   9.34003
+  ],
   "hotlink": true,
   "images": [
    {
@@ -151305,7 +151805,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:House VI (Frank Residence)",
   "lead": "File:House VI in Cornwall, Connecticut. Architect Peter Eisenman.tif",
-  "coords": null,
+  "coords": [
+   41.8327,
+   -73.3214
+  ],
   "hotlink": true,
   "images": [
    {
@@ -151345,7 +151848,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Cocoon House (Sarasota, Florida)",
   "lead": "File:Cocoon House (Paul Rudolph and Ralph Twitchell, Architects).jpg",
-  "coords": null,
+  "coords": [
+   27.30139,
+   -82.55917
+  ],
   "hotlink": true,
   "images": [
    {
@@ -151582,7 +152088,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Casa Rotonda, building Roberto Donetta archive (a Cassí 27, Corzoneso)",
   "lead": "File:Stabio, Casa Medici (arch. Mario Botta 1980-82) - panoramio.jpg",
-  "coords": null,
+  "coords": [
+   46.44024,
+   8.93679
+  ],
   "hotlink": true,
   "images": [
    {
@@ -151658,7 +152167,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:22 Parkside",
   "lead": "File:Wimbledon, Richard Rogers house, 22 Parkside.jpg",
-  "coords": null,
+  "coords": [
+   51.4266,
+   -0.2221
+  ],
   "hotlink": true,
   "images": [
    {
@@ -151774,7 +152286,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": null,
   "lead": null,
-  "coords": null,
+  "coords": [
+   58.9424,
+   9.621
+  ],
   "hotlink": true,
   "images": [
    {
@@ -151894,7 +152409,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Novocomum",
   "lead": "File:Novocomum (Como).jpg",
-  "coords": null,
+  "coords": [
+   45.81305,
+   9.0732
+  ],
   "hotlink": true,
   "images": [
    {
@@ -151970,7 +152488,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Casa Rustici",
   "lead": "File:Milano casa Rustici.JPG",
-  "coords": null,
+  "coords": [
+   45.4811,
+   9.16619
+  ],
   "hotlink": true,
   "images": [
    {
@@ -152022,7 +152543,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Stadio Artemio Franchi (Florence)",
   "lead": "File:Firenze, stadio artemio franchi, tribuna centrale con copertura sospesa originale 00.jpg",
-  "coords": null,
+  "coords": [
+   43.78082,
+   11.28226
+  ],
   "hotlink": true,
   "images": [
    {
@@ -152110,7 +152634,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Palazzo dei Congressi (Rome)",
   "lead": "File:Palazzo dei Congressi a EUR Roma.jpg",
-  "coords": null,
+  "coords": [
+   41.83389,
+   12.47444
+  ],
   "hotlink": true,
   "images": [
    {
@@ -152210,7 +152737,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Monument to the victims of the Ardeatine massacre",
   "lead": "File:Mausoelum Fosse Ardeatine.JPG",
-  "coords": null,
+  "coords": [
+   41.85683,
+   12.5107
+  ],
   "hotlink": true,
   "images": [
    {
@@ -152310,7 +152840,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Casa alle Zattere (Venice)",
   "lead": "Casa cicogna alle zattere.jpg",
-  "coords": null,
+  "coords": [
+   45.4285,
+   12.33149
+  ],
   "hotlink": true,
   "images": [
    {
@@ -152386,7 +152919,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Chiesa Madre di Gibellina",
   "lead": "File:Esterno chiesa madre di Gibellina.jpg",
-  "coords": null,
+  "coords": [
+   37.80994,
+   12.87384
+  ],
   "hotlink": true,
   "images": [
    {
@@ -152462,7 +152998,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Santa Maria Assunta (Riola, Vergato)",
   "lead": "File:Vergato - Chiesa di Santa Maria Assunta - 2023-09-26 10-59-43 001.jpg",
-  "coords": null,
+  "coords": [
+   44.22925,
+   11.05463
+  ],
   "hotlink": true,
   "images": [
    {
@@ -152562,7 +153101,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Palazzo La Rinascente 1960 (Rome)",
   "lead": "File:La Rinascente di piazza Fiume (Roma) 1.JPG",
-  "coords": null,
+  "coords": [
+   41.91135,
+   12.49562
+  ],
   "hotlink": true,
   "images": [
    {
@@ -152662,7 +153204,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Viadotto dell’Industria",
   "lead": "File:Ponte sul Basento, opera di Sergio Musmeci 2.jpg",
-  "coords": null,
+  "coords": [
+   40.6278,
+   15.8058
+  ],
   "hotlink": true,
   "images": [
    {
@@ -152762,7 +153307,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Corviale",
   "lead": "File:Corviale (5581475097).jpg",
-  "coords": null,
+  "coords": [
+   41.85056,
+   12.41167
+  ],
   "hotlink": true,
   "images": [
    {
@@ -152850,7 +153398,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:New EUR Rome Convention Center",
   "lead": "File:Fuksas Cloud.jpg",
-  "coords": null,
+  "coords": [
+   41.83076,
+   12.47164
+  ],
   "hotlink": true,
   "images": [
    {
@@ -152938,7 +153489,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Viadotto Genova-San Giorgio",
   "lead": "Genoa Bridge in 2021.01.jpg",
-  "coords": null,
+  "coords": [
+   44.42583,
+   8.88889
+  ],
   "hotlink": true,
   "images": [
    {
@@ -153066,7 +153620,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": null,
   "lead": "Ivrea. Unità residenziale Ovest Olivetti Talponia vista dal tetto.jpg",
-  "coords": null,
+  "coords": [
+   45.45906,
+   7.86725
+  ],
   "hotlink": true,
   "images": [
    {
@@ -153130,7 +153687,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Santa Maria Immacolata (Longarone)",
   "lead": "File:Longarone (BL) - chiesa di Santa Maria Immacolata.jpg",
-  "coords": null,
+  "coords": [
+   46.26832,
+   12.30105
+  ],
   "hotlink": true,
   "images": [
    {
@@ -153272,7 +153832,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Archaeological Museum of Ioannina",
   "lead": "File:100 6975 - Kons.Ioan1.jpg",
-  "coords": null,
+  "coords": [
+   39.66667,
+   20.85611
+  ],
   "hotlink": true,
   "images": [
    {
@@ -153336,7 +153899,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Athens Conservatoire",
   "lead": "File:The facade of the Athens Conservatoire.jpg",
-  "coords": null,
+  "coords": [
+   37.97346,
+   23.74342
+  ],
   "hotlink": true,
   "images": [
    {
@@ -153436,7 +154002,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Exterior of Museum of Byzantine Culture",
   "lead": "File:Museum of Byzantine Culture.JPG",
-  "coords": null,
+  "coords": [
+   40.6239,
+   22.955
+  ],
   "hotlink": true,
   "images": [
    {
@@ -153534,7 +154103,6 @@ window.BUILDINGS = [
   ],
   "study": "Interwar apartment block on Exarchia Square, its corner wrapped in curved cantilevered balconies.",
   "qid": null,
-  "commons": "Category:Blue Condominium",
   "lead": "File:\"Blue condominium\" in Athens.jpg",
   "coords": null,
   "hotlink": true,
@@ -153550,66 +154118,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:%22Blue_condominium%22_in_Athens.jpg",
     "file": "File:\"Blue condominium\" in Athens.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Blue_Condominium_002.jpg/1280px-Blue_Condominium_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/blue-building-athens/thumbs/1.webp",
-    "w": 788,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Blue Condominium in the Lower East Side, Manhattan",
-    "credit": "Kidfly182",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Blue_Condominium_002.jpg",
-    "file": "File:Blue Condominium 002.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Blue_Condominium_003.jpg/1280px-Blue_Condominium_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/blue-building-athens/thumbs/2.webp",
-    "w": 788,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Blue Condominium in the Lower East Side, Manhattan",
-    "credit": "Kidfly182",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Blue_Condominium_003.jpg",
-    "file": "File:Blue Condominium 003.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/New_York_-_panoramio_%28109%29.jpg/1280px-New_York_-_panoramio_%28109%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/blue-building-athens/thumbs/3.webp",
-    "w": 1280,
-    "h": 851,
-    "kind": "Exterior",
-    "caption": "Exterior · New York",
-    "credit": "Emanuela Meme Giudic…",
-    "license": "CC BY 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:New_York_-_panoramio_(109).jpg",
-    "file": "File:New York - panoramio (109).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Blue_Condominium_Tower_Detail.jpg/1280px-Blue_Condominium_Tower_Detail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/blue-building-athens/thumbs/4.webp",
-    "w": 1280,
-    "h": 720,
-    "kind": "Detail",
-    "caption": "Detail · Envelop detail of Bernard Tschumi's Blue Condominium Tower in Lower East Side, photographer Laura Sanburn",
-    "credit": "Lsanburn",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Blue_Condominium_Tower_Detail.jpg",
-    "file": "File:Blue Condominium Tower Detail.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Blue_Condominium_Tower_Neighborhood.jpg/1280px-Blue_Condominium_Tower_Neighborhood.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/blue-building-athens/thumbs/5.webp",
-    "w": 1280,
-    "h": 720,
-    "kind": "Context",
-    "caption": "Context",
-    "credit": "Lsanburn",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Blue_Condominium_Tower_Neighborhood.jpg",
-    "file": "File:Blue Condominium Tower Neighborhood.jpg"
    }
   ],
   "has": [],
@@ -153636,7 +154144,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": null,
   "lead": "File:Paolo Monti - Servizio fotografico - BEIC 6356070.jpg",
-  "coords": null,
+  "coords": [
+   41.92185,
+   12.48196
+  ],
   "hotlink": true,
   "images": [
    {
@@ -153688,7 +154199,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Casa Papanice",
   "lead": "File:Casa Papanice a Roma.jpg",
-  "coords": null,
+  "coords": [
+   41.91945,
+   12.51875
+  ],
   "hotlink": true,
   "images": [
    {
@@ -153728,7 +154242,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Cartiere Burgo",
   "lead": null,
-  "coords": null,
+  "coords": [
+   45.17564,
+   10.79601
+  ],
   "hotlink": true,
   "images": [
    {
@@ -153848,7 +154365,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Onassis Cultural Centre",
   "lead": null,
-  "coords": null,
+  "coords": [
+   37.95812,
+   23.71927
+  ],
   "hotlink": true,
   "images": [
    {
@@ -153966,7 +154486,6 @@ window.BUILDINGS = [
   ],
   "study": "A 10 x 10 m room raised on four wall-piers at the middle of each side, under a thin shell roof.",
   "qid": null,
-  "commons": "Category:Sky House",
   "lead": "File:Sky house, Bukyo.jpg",
   "coords": null,
   "hotlink": true,
@@ -153982,66 +154501,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Sky_house,_Bukyo.jpg",
     "file": "File:Sky house, Bukyo.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Moscow%2C_Konny_Lane_-_Sky_House_back_buildings_May_2025_02.jpg/1280px-Moscow%2C_Konny_Lane_-_Sky_House_back_buildings_May_2025_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/sky-house/thumbs/1.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Moscow, Sky House mixed-use estate",
-    "credit": "Retired electrician",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Moscow,_Konny_Lane_-_Sky_House_back_buildings_May_2025_02.jpg",
-    "file": "File:Moscow, Konny Lane - Sky House back buildings May 2025 02.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Moscow%2C_Mytnaya_40_-_Sky_House_May_2025_09.jpg/1280px-Moscow%2C_Mytnaya_40_-_Sky_House_May_2025_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/sky-house/thumbs/2.webp",
-    "w": 1280,
-    "h": 917,
-    "kind": "Exterior",
-    "caption": "Exterior · Moscow, Sky House mixed-use estate",
-    "credit": "Retired electrician",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Moscow,_Mytnaya_40_-_Sky_House_May_2025_09.jpg",
-    "file": "File:Moscow, Mytnaya 40 - Sky House May 2025 09.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Moscow%2C_Mytnaya_40_-_Sky_House_May_2025_07.jpg/1280px-Moscow%2C_Mytnaya_40_-_Sky_House_May_2025_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/sky-house/thumbs/3.webp",
-    "w": 1280,
-    "h": 852,
-    "kind": "Exterior",
-    "caption": "Exterior · Moscow, Sky House mixed-use estate",
-    "credit": "Retired electrician",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Moscow,_Mytnaya_40_-_Sky_House_May_2025_07.jpg",
-    "file": "File:Moscow, Mytnaya 40 - Sky House May 2025 07.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Moscow%2C_Mytnaya_Street%2C_Sky_House_buildings_1417_%2816858909546%29.jpg/1280px-Moscow%2C_Mytnaya_Street%2C_Sky_House_buildings_1417_%2816858909546%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/sky-house/thumbs/4.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Context",
-    "caption": "Context · 1417",
-    "credit": "Sergey Norin  from Moscow, Russia",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Moscow,_Mytnaya_Street,_Sky_House_buildings_1417_(16858909546).jpg",
-    "file": "File:Moscow, Mytnaya Street, Sky House buildings 1417 (16858909546).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Moscow%2C_Mytnaya_Street%2C_Sky_House_buildings_1418_%2816883812331%29.jpg/1280px-Moscow%2C_Mytnaya_Street%2C_Sky_House_buildings_1418_%2816883812331%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/sky-house/thumbs/5.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Context",
-    "caption": "Context · 1418",
-    "credit": "Sergey Norin  from Moscow, Russia",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Moscow,_Mytnaya_Street,_Sky_House_buildings_1418_(16883812331).jpg",
-    "file": "File:Moscow, Mytnaya Street, Sky House buildings 1418 (16883812331).jpg"
    }
   ],
   "has": [],
@@ -154120,7 +154579,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Toyo Ito Museum of Architecture, Imabari",
   "lead": "TIMA museum.jpg",
-  "coords": null,
+  "coords": [
+   34.21392,
+   132.95039
+  ],
   "hotlink": true,
   "images": [
    {
@@ -154362,7 +154824,6 @@ window.BUILDINGS = [
   ],
   "study": "Old rice stores linked by new walls of thin local Ashino stone louvres and stone screens with gaps for light.",
   "qid": null,
-  "commons": "Category:Refugio antiaéreo de la plaza de Cervantes de Alcalá de Henares",
   "lead": "File:Stone Plaza.jpg",
   "coords": null,
   "hotlink": true,
@@ -154378,47 +154839,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Stone_Plaza.jpg",
     "file": "File:Stone Plaza.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Alcal%C3%A1_de_Henares_%28RPS_24-09-2026%29_refugio_antia%C3%A9reo_de_la_plaza_de_Cervantes%2C_estancia_sur.png/1280px-Alcal%C3%A1_de_Henares_%28RPS_24-09-2026%29_refugio_antia%C3%A9reo_de_la_plaza_de_Cervantes%2C_estancia_sur.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/stone-museum/thumbs/1.webp",
-    "w": 1280,
-    "h": 851,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Raimundo Pastor",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Alcal%C3%A1_de_Henares_(RPS_24-09-2026)_refugio_antia%C3%A9reo_de_la_plaza_de_Cervantes,_estancia_sur.png",
-    "file": "File:Alcalá de Henares (RPS 24-09-2026) refugio antiaéreo de la plaza de Cervantes, estancia sur.png"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Alcal%C3%A1_de_Henares_%28RPS_24-09-2026%29_refugio_antia%C3%A9reo_de_la_plaza_de_Cervantes%2C_entrada_sur.png/1280px-Alcal%C3%A1_de_Henares_%28RPS_24-09-2026%29_refugio_antia%C3%A9reo_de_la_plaza_de_Cervantes%2C_entrada_sur.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/stone-museum/thumbs/2.webp",
-    "w": 1280,
-    "h": 937,
-    "kind": "Detail",
-    "caption": "Detail",
-    "credit": "Raimundo Pastor",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Alcal%C3%A1_de_Henares_(RPS_24-09-2026)_refugio_antia%C3%A9reo_de_la_plaza_de_Cervantes,_entrada_sur.png",
-    "file": "File:Alcalá de Henares (RPS 24-09-2026) refugio antiaéreo de la plaza de Cervantes, entrada sur.png"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Refugio_antia%C3%A9reo_de_la_plaza_de_Cervantes_de_Alcal%C3%A1_de_Henares_%28RPS_18-09-2026%29_plano_de_la_secci%C3%B3n_longitudinal_en_1938.png/1280px-Refugio_antia%C3%A9reo_de_la_plaza_de_Cervantes_de_Alcal%C3%A1_de_Henares_%28RPS_18-09-2026%29_plano_de_la_secci%C3%B3n_longitudinal_en_1938.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/stone-museum/thumbs/3.webp",
-    "w": 1280,
-    "h": 273,
-    "kind": "Plan",
-    "caption": "Plan",
-    "credit": "Raimundo Pastor",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Refugio_antia%C3%A9reo_de_la_plaza_de_Cervantes_de_Alcal%C3%A1_de_Henares_(RPS_18-09-2026)_plano_de_la_secci%C3%B3n_longitudinal_en_1938.png",
-    "file": "File:Refugio antiaéreo de la plaza de Cervantes de Alcalá de Henares (RPS 18-09-2026) plano de la sección longitudinal en 1938.png"
    }
   ],
-  "has": [
-   "Plan"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -154522,7 +154945,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Mount Kirō",
   "lead": "File:Kirousan tenboudai 20240521 1.jpg",
-  "coords": null,
+  "coords": [
+   34.12028,
+   133.03361
+  ],
   "hotlink": true,
   "images": [
    {
@@ -154798,7 +155224,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Maekawa Kunio House",
   "lead": "File:House of Kunio Mayekawa in the Edo-Tokyo Open Air Architecture Museum 2018-04-08.jpg",
-  "coords": null,
+  "coords": [
+   35.71633,
+   139.51184
+  ],
   "hotlink": true,
   "images": [
    {
@@ -154898,7 +155327,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Seoul Olympic Stadium",
   "lead": "서울올림픽 주경기장 (레울파크).jpg",
-  "coords": null,
+  "coords": [
+   37.51589,
+   127.07275
+  ],
   "hotlink": true,
   "images": [
    {
@@ -154974,7 +155406,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Boutique Monaco",
   "lead": "File:Boutique Monaco Seoul.jpg",
-  "coords": null,
+  "coords": [
+   37.4973,
+   127.02465
+  ],
   "hotlink": true,
   "images": [
    {
@@ -155026,7 +155461,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Seoul City Hall",
   "lead": "File:Seoul City Hall from Plaza.jpg",
-  "coords": null,
+  "coords": [
+   37.56641,
+   126.97782
+  ],
   "hotlink": true,
   "images": [
    {
@@ -155194,7 +155632,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Amorepacific",
   "lead": "File:Amore Pacific World HQ.jpg",
-  "coords": null,
+  "coords": [
+   37.52915,
+   126.96831
+  ],
   "hotlink": true,
   "images": [
    {
@@ -155282,7 +155723,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Government Complex Sejong",
   "lead": "File:Government Complex Sejong (N).jpg",
-  "coords": null,
+  "coords": [
+   36.50472,
+   127.26528
+  ],
   "hotlink": true,
   "images": [
    {
@@ -155410,7 +155854,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Seonyudo Park",
   "lead": "Korea Seonyudo Summer 20140805 10 (14862140773).jpg",
-  "coords": null,
+  "coords": [
+   37.54369,
+   126.89981
+  ],
   "hotlink": true,
   "images": [
    {
@@ -155462,7 +155909,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:National Museum of Modern and Contemporary Art - Seoul",
   "lead": "File:MMCA Seoul.jpg",
-  "coords": null,
+  "coords": [
+   37.57917,
+   126.98056
+  ],
   "hotlink": true,
   "images": [
    {
@@ -155538,7 +155988,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Byeongsan Seowon",
   "lead": "File:만대루.jpg",
-  "coords": null,
+  "coords": [
+   36.54028,
+   128.55278
+  ],
   "hotlink": true,
   "images": [
    {
@@ -155614,7 +156067,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Janggyeong Panjeon of Haeinsa",
   "lead": "File:20170812.해인사 장경판전(Haeinsa Janggyeong Panjeon).01.jpg",
-  "coords": null,
+  "coords": [
+   35.80161,
+   128.09872
+  ],
   "hotlink": true,
   "images": [
    {
@@ -155678,7 +156134,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Buseoksa",
   "lead": "File:Muryangsujeon at Buseoksa 01.jpg",
-  "coords": null,
+  "coords": [
+   36.99885,
+   128.6875
+  ],
   "hotlink": true,
   "images": [
    {
@@ -155898,7 +156357,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": null,
   "lead": null,
-  "coords": null,
+  "coords": [
+   37.46631,
+   126.94979
+  ],
   "hotlink": true,
   "images": [
    {
@@ -155938,7 +156400,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Planetario Galileo Galilei",
   "lead": "File:Planetario de Buenos Aires 3.jpg",
-  "coords": null,
+  "coords": [
+   -34.56972,
+   -58.41167
+  ],
   "hotlink": true,
   "images": [
    {
@@ -156038,7 +156503,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Colección AMALITA",
   "lead": "File:Fortabat Museum at Puerto Madero.jpg",
-  "coords": null,
+  "coords": [
+   -34.59962,
+   -58.36496
+  ],
   "hotlink": true,
   "images": [
    {
@@ -156138,7 +156606,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Museo de Arte Latinoamericano de Buenos Aires",
   "lead": "File:Fachada del Museo de Arte Latinoamericano de Buenos Aires (MALBA).jpg",
-  "coords": null,
+  "coords": [
+   -34.57711,
+   -58.40359
+  ],
   "hotlink": true,
   "images": [
    {
@@ -156238,7 +156709,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Hotel Unique",
   "lead": "File:Hotel Unique, Sao Paulo.jpg",
-  "coords": null,
+  "coords": [
+   -23.58169,
+   -46.66689
+  ],
   "hotlink": true,
   "images": [
    {
@@ -156338,7 +156812,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Estádio Serra Dourada",
   "lead": "File:LeandroMoura EstadioSerraDourada Goiania GO (40268263704).jpg",
-  "coords": null,
+  "coords": [
+   -16.69889,
+   -49.23389
+  ],
   "hotlink": true,
   "images": [
    {
@@ -156414,7 +156891,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Faro del Comercio",
   "lead": "File:Faro del Comercio Monterrey.JPG",
-  "coords": null,
+  "coords": [
+   25.66619,
+   -100.31003
+  ],
   "hotlink": true,
   "images": [
    {
@@ -156514,7 +156994,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Capilla del Retiro",
   "lead": "File:Capilla del Retiro, Auco 20230316 03.jpg",
-  "coords": null,
+  "coords": [
+   -32.90026,
+   -70.67763
+  ],
   "hotlink": true,
   "images": [
    {
@@ -156566,7 +157049,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Jesús Soto Museum of Modern Art",
   "lead": "File:Jesús Soto Museum of Modern Art facade.jpg",
-  "coords": null,
+  "coords": [
+   8.1325,
+   -63.53694
+  ],
   "hotlink": true,
   "images": [
    {
@@ -156654,7 +157140,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Museo del Oro Quimbaya",
   "lead": "File:Museo Quimbaya Armenia Quindio.JPG",
-  "coords": null,
+  "coords": [
+   4.57142,
+   -75.65022
+  ],
   "hotlink": true,
   "images": [
    {
@@ -156746,7 +157235,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Hospital Naval Central",
   "lead": "File:HOSPITAL NAVAL.jpg",
-  "coords": null,
+  "coords": [
+   -34.60528,
+   -58.43306
+  ],
   "hotlink": true,
   "images": [
    {
@@ -156822,7 +157314,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:National Art Schools (Cuba)",
   "lead": "Loomis school ballet.jpg",
-  "coords": null,
+  "coords": [
+   23.08806,
+   -82.44806
+  ],
   "hotlink": true,
   "images": [
    {
@@ -156910,7 +157405,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Rodoviária de Jaú",
   "lead": "File:Rodoviária de Jahu - Jaú - 20260918202848.jpg",
-  "coords": null,
+  "coords": [
+   -22.298,
+   -48.55989
+  ],
   "hotlink": true,
   "images": [
    {
@@ -157014,7 +157512,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:The Bacardi Industrial Buildings, Mexico",
   "lead": "File:Planta embotelladora de Bacardí-Instalaciones industriales de Ludwig Mies van der Rohe y Félix Candela.jpg",
-  "coords": null,
+  "coords": [
+   19.62778,
+   -99.19056
+  ],
   "hotlink": true,
   "images": [
    {
@@ -157256,7 +157757,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Edifício Louveira",
   "lead": "File:Edifício Louveira 19.jpg",
-  "coords": null,
+  "coords": [
+   -23.54407,
+   -46.66106
+  ],
   "hotlink": true,
   "images": [
    {
@@ -157332,7 +157836,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Residência Vilanova Artigas II",
   "lead": "File:Residência Vilanova Artigas II 02.jpg",
-  "coords": null,
+  "coords": [
+   -23.62052,
+   -46.67517
+  ],
   "hotlink": true,
   "images": [
    {
@@ -157384,7 +157891,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": null,
   "lead": null,
-  "coords": null,
+  "coords": [
+   24.44111,
+   54.57528
+  ],
   "hotlink": true,
   "images": [
    {
@@ -157424,7 +157934,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Sheikh Zayed Bridge",
   "lead": "File:جسر الشيخ زايد.jpg",
-  "coords": null,
+  "coords": [
+   24.42417,
+   54.48583
+  ],
   "hotlink": true,
   "images": [
    {
@@ -157488,7 +158001,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Dubai World Trade Centre",
   "lead": "File:Dubai World Trade Centre and skyline.jpg",
-  "coords": null,
+  "coords": [
+   25.22558,
+   55.28877
+  ],
   "hotlink": true,
   "images": [
    {
@@ -157632,7 +158148,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Aspire Tower",
   "lead": null,
-  "coords": null,
+  "coords": [
+   25.26247,
+   51.44483
+  ],
   "hotlink": true,
   "images": [
    {
@@ -157672,7 +158191,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Emirates Towers",
   "lead": "Emirates Towers (9343061234).jpg",
-  "coords": null,
+  "coords": [
+   25.21758,
+   55.28306
+  ],
   "hotlink": true,
   "images": [
    {
@@ -157736,7 +158258,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Lusail Stadium",
   "lead": "File:Aerial view of Lusail Stadium during the daytime.png",
-  "coords": null,
+  "coords": [
+   25.42086,
+   51.49039
+  ],
   "hotlink": true,
   "images": [
    {
@@ -157800,7 +158325,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Qatar University",
   "lead": "File:Qatar University.Campus.jpg",
-  "coords": null,
+  "coords": [
+   25.3746,
+   51.4902
+  ],
   "hotlink": true,
   "images": [
    {
@@ -157840,7 +158368,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:King Fahd Stadium",
   "lead": "File:King Fahad Stadium (4055869088).jpg",
-  "coords": null,
+  "coords": [
+   24.78821,
+   46.83924
+  ],
   "hotlink": true,
   "images": [
    {
@@ -157916,7 +158447,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:King Khalid International Airport",
   "lead": "File:KING KHALED INTL.TER.1 - panoramio.jpg",
-  "coords": null,
+  "coords": [
+   24.9576,
+   46.6988
+  ],
   "hotlink": true,
   "images": [
    {
@@ -157980,7 +158514,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Maraya Concert Hall",
   "lead": "File:Maraya Concert Hall 20260130 1.jpg",
-  "coords": null,
+  "coords": [
+   26.7432,
+   37.86536
+  ],
   "hotlink": true,
   "images": [
    {
@@ -158032,7 +158569,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Grand Mosque, Kuwait",
   "lead": "File:Kuwait City Grand Mosque Exterior North Facade 1.jpg",
-  "coords": null,
+  "coords": [
+   29.36972,
+   47.97833
+  ],
   "hotlink": true,
   "images": [
    {
@@ -158132,7 +158672,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Queen Alia International Airport",
   "lead": "Queen Alia International Airport 1.jpg",
-  "coords": null,
+  "coords": [
+   31.7225,
+   35.99333
+  ],
   "hotlink": true,
   "images": [
    {
@@ -158308,7 +158851,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Hotel Holiday Inn Beirut",
   "lead": "File:Former Holiday Inn in downtown Beirut.jpg",
-  "coords": null,
+  "coords": [
+   33.89973,
+   35.49508
+  ],
   "hotlink": true,
   "images": [
    {
@@ -158396,7 +158942,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:The Egg, Beirut",
   "lead": "File:The Egg, Beirut in 2018.jpg",
-  "coords": null,
+  "coords": [
+   33.8935,
+   35.50599
+  ],
   "hotlink": true,
   "images": [
    {
@@ -158496,7 +159045,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Monument to the Unknown Soldier, Baghdad",
   "lead": "File:Monument to the Unknown Soldier, Baghdad.jpg",
-  "coords": null,
+  "coords": [
+   33.3085,
+   44.389
+  ],
   "hotlink": true,
   "images": [
    {
@@ -158600,7 +159152,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Zayed National Museum",
   "lead": "File:Zayed national Museum front entrance - 23 may 2026.jpg",
-  "coords": null,
+  "coords": [
+   24.53456,
+   54.4188
+  ],
   "hotlink": true,
   "images": [
    {
@@ -158764,7 +159319,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Cairo Opera House",
   "lead": "File:Cairo Opera House.JPG",
-  "coords": null,
+  "coords": [
+   30.04245,
+   31.22353
+  ],
   "hotlink": true,
   "images": [
    {
@@ -158852,7 +159410,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:National Museum of Egyptian Civilization",
   "lead": "File:National Museum of Egyptian Civilization 2022 01.jpg",
-  "coords": null,
+  "coords": [
+   30.0075,
+   31.24833
+  ],
   "hotlink": true,
   "images": [
    {
@@ -158940,7 +159501,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Azadi Stadium",
   "lead": "File:Azadi Außenansicht.jpg",
-  "coords": null,
+  "coords": [
+   35.72442,
+   51.27553
+  ],
   "hotlink": true,
   "images": [
    {
@@ -159006,7 +159570,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Palace of Culture ZIL",
   "lead": "412A5917.jpg",
-  "coords": null,
+  "coords": [
+   55.71441,
+   37.65791
+  ],
   "hotlink": true,
   "images": [
    {
@@ -159106,7 +159673,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Dominion (Moscow)",
   "lead": "File:Dominion Tower in Moscow, July 2017.jpg",
-  "coords": null,
+  "coords": [
+   55.72252,
+   37.6683
+  ],
   "hotlink": true,
   "images": [
    {
@@ -159194,7 +159764,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Skolkovo business school",
   "lead": "File:Skolkovo business school 01.jpg",
-  "coords": null,
+  "coords": [
+   55.69556,
+   37.39056
+  ],
   "hotlink": true,
   "images": [
    {
@@ -159370,7 +159943,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Izvestia Building",
   "lead": "File:Moscow, Izvestia Building (17200355002).jpg",
-  "coords": null,
+  "coords": [
+   55.76611,
+   37.60528
+  ],
   "hotlink": true,
   "images": [
    {
@@ -159458,7 +160034,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Dnieper Hydroelectric Station",
   "lead": "File:Dnieper Hydroelectric Station 2021 G1.jpg",
-  "coords": null,
+  "coords": [
+   47.86944,
+   35.08611
+  ],
   "hotlink": true,
   "images": [
    {
@@ -159546,7 +160125,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Ukrainian House (Kyiv)",
   "lead": "File:Музей Леніна (80-ті роки), нині Український дім.jpg",
-  "coords": null,
+  "coords": [
+   50.45306,
+   30.52694
+  ],
   "hotlink": true,
   "images": [
    {
@@ -159634,7 +160216,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Sarpi Border Checkpoint",
   "lead": "File:BCP Sarpi , Border Crossing Point between Georgia and Turkey in Sarpi (40313378775).jpg",
-  "coords": null,
+  "coords": [
+   41.51753,
+   41.54625
+  ],
   "hotlink": true,
   "images": [
    {
@@ -159734,7 +160319,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Rossiya Cinema, Yerevan",
   "lead": "File:2025-05-18 Rossiya Cinema, Yerevan.jpg",
-  "coords": null,
+  "coords": [
+   40.17235,
+   44.51289
+  ],
   "hotlink": true,
   "images": [
    {
@@ -159822,7 +160410,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Karen Demirchyan Complex",
   "lead": "File:Karen Demirchyan Complex.jpg",
-  "coords": null,
+  "coords": [
+   40.18806,
+   44.48333
+  ],
   "hotlink": true,
   "images": [
    {
@@ -159922,7 +160513,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Baku Crystal Hall",
   "lead": "File:Baku - Baku8423.jpg",
-  "coords": null,
+  "coords": [
+   40.34412,
+   49.85034
+  ],
   "hotlink": true,
   "images": [
    {
@@ -159974,7 +160568,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Hotel Kazakhstan",
   "lead": "File:Қазақстан қонақ үйі.jpg",
-  "coords": null,
+  "coords": [
+   43.245,
+   76.9575
+  ],
   "hotlink": true,
   "images": [
    {
@@ -160050,7 +160647,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Bayterek Tower",
   "lead": "File:Baiterek August.jpg",
-  "coords": null,
+  "coords": [
+   51.12833,
+   71.43056
+  ],
   "hotlink": true,
   "images": [
    {
@@ -160126,7 +160726,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Central concert hall Kazakhstan",
   "lead": "Downtown Astana With The National Concert Hall (6246435844).jpg",
-  "coords": null,
+  "coords": [
+   51.12278,
+   71.44167
+  ],
   "hotlink": true,
   "images": [
    {
@@ -160190,7 +160793,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:180 Antonovycha Street, Kyiv",
   "lead": "File:UkrINTEI front wide.jpg",
-  "coords": null,
+  "coords": [
+   50.41128,
+   30.52506
+  ],
   "hotlink": true,
   "images": [
    {
@@ -160242,7 +160848,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Salute Hotel",
   "lead": "File:Готель Салют, Київ.jpg",
-  "coords": null,
+  "coords": [
+   50.44125,
+   30.55
+  ],
   "hotlink": true,
   "images": [
    {
@@ -160318,7 +160927,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Palace of the Republic, Almaty",
   "lead": "File:Palace of the Republic, Almaty 2022.jpg",
-  "coords": null,
+  "coords": [
+   43.24321,
+   76.95947
+  ],
   "hotlink": true,
   "images": [
    {
@@ -160394,7 +161006,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Chorsu Bazaar",
   "lead": "File:Main 'BLUE DOME' market of Chorsu Bazaar..JPG",
-  "coords": null,
+  "coords": [
+   41.32667,
+   69.235
+  ],
   "hotlink": true,
   "images": [
    {
@@ -160494,7 +161109,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Kumu (museum)",
   "lead": "File:KUMU Eesti Kunstimuuseum 01.jpg",
-  "coords": null,
+  "coords": [
+   59.43639,
+   24.79639
+  ],
   "hotlink": true,
   "images": [
    {
@@ -160570,7 +161188,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Tallinn Song Festival stage",
   "lead": "File:Tallinn City - Tallinn Song Festival stage - 20180628205152.jpg",
-  "coords": null,
+  "coords": [
+   59.44466,
+   24.8065
+  ],
   "hotlink": true,
   "images": [
    {
@@ -160646,7 +161267,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Arvo Pärt Centre building",
   "lead": "File:Lääne-Harju vald (51072354848).jpg",
-  "coords": null,
+  "coords": [
+   59.38484,
+   24.23264
+  ],
   "hotlink": true,
   "images": [
    {
@@ -160762,7 +161386,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Queen Tamar Airport",
   "lead": "Mestia Queen Tamar Airport in 2022 foto 1.jpg",
-  "coords": null,
+  "coords": [
+   43.0545,
+   42.7543
+  ],
   "hotlink": true,
   "images": [
    {
@@ -160826,7 +161453,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:MO Museum",
   "lead": "File:Mo Museum, Vilnius - 52575835707.jpg",
-  "coords": null,
+  "coords": [
+   54.67944,
+   25.27778
+  ],
   "hotlink": true,
   "images": [
    {
@@ -160912,7 +161542,6 @@ window.BUILDINGS = [
   ],
   "study": "Concrete research tower shaped like a rocket on its launch pad, built to test space robotics.",
   "qid": null,
-  "commons": "Category:Czech Technical University",
   "lead": "File:CRDI Robotics and Technical Cybernetics tower 2016-06 1465320080.jpg",
   "coords": null,
   "hotlink": true,
@@ -160952,30 +161581,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3,_%D0%A6%D0%9D%D0%98%D0%98_%D0%A0%D0%A2%D0%9A_%D1%81_%D0%A2%D0%B8%D1%85%D0%BE%D1%80%D0%B5%D1%86%D0%BA%D0%BE%D0%B3%D0%BE.jpg",
     "file": "File:Санкт-Петербург, ЦНИИ РТК с Тихорецкого.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/German_Technical_University_in_Prague_-_Classroom_of_physics.png/1280px-German_Technical_University_in_Prague_-_Classroom_of_physics.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/robotics-institute-saint-petersburg/thumbs/4.webp",
-    "w": 1280,
-    "h": 738,
-    "kind": "Interior",
-    "caption": "Interior · German Technical University in Prague - Classroom of physics",
-    "credit": "Unknown author",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:German_Technical_University_in_Prague_-_Classroom_of_physics.png",
-    "file": "File:German Technical University in Prague - Classroom of physics.png"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Hydronaut_H03_DeepLab_Moon_Habitat_EVA.jpg/1280px-Hydronaut_H03_DeepLab_Moon_Habitat_EVA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/robotics-institute-saint-petersburg/thumbs/5.webp",
-    "w": 1280,
-    "h": 725,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Mojmir Churavy",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Hydronaut_H03_DeepLab_Moon_Habitat_EVA.jpg",
-    "file": "File:Hydronaut H03 DeepLab Moon Habitat EVA.jpg"
    }
   ],
   "has": [],
@@ -161246,7 +161851,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Heladeria Coppelia",
   "lead": "File:Coppelia Ice Cream Parlor Havana.jpg",
-  "coords": null,
+  "coords": [
+   23.14006,
+   -82.38434
+  ],
   "hotlink": true,
   "images": [
    {
@@ -161322,7 +161930,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Pabellón de Rayos Cósmicos",
   "lead": "File:Pabellón de Rayos Cósmicos 01.jpg",
-  "coords": null,
+  "coords": [
+   19.33395,
+   -99.18125
+  ],
   "hotlink": true,
   "images": [
    {
@@ -161486,7 +162097,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Paris-Charles de Gaulle Airport Terminal 1",
   "lead": "File:Roissy aérogard 1.jpg",
-  "coords": null,
+  "coords": [
+   49.01444,
+   2.5418
+  ],
   "hotlink": true,
   "images": [
    {
@@ -161586,7 +162200,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Lascaux 4",
   "lead": "File:Lascaux-IV von Snøhetta.jpg",
-  "coords": null,
+  "coords": [
+   45.05823,
+   1.16968
+  ],
   "hotlink": true,
   "images": [
    {
@@ -161650,7 +162267,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Musée de l'Arles antique",
   "lead": "File:Arles- Musée bleu 1.jpg",
-  "coords": null,
+  "coords": [
+   43.6725,
+   4.61639
+  ],
   "hotlink": true,
   "images": [
    {
@@ -161752,7 +162372,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Historial de la Grande Guerre in Péronne (Somme)",
   "lead": "File:Étang du Cam de Péronne 8.jpg",
-  "coords": null,
+  "coords": [
+   49.92917,
+   2.93083
+  ],
   "hotlink": true,
   "images": [
    {
@@ -161816,7 +162439,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Fondation Avicenne",
   "lead": "File:Fondation Avicenne High Key.jpg",
-  "coords": null,
+  "coords": [
+   48.8178,
+   2.33508
+  ],
   "hotlink": true,
   "images": [
    {
@@ -161904,7 +162530,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:UNESCO headquarters",
   "lead": "File:P1120654 Paris VII place de Fontenoy rwk.JPG",
-  "coords": null,
+  "coords": [
+   48.8494,
+   2.30611
+  ],
   "hotlink": true,
   "images": [
    {
@@ -161992,7 +162621,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Maison de la Radio (Paris)",
   "lead": "File:Radio France @ Ile aux Cygnes @ Paris (28114145451).jpg",
-  "coords": null,
+  "coords": [
+   48.85256,
+   2.27803
+  ],
   "hotlink": true,
   "images": [
    {
@@ -162068,7 +162700,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Orgues de Flandre",
   "lead": "Porte des Flamands (Paris, 19e arrondissement).jpg",
-  "coords": null,
+  "coords": [
+   48.89,
+   2.37333
+  ],
   "hotlink": true,
   "images": [
    {
@@ -162144,7 +162779,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Théâtre des Gobelins",
   "lead": "File:CF1395 Paris 13e avenue des Gobelins n73 rwk.jpg",
-  "coords": null,
+  "coords": [
+   48.8334,
+   2.35456
+  ],
   "hotlink": true,
   "images": [
    {
@@ -162208,7 +162846,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Teatro Regio (Turin)",
   "lead": "File:FacciataASTo-TeatroRegio.jpg",
-  "coords": null,
+  "coords": [
+   45.07056,
+   7.68778
+  ],
   "hotlink": true,
   "images": [
    {
@@ -162335,7 +162976,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Exterior of the Museo Enzo Ferrari, Modena",
   "lead": "File:Veduta esterna Museo casa Enzo Ferrari.jpg",
-  "coords": null,
+  "coords": [
+   44.65216,
+   10.9362
+  ],
   "hotlink": true,
   "images": [
    {
@@ -162487,7 +163131,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Seoul Arts Center",
   "lead": "Seoul Arts Center 04.JPG",
-  "coords": null,
+  "coords": [
+   37.48043,
+   127.01119
+  ],
   "hotlink": true,
   "images": [
    {
@@ -162551,7 +163198,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Erdene Zuu Monastery",
   "lead": "File:Stupy w murze klasztoru Erdene Dzuu 02.jpg",
-  "coords": null,
+  "coords": [
+   47.20167,
+   102.84333
+  ],
   "hotlink": true,
   "images": [
    {
@@ -162615,7 +163265,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Amarbayasgalant Monastery",
   "lead": "File:Amarbayasgalant monastery temple 01.JPG",
-  "coords": null,
+  "coords": [
+   49.48,
+   105.085
+  ],
   "hotlink": true,
   "images": [
    {
@@ -162717,7 +163370,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Genghis Khan Equestrian Statue, Tsonjin Boldog",
   "lead": "File:Genghis Khan Equestrian Statue, photo by Vaiz Ha.jpg",
-  "coords": null,
+  "coords": [
+   47.80808,
+   107.52981
+  ],
   "hotlink": true,
   "images": [
    {
@@ -162793,7 +163449,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Puente de la Mujer",
   "lead": "File:Puente de la Mujer in Puerto Madero.jpg",
-  "coords": null,
+  "coords": [
+   -34.60794,
+   -58.36491
+  ],
   "hotlink": true,
   "images": [
    {
@@ -162893,7 +163552,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:One Za'abeel Tower",
   "lead": "File:New Year Countdown on One Zabeel Building.jpg",
-  "coords": null,
+  "coords": [
+   25.22808,
+   55.29078
+  ],
   "hotlink": true,
   "images": [
    {
@@ -162945,7 +163607,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Kauchuk Factory Club",
   "lead": "File:Moscow ClubKauchuk h42b.jpg",
-  "coords": null,
+  "coords": [
+   55.73571,
+   37.57414
+  ],
   "hotlink": true,
   "images": [
    {
@@ -163121,7 +163786,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Tbilisi Public Service Hall",
   "lead": "File:Stadtansicht Tiflis 32.jpg",
-  "coords": null,
+  "coords": [
+   41.699,
+   44.8067
+  ],
   "hotlink": true,
   "images": [
    {
@@ -163197,7 +163865,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Hotel Uzbekistan in Tashkent",
   "lead": "Oʻzbekiston mehmonxonasi.jpg",
-  "coords": null,
+  "coords": [
+   41.31137,
+   69.28268
+  ],
   "hotlink": true,
   "images": [
    {
@@ -163285,7 +163956,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Kuwait Water Towers",
   "lead": "File:Water towerz kuwait (2).jpg",
-  "coords": null,
+  "coords": [
+   29.32944,
+   47.98444
+  ],
   "hotlink": true,
   "images": [
    {
@@ -163337,7 +164011,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Šerefudin's White Mosque",
   "lead": "File:Visoko - Bijela džamija 2.jpg",
-  "coords": null,
+  "coords": [
+   43.98525,
+   18.18022
+  ],
   "hotlink": true,
   "images": [
    {
@@ -163413,7 +164090,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Universiti Teknologi PETRONAS",
   "lead": "File:Pocket C.jpg",
-  "coords": null,
+  "coords": [
+   4.38639,
+   100.97972
+  ],
   "hotlink": true,
   "images": [
    {
@@ -163513,7 +164193,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Hassan-II Bridge",
   "lead": "Bridge Pont hassan II, Oued Bou Regreg (25314990776).jpg",
-  "coords": null,
+  "coords": [
+   34.0273,
+   -6.81945
+  ],
   "hotlink": true,
   "images": [
    {
@@ -163601,7 +164284,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Islamic Cemetery of Altach",
   "lead": "Altach Islamischer Friedhof Fenster.jpg",
-  "coords": null,
+  "coords": [
+   47.34583,
+   9.66389
+  ],
   "hotlink": true,
   "images": [
    {
@@ -163701,7 +164387,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Museo de Medina Azahara",
   "lead": "Museo de Medina Azahara (39283697065).jpg",
-  "coords": null,
+  "coords": [
+   37.88078,
+   -4.85417
+  ],
   "hotlink": true,
   "images": [
    {
@@ -163815,7 +164504,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:The Datai Langkawi",
   "lead": "File:The Datai Langkawi - panoramio.jpg",
-  "coords": null,
+  "coords": [
+   6.42253,
+   99.67042
+  ],
   "hotlink": true,
   "images": [
    {
@@ -163915,7 +164607,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Kaédi Regional Hospital",
   "lead": "File:KaediRegionalHospital2.JPG",
-  "coords": null,
+  "coords": [
+   16.15043,
+   -13.50673
+  ],
   "hotlink": true,
   "images": [
    {
@@ -164031,7 +164726,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Banyuwangi Airport",
   "lead": "File:Banyuwangi International Airport 2019.jpg",
-  "coords": null,
+  "coords": [
+   -8.3106,
+   114.34018
+  ],
   "hotlink": true,
   "images": [
    {
@@ -164083,7 +164781,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Argo Factory",
   "lead": "File:Argo Factory2.jpg",
-  "coords": null,
+  "coords": [
+   35.69917,
+   51.42153
+  ],
   "hotlink": true,
   "images": [
    {
@@ -164235,7 +164936,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Meydan-e Jahad Metro Station",
   "lead": "File:پلازای مترو جهاد.jpg",
-  "coords": null,
+  "coords": [
+   35.72053,
+   51.40811
+  ],
   "hotlink": true,
   "images": [
    {
@@ -164299,7 +165003,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Entrepreneurship Development Institute of India",
   "lead": "File:EDII03.jpg",
-  "coords": null,
+  "coords": [
+   23.11333,
+   72.62917
+  ],
   "hotlink": true,
   "images": [
    {
@@ -164555,7 +165262,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Bhong Mosque, Rahim Yar Khan",
   "lead": "File:Bhong mosque - front view.jpg",
-  "coords": null,
+  "coords": [
+   28.42306,
+   69.91139
+  ],
   "hotlink": true,
   "images": [
    {
@@ -164655,7 +165365,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Crow Island School (Winnetka, Illinois)",
   "lead": "File:Crow Island School.jpg",
-  "coords": null,
+  "coords": [
+   42.10056,
+   -87.74583
+  ],
   "hotlink": true,
   "images": [
    {
@@ -164707,7 +165420,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Commonwealth Building",
   "lead": "File:Commonwealth Building, Downtown Portland, OR 2025-04-04.jpg",
-  "coords": null,
+  "coords": [
+   45.52089,
+   -122.67754
+  ],
   "hotlink": true,
   "images": [
    {
@@ -164807,7 +165523,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Price Tower",
   "lead": "File:Price Tower, Dewey Avenue, Bartlesville, OK - 53707617037.jpg",
-  "coords": null,
+  "coords": [
+   36.7475,
+   -95.97611
+  ],
   "hotlink": true,
   "images": [
    {
@@ -164910,7 +165629,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:John Deere World Headquarters",
   "lead": "File:Deere & Company World Headquarters.jpg",
-  "coords": null,
+  "coords": [
+   41.47667,
+   -90.42639
+  ],
   "hotlink": true,
   "images": [
    {
@@ -165186,7 +165908,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Sainsbury Wing",
   "lead": "File:National Gallery London Sainsbury Wing 2006-04-17.jpg",
-  "coords": null,
+  "coords": [
+   51.5086,
+   -0.12982
+  ],
   "hotlink": true,
   "images": [
    {
@@ -165274,7 +165999,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Burton Barr Central Library",
   "lead": "File:Burton Barr Central Library-1.jpg",
-  "coords": null,
+  "coords": [
+   33.4625,
+   -112.073
+  ],
   "hotlink": true,
   "images": [
    {
@@ -165350,7 +166078,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Exterior views of Monterey Bay Aquarium",
   "lead": "File:Monterey Bay Aquarium exterior August 2016.jpg",
-  "coords": null,
+  "coords": [
+   36.61825,
+   -121.90148
+  ],
   "hotlink": true,
   "images": [
    {
@@ -165550,7 +166281,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Quincy Market",
   "lead": "File:Boston - Quincy Market (48718567558).jpg",
-  "coords": null,
+  "coords": [
+   42.36,
+   -71.055
+  ],
   "hotlink": true,
   "images": [
    {
@@ -165714,7 +166448,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Metro Center station",
   "lead": "File:Dupont Circle- Metro station.JPG",
-  "coords": null,
+  "coords": [
+   38.8983,
+   -77.0281
+  ],
   "hotlink": true,
   "images": [
    {
@@ -165790,7 +166527,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Haystack Mountain School of Crafts",
   "lead": null,
-  "coords": null,
+  "coords": [
+   44.1882,
+   -68.58405
+  ],
   "hotlink": true,
   "images": [
    {
@@ -165830,7 +166570,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:History Faculty Building, University of Cambridge",
   "lead": "File:James stirling, cambridge university history faculty building, 1964-1967 (4928152576).jpg",
-  "coords": null,
+  "coords": [
+   52.20181,
+   0.10856
+  ],
   "hotlink": true,
   "images": [
    {
@@ -165930,7 +166673,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Florey Building",
   "lead": "File:James stirling, florey building, oxford 1966-1971 (5103816331).jpg",
-  "coords": null,
+  "coords": [
+   51.75072,
+   -1.24314
+  ],
   "hotlink": true,
   "images": [
    {
@@ -166018,7 +166764,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Wissenschaftszentrum Berlin für Sozialforschung",
   "lead": "File:Reichpietschufer 50 WZB Foto 01.jpg",
-  "coords": null,
+  "coords": [
+   52.5064,
+   13.3658
+  ],
   "hotlink": true,
   "images": [
    {
@@ -166106,7 +166855,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Conjunto Habitacional da Bouça",
   "lead": "File:Bairro da Bouça (38370363485).jpg",
-  "coords": null,
+  "coords": [
+   41.15667,
+   -8.61724
+  ],
   "hotlink": true,
   "images": [
    {
@@ -166194,7 +166946,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Bairro da Malagueira",
   "lead": "File:Bairro Malagueira 1 (Evora).jpg",
-  "coords": null,
+  "coords": [
+   38.57111,
+   -7.92778
+  ],
   "hotlink": true,
   "images": [
    {
@@ -166234,7 +166989,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Igreja de Santa Maria (Marco de Canaveses)",
   "lead": "File:Igreja de Santa Maria.jpg",
-  "coords": null,
+  "coords": [
+   41.1886,
+   -8.1456
+  ],
   "hotlink": true,
   "images": [
    {
@@ -166334,7 +167092,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Simmons Hall",
   "lead": "File:2014-04-02-MIT-Simmons-Hall-Vassar-Street-Cambridge-Massachusetts-B.jpg",
-  "coords": null,
+  "coords": [
+   42.35701,
+   -71.10191
+  ],
   "hotlink": true,
   "images": [
    {
@@ -166410,7 +167171,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Centro das Artes - Casa das Mudas",
   "lead": "File:Madeira-Calheta-Museu de Arte Contemporânea da Madeira (modern art museum)-04ASD.jpg",
-  "coords": null,
+  "coords": [
+   32.72298,
+   -17.18053
+  ],
   "hotlink": true,
   "images": [
    {
@@ -166674,7 +167438,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Pulitzer Arts Foundation",
   "lead": "File:Pulitzerfoundation.jpg",
-  "coords": null,
+  "coords": [
+   38.6404,
+   -90.2344
+  ],
   "hotlink": true,
   "images": [
    {
@@ -166762,7 +167529,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Kunstmuseum Moritzburg (Halle)",
   "lead": "File:Moritzburg mit Museumseingang.jpg",
-  "coords": null,
+  "coords": [
+   51.48651,
+   11.96371
+  ],
   "hotlink": true,
   "images": [
    {
@@ -166826,7 +167596,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Barnes Foundation",
   "lead": "File:The Barnes Foundation in Philadelphia (by MyWikiBiz).jpg",
-  "coords": null,
+  "coords": [
+   39.96064,
+   -75.17281
+  ],
   "hotlink": true,
   "images": [
    {
@@ -166914,7 +167687,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Waterloo International railway station",
   "lead": "File:The Eurostar terminus at Waterloo - geograph.org.uk - 2017939.jpg",
-  "coords": null,
+  "coords": [
+   51.50297,
+   -0.11481
+  ],
   "hotlink": true,
   "images": [
    {
@@ -167014,7 +167790,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Dutch Embassy building in Berlin",
   "lead": "File:Embassy of the Netherlands in Berlin November 2013.jpg",
-  "coords": null,
+  "coords": [
+   52.51528,
+   13.41194
+  ],
   "hotlink": true,
   "images": [
    {
@@ -167090,7 +167869,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:MUSAC",
   "lead": "File:MUSAC, León, Spain.jpg",
-  "coords": null,
+  "coords": [
+   42.60639,
+   -5.58278
+  ],
   "hotlink": true,
   "images": [
    {
@@ -167204,7 +167986,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Kleiburg (flat)",
   "lead": "File:Kleiburg Bijlmerdreefmetrobrug 2021.jpg",
-  "coords": null,
+  "coords": [
+   52.31871,
+   4.97998
+  ],
   "hotlink": true,
   "images": [
    {
@@ -167420,7 +168205,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Grand Palais (Charleroi)",
   "lead": "File:Grand Palais 2024 IMG 1911.jpg",
-  "coords": null,
+  "coords": [
+   50.41303,
+   4.43958
+  ],
   "hotlink": true,
   "images": [
    {
@@ -167576,7 +168364,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:La Borda",
   "lead": "File:La Borda building - rear facade, whole building.jpg",
-  "coords": null,
+  "coords": [
+   41.36944,
+   2.13475
+  ],
   "hotlink": true,
   "images": [
    {
@@ -167664,7 +168455,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Biblioteca Gabriel García Márquez (Barcelona)",
   "lead": "File:162 Biblioteca Gabriel García Márquez, c. Treball 219 (Barcelona), angle nord-est.jpg",
-  "coords": null,
+  "coords": [
+   41.41722,
+   2.2
+  ],
   "hotlink": true,
   "images": [
    {
@@ -167804,7 +168598,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Selfridges Building, Birmingham",
   "lead": "File:Selfridges Building Birmingham.jpg",
-  "coords": null,
+  "coords": [
+   52.4778,
+   -1.89226
+  ],
   "hotlink": true,
   "images": [
    {
@@ -167904,7 +168701,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Zénith de Strasbourg",
   "lead": "File:Zénith de Strasbourg Europe février 2015-2.jpg",
-  "coords": null,
+  "coords": [
+   48.59321,
+   7.68712
+  ],
   "hotlink": true,
   "images": [
    {
@@ -168004,7 +168804,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Camp de Rivesaltes",
   "lead": "Camps de Rivesaltes 16-05 MH-PO 6811.jpg",
-  "coords": null,
+  "coords": [
+   42.808,
+   2.89
+  ],
   "hotlink": true,
   "images": [
    {
@@ -168080,7 +168883,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Kannikegården (Ribe)",
   "lead": "File:Kannikegården, Ribe 2024 1.jpg",
-  "coords": null,
+  "coords": [
+   55.32763,
+   8.76163
+  ],
   "hotlink": true,
   "images": [
    {
@@ -168356,7 +169162,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Kunstmuseum Ravensburg",
   "lead": "File:Ravensburg Kunstmuseum 2013-04 01.jpg",
-  "coords": null,
+  "coords": [
+   47.78011,
+   9.6148
+  ],
   "hotlink": true,
   "images": [
    {
@@ -168420,7 +169229,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:CINiBA",
   "lead": "File:CINiBA - library building in Katowice 01.jpg",
-  "coords": null,
+  "coords": [
+   50.2607,
+   19.0303
+  ],
   "hotlink": true,
   "images": [
    {
@@ -168520,7 +169332,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Stadshal (Gent)",
   "lead": "File:20160416-Belgium-Gent-Stadshal.jpg",
-  "coords": null,
+  "coords": [
+   51.05403,
+   3.72444
+  ],
   "hotlink": true,
   "images": [
    {
@@ -168620,7 +169435,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Centro de Artes de Sines",
   "lead": "File:Centro de Artes de Sines, Sines 01.jpg",
-  "coords": null,
+  "coords": [
+   37.95667,
+   -8.86833
+  ],
   "hotlink": true,
   "images": [
    {
@@ -168696,7 +169514,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Netherlands Institute for Sound and Vision",
   "lead": "File:Gebouw Beeld en geluid Hilversum 1.JPG",
-  "coords": null,
+  "coords": [
+   52.23556,
+   5.17306
+  ],
   "hotlink": true,
   "images": [
    {
@@ -168798,7 +169619,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Hoofdgebouw RMC (Arnhem)",
   "lead": "File:Hoofdgebouw RMC Groot Klimmendaal.JPG",
-  "coords": null,
+  "coords": [
+   51.99,
+   5.87528
+  ],
   "hotlink": true,
   "images": [
    {
@@ -168850,7 +169674,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Z33 (Hasselt)",
   "lead": "File:Z33 Huis voor Acuele Kunst, Design & Architectuur foto door Olmo Peeters.jpg",
-  "coords": null,
+  "coords": [
+   50.93174,
+   5.34013
+  ],
   "hotlink": true,
   "images": [
    {
@@ -168926,7 +169753,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Jatka (Ostrava)",
   "lead": "File:Ostrava, Městská jatka - galerie Plato po přestavbě (květen 2022) 01.jpg",
-  "coords": null,
+  "coords": [
+   49.83571,
+   18.28111
+  ],
   "hotlink": true,
   "images": [
    {
@@ -169014,7 +169844,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Mortensrud kirke",
   "lead": "File:Mortensrud kirke (15. juli 2018, bilde01).jpg",
-  "coords": null,
+  "coords": [
+   59.84668,
+   10.8323
+  ],
   "hotlink": true,
   "images": [
    {
@@ -169154,7 +169987,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Hedge House (Wijlre)",
   "lead": "File:Wijlre-Hedge House (1).JPG",
-  "coords": null,
+  "coords": [
+   50.8302,
+   5.8917
+  ],
   "hotlink": true,
   "images": [
    {
@@ -169258,7 +170094,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Peckham Library",
   "lead": "File:Peckham Library (8668917410).jpg",
-  "coords": null,
+  "coords": [
+   51.4743,
+   -0.06933
+  ],
   "hotlink": true,
   "images": [
    {
@@ -169358,7 +170197,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Media Centre, Lord's Cricket Ground",
   "lead": "Lords Cricket Ground - June 2011 - The Iconic Media Centre (5858018929).jpg",
-  "coords": null,
+  "coords": [
+   51.53,
+   -0.1716
+  ],
   "hotlink": true,
   "images": [
    {
@@ -169446,7 +170288,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Staatliche Hochschule für Musik und Darstellende Kunst (Stuttgart)",
   "lead": "File:20230214 Hochschule für Musik und Darstellende Kunst Stuttgart.jpg",
-  "coords": null,
+  "coords": [
+   48.77861,
+   9.18583
+  ],
   "hotlink": true,
   "images": [
    {
@@ -169534,7 +170379,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:American Air Museum Duxford",
   "lead": "File:American Air Museum Duxford 2024-07-27.jpg",
-  "coords": null,
+  "coords": [
+   52.09252,
+   0.12568
+  ],
   "hotlink": true,
   "images": [
    {
@@ -169610,7 +170458,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Laban Dance Centre",
   "lead": "File:Trinity Laban (8340750177).jpg",
-  "coords": null,
+  "coords": [
+   51.48,
+   -0.01
+  ],
   "hotlink": true,
   "images": [
    {
@@ -169786,7 +170637,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Accordia",
   "lead": "File:Gilpin Place - geograph.org.uk - 7162301.jpg",
-  "coords": null,
+  "coords": [
+   52.1905,
+   0.128
+  ],
   "hotlink": true,
   "images": [
    {
@@ -169874,7 +170728,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Magna Science Adventure Centre",
   "lead": "File:Magna Science Adventure Centre - geograph.org.uk - 2650127.jpg",
-  "coords": null,
+  "coords": [
+   53.4195,
+   -1.38835
+  ],
   "hotlink": true,
   "images": [
    {
@@ -169950,7 +170807,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Sainsbury Laboratory Cambridge University",
   "lead": "File:Sainsbury Laboratory- Botanic Garden Cambridge (9120932218).jpg",
-  "coords": null,
+  "coords": [
+   52.1948,
+   0.12777
+  ],
   "hotlink": true,
   "images": [
    {
@@ -170026,7 +170886,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Astley Castle",
   "lead": "File:Astley Castle Front Elevation.JPG",
-  "coords": null,
+  "coords": [
+   52.5024,
+   -1.5424
+  ],
   "hotlink": true,
   "images": [
    {
@@ -170126,7 +170989,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Newport Street Gallery",
   "lead": "File:Newport Street Gallery, London.jpg",
-  "coords": null,
+  "coords": [
+   51.4933,
+   -0.117
+  ],
   "hotlink": true,
   "images": [
    {
@@ -170190,7 +171056,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Bloomberg London",
   "lead": "File:Bloomberg London exterior - Cannon Street, Walbrook.jpg",
-  "coords": null,
+  "coords": [
+   51.5125,
+   -0.0909
+  ],
   "hotlink": true,
   "images": [
    {
@@ -170292,7 +171161,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Everyman Theatre, Liverpool",
   "lead": "File:Everyman Theatre, Liverpool 2018.jpg",
-  "coords": null,
+  "coords": [
+   53.403,
+   -2.96922
+  ],
   "hotlink": true,
   "images": [
    {
@@ -170392,7 +171264,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Velodrom (Berlin)",
   "lead": "File:Velodrom Außenansicht - Luftaufnahme.jpg",
-  "coords": null,
+  "coords": [
+   52.53083,
+   13.45083
+  ],
   "hotlink": true,
   "images": [
    {
@@ -170594,7 +171469,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Moesgård Museum",
   "lead": "File:MoMu 01.jpg",
-  "coords": null,
+  "coords": [
+   56.08885,
+   10.22354
+  ],
   "hotlink": true,
   "images": [
    {
@@ -170684,7 +171562,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Convento de Santa Maria do Bouro",
   "lead": "File:O mosteiro.jpg",
-  "coords": null,
+  "coords": [
+   41.65918,
+   -8.27022
+  ],
   "hotlink": true,
   "images": [
    {
@@ -170784,7 +171665,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Museum and Monastery of San Telmo (STM)",
   "lead": "File:Museo San Telmo.JPG",
-  "coords": null,
+  "coords": [
+   43.32477,
+   -1.9853
+  ],
   "hotlink": true,
   "images": [
    {
@@ -170884,7 +171768,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:San Antonio Public Library",
   "lead": "File:Central Library II (48874533928).jpg",
-  "coords": null,
+  "coords": [
+   29.4325,
+   -98.4928
+  ],
   "hotlink": true,
   "images": [
    {
@@ -170960,7 +171847,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Goldsmith Street, Norwich",
   "lead": "File:Goldsmith Street, Norwich - geograph.org.uk - 6357512.jpg",
-  "coords": null,
+  "coords": [
+   52.6347,
+   1.2798
+  ],
   "hotlink": true,
   "images": [
    {
@@ -171088,7 +171978,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Gateshead Millennium Bridge",
   "lead": "File:Gateshead Millennium Bridge (51218283831).jpg",
-  "coords": null,
+  "coords": [
+   54.96944,
+   -1.59972
+  ],
   "hotlink": true,
   "images": [
    {
@@ -171188,7 +172081,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Stormen, Kulturkvartalet i Bodø",
   "lead": "File:Stormen Konserthuset, Bodø, South view 20150608 1.jpg",
-  "coords": null,
+  "coords": [
+   67.28295,
+   14.37476
+  ],
   "hotlink": true,
   "images": [
    {
@@ -171328,7 +172224,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Toho Gakuen School of Music",
   "lead": "File:Toho Gakuen School of Music Chofu Campus.JPG",
-  "coords": null,
+  "coords": [
+   35.65972,
+   139.58361
+  ],
   "hotlink": true,
   "images": [
    {
@@ -171392,7 +172291,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Lille Langebro",
   "lead": "File:Lille Langebro (Copenhagen).jpg",
-  "coords": null,
+  "coords": [
+   55.67103,
+   12.57984
+  ],
   "hotlink": true,
   "images": [
    {
@@ -171468,7 +172370,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Hastings Pier",
   "lead": "File:Hasting Pier Aug 2026.jpg",
-  "coords": null,
+  "coords": [
+   50.8522,
+   0.57264
+  ],
   "hotlink": true,
   "images": [
    {
@@ -171556,7 +172461,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:L'Anneau de la Mémoire",
   "lead": "File:Anneau de la mémoire.JPG",
-  "coords": null,
+  "coords": [
+   50.3996,
+   2.72
+  ],
   "hotlink": true,
   "images": [
    {
@@ -171784,7 +172692,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:BedZED",
   "lead": "File:BedZED 01.jpg",
-  "coords": null,
+  "coords": [
+   51.38208,
+   -0.15602
+  ],
   "hotlink": true,
   "images": [
    {
@@ -171872,7 +172783,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:The New Art Gallery Walsall",
   "lead": "File:Walsall Art Gallery on a murky day (5529938095).jpg",
-  "coords": null,
+  "coords": [
+   52.58567,
+   -1.98591
+  ],
   "hotlink": true,
   "images": [
    {
@@ -171948,7 +172862,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Glucksman gallery, Cork",
   "lead": "File:Glucksman2.jpg",
-  "coords": null,
+  "coords": [
+   51.89474,
+   -8.49032
+  ],
   "hotlink": true,
   "images": [
    {
@@ -172064,7 +172981,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Weald and Downland Gridshell",
   "lead": null,
-  "coords": null,
+  "coords": [
+   50.9069,
+   -0.75611
+  ],
   "hotlink": true,
   "images": [
    {
@@ -172104,7 +173024,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Bishop Edward King Chapel",
   "lead": "File:Bishop Edward King Chapel (outside)-130928.JPG",
-  "coords": null,
+  "coords": [
+   51.7241,
+   -1.1343
+  ],
   "hotlink": true,
   "images": [
    {
@@ -172156,7 +173079,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:The Hepworth Wakefield",
   "lead": "File:A view across the River Calder towards the Hepworth, Wakefield, West Yorkshire (31st May 2024) 001.jpg",
-  "coords": null,
+  "coords": [
+   53.676,
+   -1.491
+  ],
   "hotlink": true,
   "images": [
    {
@@ -172244,7 +173170,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Blavatnik School of Government",
   "lead": "File:Blavatnik School of Government, Oxford.JPG",
-  "coords": null,
+  "coords": [
+   51.7593,
+   -1.26464
+  ],
   "hotlink": true,
   "images": [
    {
@@ -172344,7 +173273,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Senedd (building)",
   "lead": "File:Senedd 3.JPG",
-  "coords": null,
+  "coords": [
+   51.46361,
+   -3.1625
+  ],
   "hotlink": true,
   "images": [
    {
@@ -172444,7 +173376,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Cambridge Central Mosque",
   "lead": "File:Cambridge Central Mosque front.jpg",
-  "coords": null,
+  "coords": [
+   52.19731,
+   0.1524
+  ],
   "hotlink": true,
   "images": [
    {
@@ -172684,7 +173619,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Casa do Baile",
   "lead": "Casa do Baile e Lagoa da Pampulha.jpg",
-  "coords": null,
+  "coords": [
+   -19.85447,
+   -43.96997
+  ],
   "hotlink": true,
   "images": [
    {
@@ -172772,7 +173710,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Independence Arch (Accra)",
   "lead": "File:Independence arch at sunset 1.jpg",
-  "coords": null,
+  "coords": [
+   5.54652,
+   -0.1924
+  ],
   "hotlink": true,
   "images": [
    {
@@ -172848,7 +173789,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:National Museum of Ghana",
   "lead": "File:National Museum of Ghana.jpg",
-  "coords": null,
+  "coords": [
+   5.55675,
+   -0.20613
+  ],
   "hotlink": true,
   "images": [
    {
@@ -172924,7 +173868,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Findeco House",
   "lead": "File:Downtown Lusaka.JPG",
-  "coords": null,
+  "coords": [
+   -15.4243,
+   28.2838
+  ],
   "hotlink": true,
   "images": [
    {
@@ -172988,7 +173935,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Cocoa House",
   "lead": "File:Cocoa-house-in-ibadan.jpg",
-  "coords": null,
+  "coords": [
+   7.38806,
+   3.87867
+  ],
   "hotlink": true,
   "images": [
    {
@@ -173076,7 +174026,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Independence House Lagos",
   "lead": "File:Independence House Lagos.jpg",
-  "coords": null,
+  "coords": [
+   6.44692,
+   3.39889
+  ],
   "hotlink": true,
   "images": [
    {
@@ -173116,7 +174069,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Hall of Nations",
   "lead": "File:HALL OF NATIONS.jpg",
-  "coords": null,
+  "coords": [
+   28.619,
+   77.244
+  ],
   "hotlink": true,
   "images": [
    {
@@ -173192,7 +174148,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Bharat Bhavan",
   "lead": "Bharat Bhavan BHopal inside (4).JPG",
-  "coords": null,
+  "coords": [
+   23.24702,
+   77.39233
+  ],
   "hotlink": true,
   "images": [
    {
@@ -173296,7 +174255,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:India International Centre",
   "lead": "File:India International Centre.jpg",
-  "coords": null,
+  "coords": [
+   28.59338,
+   77.22226
+  ],
   "hotlink": true,
   "images": [
    {
@@ -173316,108 +174278,8 @@ window.BUILDINGS = [
   "gv": 3
  },
  {
-  "id": "national-institute-of-immunology",
-  "n": 2010,
-  "name": "National Institute of Immunology",
-  "by": "Raj Rewal",
-  "place": "New Delhi, IN",
-  "year": "1990",
-  "y": 1990,
-  "type": "Education",
-  "movement": "Regionalism",
-  "region": "South Asia",
-  "era": "1990–2005",
-  "concepts": [
-   "Cluster",
-   "Courtyard",
-   "Stone"
-  ],
-  "study": "Low red-sandstone blocks around outdoor rooms and axes, a modern Fatehpur Sikri for a research campus.",
-  "qid": null,
-  "commons": "Category:National Medical Research Center of Pediatric Hematology, Oncology and Immunology",
-  "lead": "File:National Institute of Immunology, New Delhi.jpg",
-  "coords": null,
-  "hotlink": true,
-  "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/National_Medical_Research_Center_of_Pediatric_Hematology%2C_Oncology_and_Immunology-1.jpg/1280px-National_Medical_Research_Center_of_Pediatric_Hematology%2C_Oncology_and_Immunology-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/national-institute-of-immunology/thumbs/0.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Dzasohovich",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:National_Medical_Research_Center_of_Pediatric_Hematology,_Oncology_and_Immunology-1.jpg",
-    "file": "File:National Medical Research Center of Pediatric Hematology, Oncology and Immunology-1.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/National_Medical_Research_Center_of_Pediatric_Hematology%2C_Oncology_and_Immunology-2.jpg/1280px-National_Medical_Research_Center_of_Pediatric_Hematology%2C_Oncology_and_Immunology-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/national-institute-of-immunology/thumbs/1.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Dzasohovich",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:National_Medical_Research_Center_of_Pediatric_Hematology,_Oncology_and_Immunology-2.jpg",
-    "file": "File:National Medical Research Center of Pediatric Hematology, Oncology and Immunology-2.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/%D0%92%D1%85%D0%BE%D0%B4_%D0%B2_%D1%86%D0%B5%D0%BD%D1%82%D1%80_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D1%8F_%D0%A0%D0%BE%D0%B3%D0%B0%D1%87%D1%91%D0%B2%D0%B0_01_26.07.2022.jpg/1280px-%D0%92%D1%85%D0%BE%D0%B4_%D0%B2_%D1%86%D0%B5%D0%BD%D1%82%D1%80_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D1%8F_%D0%A0%D0%BE%D0%B3%D0%B0%D1%87%D1%91%D0%B2%D0%B0_01_26.07.2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/national-institute-of-immunology/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Artyom Vasilyev",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:%D0%92%D1%85%D0%BE%D0%B4_%D0%B2_%D1%86%D0%B5%D0%BD%D1%82%D1%80_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D1%8F_%D0%A0%D0%BE%D0%B3%D0%B0%D1%87%D1%91%D0%B2%D0%B0_01_26.07.2022.jpg",
-    "file": "File:Вход в центр имени Дмитрия Рогачёва 01 26.07.2022.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/%D0%92%D1%85%D0%BE%D0%B4_%D0%B2_%D1%86%D0%B5%D0%BD%D1%82%D1%80_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D1%8F_%D0%A0%D0%BE%D0%B3%D0%B0%D1%87%D1%91%D0%B2%D0%B0_02_26.07.2022.jpg/1280px-%D0%92%D1%85%D0%BE%D0%B4_%D0%B2_%D1%86%D0%B5%D0%BD%D1%82%D1%80_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D1%8F_%D0%A0%D0%BE%D0%B3%D0%B0%D1%87%D1%91%D0%B2%D0%B0_02_26.07.2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/national-institute-of-immunology/thumbs/3.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Artyom Vasilyev",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:%D0%92%D1%85%D0%BE%D0%B4_%D0%B2_%D1%86%D0%B5%D0%BD%D1%82%D1%80_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D1%8F_%D0%A0%D0%BE%D0%B3%D0%B0%D1%87%D1%91%D0%B2%D0%B0_02_26.07.2022.jpg",
-    "file": "File:Вход в центр имени Дмитрия Рогачёва 02 26.07.2022.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Churches_in_Moscow_%2826541199170%29.jpg/1280px-Churches_in_Moscow_%2826541199170%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/national-institute-of-immunology/thumbs/4.webp",
-    "w": 928,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · Moscow Churches, photographed September 2015 Children's Hospital Chapel",
-    "credit": "Andrew Gould",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Churches_in_Moscow_(26541199170).jpg",
-    "file": "File:Churches in Moscow (26541199170).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Churches_in_Moscow_%2826541199760%29.jpg/1280px-Churches_in_Moscow_%2826541199760%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/national-institute-of-immunology/thumbs/5.webp",
-    "w": 928,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · Moscow Churches, photographed September 2015 Children's Hospital Chapel",
-    "credit": "Andrew Gould",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Churches_in_Moscow_(26541199760).jpg",
-    "file": "File:Churches in Moscow (26541199760).jpg"
-   }
-  ],
-  "has": [],
-  "gv": 3
- },
- {
   "id": "seema-malaka",
-  "n": 2011,
+  "n": 2010,
   "name": "Seema Malaka",
   "by": "Geoffrey Bawa",
   "place": "Colombo, LK",
@@ -173436,7 +174298,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Seema Malaka",
   "lead": "File:Seema Malaka side view.jpg",
-  "coords": null,
+  "coords": [
+   6.91762,
+   79.85326
+  ],
   "hotlink": true,
   "images": [
    {
@@ -173505,7 +174370,7 @@ window.BUILDINGS = [
  },
  {
   "id": "masjid-e-tooba",
-  "n": 2012,
+  "n": 2011,
   "name": "Masjid-e-Tooba",
   "by": "Babar Hameed Chauhan, Zaheer Haider Naqvi",
   "place": "Karachi, PK",
@@ -173524,7 +174389,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Masjid e Tooba, Karachi",
   "lead": "File:Tooba Mosque.jpg",
-  "coords": null,
+  "coords": [
+   24.86,
+   67.01
+  ],
   "hotlink": true,
   "images": [
    {
@@ -173581,7 +174449,7 @@ window.BUILDINGS = [
  },
  {
   "id": "habib-bank-plaza",
-  "n": 2013,
+  "n": 2012,
   "name": "Habib Bank Plaza",
   "by": "Leo A. Daly",
   "place": "Karachi, PK",
@@ -173600,7 +174468,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Habib Bank Plaza",
   "lead": "File:Habib Bank Plaza.jpg",
-  "coords": null,
+  "coords": [
+   24.8499,
+   67.0055
+  ],
   "hotlink": true,
   "images": [
    {
@@ -173633,7 +174504,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tsc-dhaka-university",
-  "n": 2014,
+  "n": 2013,
   "name": "Teacher-Student Centre, University of Dhaka",
   "by": "Constantinos Doxiadis",
   "place": "Dhaka, BD",
@@ -173652,7 +174523,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Teacher-Student Centre, University of Dhaka",
   "lead": "File:Front of the building,TSC.jpg",
-  "coords": null,
+  "coords": [
+   23.73123,
+   90.3962
+  ],
   "hotlink": true,
   "images": [
    {
@@ -173721,7 +174595,7 @@ window.BUILDINGS = [
  },
  {
   "id": "makoko-floating-school",
-  "n": 2015,
+  "n": 2014,
   "name": "Makoko Floating School",
   "by": "Kunlé Adeyemi (NLÉ)",
   "place": "Lagos, NG",
@@ -173740,7 +174614,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": null,
   "lead": null,
-  "coords": null,
+  "coords": [
+   6.49536,
+   3.3858
+  ],
   "hotlink": true,
   "images": [
    {
@@ -173761,7 +174638,7 @@ window.BUILDINGS = [
  },
  {
   "id": "atira-ahmedabad",
-  "n": 2016,
+  "n": 2015,
   "name": "ATIRA (Ahmedabad Textile Industry's Research Association)",
   "by": "Achyut Kanvinde",
   "place": "Ahmedabad, IN",
@@ -173801,7 +174678,7 @@ window.BUILDINGS = [
  },
  {
   "id": "grand-theatre-de-rabat",
-  "n": 2017,
+  "n": 2016,
   "name": "Royal Theatre of Rabat",
   "by": "Zaha Hadid Architects",
   "place": "Rabat, MA",
@@ -173820,7 +174697,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Grand Theatre of Rabat",
   "lead": "File:Grand Théatre Rabat.jpg",
-  "coords": null,
+  "coords": [
+   34.02559,
+   -6.81577
+  ],
   "hotlink": true,
   "images": [
    {
@@ -173877,7 +174757,7 @@ window.BUILDINGS = [
  },
  {
   "id": "nid-d-abeille-casablanca",
-  "n": 2018,
+  "n": 2017,
   "name": "Nid d'Abeille, Carrières Centrales",
   "by": "Georges Candilis, Shadrach Woods (ATBAT-Afrique)",
   "place": "Casablanca, MA",
@@ -173930,7 +174810,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hotel-el-aurassi",
-  "n": 2019,
+  "n": 2018,
   "name": "Hôtel El Aurassi",
   "by": "Luigi Moretti",
   "place": "Algiers, DZ",
@@ -173949,7 +174829,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:El Aurassi Hotel",
   "lead": "File:El Aurassi Hotel.jpg",
-  "coords": null,
+  "coords": [
+   36.7763,
+   3.0511
+  ],
   "hotlink": true,
   "images": [
    {
@@ -174006,7 +174889,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-theatre-of-ghana",
-  "n": 2020,
+  "n": 2019,
   "name": "National Theatre of Ghana",
   "by": "Cheng Taining, Ye Xianghan",
   "place": "Accra, GH",
@@ -174025,7 +174908,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:National Theatre of Ghana",
   "lead": "File:National Theatre of Ghana (46534792205).jpg",
-  "coords": null,
+  "coords": [
+   5.55367,
+   -0.20059
+  ],
   "hotlink": true,
   "images": [
    {
@@ -174106,7 +174992,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bentota-beach-hotel",
-  "n": 2021,
+  "n": 2020,
   "name": "Bentota Beach Hotel",
   "by": "Geoffrey Bawa",
   "place": "Bentota, LK",
@@ -174146,7 +175032,7 @@ window.BUILDINGS = [
  },
  {
   "id": "premabhai-hall",
-  "n": 2022,
+  "n": 2021,
   "name": "Premabhai Hall",
   "by": "B. V. Doshi, Mahendra Raj",
   "place": "Ahmedabad, IN",
@@ -174165,7 +175051,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": null,
   "lead": "File:Premabhai Hall.jpg",
-  "coords": null,
+  "coords": [
+   23.02383,
+   72.58215
+  ],
   "hotlink": true,
   "images": [
    {
@@ -174186,7 +175075,7 @@ window.BUILDINGS = [
  },
  {
   "id": "krushi-bhawan",
-  "n": 2023,
+  "n": 2022,
   "name": "Krushi Bhawan",
   "by": "Studio Lotus",
   "place": "Bhubaneswar, IN",
@@ -174226,7 +175115,7 @@ window.BUILDINGS = [
  },
  {
   "id": "liberation-war-museum-dhaka",
-  "n": 2024,
+  "n": 2023,
   "name": "Liberation War Museum",
   "by": "Tanzim Hasan Salim, Naheed Farzana",
   "place": "Dhaka, BD",
@@ -174302,7 +175191,7 @@ window.BUILDINGS = [
  },
  {
   "id": "pakistan-secretariat-islamabad",
-  "n": 2025,
+  "n": 2024,
   "name": "Pakistan Secretariat",
   "by": "Gio Ponti",
   "place": "Islamabad, PK",
@@ -174354,7 +175243,7 @@ window.BUILDINGS = [
  },
  {
   "id": "rabindra-bhavan-delhi",
-  "n": 2026,
+  "n": 2025,
   "name": "Rabindra Bhavan",
   "by": "Habib Rahman",
   "place": "New Delhi, IN",
@@ -174430,7 +175319,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palika-kendra",
-  "n": 2027,
+  "n": 2026,
   "name": "Palika Kendra (NDMC Building)",
   "by": "Kuldip Singh, Mahendra Raj",
   "place": "New Delhi, IN",
@@ -174449,7 +175338,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Palika Kendra",
   "lead": "File:New Delhi NDMC building.jpg",
-  "coords": null,
+  "coords": [
+   28.62839,
+   77.21536
+  ],
   "hotlink": true,
   "images": [
    {
@@ -174506,7 +175398,7 @@ window.BUILDINGS = [
  },
  {
   "id": "akbar-bhawan",
-  "n": 2028,
+  "n": 2027,
   "name": "Akbar Bhawan (Akbar Hotel)",
   "by": "Shiv Nath Prasad, Mahendra Raj",
   "place": "New Delhi, IN",
@@ -174525,7 +175417,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Akbar Hotel",
   "lead": "File:Akbar Hotel New Delhi Ummu 06 00680 full 3669 2416 0 default.jpg",
-  "coords": null,
+  "coords": [
+   28.58528,
+   77.19028
+  ],
   "hotlink": true,
   "images": [
    {
@@ -174558,7 +175453,7 @@ window.BUILDINGS = [
  },
  {
   "id": "gaddafi-stadium",
-  "n": 2029,
+  "n": 2028,
   "name": "Gaddafi Stadium",
   "by": "Nasreddin Murat-Khan; Nayyar Ali Dada (1996 redesign)",
   "place": "Lahore, PK",
@@ -174577,7 +175472,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Gaddafi Stadium",
   "lead": "File:Gaddafi Stadium (Lahore).jpg",
-  "coords": null,
+  "coords": [
+   31.51333,
+   74.33333
+  ],
   "hotlink": true,
   "images": [
    {
@@ -174646,7 +175544,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mausoleum-of-mohammed-v",
-  "n": 2030,
+  "n": 2029,
   "name": "Mausoleum of Mohammed V",
   "by": "Eric Vo Toan",
   "place": "Rabat, MA",
@@ -174665,7 +175563,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Mausoleum of Mohammed V",
   "lead": "File:Mausoleum of Mohammed V 01.jpg",
-  "coords": null,
+  "coords": [
+   34.02261,
+   -6.82195
+  ],
   "hotlink": true,
   "images": [
    {
@@ -174722,7 +175623,7 @@ window.BUILDINGS = [
  },
  {
   "id": "highpoint-i",
-  "n": 2031,
+  "n": 2030,
   "name": "Highpoint I",
   "by": "Berthold Lubetkin and Tecton",
   "place": "London, GB",
@@ -174741,7 +175642,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Highpoint I",
   "lead": "File:Highpoint 1 (49445187038).jpg",
-  "coords": null,
+  "coords": [
+   51.57486,
+   -0.15081
+  ],
   "hotlink": true,
   "images": [
    {
@@ -174810,7 +175714,7 @@ window.BUILDINGS = [
  },
  {
   "id": "penguin-pool-london-zoo",
-  "n": 2032,
+  "n": 2031,
   "name": "Penguin Pool, London Zoo",
   "by": "Berthold Lubetkin and Tecton",
   "place": "London, GB",
@@ -174829,7 +175733,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Penguin Pool (London Zoo)",
   "lead": "File:Penguin Pool London Zoo.jpg",
-  "coords": null,
+  "coords": [
+   51.534,
+   -0.15347
+  ],
   "hotlink": true,
   "images": [
    {
@@ -174910,7 +175817,7 @@ window.BUILDINGS = [
  },
  {
   "id": "finsbury-health-centre",
-  "n": 2033,
+  "n": 2032,
   "name": "Finsbury Health Centre",
   "by": "Berthold Lubetkin and Tecton",
   "place": "London, GB",
@@ -174929,7 +175836,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Finsbury Health Centre",
   "lead": "File:Finsbury Health Centre (February 2019).jpg",
-  "coords": null,
+  "coords": [
+   51.5249,
+   -0.1089
+  ],
   "hotlink": true,
   "images": [
    {
@@ -174998,7 +175908,7 @@ window.BUILDINGS = [
  },
  {
   "id": "boots-d10-building",
-  "n": 2034,
+  "n": 2033,
   "name": "Boots D10 Building",
   "by": "Owen Williams",
   "place": "Beeston, Nottingham, GB",
@@ -175017,7 +175927,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Building D10 At Boots Factory Site",
   "lead": "File:Building D10 at Boots Factory Site (geograph 7159225).jpg",
-  "coords": null,
+  "coords": [
+   52.9241,
+   -1.1923
+  ],
   "hotlink": true,
   "images": [
    {
@@ -175038,7 +175951,7 @@ window.BUILDINGS = [
  },
  {
   "id": "economist-building",
-  "n": 2035,
+  "n": 2034,
   "name": "The Economist Building",
   "by": "Alison and Peter Smithson",
   "place": "London, GB",
@@ -175057,7 +175970,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:The Economist Plaza",
   "lead": "File:Economist building, London, 1959-1964.jpg",
-  "coords": null,
+  "coords": [
+   51.5069,
+   -0.13902
+  ],
   "hotlink": true,
   "images": [
    {
@@ -175114,7 +176030,7 @@ window.BUILDINGS = [
  },
  {
   "id": "alton-west-estate",
-  "n": 2036,
+  "n": 2035,
   "name": "Alton West Estate",
   "by": "London County Council Architects Department (Colin Lucas, Bill Howell and others)",
   "place": "London, GB",
@@ -175133,7 +176049,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Alton Estate, Roehampton",
   "lead": "File:Highcliffe slab blocks.jpg",
-  "coords": null,
+  "coords": [
+   51.45,
+   -0.245
+  ],
   "hotlink": true,
   "images": [
    {
@@ -175214,7 +176133,7 @@ window.BUILDINGS = [
  },
  {
   "id": "st-peters-seminary-cardross",
-  "n": 2037,
+  "n": 2036,
   "name": "St Peter's Seminary",
   "by": "Gillespie, Kidd & Coia (Isi Metzstein, Andy MacMillan)",
   "place": "Cardross, GB",
@@ -175233,7 +176152,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:St Peter's Seminary, Cardross",
   "lead": "File:Exterior View of seminary.jpg",
-  "coords": null,
+  "coords": [
+   55.9703,
+   -4.64055
+  ],
   "hotlink": true,
   "images": [
    {
@@ -175314,7 +176236,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mortonhall-crematorium",
-  "n": 2038,
+  "n": 2037,
   "name": "Mortonhall Crematorium",
   "by": "Basil Spence, Glover & Ferguson",
   "place": "Edinburgh, GB",
@@ -175333,7 +176255,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Mortonhall Crematorium",
   "lead": "File:The chapels at Mortonhall Crematorium - geograph.org.uk - 5537541.jpg",
-  "coords": null,
+  "coords": [
+   55.9024,
+   -3.17035
+  ],
   "hotlink": true,
   "images": [
    {
@@ -175390,7 +176315,7 @@ window.BUILDINGS = [
  },
  {
   "id": "royal-commonwealth-pool",
-  "n": 2039,
+  "n": 2038,
   "name": "Royal Commonwealth Pool",
   "by": "Robert Matthew, Johnson-Marshall and Partners (John Richards)",
   "place": "Edinburgh, GB",
@@ -175409,7 +176334,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Royal Commonwealth Pool",
   "lead": "File:Royal Commonwealth Pool - view from W.jpg",
-  "coords": null,
+  "coords": [
+   55.93918,
+   -3.17319
+  ],
   "hotlink": true,
   "images": [
    {
@@ -175466,7 +176394,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ecole-de-plein-air-suresnes",
-  "n": 2040,
+  "n": 2039,
   "name": "École de plein air de Suresnes",
   "by": "Eugène Beaudouin and Marcel Lods",
   "place": "Suresnes, FR",
@@ -175485,7 +176413,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:École de plein air de Suresnes",
   "lead": "Suresnes - Ecole de plein air 01.jpg",
-  "coords": null,
+  "coords": [
+   48.8691,
+   2.21334
+  ],
   "hotlink": true,
   "images": [
    {
@@ -175542,7 +176473,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sonneveld-house",
-  "n": 2041,
+  "n": 2040,
   "name": "Sonneveld House",
   "by": "Brinkman & Van der Vlugt",
   "place": "Rotterdam, NL",
@@ -175561,7 +176492,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Sonneveld House",
   "lead": "File:Huis Sonneveld exterieur.jpg",
-  "coords": null,
+  "coords": [
+   51.91556,
+   4.47222
+  ],
   "hotlink": true,
   "images": [
    {
@@ -175656,7 +176590,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bergpolderflat",
-  "n": 2042,
+  "n": 2041,
   "name": "Bergpolderflat",
   "by": "Willem van Tijen, with Brinkman & Van der Vlugt",
   "place": "Rotterdam, NL",
@@ -175675,7 +176609,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Bergpolderflat (Rotterdam)",
   "lead": "File:Bergpolderflat.jpg",
-  "coords": null,
+  "coords": [
+   51.935,
+   4.46611
+  ],
   "hotlink": true,
   "images": [
    {
@@ -175744,7 +176681,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kiefhoek",
-  "n": 2043,
+  "n": 2042,
   "name": "Kiefhoek",
   "by": "J. J. P. Oud",
   "place": "Rotterdam, NL",
@@ -175763,7 +176700,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Kiefhoek",
   "lead": "File:Rotterdam 1ekiefhoekstraat9-19.jpg",
-  "coords": null,
+  "coords": [
+   51.89333,
+   4.50611
+  ],
   "hotlink": true,
   "images": [
    {
@@ -175832,7 +176772,7 @@ window.BUILDINGS = [
  },
  {
   "id": "papaverhof",
-  "n": 2044,
+  "n": 2043,
   "name": "Papaverhof",
   "by": "Jan Wils",
   "place": "The Hague, NL",
@@ -175851,7 +176791,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Papaverhof (The Hague)",
   "lead": "File:Exterieur OVERZICHT - 's-Gravenhage - 20353600 - RCE.jpg",
-  "coords": null,
+  "coords": [
+   52.07528,
+   4.26083
+  ],
   "hotlink": true,
   "images": [
    {
@@ -175920,7 +176863,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kaufhaus-schocken-chemnitz",
-  "n": 2045,
+  "n": 2044,
   "name": "Schocken Department Store, Chemnitz",
   "by": "Erich Mendelsohn",
   "place": "Chemnitz, DE",
@@ -175939,7 +176882,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Kaufhaus Schocken (Chemnitz)",
   "lead": "File:Kaufhaus Schocken in Chemnitz.jpg",
-  "coords": null,
+  "coords": [
+   50.83398,
+   12.92525
+  ],
   "hotlink": true,
   "images": [
    {
@@ -176034,7 +176980,7 @@ window.BUILDINGS = [
  },
  {
   "id": "haus-lange-haus-esters",
-  "n": 2046,
+  "n": 2045,
   "name": "Haus Lange and Haus Esters",
   "by": "Ludwig Mies van der Rohe",
   "place": "Krefeld, DE",
@@ -176053,7 +176999,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Haus Lange and Haus Esters",
   "lead": "File:Haus Lange, Ansicht von der Straße, Krefeld-1914.jpg",
-  "coords": null,
+  "coords": [
+   51.34694,
+   6.5825
+  ],
   "hotlink": true,
   "images": [
    {
@@ -176125,7 +177074,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bata-skyscraper-zlin",
-  "n": 2047,
+  "n": 2046,
   "name": "Baťa's Skyscraper (Building 21)",
   "by": "Vladimír Karfík",
   "place": "Zlín, CZ",
@@ -176144,7 +177093,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Bata Building No. 21",
   "lead": "File:Skyscraper \"21st Building\".jpg",
-  "coords": null,
+  "coords": [
+   49.22324,
+   17.6583
+  ],
   "hotlink": true,
   "images": [
    {
@@ -176227,7 +177179,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hotel-avion-brno",
-  "n": 2048,
+  "n": 2047,
   "name": "Hotel Avion",
   "by": "Bohuslav Fuchs",
   "place": "Brno, CZ",
@@ -176246,7 +177198,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Hotel Avion (Brno)",
   "lead": "File:Hotel Avion Brno Česká st.jpg",
-  "coords": null,
+  "coords": [
+   49.19675,
+   16.60613
+  ],
   "hotlink": true,
   "images": [
    {
@@ -176327,7 +177282,7 @@ window.BUILDINGS = [
  },
  {
   "id": "villa-stiassni",
-  "n": 2049,
+  "n": 2048,
   "name": "Villa Stiassni",
   "by": "Ernst Wiesner",
   "place": "Brno, CZ",
@@ -176346,7 +177301,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Villa Stiassni",
   "lead": "File:Vila Stiassni, Brno.jpg",
-  "coords": null,
+  "coords": [
+   49.1969,
+   16.5731
+  ],
   "hotlink": true,
   "images": [
    {
@@ -176415,7 +177373,7 @@ window.BUILDINGS = [
  },
  {
   "id": "prudential-house-warsaw",
-  "n": 2050,
+  "n": 2049,
   "name": "Prudential House",
   "by": "Marcin Weinfeld; steel frame by Stefan Bryła and Wenczesław Poniż",
   "place": "Warsaw, PL",
@@ -176434,7 +177392,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Prudential building in Warsaw",
   "lead": "File:Warszawa - Prudential.jpg",
-  "coords": null,
+  "coords": [
+   52.23559,
+   21.01265
+  ],
   "hotlink": true,
   "images": [
    {
@@ -176503,7 +177464,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kaunas-central-post-office",
-  "n": 2051,
+  "n": 2050,
   "name": "Kaunas Central Post Office",
   "by": "Feliksas Vizbaras",
   "place": "Kaunas, LT",
@@ -176522,7 +177483,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Main post office in Kaunas",
   "lead": "File:Central Post of Kaunas exterior (September 10, 2017).jpg",
-  "coords": null,
+  "coords": [
+   54.89806,
+   23.90444
+  ],
   "hotlink": true,
   "images": [
    {
@@ -176603,7 +177567,7 @@ window.BUILDINGS = [
  },
  {
   "id": "museum-of-contemporary-art-belgrade",
-  "n": 2052,
+  "n": 2051,
   "name": "Museum of Contemporary Art, Belgrade",
   "by": "Ivan Antić and Ivanka Raspopović",
   "place": "Belgrade, RS",
@@ -176622,7 +177586,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Belgrade Contemporary Art Museum Building",
   "lead": "File:Beograd - Muzej Savremene Umetnosti (MoCAB).jpg",
-  "coords": null,
+  "coords": [
+   44.81944,
+   20.44222
+  ],
   "hotlink": true,
   "images": [
    {
@@ -176703,7 +177670,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bigz-building",
-  "n": 2053,
+  "n": 2052,
   "name": "BIGZ Building",
   "by": "Dragiša Brašovan",
   "place": "Belgrade, RS",
@@ -176722,7 +177689,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:BIGZ building",
   "lead": "File:Свјетлопис зграде БИГЗа у Биограду.jpg",
-  "coords": null,
+  "coords": [
+   44.79691,
+   20.44626
+  ],
   "hotlink": true,
   "images": [
    {
@@ -176767,7 +177737,7 @@ window.BUILDINGS = [
  },
  {
   "id": "resurrection-chapel-turku",
-  "n": 2054,
+  "n": 2053,
   "name": "Resurrection Chapel",
   "by": "Erik Bryggman",
   "place": "Turku, FI",
@@ -176786,7 +177756,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Resurrection Chapel (Turku)",
   "lead": "Ylösnousemuskappeli (003).jpg",
-  "coords": null,
+  "coords": [
+   60.4336,
+   22.3106
+  ],
   "hotlink": true,
   "images": [
    {
@@ -176867,7 +177840,7 @@ window.BUILDINGS = [
  },
  {
   "id": "turun-sanomat-building",
-  "n": 2055,
+  "n": 2054,
   "name": "Turun Sanomat Building",
   "by": "Alvar Aalto",
   "place": "Turku, FI",
@@ -176886,7 +177859,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Turun Sanomat Building",
   "lead": "File:Turun Sanomat2.JPG",
-  "coords": null,
+  "coords": [
+   60.451,
+   22.2697
+  ],
   "hotlink": true,
   "images": [
    {
@@ -176943,7 +177919,7 @@ window.BUILDINGS = [
  },
  {
   "id": "rautatalo",
-  "n": 2056,
+  "n": 2055,
   "name": "Rautatalo",
   "by": "Alvar Aalto",
   "place": "Helsinki, FI",
@@ -176962,7 +177938,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Rautatalo",
   "lead": "File:Rautatalo.jpg",
-  "coords": null,
+  "coords": [
+   60.1684,
+   24.9434
+  ],
   "hotlink": true,
   "images": [
    {
@@ -177031,7 +178010,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tapiola-church",
-  "n": 2057,
+  "n": 2056,
   "name": "Tapiola Church",
   "by": "Aarno Ruusuvuori",
   "place": "Espoo, FI",
@@ -177050,7 +178029,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Tapiola Church",
   "lead": "File:Tapiolan kirkko.jpg",
-  "coords": null,
+  "coords": [
+   60.1775,
+   24.8089
+  ],
   "hotlink": true,
   "images": [
    {
@@ -177095,7 +178077,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sunila-pulp-mill",
-  "n": 2058,
+  "n": 2057,
   "name": "Sunila Pulp Mill and Housing",
   "by": "Alvar Aalto",
   "place": "Kotka, FI",
@@ -177114,7 +178096,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Sunila paper mill",
   "lead": "File:Sunilan sellutehdas 2024 01.jpg",
-  "coords": null,
+  "coords": [
+   60.49083,
+   26.95167
+  ],
   "hotlink": true,
   "images": [
    {
@@ -177171,7 +178156,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bellavista-klampenborg",
-  "n": 2059,
+  "n": 2058,
   "name": "Bellavista",
   "by": "Arne Jacobsen",
   "place": "Klampenborg, DK",
@@ -177190,7 +178175,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Bellavista (Klampenborg)",
   "lead": "File:Bellavista housing sea view 2008.jpg",
-  "coords": null,
+  "coords": [
+   55.776,
+   12.5899
+  ],
   "hotlink": true,
   "images": [
    {
@@ -177271,7 +178259,7 @@ window.BUILDINGS = [
  },
  {
   "id": "villa-stenersen",
-  "n": 2060,
+  "n": 2059,
   "name": "Villa Stenersen",
   "by": "Arne Korsmo",
   "place": "Oslo, NO",
@@ -177290,7 +178278,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Villa Stenersen",
   "lead": "Villa Stenersen IMG 8298 rk 116907.JPG",
-  "coords": null,
+  "coords": [
+   59.93927,
+   10.69868
+  ],
   "hotlink": true,
   "images": [
    {
@@ -177371,7 +178362,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ekebergrestauranten",
-  "n": 2061,
+  "n": 2060,
   "name": "Ekeberg Restaurant",
   "by": "Lars Backer",
   "place": "Oslo, NO",
@@ -177390,7 +178381,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Ekebergrestauranten",
   "lead": "File:Ekebergrestauranten.jpg",
-  "coords": null,
+  "coords": [
+   59.89921,
+   10.76168
+  ],
   "hotlink": true,
   "images": [
    {
@@ -177461,7 +178455,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sanatorium-joseph-lemaire",
-  "n": 2062,
+  "n": 2061,
   "name": "Sanatorium Joseph Lemaire",
   "by": "Maxime Brunfaut",
   "place": "Overijse, BE",
@@ -177480,7 +178474,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Sanatorium Joseph Lemaire",
   "lead": "File:Sanatorium J.Lemaire, algemeen gezicht - 354846 - onroerenderfgoed.jpg",
-  "coords": null,
+  "coords": [
+   50.75166,
+   4.57507
+  ],
   "hotlink": true,
   "images": [
    {
@@ -177537,7 +178534,7 @@ window.BUILDINGS = [
  },
  {
   "id": "werkbundsiedlung-neubuhl",
-  "n": 2063,
+  "n": 2062,
   "name": "Werkbundsiedlung Neubühl",
   "by": "Haefeli, Moser, Steiger, Hubacher, Roth, Artaria and Schmidt",
   "place": "Zurich, CH",
@@ -177556,7 +178553,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Werkbundsiedlung Neubühl",
   "lead": "File:Wohnkolonie Neubühl, Ostbühlstrasse 33-79 in Zürich-Wollishofen 2011-08-29 18-08-56.jpg",
-  "coords": null,
+  "coords": [
+   47.33278,
+   8.53472
+  ],
   "hotlink": true,
   "images": [
    {
@@ -177613,7 +178613,7 @@ window.BUILDINGS = [
  },
  {
   "id": "werkbundsiedlung-wien",
-  "n": 2064,
+  "n": 2063,
   "name": "Vienna Werkbund Estate",
   "by": "Josef Frank (plan) with about 30 architects incl. Loos, Rietveld, Neutra, Hoffmann",
   "place": "Vienna, AT",
@@ -177632,7 +178632,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Werkbundsiedlung Wien",
   "lead": "File:Werkbundsiedlung Wien 4.JPG",
-  "coords": null,
+  "coords": [
+   48.18,
+   16.269
+  ],
   "hotlink": true,
   "images": [
    {
@@ -177701,7 +178704,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bloco-das-aguas-livres",
-  "n": 2065,
+  "n": 2064,
   "name": "Bloco das Águas Livres",
   "by": "Nuno Teotónio Pereira and Bartolomeu Costa Cabral",
   "place": "Lisbon, PT",
@@ -177720,7 +178723,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Edifício designado «Bloco das Águas Livres»",
   "lead": "File:Edifício Misto Águas Livres - Teotônio Pereira, Costa Cabral (1953-1955) (25309805289).jpg",
-  "coords": null,
+  "coords": [
+   38.7215,
+   -9.15829
+  ],
   "hotlink": true,
   "images": [
    {
@@ -177765,7 +178771,7 @@ window.BUILDINGS = [
  },
  {
   "id": "gobierno-civil-tarragona",
-  "n": 2066,
+  "n": 2065,
   "name": "Gobierno Civil de Tarragona",
   "by": "Alejandro de la Sota",
   "place": "Tarragona, ES",
@@ -177784,7 +178790,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Govern Civil (Tarragona)",
   "lead": "File:Govern Civil.jpg",
-  "coords": null,
+  "coords": [
+   41.11965,
+   1.24483
+  ],
   "hotlink": true,
   "images": [
    {
@@ -177817,7 +178826,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cite-de-la-muette",
-  "n": 2067,
+  "n": 2066,
   "name": "Cité de la Muette",
   "by": "Eugène Beaudouin and Marcel Lods",
   "place": "Drancy, FR",
@@ -177836,7 +178845,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Cité de la Muette",
   "lead": "File:Cité Muette - Drancy (FR93) - 2022-08-06 - 1.jpg",
-  "coords": null,
+  "coords": [
+   48.91995,
+   2.45517
+  ],
   "hotlink": true,
   "images": [
    {
@@ -177917,7 +178929,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palazzo-della-civilta-italiana",
-  "n": 2068,
+  "n": 2067,
   "name": "Palazzo della Civiltà Italiana",
   "by": "Giovanni Guerrini, Ernesto Bruno La Padula, Mario Romano",
   "place": "Rome, IT",
@@ -177936,7 +178948,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Palazzo della Civiltà Italiana",
   "lead": "File:Palazzo della Civiltà Italiana a EUR Roma.jpg",
-  "coords": null,
+  "coords": [
+   41.83668,
+   12.46531
+  ],
   "hotlink": true,
   "images": [
    {
@@ -178031,7 +179046,7 @@ window.BUILDINGS = [
  },
  {
   "id": "stadio-flaminio",
-  "n": 2069,
+  "n": 2068,
   "name": "Stadio Flaminio",
   "by": "Pier Luigi Nervi and Antonio Nervi",
   "place": "Rome, IT",
@@ -178050,7 +179065,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Stadio Flaminio",
   "lead": "File:2012-12-22-Stadio-Flaminio-Rom.jpg",
-  "coords": null,
+  "coords": [
+   41.92694,
+   12.47222
+  ],
   "hotlink": true,
   "images": [
    {
@@ -178095,7 +179113,7 @@ window.BUILDINGS = [
  },
  {
   "id": "dispensario-antituberculoso-barcelona",
-  "n": 2070,
+  "n": 2069,
   "name": "Dispensario Antituberculoso",
   "by": "Josep Lluís Sert, Josep Torres Clavé, Joan Baptista Subirana (GATCPAC)",
   "place": "Barcelona, ES",
@@ -178114,7 +179132,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Dispensari antituberculós",
   "lead": "File:030 Antic dispensari antituberculós, pge. Sant Bernat 10 (Barcelona), façana pl. Terenci Moix.jpg",
-  "coords": null,
+  "coords": [
+   41.38435,
+   2.16505
+  ],
   "hotlink": true,
   "images": [
    {
@@ -178171,7 +179192,7 @@ window.BUILDINGS = [
  },
  {
   "id": "edificio-carrion-madrid",
-  "n": 2071,
+  "n": 2070,
   "name": "Edificio Carrión (Edificio Capitol)",
   "by": "Luis Martínez-Feduchi and Vicente Eced",
   "place": "Madrid, ES",
@@ -178190,7 +179211,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Edificio Carrión",
   "lead": "Edificio Carrión 2024.jpg",
-  "coords": null,
+  "coords": [
+   40.42039,
+   -3.70669
+  ],
   "hotlink": true,
   "images": [
    {
@@ -178249,7 +179273,7 @@ window.BUILDINGS = [
  },
  {
   "id": "engel-house-tel-aviv",
-  "n": 2072,
+  "n": 2071,
   "name": "Engel House",
   "by": "Ze'ev Rechter",
   "place": "Tel Aviv, IL",
@@ -178268,7 +179292,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Engel House",
   "lead": "File:84 Rothschild Boulevard Engel House by David Shankbone.jpg",
-  "coords": null,
+  "coords": [
+   32.06604,
+   34.77771
+  ],
   "hotlink": true,
   "images": [
    {
@@ -178349,7 +179376,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lovell-health-house",
-  "n": 2073,
+  "n": 2072,
   "name": "Lovell Health House",
   "by": "Richard Neutra",
   "place": "Los Angeles, US",
@@ -178368,7 +179395,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Lovell House",
   "lead": "File:Lovell Health House 2.jpg",
-  "coords": null,
+  "coords": [
+   34.11814,
+   -118.28786
+  ],
   "hotlink": true,
   "images": [
    {
@@ -178425,7 +179455,7 @@ window.BUILDINGS = [
  },
  {
   "id": "miller-house-columbus",
-  "n": 2074,
+  "n": 2073,
   "name": "Miller House and Garden",
   "by": "Eero Saarinen; garden by Dan Kiley; interiors by Alexander Girard",
   "place": "Columbus, Indiana, US",
@@ -178525,7 +179555,7 @@ window.BUILDINGS = [
  },
  {
   "id": "manufacturers-trust-company-building",
-  "n": 2075,
+  "n": 2074,
   "name": "Manufacturers Trust Company Building",
   "by": "Gordon Bunshaft and Charles Evans Hughes III (SOM)",
   "place": "New York, US",
@@ -178544,7 +179574,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Manufacturers Trust Company Building",
   "lead": "File:Manufacturers Trust Company Building 510 Fifth Avenue.jpg",
-  "coords": null,
+  "coords": [
+   40.75417,
+   -73.98083
+  ],
   "hotlink": true,
   "images": [
    {
@@ -178625,7 +179658,7 @@ window.BUILDINGS = [
  },
  {
   "id": "first-christian-church-columbus",
-  "n": 2076,
+  "n": 2075,
   "name": "First Christian Church",
   "by": "Eliel Saarinen",
   "place": "Columbus, Indiana, US",
@@ -178725,7 +179758,7 @@ window.BUILDINGS = [
  },
  {
   "id": "villa-stein-de-monzie",
-  "n": 2077,
+  "n": 2076,
   "name": "Villa Stein-de Monzie (Les Terrasses)",
   "by": "Le Corbusier and Pierre Jeanneret",
   "place": "Vaucresson (Garches), FR",
@@ -178744,7 +179777,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Villa Stein-de Monzie",
   "lead": null,
-  "coords": null,
+  "coords": [
+   48.84686,
+   2.17704
+  ],
   "hotlink": true,
   "images": [
    {
@@ -178791,7 +179827,7 @@ window.BUILDINGS = [
  },
  {
   "id": "e-1027",
-  "n": 2078,
+  "n": 2077,
   "name": "E-1027",
   "by": "Eileen Gray and Jean Badovici",
   "place": "Roquebrune-Cap-Martin, FR",
@@ -178810,7 +179846,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Villa E-1027",
   "lead": null,
-  "coords": null,
+  "coords": [
+   43.75988,
+   7.46319
+  ],
   "hotlink": true,
   "images": [
    {
@@ -178831,7 +179870,7 @@ window.BUILDINGS = [
  },
  {
   "id": "iate-tenis-clube-pampulha",
-  "n": 2079,
+  "n": 2078,
   "name": "Iate Tênis Clube, Pampulha",
   "by": "Oscar Niemeyer",
   "place": "Belo Horizonte, BR",
@@ -178850,7 +179889,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Iate Tênis Clube",
   "lead": "File:Iate Clube.jpeg",
-  "coords": null,
+  "coords": [
+   -19.85417,
+   -43.97569
+  ],
   "hotlink": true,
   "images": [
    {
@@ -178883,7 +179925,7 @@ window.BUILDINGS = [
  },
  {
   "id": "oca-ibirapuera",
-  "n": 2080,
+  "n": 2079,
   "name": "Oca, Ibirapuera Park",
   "by": "Oscar Niemeyer",
   "place": "São Paulo, BR",
@@ -178902,7 +179944,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Oca (Parque do Ibirapuera)",
   "lead": "File:Ibirapuera 7.jpg",
-  "coords": null,
+  "coords": [
+   -23.5869,
+   -46.6554
+  ],
   "hotlink": true,
   "images": [
    {
@@ -178983,7 +180028,7 @@ window.BUILDINGS = [
  },
  {
   "id": "pavilhao-da-bienal",
-  "n": 2081,
+  "n": 2080,
   "name": "Bienal Pavilion (Pavilhão Ciccillo Matarazzo)",
   "by": "Oscar Niemeyer",
   "place": "São Paulo, BR",
@@ -179002,7 +180047,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Pavilhão Ciccillo Matarazzo",
   "lead": "File:Bienal São Paulo.jpg",
-  "coords": null,
+  "coords": [
+   -23.58842,
+   -46.65456
+  ],
   "hotlink": true,
   "images": [
    {
@@ -179083,7 +180131,7 @@ window.BUILDINGS = [
  },
  {
   "id": "grande-hotel-ouro-preto",
-  "n": 2082,
+  "n": 2081,
   "name": "Grande Hotel de Ouro Preto",
   "by": "Oscar Niemeyer",
   "place": "Ouro Preto, BR",
@@ -179102,7 +180150,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Grande Hotel de Ouro Preto",
   "lead": "File:Grande Hotel Ouro Preto.jpg",
-  "coords": null,
+  "coords": [
+   -20.38465,
+   -43.50519
+  ],
   "hotlink": true,
   "images": [
    {
@@ -179159,7 +180210,7 @@ window.BUILDINGS = [
  },
  {
   "id": "torre-de-tv-brasilia",
-  "n": 2083,
+  "n": 2082,
   "name": "Brasília TV Tower",
   "by": "Lúcio Costa",
   "place": "Brasília, BR",
@@ -179178,7 +180229,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Torre de TV de Brasília",
   "lead": "File:Brasilia TV Tower Brasil.jpg",
-  "coords": null,
+  "coords": [
+   -15.79054,
+   -47.89297
+  ],
   "hotlink": true,
   "images": [
    {
@@ -179259,7 +180313,7 @@ window.BUILDINGS = [
  },
  {
   "id": "estadio-do-morumbi",
-  "n": 2084,
+  "n": 2083,
   "name": "Morumbi Stadium (Estádio Cícero Pompeu de Toledo)",
   "by": "Vilanova Artigas",
   "place": "São Paulo, BR",
@@ -179278,7 +180332,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Estádio Cícero Pompeu de Toledo",
   "lead": "File:Estádio do Morumbi.jpg",
-  "coords": null,
+  "coords": [
+   -23.60012,
+   -46.72016
+  ],
   "hotlink": true,
   "images": [
    {
@@ -179359,7 +180416,7 @@ window.BUILDINGS = [
  },
  {
   "id": "conjunto-nacional",
-  "n": 2085,
+  "n": 2084,
   "name": "Conjunto Nacional",
   "by": "David Libeskind",
   "place": "São Paulo, BR",
@@ -179378,7 +180435,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Conjunto Nacional",
   "lead": "File:Conjunto Nacional em 31 de julho de 2025.jpg",
-  "coords": null,
+  "coords": [
+   -23.57701,
+   -46.68808
+  ],
   "hotlink": true,
   "images": [
    {
@@ -179459,7 +180519,7 @@ window.BUILDINGS = [
  },
  {
   "id": "edificio-esther",
-  "n": 2086,
+  "n": 2085,
   "name": "Edifício Esther",
   "by": "Álvaro Vital Brazil, Adhemar Marinho",
   "place": "São Paulo, BR",
@@ -179478,7 +180538,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Edifício Esther (São Paulo)",
   "lead": "File:Edificio Esther, July 2012.jpg",
-  "coords": null,
+  "coords": [
+   -23.54464,
+   -46.64269
+  ],
   "hotlink": true,
   "images": [
    {
@@ -179559,7 +180622,7 @@ window.BUILDINGS = [
  },
  {
   "id": "abi-building",
-  "n": 2087,
+  "n": 2086,
   "name": "Brazilian Press Association Building (ABI)",
   "by": "MMM Roberto (Marcelo and Milton Roberto)",
   "place": "Rio de Janeiro, BR",
@@ -179578,7 +180641,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Edifício-sede da Associação Brasileira de Imprensa",
   "lead": "File:Edifício-sede da Associação Brasileira de Imprensa 1.jpg",
-  "coords": null,
+  "coords": [
+   -22.90915,
+   -43.17484
+  ],
   "hotlink": true,
   "images": [
    {
@@ -179623,7 +180689,7 @@ window.BUILDINGS = [
  },
  {
   "id": "teatro-cultura-artistica",
-  "n": 2088,
+  "n": 2087,
   "name": "Teatro Cultura Artística",
   "by": "Rino Levi",
   "place": "São Paulo, BR",
@@ -179642,7 +180708,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Teatro Cultura Artística",
   "lead": "File:Teatro Cultura Artística 01.jpg",
-  "coords": null,
+  "coords": [
+   -23.5493,
+   -46.6459
+  ],
   "hotlink": true,
   "images": [
    {
@@ -179687,7 +180756,7 @@ window.BUILDINGS = [
  },
  {
   "id": "museu-das-missoes",
-  "n": 2089,
+  "n": 2088,
   "name": "Museu das Missões",
   "by": "Lúcio Costa",
   "place": "São Miguel das Missões, BR",
@@ -179706,7 +180775,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Museu das Missões",
   "lead": "File:Museu das Missões (RS) (46454687384).jpg",
-  "coords": null,
+  "coords": [
+   -28.54996,
+   -54.55468
+  ],
   "hotlink": true,
   "images": [
    {
@@ -179751,7 +180823,7 @@ window.BUILDINGS = [
  },
  {
   "id": "rodoviaria-do-plano-piloto",
-  "n": 2090,
+  "n": 2089,
   "name": "Brasília Bus Station (Rodoviária do Plano Piloto)",
   "by": "Lúcio Costa",
   "place": "Brasília, BR",
@@ -179770,7 +180842,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Rodoviária do Plano Piloto",
   "lead": "Brasília - Eixo monumental - rodoviária.jpg",
-  "coords": null,
+  "coords": [
+   -15.79339,
+   -47.88261
+  ],
   "hotlink": true,
   "images": [
    {
@@ -179817,7 +180892,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palacio-da-justica-brasilia",
-  "n": 2091,
+  "n": 2090,
   "name": "Palácio da Justiça (Ministry of Justice), Brasília",
   "by": "Oscar Niemeyer",
   "place": "Brasília, BR",
@@ -179836,7 +180911,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Palácio da Justiça (Brasília)",
   "lead": "File:Brasilia PalaciodaJustica1.jpg",
-  "coords": null,
+  "coords": [
+   -15.79722,
+   -47.86583
+  ],
   "hotlink": true,
   "images": [
    {
@@ -179905,7 +180983,7 @@ window.BUILDINGS = [
  },
  {
   "id": "edificio-niemeyer-bh",
-  "n": 2092,
+  "n": 2091,
   "name": "Edifício Niemeyer",
   "by": "Oscar Niemeyer",
   "place": "Belo Horizonte, BR",
@@ -179924,7 +181002,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Edifício Niemeyer",
   "lead": "File:Belo Horizonte - Edifício Niemeyer (1).jpg",
-  "coords": null,
+  "coords": [
+   -19.93273,
+   -43.93741
+  ],
   "hotlink": true,
   "images": [
    {
@@ -179993,7 +181074,7 @@ window.BUILDINGS = [
  },
  {
   "id": "conjunto-jk-belo-horizonte",
-  "n": 2093,
+  "n": 2092,
   "name": "Conjunto JK (Conjunto Governador Kubitschek)",
   "by": "Oscar Niemeyer",
   "place": "Belo Horizonte, BR",
@@ -180012,7 +181093,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Conjunto Governador Kubitschek",
   "lead": "File:Belo Horizonte (8999063140).jpg",
-  "coords": null,
+  "coords": [
+   -19.92429,
+   -43.94628
+  ],
   "hotlink": true,
   "images": [
    {
@@ -180081,7 +181165,7 @@ window.BUILDINGS = [
  },
  {
   "id": "estadio-olimpico-universitario",
-  "n": 2094,
+  "n": 2093,
   "name": "Estadio Olímpico Universitario",
   "by": "Augusto Pérez Palacios, Raúl Salinas, Jorge Bravo Moro",
   "place": "Mexico City, MX",
@@ -180100,7 +181184,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Estadio Olímpico Universitario",
   "lead": "File:Aerial Olímpico Universitario.jpg",
-  "coords": null,
+  "coords": [
+   19.33193,
+   -99.19211
+  ],
   "hotlink": true,
   "images": [
    {
@@ -180183,7 +181270,7 @@ window.BUILDINGS = [
  },
  {
   "id": "torre-de-rectoria-unam",
-  "n": 2095,
+  "n": 2094,
   "name": "Rectorate Tower, UNAM",
   "by": "Mario Pani, Enrique del Moral, Salvador Ortega Flores",
   "place": "Mexico City, MX",
@@ -180202,7 +181289,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Torre de Rectoría de la UNAM",
   "lead": "File:AdminBuildingCUMexico2.JPG",
-  "coords": null,
+  "coords": [
+   19.33195,
+   -99.18823
+  ],
   "hotlink": true,
   "images": [
    {
@@ -180283,7 +181373,7 @@ window.BUILDINGS = [
  },
  {
   "id": "torre-insignia",
-  "n": 2096,
+  "n": 2095,
   "name": "Torre Insignia (Banobras Tower)",
   "by": "Mario Pani",
   "place": "Mexico City, MX",
@@ -180302,7 +181392,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Torre Insignia",
   "lead": "File:Vista de la cara sur de la Torre Insignia desde la av. Ricardo Flores Magón 03 (cropped).jpg",
-  "coords": null,
+  "coords": [
+   19.45454,
+   -99.15111
+  ],
   "hotlink": true,
   "images": [
    {
@@ -180359,7 +181452,7 @@ window.BUILDINGS = [
  },
  {
   "id": "estadio-azteca",
-  "n": 2097,
+  "n": 2096,
   "name": "Estadio Azteca",
   "by": "Pedro Ramírez Vázquez, Rafael Mijares",
   "place": "Mexico City, MX",
@@ -180378,7 +181471,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Estadio Azteca",
   "lead": "File:Estadio Azteca desde el aire 1.jpg",
-  "coords": null,
+  "coords": [
+   19.30306,
+   -99.15056
+  ],
   "hotlink": true,
   "images": [
    {
@@ -180459,7 +181555,7 @@ window.BUILDINGS = [
  },
  {
   "id": "casa-ogorman-1929",
-  "n": 2098,
+  "n": 2097,
   "name": "Casa O'Gorman 1929 (Cecil O'Gorman House)",
   "by": "Juan O'Gorman",
   "place": "Mexico City, MX",
@@ -180499,7 +181595,7 @@ window.BUILDINGS = [
  },
  {
   "id": "edificio-basurto",
-  "n": 2099,
+  "n": 2098,
   "name": "Edificio Basurto",
   "by": "Francisco J. Serrano",
   "place": "Mexico City, MX",
@@ -180518,7 +181614,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Edificio Basurto",
   "lead": "File:Edificio Basurto - Colonia Condesa - Ciudad de México - 1.jpg",
-  "coords": null,
+  "coords": [
+   19.41379,
+   -99.16978
+  ],
   "hotlink": true,
   "images": [
    {
@@ -180563,7 +181662,7 @@ window.BUILDINGS = [
  },
  {
   "id": "plaza-cubierta-ucv",
-  "n": 2100,
+  "n": 2099,
   "name": "Covered Plaza, University City of Caracas",
   "by": "Carlos Raúl Villanueva",
   "place": "Caracas, VE",
@@ -180629,7 +181728,7 @@ window.BUILDINGS = [
  },
  {
   "id": "centro-simon-bolivar",
-  "n": 2101,
+  "n": 2100,
   "name": "Centro Simón Bolívar (El Silencio Towers)",
   "by": "Cipriano Domínguez",
   "place": "Caracas, VE",
@@ -180648,7 +181747,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Centro Simón Bolívar",
   "lead": "File:Centro Simon Bolivar 2013 002 vertical fix version.jpg",
-  "coords": null,
+  "coords": [
+   10.50278,
+   -66.91611
+  ],
   "hotlink": true,
   "images": [
    {
@@ -180717,7 +181819,7 @@ window.BUILDINGS = [
  },
  {
   "id": "parque-central-caracas",
-  "n": 2102,
+  "n": 2101,
   "name": "Parque Central Complex",
   "by": "Daniel Fernández-Shaw (Siso, Shaw & Asociados)",
   "place": "Caracas, VE",
@@ -180736,7 +181838,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Parque Central Complex",
   "lead": "El centro de Caracas, las torres de Parque Central.jpg",
-  "coords": null,
+  "coords": [
+   10.49831,
+   -66.90131
+  ],
   "hotlink": true,
   "images": [
    {
@@ -180817,7 +181922,7 @@ window.BUILDINGS = [
  },
  {
   "id": "villa-planchart",
-  "n": 2103,
+  "n": 2102,
   "name": "Villa Planchart (Quinta El Cerrito)",
   "by": "Gio Ponti",
   "place": "Caracas, VE",
@@ -180836,7 +181941,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Villa Planchart (Quinta El Cerrito)",
   "lead": "File:Villa Planchart frente (6021173226).jpg",
-  "coords": null,
+  "coords": [
+   10.47389,
+   -66.85278
+  ],
   "hotlink": true,
   "images": [
    {
@@ -180857,7 +181965,7 @@ window.BUILDINGS = [
  },
  {
   "id": "museo-de-bellas-artes-caracas",
-  "n": 2104,
+  "n": 2103,
   "name": "Museo de Bellas Artes de Caracas (1976 building)",
   "by": "Carlos Raúl Villanueva",
   "place": "Caracas, VE",
@@ -180876,7 +181984,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Museo de Bellas Artes de Caracas edificio 2",
   "lead": "File:Bellas Artes de Caracas 2013 050.JPG",
-  "coords": null,
+  "coords": [
+   10.50064,
+   -66.89697
+  ],
   "hotlink": true,
   "images": [
    {
@@ -180909,7 +182020,7 @@ window.BUILDINGS = [
  },
  {
   "id": "edificio-panamericano",
-  "n": 2105,
+  "n": 2104,
   "name": "Edificio Panamericano",
   "by": "Raúl Sichero",
   "place": "Montevideo, UY",
@@ -180928,7 +182039,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Edificio Panamericano",
   "lead": "File:Edificio Panamericano (1).jpg",
-  "coords": null,
+  "coords": [
+   -34.90892,
+   -56.13486
+  ],
   "hotlink": true,
   "images": [
    {
@@ -180997,7 +182111,7 @@ window.BUILDINGS = [
  },
  {
   "id": "facultad-de-arquitectura-udelar",
-  "n": 2106,
+  "n": 2105,
   "name": "Faculty of Architecture, University of the Republic",
   "by": "Román Fresnedo Siri, Mario Muccinelli",
   "place": "Montevideo, UY",
@@ -181097,7 +182211,7 @@ window.BUILDINGS = [
  },
  {
   "id": "paho-headquarters",
-  "n": 2107,
+  "n": 2106,
   "name": "Pan American Health Organization Headquarters",
   "by": "Román Fresnedo Siri",
   "place": "Washington, D.C., US",
@@ -181197,7 +182311,7 @@ window.BUILDINGS = [
  },
  {
   "id": "estadio-centenario",
-  "n": 2108,
+  "n": 2107,
   "name": "Estadio Centenario",
   "by": "Juan Antonio Scasso",
   "place": "Montevideo, UY",
@@ -181216,7 +182330,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Estadio Centenario",
   "lead": "File:Estadio Centenario (Montevideo) Tribuna Olimpica with Torre de los Homenajes.jpg",
-  "coords": null,
+  "coords": [
+   -34.89444,
+   -56.15278
+  ],
   "hotlink": true,
   "images": [
    {
@@ -181311,7 +182428,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ministerio-de-obras-publicas-buenos-aires",
-  "n": 2109,
+  "n": 2108,
   "name": "Ministry of Public Works Building",
   "by": "José Hortal",
   "place": "Buenos Aires, AR",
@@ -181330,7 +182447,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Ministry of Public Works building",
   "lead": "File:Ministry-of-Public-Works-Building Buenos-Aires.jpg",
-  "coords": null,
+  "coords": [
+   -34.61194,
+   -58.38139
+  ],
   "hotlink": true,
   "images": [
    {
@@ -181399,7 +182519,7 @@ window.BUILDINGS = [
  },
  {
   "id": "torres-de-tajamar",
-  "n": 2110,
+  "n": 2109,
   "name": "Torres de Tajamar",
   "by": "Luis Prieto Vial with Bresciani, Valdés, Castillo, Huidobro",
   "place": "Santiago, CL",
@@ -181418,7 +182538,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Torres de Tajamar",
   "lead": "File:Torres de Tajamar, Providencia, Santiago 20230311 01.jpg",
-  "coords": null,
+  "coords": [
+   -33.42983,
+   -70.62309
+  ],
   "hotlink": true,
   "images": [
    {
@@ -181499,7 +182622,7 @@ window.BUILDINGS = [
  },
  {
   "id": "templo-votivo-de-maipu",
-  "n": 2111,
+  "n": 2110,
   "name": "Votive Temple of Maipú",
   "by": "Juan Martínez Gutiérrez",
   "place": "Maipú, Santiago, CL",
@@ -181518,7 +182641,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Templo Votivo de Maipú",
   "lead": "File:Basílica de Maipú con forma arquitectónica que imita virgen María con capa.JPG",
-  "coords": null,
+  "coords": [
+   -33.51078,
+   -70.76607
+  ],
   "hotlink": true,
   "images": [
    {
@@ -181577,7 +182703,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mambo-bogota",
-  "n": 2112,
+  "n": 2111,
   "name": "Museo de Arte Moderno de Bogotá (MAMBO)",
   "by": "Rogelio Salmona",
   "place": "Bogotá, CO",
@@ -181596,7 +182722,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Museo de Arte Moderno de Bogotá",
   "lead": "File:Bogotá exterior Museo de Arte Moderno MAMBO.JPG",
-  "coords": null,
+  "coords": [
+   4.61022,
+   -74.06933
+  ],
   "hotlink": true,
   "images": [
    {
@@ -181677,7 +182806,7 @@ window.BUILDINGS = [
  },
  {
   "id": "edificio-avianca",
-  "n": 2113,
+  "n": 2112,
   "name": "Avianca Building",
   "by": "Esguerra, Sáenz, Urdaneta, Samper y Cía., with Ricaurte Prieto Carrizosa",
   "place": "Bogotá, CO",
@@ -181696,7 +182825,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Edificio Avianca",
   "lead": "File:2019 Bogotá - Torre Avianca.jpg",
-  "coords": null,
+  "coords": [
+   4.60278,
+   -74.0722
+  ],
   "hotlink": true,
   "images": [
    {
@@ -181753,7 +182885,7 @@ window.BUILDINGS = [
  },
  {
   "id": "edificio-petroperu",
-  "n": 2114,
+  "n": 2113,
   "name": "Petroperú Building",
   "by": "Daniel Arana Ríos, Walter Weberhofer",
   "place": "Lima, PE",
@@ -181772,7 +182904,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Edificio Petroperú",
   "lead": "File:Edificiopetroperu.jpg",
-  "coords": null,
+  "coords": [
+   -12.0979,
+   -77.0249
+  ],
   "hotlink": true,
   "images": [
    {
@@ -181841,7 +182976,7 @@ window.BUILDINGS = [
  },
  {
   "id": "edificio-lopez-serrano",
-  "n": 2115,
+  "n": 2114,
   "name": "Edificio López Serrano",
   "by": "Ricardo Mira, Miguel Rosich",
   "place": "Havana, CU",
@@ -181860,7 +182995,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Edificio López Serrano",
   "lead": "File:Edifício Lopez Serrano (35464009654) cropped.jpg",
-  "coords": null,
+  "coords": [
+   23.14422,
+   -82.38721
+  ],
   "hotlink": true,
   "images": [
    {
@@ -181955,7 +183093,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hotel-habana-libre",
-  "n": 2116,
+  "n": 2115,
   "name": "Hotel Habana Libre (former Habana Hilton)",
   "by": "Welton Becket & Associates, with Arroyo y Menéndez",
   "place": "Havana, CU",
@@ -181974,7 +183112,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Hotel Havana Libre",
   "lead": "File:Hotel «Habana Libre» - panoramio.jpg",
-  "coords": null,
+  "coords": [
+   23.13917,
+   -82.38278
+  ],
   "hotlink": true,
   "images": [
    {
@@ -182055,7 +183196,7 @@ window.BUILDINGS = [
  },
  {
   "id": "biblioteca-luis-angel-arango",
-  "n": 2117,
+  "n": 2116,
   "name": "Biblioteca Luis Ángel Arango",
   "by": "Esguerra, Sáenz, Urdaneta, Samper y Cía.",
   "place": "Bogotá, CO",
@@ -182074,7 +183215,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Exterior of the Biblioteca Luis Ángel Arango",
   "lead": "File:Biblioteca Luis Ángel Arango (Bogotá) 01.JPG",
-  "coords": null,
+  "coords": [
+   4.59722,
+   -74.07278
+  ],
   "hotlink": true,
   "images": [
    {
@@ -182155,7 +183299,7 @@ window.BUILDINGS = [
  },
  {
   "id": "new-york-state-pavilion",
-  "n": 2118,
+  "n": 2117,
   "name": "New York State Pavilion",
   "by": "Philip Johnson and Richard Foster",
   "place": "New York City, US",
@@ -182174,7 +183318,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:New York State Pavilion",
   "lead": "File:2003-03-New-York-State-Pavilion-Flushing-Meadows-Corona-Park-02.jpg",
-  "coords": null,
+  "coords": [
+   40.74403,
+   -73.84442
+  ],
   "hotlink": true,
   "images": [
    {
@@ -182255,7 +183402,7 @@ window.BUILDINGS = [
  },
  {
   "id": "no-1-poultry",
-  "n": 2119,
+  "n": 2118,
   "name": "No 1 Poultry",
   "by": "James Stirling, Michael Wilford and Associates",
   "place": "London, GB",
@@ -182274,7 +183421,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:1 Poultry",
   "lead": "File:London - No 1 Poultry.jpg",
-  "coords": null,
+  "coords": [
+   51.51333,
+   -0.09083
+  ],
   "hotlink": true,
   "images": [
    {
@@ -182355,7 +183505,7 @@ window.BUILDINGS = [
  },
  {
   "id": "the-pyramids-indianapolis",
-  "n": 2120,
+  "n": 2119,
   "name": "The Pyramids (College Life Insurance)",
   "by": "Kevin Roche John Dinkeloo and Associates",
   "place": "Indianapolis, US",
@@ -182374,7 +183524,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:The Pyramids (Indianapolis)",
   "lead": "File:THE PYRAMIDS at College Park - 110912-1940-jikatu.jpg",
-  "coords": null,
+  "coords": [
+   39.9201,
+   -86.2209
+  ],
   "hotlink": true,
   "images": [
    {
@@ -182431,7 +183584,7 @@ window.BUILDINGS = [
  },
  {
   "id": "dallas-city-hall",
-  "n": 2121,
+  "n": 2120,
   "name": "Dallas City Hall",
   "by": "I. M. Pei",
   "place": "Dallas, US",
@@ -182450,7 +183603,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Dallas City Hall",
   "lead": "File:DallasCityHallA.jpg",
-  "coords": null,
+  "coords": [
+   32.77625,
+   -96.79696
+  ],
   "hotlink": true,
   "images": [
    {
@@ -182495,7 +183651,7 @@ window.BUILDINGS = [
  },
  {
   "id": "macba-barcelona",
-  "n": 2122,
+  "n": 2121,
   "name": "Barcelona Museum of Contemporary Art (MACBA)",
   "by": "Richard Meier",
   "place": "Barcelona, ES",
@@ -182514,7 +183670,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Exterior of the Museu d'Art Contemporani de Barcelona",
   "lead": "File:Museu d'Art Contemporani de Barcelona 0769.jpg",
-  "coords": null,
+  "coords": [
+   41.38311,
+   2.16679
+  ],
   "hotlink": true,
   "images": [
    {
@@ -182595,7 +183754,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bensberg-town-hall",
-  "n": 2123,
+  "n": 2122,
   "name": "Bensberg Town Hall",
   "by": "Gottfried Böhm",
   "place": "Bergisch Gladbach, DE",
@@ -182614,7 +183773,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Rathaus Bensberg",
   "lead": "File:Bensberg Germany Rathaus-und-altes-Schloss-01.jpg",
-  "coords": null,
+  "coords": [
+   50.96502,
+   7.1634
+  ],
   "hotlink": true,
   "images": [
    {
@@ -182695,7 +183857,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mondadori-palace",
-  "n": 2124,
+  "n": 2123,
   "name": "Mondadori Palace",
   "by": "Oscar Niemeyer",
   "place": "Segrate, IT",
@@ -182714,7 +183876,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Mondadori headquarters",
   "lead": "File:Mondadori headquarters by Oscar Niemeyer, Segrate (Milano) 07.jpg",
-  "coords": null,
+  "coords": [
+   45.47479,
+   9.29886
+  ],
   "hotlink": true,
   "images": [
    {
@@ -182747,7 +183912,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kagawa-prefectural-gymnasium",
-  "n": 2125,
+  "n": 2124,
   "name": "Kagawa Prefectural Gymnasium",
   "by": "Kenzō Tange",
   "place": "Takamatsu, JP",
@@ -182766,7 +183931,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Takamatsu City Kagawa Gymnasium",
   "lead": "File:Kagawa prefectural Gym.jpg",
-  "coords": null,
+  "coords": [
+   34.25509,
+   134.02877
+  ],
   "hotlink": true,
   "images": [
    {
@@ -182799,7 +183967,7 @@ window.BUILDINGS = [
  },
  {
   "id": "stata-center",
-  "n": 2126,
+  "n": 2125,
   "name": "Ray and Maria Stata Center (MIT Building 32)",
   "by": "Frank Gehry",
   "place": "Cambridge, Massachusetts, US",
@@ -182818,7 +183986,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Stata Center (MIT Building 32)",
   "lead": "File:2017 Stata Center (MIT Building 32) 01.jpg",
-  "coords": null,
+  "coords": [
+   42.36154,
+   -71.09056
+  ],
   "hotlink": true,
   "images": [
    {
@@ -182899,7 +184070,7 @@ window.BUILDINGS = [
  },
  {
   "id": "quartier-schutzenstrasse",
-  "n": 2127,
+  "n": 2126,
   "name": "Quartier Schützenstraße",
   "by": "Aldo Rossi",
   "place": "Berlin, DE",
@@ -182918,7 +184089,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Quartier Schützenstraße",
   "lead": "File:Berlin - Schützenquartier.jpg",
-  "coords": null,
+  "coords": [
+   52.50827,
+   13.3933
+  ],
   "hotlink": true,
   "images": [
    {
@@ -183013,7 +184187,7 @@ window.BUILDINGS = [
  },
  {
   "id": "franklin-court",
-  "n": 2128,
+  "n": 2127,
   "name": "Franklin Court",
   "by": "Venturi and Rauch (Robert Venturi, Denise Scott Brown)",
   "place": "Philadelphia, US",
@@ -183032,7 +184206,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Franklin Court, Philadelphia",
   "lead": "File:The large white steel frame in the foreground marks the location and size of Benjamin Franklin's home in Franklin Court (3d00c6b9-155d-451f-67cb-cdfa110dc69e).jpg",
-  "coords": null,
+  "coords": [
+   39.94966,
+   -75.14659
+  ],
   "hotlink": true,
   "images": [
    {
@@ -183113,7 +184290,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cgac-santiago",
-  "n": 2129,
+  "n": 2128,
   "name": "Galician Centre of Contemporary Art (CGAC)",
   "by": "Álvaro Siza",
   "place": "Santiago de Compostela, ES",
@@ -183132,7 +184309,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Exterior of the Centro Galego de Arte Contemporánea",
   "lead": "File:CGAC Santiago de Compostela.jpg",
-  "coords": null,
+  "coords": [
+   42.88253,
+   -8.53935
+  ],
   "hotlink": true,
   "images": [
    {
@@ -183189,7 +184369,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lvmh-tower",
-  "n": 2130,
+  "n": 2129,
   "name": "LVMH Tower",
   "by": "Christian de Portzamparc",
   "place": "New York City, US",
@@ -183208,7 +184388,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:LVMH Tower",
   "lead": "File:LVMH Tower (55283755508).jpg",
-  "coords": null,
+  "coords": [
+   40.7627,
+   -73.9727
+  ],
   "hotlink": true,
   "images": [
    {
@@ -183289,7 +184472,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hill-of-the-buddha",
-  "n": 2131,
+  "n": 2130,
   "name": "Hill of the Buddha",
   "by": "Tadao Ando",
   "place": "Sapporo, JP",
@@ -183308,7 +184491,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Hill of the Buddha",
   "lead": "File:Hill of the Buddha, Makomanai Takino Cemetery 1 - Jul 11, 2020.jpg",
-  "coords": null,
+  "coords": [
+   42.92056,
+   141.36275
+  ],
   "hotlink": true,
   "images": [
    {
@@ -183341,7 +184527,7 @@ window.BUILDINGS = [
  },
  {
   "id": "murcia-town-hall-extension",
-  "n": 2132,
+  "n": 2131,
   "name": "Murcia Town Hall Extension",
   "by": "Rafael Moneo",
   "place": "Murcia, ES",
@@ -183417,7 +184603,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kansai-airport-terminal-1",
-  "n": 2133,
+  "n": 2132,
   "name": "Kansai International Airport Terminal 1",
   "by": "Renzo Piano Building Workshop",
   "place": "Izumisano, Osaka, JP",
@@ -183436,7 +184622,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Kansai International Airport Terminal 1",
   "lead": "Osaka Kansai Int'l Airport Terminal1 (17567741930).jpg",
-  "coords": null,
+  "coords": [
+   34.4342,
+   135.2451
+  ],
   "hotlink": true,
   "images": [
    {
@@ -183481,7 +184670,7 @@ window.BUILDINGS = [
  },
  {
   "id": "zentrum-paul-klee",
-  "n": 2134,
+  "n": 2133,
   "name": "Zentrum Paul Klee",
   "by": "Renzo Piano Building Workshop",
   "place": "Bern, CH",
@@ -183500,7 +184689,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Zentrum Paul Klee",
   "lead": "File:Zentrum Paul Klee, Bern - ch.jpg",
-  "coords": null,
+  "coords": [
+   46.94917,
+   7.47389
+  ],
   "hotlink": true,
   "images": [
    {
@@ -183596,7 +184788,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hong-kong-airport-terminal-1",
-  "n": 2135,
+  "n": 2134,
   "name": "Hong Kong International Airport Terminal 1",
   "by": "Foster + Partners",
   "place": "Hong Kong, HK",
@@ -183615,7 +184807,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Hong Kong International Airport Terminal 1",
   "lead": "File:HKG terminal 2013-08-17.JPG",
-  "coords": null,
+  "coords": [
+   22.31499,
+   113.93442
+  ],
   "hotlink": true,
   "images": [
    {
@@ -183684,7 +184879,7 @@ window.BUILDINGS = [
  },
  {
   "id": "apple-park",
-  "n": 2136,
+  "n": 2135,
   "name": "Apple Park",
   "by": "Foster + Partners",
   "place": "Cupertino, US",
@@ -183703,7 +184898,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Apple Park",
   "lead": "File:Apple Park Outer.jpg",
-  "coords": null,
+  "coords": [
+   37.33479,
+   -122.009
+  ],
   "hotlink": true,
   "images": [
    {
@@ -183772,7 +184970,7 @@ window.BUILDINGS = [
  },
  {
   "id": "milstein-hall",
-  "n": 2137,
+  "n": 2136,
   "name": "Milstein Hall, Cornell University",
   "by": "OMA (Rem Koolhaas, Shohei Shigematsu)",
   "place": "Ithaca, US",
@@ -183791,7 +184989,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Milstein Hall",
   "lead": "File:Milstein Hall, Cornell University.jpg",
-  "coords": null,
+  "coords": [
+   42.45122,
+   -76.48352
+  ],
   "hotlink": true,
   "images": [
    {
@@ -183848,7 +185049,7 @@ window.BUILDINGS = [
  },
  {
   "id": "prada-aoyama",
-  "n": 2138,
+  "n": 2137,
   "name": "Prada Aoyama",
   "by": "Herzog & de Meuron",
   "place": "Tokyo, JP",
@@ -183867,7 +185068,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Prada Aoyama",
   "lead": "File:PRADA BOUTIQUE AOYAMA.jpg",
-  "coords": null,
+  "coords": [
+   35.6956,
+   139.82557
+  ],
   "hotlink": true,
   "images": [
    {
@@ -183948,7 +185152,7 @@ window.BUILDINGS = [
  },
  {
   "id": "fredensborg-houses",
-  "n": 2139,
+  "n": 2138,
   "name": "Fredensborg Houses",
   "by": "Jørn Utzon",
   "place": "Fredensborg, DK",
@@ -183967,7 +185171,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Fredensborghusene",
   "lead": "File:Fredensborg Houses 1.jpg",
-  "coords": null,
+  "coords": [
+   55.9757,
+   12.3932
+  ],
   "hotlink": true,
   "images": [
    {
@@ -184024,7 +185231,7 @@ window.BUILDINGS = [
  },
  {
   "id": "pierresvives",
-  "n": 2140,
+  "n": 2139,
   "name": "Pierresvives",
   "by": "Zaha Hadid Architects",
   "place": "Montpellier, FR",
@@ -184043,7 +185250,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Pierres vives",
   "lead": "File:Pierres Vives by Zaha Hadid.jpg",
-  "coords": null,
+  "coords": [
+   43.62416,
+   3.82307
+  ],
   "hotlink": true,
   "images": [
    {
@@ -184076,7 +185286,7 @@ window.BUILDINGS = [
  },
  {
   "id": "european-court-of-human-rights-building",
-  "n": 2141,
+  "n": 2140,
   "name": "European Court of Human Rights Building",
   "by": "Richard Rogers Partnership with Claude Bucher",
   "place": "Strasbourg, FR",
@@ -184095,7 +185305,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:European Court of Human Rights",
   "lead": "File:Cour européenne des droits de l'homme (Strasbourg) (2).jpg",
-  "coords": null,
+  "coords": [
+   48.59694,
+   7.77472
+  ],
   "hotlink": true,
   "images": [
    {
@@ -184140,7 +185353,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kkl-luzern",
-  "n": 2142,
+  "n": 2141,
   "name": "Lucerne Culture and Congress Centre (KKL)",
   "by": "Ateliers Jean Nouvel",
   "place": "Lucerne, CH",
@@ -184159,7 +185372,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Kultur- und Kongresszentrum Luzern",
   "lead": "File:KKL Luzern. Kultur- und Kongresszentrum Luzern.jpg",
-  "coords": null,
+  "coords": [
+   47.0506,
+   8.31212
+  ],
   "hotlink": true,
   "images": [
    {
@@ -184228,7 +185444,7 @@ window.BUILDINGS = [
  },
  {
   "id": "shelters-roman-ruins-chur",
-  "n": 2143,
+  "n": 2142,
   "name": "Shelters for the Roman Ruins, Chur",
   "by": "Peter Zumthor",
   "place": "Chur, CH",
@@ -184247,7 +185463,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Schutzbauten Welschdörfli",
   "lead": "File:Chur Schutzbauten Welschdörfli 1.jpg",
-  "coords": null,
+  "coords": [
+   46.84625,
+   9.52663
+  ],
   "hotlink": true,
   "images": [
    {
@@ -184304,7 +185523,7 @@ window.BUILDINGS = [
  },
  {
   "id": "zollverein-school",
-  "n": 2144,
+  "n": 2143,
   "name": "Zollverein School of Management and Design",
   "by": "SANAA (Kazuyo Sejima, Ryue Nishizawa)",
   "place": "Essen, DE",
@@ -184323,7 +185542,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:SANAA building at Zollverein Essen",
   "lead": "File:Zeche Zollverein in Essen - Sanaa-Gebäude.JPG",
-  "coords": null,
+  "coords": [
+   51.4881,
+   7.04767
+  ],
   "hotlink": true,
   "images": [
    {
@@ -184392,7 +185614,7 @@ window.BUILDINGS = [
  },
  {
   "id": "burgo-tower",
-  "n": 2145,
+  "n": 2144,
   "name": "Burgo Tower",
   "by": "Eduardo Souto de Moura",
   "place": "Porto, PT",
@@ -184480,7 +185702,7 @@ window.BUILDINGS = [
  },
  {
   "id": "meiso-no-mori",
-  "n": 2146,
+  "n": 2145,
   "name": "Meiso no Mori Municipal Funeral Hall",
   "by": "Toyo Ito",
   "place": "Kakamigahara, JP",
@@ -184499,7 +185721,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Meiso no Mori, Kakamigahara",
   "lead": "File:Meiso no Mori, Kakamigahara - Dec 30, 2008 (02).jpg",
-  "coords": null,
+  "coords": [
+   35.42042,
+   136.83694
+  ],
   "hotlink": true,
   "images": [
    {
@@ -184532,7 +185757,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kaohsiung-national-stadium",
-  "n": 2147,
+  "n": 2146,
   "name": "National Stadium, Kaohsiung (World Games Stadium)",
   "by": "Toyo Ito",
   "place": "Kaohsiung, TW",
@@ -184551,7 +185776,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:World Games Stadium",
   "lead": "File:2009-05-23 World Games Stadium, Kaohsiung 01.jpg",
-  "coords": null,
+  "coords": [
+   22.70278,
+   120.295
+  ],
   "hotlink": true,
   "images": [
    {
@@ -184632,7 +185860,7 @@ window.BUILDINGS = [
  },
  {
   "id": "swatch-headquarters",
-  "n": 2148,
+  "n": 2147,
   "name": "Swatch Headquarters, Biel",
   "by": "Shigeru Ban Architects",
   "place": "Biel/Bienne, CH",
@@ -184651,7 +185879,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Headquarters of Swatch, Biel/Bienne",
   "lead": "Straßenseitige Fassade.jpg",
-  "coords": null,
+  "coords": [
+   47.14405,
+   7.2609
+  ],
   "hotlink": true,
   "images": [
    {
@@ -184732,7 +185963,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tanzbrunnen-cologne",
-  "n": 2149,
+  "n": 2148,
   "name": "Tanzbrunnen (Star Wave Tent)",
   "by": "Frei Otto",
   "place": "Cologne, DE",
@@ -184751,7 +185982,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Sternwellenzelt",
   "lead": "File:Tanzbrunnen-Köln-Deutz-011.JPG",
-  "coords": null,
+  "coords": [
+   50.94645,
+   6.97183
+  ],
   "hotlink": true,
   "images": [
    {
@@ -184808,7 +186042,7 @@ window.BUILDINGS = [
  },
  {
   "id": "crematorium-hofheide",
-  "n": 2150,
+  "n": 2149,
   "name": "Crematorium Hofheide",
   "by": "RCR Arquitectes with Coussée & Goris",
   "place": "Holsbeek, BE",
@@ -184827,7 +186061,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Crematorium Hofheide",
   "lead": "File:Crematorium Hofheide in Holsbeek 02.jpg",
-  "coords": null,
+  "coords": [
+   50.9598,
+   4.84073
+  ],
   "hotlink": true,
   "images": [
    {
@@ -184884,7 +186121,7 @@ window.BUILDINGS = [
  },
  {
   "id": "nara-centennial-hall",
-  "n": 2151,
+  "n": 2150,
   "name": "Nara Centennial Hall",
   "by": "Arata Isozaki",
   "place": "Nara, JP",
@@ -184903,7 +186140,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Nara Centennial Hall",
   "lead": "File:Nara Centennial Hall02s3872.jpg",
-  "coords": null,
+  "coords": [
+   34.68028,
+   135.81639
+  ],
   "hotlink": true,
   "images": [
    {
@@ -184960,7 +186200,7 @@ window.BUILDINGS = [
  },
  {
   "id": "marshall-building-lse",
-  "n": 2152,
+  "n": 2151,
   "name": "Marshall Building, London School of Economics",
   "by": "Grafton Architects (Yvonne Farrell, Shelley McNamara)",
   "place": "London, GB",
@@ -185036,7 +186276,7 @@ window.BUILDINGS = [
  },
  {
   "id": "opera-village-laongo",
-  "n": 2153,
+  "n": 2152,
   "name": "Opera Village (Operndorf Afrika)",
   "by": "Diébédo Francis Kéré",
   "place": "Laongo, BF",
@@ -185055,7 +186295,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Opera village",
   "lead": "File:Foto Sierd Hoekstra (6).jpg",
-  "coords": null,
+  "coords": [
+   12.54578,
+   -1.28039
+  ],
   "hotlink": true,
   "images": [
    {
@@ -185088,7 +186331,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kunsthaus-zurich-extension",
-  "n": 2154,
+  "n": 2153,
   "name": "Kunsthaus Zürich Extension",
   "by": "David Chipperfield Architects",
   "place": "Zurich, CH",
@@ -185107,7 +186350,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Kunsthaus Zürich (Heimplatz 5)",
   "lead": "File:Chipperfield Candrian.jpg",
-  "coords": null,
+  "coords": [
+   47.3711,
+   8.5491
+  ],
   "hotlink": true,
   "images": [
    {
@@ -185140,7 +186386,7 @@ window.BUILDINGS = [
  },
  {
   "id": "west-village-chengdu",
-  "n": 2155,
+  "n": 2154,
   "name": "West Village (Basis Yard)",
   "by": "Liu Jiakun (Jiakun Architects)",
   "place": "Chengdu, CN",
@@ -185204,7 +186450,7 @@ window.BUILDINGS = [
  },
  {
   "id": "vik-winery",
-  "n": 2156,
+  "n": 2155,
   "name": "Viña Vik Winery",
   "by": "Smiljan Radić with Loreto Lyon",
   "place": "Millahue, CL",
@@ -185223,7 +186469,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Viña Vik",
   "lead": "Bodega VIK espejo de agua.jpg",
-  "coords": null,
+  "coords": [
+   -34.53572,
+   -71.227
+  ],
   "hotlink": true,
   "images": [
    {
@@ -185268,7 +186517,7 @@ window.BUILDINGS = [
  },
  {
   "id": "fujisawa-municipal-gymnasium",
-  "n": 2157,
+  "n": 2156,
   "name": "Fujisawa Municipal Gymnasium (Akibadai)",
   "by": "Fumihiko Maki",
   "place": "Fujisawa, JP",
@@ -185320,7 +186569,7 @@ window.BUILDINGS = [
  },
  {
   "id": "the-circle-zurich-airport",
-  "n": 2158,
+  "n": 2157,
   "name": "The Circle, Zurich Airport",
   "by": "Riken Yamamoto",
   "place": "Kloten, CH",
@@ -185339,7 +186588,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Zurich International Airport",
   "lead": "File:Zürich Airport The Circle 6.jpg",
-  "coords": null,
+  "coords": [
+   47.45806,
+   8.54806
+  ],
   "hotlink": true,
   "images": [
    {
@@ -185396,7 +186648,7 @@ window.BUILDINGS = [
  },
  {
   "id": "dominus-winery",
-  "n": 2159,
+  "n": 2158,
   "name": "Dominus Winery",
   "by": "Herzog & de Meuron",
   "place": "Yountville, US",
@@ -185415,7 +186667,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": null,
   "lead": "File:Dominus Winery Napa Valley.jpg",
-  "coords": null,
+  "coords": [
+   38.40501,
+   -122.3739
+  ],
   "hotlink": true,
   "images": [
    {
@@ -185436,7 +186691,7 @@ window.BUILDINGS = [
  },
  {
   "id": "emerson-college-los-angeles",
-  "n": 2160,
+  "n": 2159,
   "name": "Emerson College Los Angeles",
   "by": "Morphosis (Thom Mayne)",
   "place": "Los Angeles, US",
@@ -185453,7 +186708,6 @@ window.BUILDINGS = [
   ],
   "study": "Ten-storey frame of two slim residential slabs and a bridge, wrapping a sculpted block of classrooms.",
   "qid": null,
-  "commons": "Category:Emerson College",
   "lead": "File:Emerson College Los Angeles.png",
   "coords": null,
   "hotlink": true,
@@ -185476,7 +186730,7 @@ window.BUILDINGS = [
  },
  {
   "id": "vulcania",
-  "n": 2161,
+  "n": 2160,
   "name": "Vulcania",
   "by": "Hans Hollein",
   "place": "Saint-Ours-les-Roches, FR",
@@ -185495,7 +186749,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Vulcania",
   "lead": "File:Vulcania - panoramio - Sietze Kraak.jpg",
-  "coords": null,
+  "coords": [
+   45.81361,
+   2.94028
+  ],
   "hotlink": true,
   "images": [
    {
@@ -185564,7 +186821,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cinematheque-francaise",
-  "n": 2162,
+  "n": 2161,
   "name": "Cinémathèque française (former American Center)",
   "by": "Frank Gehry",
   "place": "Paris, FR",
@@ -185640,7 +186897,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cables-wynd-house",
-  "n": 2163,
+  "n": 2162,
   "name": "Cables Wynd House",
   "by": "Alison & Hutchison & Partners",
   "place": "Edinburgh, GB",
@@ -185659,7 +186916,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Cables Wynd House",
   "lead": "File:Cables Wynd House - geograph.org.uk - 7891459.jpg",
-  "coords": null,
+  "coords": [
+   55.9742,
+   -3.17361
+  ],
   "hotlink": true,
   "images": [
    {
@@ -185716,7 +186976,7 @@ window.BUILDINGS = [
  },
  {
   "id": "preston-bus-station",
-  "n": 2164,
+  "n": 2163,
   "name": "Preston Bus Station",
   "by": "Building Design Partnership (Keith Ingham, Charles Wilson) with Ove Arup & Partners",
   "place": "Preston, GB",
@@ -185735,7 +186995,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Preston bus station",
   "lead": "Preston bus station (51231516817).jpg",
-  "coords": null,
+  "coords": [
+   53.761,
+   -2.696
+  ],
   "hotlink": true,
   "images": [
    {
@@ -185816,7 +187079,7 @@ window.BUILDINGS = [
  },
  {
   "id": "apollo-pavilion",
-  "n": 2165,
+  "n": 2164,
   "name": "Apollo Pavilion",
   "by": "Victor Pasmore",
   "place": "Peterlee, GB",
@@ -185835,7 +187098,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Apollo Pavilion",
   "lead": "Peterlee - Apollo Pavilion.jpg",
-  "coords": null,
+  "coords": [
+   54.7499,
+   -1.34556
+  ],
   "hotlink": true,
   "images": [
    {
@@ -185868,7 +187134,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kingsgate-bridge",
-  "n": 2166,
+  "n": 2165,
   "name": "Kingsgate Bridge",
   "by": "Ove Arup",
   "place": "Durham, GB",
@@ -185887,7 +187153,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Kingsgate Bridge",
   "lead": "File:Kingsgate Footbridge, Durham - geograph.org.uk - 8241528.jpg",
-  "coords": null,
+  "coords": [
+   54.77306,
+   -1.5725
+  ],
   "hotlink": true,
   "images": [
    {
@@ -185968,7 +187237,7 @@ window.BUILDINGS = [
  },
  {
   "id": "dior-omotesando",
-  "n": 2167,
+  "n": 2166,
   "name": "Dior Omotesando",
   "by": "SANAA (Kazuyo Sejima and Ryue Nishizawa)",
   "place": "Tokyo, JP",
@@ -185987,7 +187256,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Dior Omotesando",
   "lead": "File:Christian Dior Omotesando Tokyo 2016.jpg",
-  "coords": null,
+  "coords": [
+   35.6674,
+   139.7072
+  ],
   "hotlink": true,
   "images": [
    {
@@ -186056,7 +187328,7 @@ window.BUILDINGS = [
  },
  {
   "id": "media-tic",
-  "n": 2168,
+  "n": 2167,
   "name": "Media-TIC",
   "by": "Enric Ruiz-Geli (Cloud 9)",
   "place": "Barcelona, ES",
@@ -186156,7 +187428,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lochal",
-  "n": 2169,
+  "n": 2168,
   "name": "LocHal",
   "by": "Civic Architects, Braaksma & Roos, Inside Outside (Petra Blaisse)",
   "place": "Tilburg, NL",
@@ -186256,7 +187528,7 @@ window.BUILDINGS = [
  },
  {
   "id": "dornbusch-church",
-  "n": 2170,
+  "n": 2169,
   "name": "Dornbusch Church",
   "by": "Meixner Schlüter Wendt",
   "place": "Frankfurt am Main, DE",
@@ -186275,7 +187547,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Dornbuschkirche (Frankfurt am Main)",
   "lead": "File:Dornbuschkirche Frankfurt.JPG",
-  "coords": null,
+  "coords": [
+   50.14048,
+   8.67331
+  ],
   "hotlink": true,
   "images": [
    {
@@ -186320,7 +187595,7 @@ window.BUILDINGS = [
  },
  {
   "id": "unilever-haus-hamburg",
-  "n": 2171,
+  "n": 2170,
   "name": "Unilever-Haus",
   "by": "Behnisch Architekten",
   "place": "Hamburg, DE",
@@ -186339,7 +187614,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Unilever-Haus (Hamburg)",
   "lead": "File:Unilever-Haus, Strandkai, Hamburg-9198.jpg",
-  "coords": null,
+  "coords": [
+   53.53908,
+   9.99339
+  ],
   "hotlink": true,
   "images": [
    {
@@ -186434,7 +187712,7 @@ window.BUILDINGS = [
  },
  {
   "id": "city-of-justice-barcelona",
-  "n": 2172,
+  "n": 2171,
   "name": "City of Justice",
   "by": "David Chipperfield Architects, b720 Fermín Vázquez Arquitectos",
   "place": "Barcelona / L'Hospitalet de Llobregat, ES",
@@ -186453,7 +187731,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Ciutat de la Justícia de Barcelona i l'Hospitalet de Llobregat",
   "lead": "File:David Chipperfield Barcelona 1.jpg",
-  "coords": null,
+  "coords": [
+   41.36417,
+   2.1325
+  ],
   "hotlink": true,
   "images": [
    {
@@ -186510,7 +187791,7 @@ window.BUILDINGS = [
  },
  {
   "id": "quay-quarter-tower",
-  "n": 2173,
+  "n": 2172,
   "name": "Quay Quarter Tower",
   "by": "3XN with BVN",
   "place": "Sydney, AU",
@@ -186610,7 +187891,7 @@ window.BUILDINGS = [
  },
  {
   "id": "aviva-stadium",
-  "n": 2174,
+  "n": 2173,
   "name": "Aviva Stadium",
   "by": "Populous with Scott Tallon Walker",
   "place": "Dublin, IE",
@@ -186629,7 +187910,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Aviva Stadium",
   "lead": "File:Aviva Stadium - panoramio.jpg",
-  "coords": null,
+  "coords": [
+   53.33496,
+   -6.22825
+  ],
   "hotlink": true,
   "images": [
    {
@@ -186724,7 +188008,7 @@ window.BUILDINGS = [
  },
  {
   "id": "max-aicher-arena",
-  "n": 2175,
+  "n": 2174,
   "name": "Max Aicher Arena",
   "by": "Behnisch Architekten with Pohl Architekten",
   "place": "Inzell, DE",
@@ -186743,7 +188027,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Eisstadion Inzell",
   "lead": "File:Max Aicher Arena (Inzell, GER).jpg",
-  "coords": null,
+  "coords": [
+   47.75244,
+   12.75236
+  ],
   "hotlink": true,
   "images": [
    {
@@ -186776,7 +188063,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kurilpa-bridge",
-  "n": 2176,
+  "n": 2175,
   "name": "Kurilpa Bridge",
   "by": "Cox Rayner Architects with Arup",
   "place": "Brisbane, AU",
@@ -186795,7 +188082,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Kurilpa Bridge",
   "lead": "File:AUS Brisbane, Central Business District, Kurilpa Bridge 002.jpg",
-  "coords": null,
+  "coords": [
+   -27.4694,
+   153.018
+  ],
   "hotlink": true,
   "images": [
    {
@@ -186876,7 +188166,7 @@ window.BUILDINGS = [
  },
  {
   "id": "royal-childrens-hospital-melbourne",
-  "n": 2177,
+  "n": 2176,
   "name": "Royal Children's Hospital",
   "by": "Billard Leece Partnership and Bates Smart",
   "place": "Melbourne, AU",
@@ -186895,7 +188185,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Royal Children's Hospital, Melbourne",
   "lead": "File:The Royal Children's Hospital, Melbourne.jpg",
-  "coords": null,
+  "coords": [
+   -37.795,
+   144.94972
+  ],
   "hotlink": true,
   "images": [
    {
@@ -186976,7 +188269,7 @@ window.BUILDINGS = [
  },
  {
   "id": "victoria-tower-kista",
-  "n": 2178,
+  "n": 2177,
   "name": "Victoria Tower",
   "by": "Wingårdh Arkitektkontor",
   "place": "Stockholm (Kista), SE",
@@ -186995,7 +188288,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Victoria tower Kista",
   "lead": "File:Victoria tower August 2014.jpg",
-  "coords": null,
+  "coords": [
+   59.40667,
+   17.9575
+  ],
   "hotlink": true,
   "images": [
    {
@@ -187052,7 +188348,7 @@ window.BUILDINGS = [
  },
  {
   "id": "maersk-tower",
-  "n": 2179,
+  "n": 2178,
   "name": "Maersk Tower",
   "by": "C.F. Møller Architects",
   "place": "Copenhagen, DK",
@@ -187071,7 +188367,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Mærsk Tårnet",
   "lead": "File:20170817 Maersktarnet Kobenhavn N8B0113 (37062192095).jpg",
-  "coords": null,
+  "coords": [
+   55.69311,
+   12.56333
+  ],
   "hotlink": true,
   "images": [
    {
@@ -187140,7 +188439,7 @@ window.BUILDINGS = [
  },
  {
   "id": "daikanyama-t-site",
-  "n": 2180,
+  "n": 2179,
   "name": "Daikanyama T-Site",
   "by": "Klein Dytham Architecture",
   "place": "Tokyo, JP",
@@ -187228,7 +188527,7 @@ window.BUILDINGS = [
  },
  {
   "id": "dialogue-centre-przelomy",
-  "n": 2181,
+  "n": 2180,
   "name": "Dialogue Centre Przełomy",
   "by": "KWK Promes (Robert Konieczny)",
   "place": "Szczecin, PL",
@@ -187280,7 +188579,7 @@ window.BUILDINGS = [
  },
  {
   "id": "surat-diamond-bourse",
-  "n": 2182,
+  "n": 2181,
   "name": "Surat Diamond Bourse",
   "by": "Morphogenesis",
   "place": "Surat, IN",
@@ -187299,7 +188598,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Surat Diamond Bourse",
   "lead": "File:Surat Diamond Bourse Aerial View.jpg",
-  "coords": null,
+  "coords": [
+   21.10972,
+   72.79528
+  ],
   "hotlink": true,
   "images": [
    {
@@ -187332,7 +188634,7 @@ window.BUILDINGS = [
  },
  {
   "id": "qatar-faculty-of-islamic-studies",
-  "n": 2183,
+  "n": 2182,
   "name": "Qatar Faculty of Islamic Studies",
   "by": "Mangera Yvars Architects",
   "place": "Doha, QA",
@@ -187372,7 +188674,7 @@ window.BUILDINGS = [
  },
  {
   "id": "arena-zagreb",
-  "n": 2184,
+  "n": 2183,
   "name": "Arena Zagreb",
   "by": "UPI-2M",
   "place": "Zagreb, HR",
@@ -187391,7 +188693,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Arena Zagreb",
   "lead": "File:Arena Zagreb (Matjaž Mirt) - Flickr.jpg",
-  "coords": null,
+  "coords": [
+   45.77167,
+   15.94283
+  ],
   "hotlink": true,
   "images": [
    {
@@ -187436,7 +188741,7 @@ window.BUILDINGS = [
  },
  {
   "id": "museo-memoria-y-tolerancia",
-  "n": 2185,
+  "n": 2184,
   "name": "Museum of Memory and Tolerance",
   "by": "Arditti + RDT Arquitectos",
   "place": "Mexico City, MX",
@@ -187455,7 +188760,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Museo Memoria y Tolerancia",
   "lead": "File:Museo Memoria y Tolerancia 2.jpg",
-  "coords": null,
+  "coords": [
+   19.43415,
+   -99.14467
+  ],
   "hotlink": true,
   "images": [
    {
@@ -187512,7 +188820,7 @@ window.BUILDINGS = [
  },
  {
   "id": "us-bank-stadium",
-  "n": 2186,
+  "n": 2185,
   "name": "U.S. Bank Stadium",
   "by": "HKS",
   "place": "Minneapolis, US",
@@ -187531,7 +188839,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:U.S. Bank Stadium",
   "lead": "File:US Bank Stadium - West Facade.jpg",
-  "coords": null,
+  "coords": [
+   44.97389,
+   -93.25806
+  ],
   "hotlink": true,
   "images": [
    {
@@ -187600,7 +188911,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tkts-booth-times-square",
-  "n": 2187,
+  "n": 2186,
   "name": "TKTS Booth, Father Duffy Square",
   "by": "Choi Ropiha, Perkins Eastman, PKSB Architects",
   "place": "New York City, US",
@@ -187664,7 +188975,7 @@ window.BUILDINGS = [
  },
  {
   "id": "scale-lane-bridge",
-  "n": 2188,
+  "n": 2187,
   "name": "Scale Lane Bridge",
   "by": "McDowell+Benedetti",
   "place": "Kingston upon Hull, GB",
@@ -187683,7 +188994,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Scale Lane Bridge, Kingston upon Hull",
   "lead": "File:Scale Lane Bridge Span Overview, Kingston upon Hull Feb25.jpg",
-  "coords": null,
+  "coords": [
+   53.74237,
+   -0.32964
+  ],
   "hotlink": true,
   "images": [
    {
@@ -187752,7 +189066,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hotel-jakarta-amsterdam",
-  "n": 2189,
+  "n": 2188,
   "name": "Hotel Jakarta",
   "by": "SeARCH",
   "place": "Amsterdam, NL",
@@ -187771,7 +189085,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Javakade 766, Amsterdam",
   "lead": "File:Javakade 766 (4).jpg",
-  "coords": null,
+  "coords": [
+   52.37933,
+   4.92178
+  ],
   "hotlink": true,
   "images": [
    {
@@ -187840,7 +189157,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ravenscar-house-museum",
-  "n": 2190,
+  "n": 2189,
   "name": "Ravenscar House Museum",
   "by": "Patterson Associates",
   "place": "Christchurch, NZ",
@@ -187859,7 +189176,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Ravenscar House Museum",
   "lead": "File:Ravenscar House Museum.jpg",
-  "coords": null,
+  "coords": [
+   -43.53042,
+   172.62778
+  ],
   "hotlink": true,
   "images": [
    {
@@ -187880,7 +189200,7 @@ window.BUILDINGS = [
  },
  {
   "id": "university-childrens-hospital-zurich",
-  "n": 2191,
+  "n": 2190,
   "name": "University Children's Hospital Zurich",
   "by": "Herzog & de Meuron",
   "place": "Zurich, CH",
@@ -187920,7 +189240,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sony-city-osaki",
-  "n": 2192,
+  "n": 2191,
   "name": "Sony City Osaki (NBF Osaki Building)",
   "by": "Nikken Sekkei",
   "place": "Tokyo, JP",
@@ -187960,7 +189280,7 @@ window.BUILDINGS = [
  },
  {
   "id": "belarusian-memorial-chapel",
-  "n": 2193,
+  "n": 2192,
   "name": "Belarusian Memorial Chapel",
   "by": "Spheron Architects (Tszwai So)",
   "place": "London, GB",
@@ -187979,7 +189299,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Belarusian Church, London N12",
   "lead": "File:Belarusian Memorial Chapel, North Finchley, July 2023.jpg",
-  "coords": null,
+  "coords": [
+   51.6167,
+   -0.1847
+  ],
   "hotlink": true,
   "images": [
    {
@@ -188048,7 +189371,7 @@ window.BUILDINGS = [
  },
  {
   "id": "central-saint-martins-granary",
-  "n": 2194,
+  "n": 2193,
   "name": "Central Saint Martins, Granary Building",
   "by": "Stanton Williams",
   "place": "London, GB",
@@ -188067,7 +189390,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:The Granary, King's Cross Central",
   "lead": "File:University of the Arts, London - geograph.org.uk - 3378403.jpg",
-  "coords": null,
+  "coords": [
+   51.53578,
+   -0.12509
+  ],
   "hotlink": true,
   "images": [
    {
@@ -188136,7 +189462,7 @@ window.BUILDINGS = [
  },
  {
   "id": "victoria-gate-leeds",
-  "n": 2195,
+  "n": 2194,
   "name": "Victoria Gate",
   "by": "ACME",
   "place": "Leeds, GB",
@@ -188236,7 +189562,7 @@ window.BUILDINGS = [
  },
  {
   "id": "quzhou-stadium",
-  "n": 2196,
+  "n": 2195,
   "name": "Quzhou Stadium",
   "by": "MAD Architects",
   "place": "Quzhou, CN",
@@ -188276,7 +189602,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sara-kulturhus",
-  "n": 2197,
+  "n": 2196,
   "name": "Sara Kulturhus",
   "by": "White Arkitekter",
   "place": "Skellefteå, SE",
@@ -188295,7 +189621,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Sara Kulturhus",
   "lead": "File:Sara Kulturhus juli 2021.jpg",
-  "coords": null,
+  "coords": [
+   64.75194,
+   20.95417
+  ],
   "hotlink": true,
   "images": [
    {
@@ -188352,7 +189681,7 @@ window.BUILDINGS = [
  },
  {
   "id": "forskaren-stockholm",
-  "n": 2198,
+  "n": 2197,
   "name": "Forskaren",
   "by": "3XN",
   "place": "Stockholm, SE",
@@ -188371,7 +189700,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Forskaren (building)",
   "lead": "File:Kvarteret Forskaren Hagastaden juli 2022.jpg",
-  "coords": null,
+  "coords": [
+   59.3475,
+   18.0323
+  ],
   "hotlink": true,
   "images": [
    {
@@ -188452,7 +189784,7 @@ window.BUILDINGS = [
  },
  {
   "id": "paula-fox-melanoma-and-cancer-centre",
-  "n": 2199,
+  "n": 2198,
   "name": "Paula Fox Melanoma and Cancer Centre",
   "by": "Lyons",
   "place": "Melbourne, AU",
@@ -188492,7 +189824,7 @@ window.BUILDINGS = [
  },
  {
   "id": "queen-elizabeth-hall",
-  "n": 2200,
+  "n": 2199,
   "name": "Queen Elizabeth Hall",
   "by": "GLC Architects (Hubert Bennett, Jack Whittle, F. G. West, Geoffrey Horsefall)",
   "place": "London, GB",
@@ -188511,7 +189843,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Queen Elizabeth Hall",
   "lead": "File:Queen Elizabeth Hall and Purcell Room.jpg",
-  "coords": null,
+  "coords": [
+   51.50667,
+   -0.11636
+  ],
   "hotlink": true,
   "images": [
    {
@@ -188556,7 +189891,7 @@ window.BUILDINGS = [
  },
  {
   "id": "brunswick-centre",
-  "n": 2201,
+  "n": 2200,
   "name": "Brunswick Centre",
   "by": "Patrick Hodgkinson",
   "place": "London, GB",
@@ -188575,7 +189910,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Brunswick Centre",
   "lead": "File:Brunswick Centre (4136275375).jpg",
-  "coords": null,
+  "coords": [
+   51.524,
+   -0.124
+  ],
   "hotlink": true,
   "images": [
    {
@@ -188656,7 +189994,7 @@ window.BUILDINGS = [
  },
  {
   "id": "dunelm-house",
-  "n": 2202,
+  "n": 2201,
   "name": "Dunelm House",
   "by": "Architects' Co-Partnership (Richard Raines, Michael Powers) with Ove Arup",
   "place": "Durham, GB",
@@ -188675,7 +190013,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Dunelm House, University of Durham",
   "lead": "File:Dunelm House (51215458277).jpg",
-  "coords": null,
+  "coords": [
+   54.77331,
+   -1.57182
+  ],
   "hotlink": true,
   "images": [
    {
@@ -188732,7 +190073,7 @@ window.BUILDINGS = [
  },
  {
   "id": "institute-of-education-london",
-  "n": 2203,
+  "n": 2202,
   "name": "Institute of Education",
   "by": "Denys Lasdun",
   "place": "London, GB",
@@ -188832,7 +190173,7 @@ window.BUILDINGS = [
  },
  {
   "id": "wyndham-court",
-  "n": 2204,
+  "n": 2203,
   "name": "Wyndham Court",
   "by": "Lyons Israel Ellis (E. D. Lyons, Frank Linden, Aubrey Hume)",
   "place": "Southampton, GB",
@@ -188851,7 +190192,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Wyndham Court",
   "lead": "File:Wyndham Court, Wyndham Place, Southampton (NHLE Code 1051043) (July 2021) (1).jpg",
-  "coords": null,
+  "coords": [
+   50.90836,
+   -1.41114
+  ],
   "hotlink": true,
   "images": [
    {
@@ -188932,7 +190276,7 @@ window.BUILDINGS = [
  },
  {
   "id": "uea-ziggurats",
-  "n": 2205,
+  "n": 2204,
   "name": "University of East Anglia Ziggurats (Norfolk and Suffolk Terraces)",
   "by": "Denys Lasdun",
   "place": "Norwich, GB",
@@ -188951,7 +190295,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Suffolk Terrace and Adjoining Walkway and Stairs to Rear, at the University of East Anglia",
   "lead": "File:Suffolk Terrace 1.jpg",
-  "coords": null,
+  "coords": [
+   52.62012,
+   1.24023
+  ],
   "hotlink": true,
   "images": [
    {
@@ -189020,7 +190367,7 @@ window.BUILDINGS = [
  },
  {
   "id": "boston-government-service-center",
-  "n": 2206,
+  "n": 2205,
   "name": "Boston Government Service Center",
   "by": "Paul Rudolph (coordinating architect), with Desmond & Lord and Shepley Bulfinch Richardson and Abbott",
   "place": "Boston, US",
@@ -189039,7 +190386,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Boston Government Service Center",
   "lead": "File:Paul Rudolph - Boston Government Services Center (14989170661).jpg",
-  "coords": null,
+  "coords": [
+   42.3625,
+   -71.063
+  ],
   "hotlink": true,
   "images": [
    {
@@ -189134,7 +190484,7 @@ window.BUILDINGS = [
  },
  {
   "id": "j-edgar-hoover-building",
-  "n": 2207,
+  "n": 2206,
   "name": "J. Edgar Hoover Building",
   "by": "C. F. Murphy and Associates (Stanislaw Z. Gladych)",
   "place": "Washington, D.C., US",
@@ -189153,7 +190503,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:J. Edgar Hoover Building",
   "lead": "File:FBI Building diagonal Washington DC 2026-01-11 13-34-52.jpg",
-  "coords": null,
+  "coords": [
+   38.89528,
+   -77.025
+  ],
   "hotlink": true,
   "images": [
    {
@@ -189234,7 +190587,7 @@ window.BUILDINGS = [
  },
  {
   "id": "temple-street-parking-garage",
-  "n": 2208,
+  "n": 2207,
   "name": "Temple Street Parking Garage",
   "by": "Paul Rudolph",
   "place": "New Haven, US",
@@ -189253,7 +190606,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Temple Street Parking Garage",
   "lead": "File:Temple Street Parking Garage.jpg",
-  "coords": null,
+  "coords": [
+   41.3043,
+   -72.9282
+  ],
   "hotlink": true,
   "images": [
    {
@@ -189310,7 +190666,7 @@ window.BUILDINGS = [
  },
  {
   "id": "wurster-hall",
-  "n": 2209,
+  "n": 2208,
   "name": "Wurster Hall",
   "by": "Joseph Esherick, Vernon DeMars, Donald Olsen",
   "place": "Berkeley, US",
@@ -189329,7 +190685,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Wurster Hall (Berkeley, California)",
   "lead": "File:Wurster Hall SW.jpg",
-  "coords": null,
+  "coords": [
+   37.8706,
+   -122.2549
+  ],
   "hotlink": true,
   "images": [
    {
@@ -189374,7 +190733,7 @@ window.BUILDINGS = [
  },
  {
   "id": "christian-science-plaza",
-  "n": 2210,
+  "n": 2209,
   "name": "Christian Science Plaza",
   "by": "Araldo Cossutta (I. M. Pei & Associates)",
   "place": "Boston, US",
@@ -189393,7 +190752,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Christian Science Center",
   "lead": "File:Colonnade Building of the First Church of Christ, Scientist.jpg",
-  "coords": null,
+  "coords": [
+   42.3445,
+   -71.0843
+  ],
   "hotlink": true,
   "images": [
    {
@@ -189450,7 +190812,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hygiene-institute-berlin",
-  "n": 2211,
+  "n": 2210,
   "name": "Institute of Hygiene and Microbiology",
   "by": "Hermann Fehling, Daniel Gogel (Fehling+Gogel)",
   "place": "Berlin, DE",
@@ -189469,7 +190831,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Institut für Hygiene und Umweltmedizin, Charité Berlin",
   "lead": "File:Hygieneinstitut-Krahmerstr-Berlin-Lichterfelde-Fehling-Gogel-April-2020a.jpg",
-  "coords": null,
+  "coords": [
+   52.43823,
+   13.31704
+  ],
   "hotlink": true,
   "images": [
    {
@@ -189538,7 +190903,7 @@ window.BUILDINGS = [
  },
  {
   "id": "st-agnes-berlin",
-  "n": 2212,
+  "n": 2211,
   "name": "St. Agnes (König Galerie)",
   "by": "Werner Düttmann; conversion by Arno Brandlhuber",
   "place": "Berlin, DE",
@@ -189557,7 +190922,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:St.-Agnes-Kirche (Berlin)",
   "lead": "File:St-Agnes-Alexandrinenstr-Berlin-Kreuzberg-03-2017.jpg",
-  "coords": null,
+  "coords": [
+   52.5008,
+   13.401
+  ],
   "hotlink": true,
   "images": [
    {
@@ -189614,7 +190982,7 @@ window.BUILDINGS = [
  },
  {
   "id": "schlangenbader-strasse",
-  "n": 2213,
+  "n": 2212,
   "name": "Schlangenbader Straße Housing (Die Schlange)",
   "by": "Georg Heinrichs, Wolf Bertelsmann, Gerhard and Klaus Detlev Krebs",
   "place": "Berlin, DE",
@@ -189633,7 +191001,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Autobahnüberbauung Schlangenbader Straße",
   "lead": "File:B-Wilmersdorf Nov12 Schlangenbader Tunnel.jpg",
-  "coords": null,
+  "coords": [
+   52.4725,
+   13.30639
+  ],
   "hotlink": true,
   "images": [
    {
@@ -189714,7 +191085,7 @@ window.BUILDINGS = [
  },
  {
   "id": "marl-town-hall",
-  "n": 2214,
+  "n": 2213,
   "name": "Marl Town Hall",
   "by": "Van den Broek en Bakema",
   "place": "Marl, DE",
@@ -189733,7 +191104,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Rathaus Marl",
   "lead": "File:Rathaus Marl total.jpg",
-  "coords": null,
+  "coords": [
+   51.6564,
+   7.09576
+  ],
   "hotlink": true,
   "images": [
    {
@@ -189814,7 +191188,7 @@ window.BUILDINGS = [
  },
  {
   "id": "rudo-eastern-city-gate",
-  "n": 2215,
+  "n": 2214,
   "name": "Eastern City Gate (Rudo)",
   "by": "Vera Ćirković (architect), Milutin Jerotijević (engineer)",
   "place": "Belgrade, RS",
@@ -189833,7 +191207,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Eastern Gate of Belgrade",
   "lead": "File:Источна капија Београда.jpg",
-  "coords": null,
+  "coords": [
+   44.78417,
+   20.51222
+  ],
   "hotlink": true,
   "images": [
    {
@@ -189914,7 +191291,7 @@ window.BUILDINGS = [
  },
  {
   "id": "macedonian-opera-and-ballet",
-  "n": 2216,
+  "n": 2215,
   "name": "Macedonian Opera and Ballet",
   "by": "Biro 71 (Štefan Kacin, Jurij Princes, Bogdan Spindler, Marjan Uršič)",
   "place": "Skopje, MK",
@@ -189933,7 +191310,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Macedonian Opera and Ballet",
   "lead": "File:Macedonian Opera and Ballet 3.jpg",
-  "coords": null,
+  "coords": [
+   41.9975,
+   21.43667
+  ],
   "hotlink": true,
   "images": [
    {
@@ -190002,7 +191382,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ruhr-university-bochum",
-  "n": 2217,
+  "n": 2216,
   "name": "Ruhr University Bochum",
   "by": "Hentrich, Petschnigg & Partner (Helmut Hentrich)",
   "place": "Bochum, DE",
@@ -190021,7 +191401,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Ruhr-Universität Bochum",
   "lead": "File:N-Buildings of Ruhr-University Bochum.jpg",
-  "coords": null,
+  "coords": [
+   51.44389,
+   7.26167
+  ],
   "hotlink": true,
   "images": [
    {
@@ -190102,7 +191485,7 @@ window.BUILDINGS = [
  },
  {
   "id": "goce-delcev-dormitory",
-  "n": 2218,
+  "n": 2217,
   "name": "Goce Delčev Student Dormitory",
   "by": "Georgi Konstantinovski",
   "place": "Skopje, MK",
@@ -190121,7 +191504,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Students' dormitory Goce Delčev, Skopje",
   "lead": "File:Students' dormitory Goce Delčev Skopje 10.jpg",
-  "coords": null,
+  "coords": [
+   41.99916,
+   21.39027
+  ],
   "hotlink": true,
   "images": [
    {
@@ -190190,7 +191576,7 @@ window.BUILDINGS = [
  },
  {
   "id": "house-of-soviets-kaliningrad",
-  "n": 2219,
+  "n": 2218,
   "name": "House of Soviets",
   "by": "Yulian Schwarzbreim (TsNIIEP)",
   "place": "Kaliningrad, RU",
@@ -190209,7 +191595,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Dom Sovetov, Kaliningrad",
   "lead": "File:Kaliningrad Dom Sowjetow 01.jpg",
-  "coords": null,
+  "coords": [
+   54.70976,
+   20.51247
+  ],
   "hotlink": true,
   "images": [
    {
@@ -190266,7 +191655,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hotel-thermal-karlovy-vary",
-  "n": 2220,
+  "n": 2219,
   "name": "Hotel Thermal",
   "by": "Věra and Vladimír Machonin",
   "place": "Karlovy Vary, CZ",
@@ -190285,7 +191674,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Hotel Thermal",
   "lead": "File:Hotel Thermal (020).jpg",
-  "coords": null,
+  "coords": [
+   50.22881,
+   12.8765
+  ],
   "hotlink": true,
   "images": [
    {
@@ -190354,7 +191746,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tass-building-moscow",
-  "n": 2221,
+  "n": 2220,
   "name": "TASS Building",
   "by": "Viktor Yegerev",
   "place": "Moscow, RU",
@@ -190373,7 +191765,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:TASS building",
   "lead": "File:TASS building 03.jpg",
-  "coords": null,
+  "coords": [
+   55.7581,
+   37.60016
+  ],
   "hotlink": true,
   "images": [
    {
@@ -190442,7 +191837,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kotva-department-store",
-  "n": 2222,
+  "n": 2221,
   "name": "Kotva Department Store",
   "by": "Věra and Vladimír Machonin",
   "place": "Prague, CZ",
@@ -190461,7 +191856,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Kotva (shopping centre)",
   "lead": "File:Praha Kotva.jpg",
-  "coords": null,
+  "coords": [
+   50.08889,
+   14.42722
+  ],
   "hotlink": true,
   "images": [
    {
@@ -190518,7 +191916,7 @@ window.BUILDINGS = [
  },
  {
   "id": "superjednostka",
-  "n": 2223,
+  "n": 2222,
   "name": "Superjednostka",
   "by": "Mieczysław Król",
   "place": "Katowice, PL",
@@ -190537,7 +191935,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Superjednostka",
   "lead": "File:Katowice Superjednostka 2022.jpg",
-  "coords": null,
+  "coords": [
+   50.26351,
+   19.02053
+  ],
   "hotlink": true,
   "images": [
    {
@@ -190606,7 +192007,7 @@ window.BUILDINGS = [
  },
  {
   "id": "inter-university-seminar-house",
-  "n": 2224,
+  "n": 2223,
   "name": "Inter-University Seminar House",
   "by": "Takamasa Yoshizaka (Atelier U)",
   "place": "Hachiōji, JP",
@@ -190625,7 +192026,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Inter-University Seminar House",
   "lead": "File:2018 Inter-University Seminar House 4.jpg",
-  "coords": null,
+  "coords": [
+   35.63042,
+   139.36561
+  ],
   "hotlink": true,
   "images": [
    {
@@ -190706,7 +192110,7 @@ window.BUILDINGS = [
  },
  {
   "id": "athenee-francais-tokyo",
-  "n": 2225,
+  "n": 2224,
   "name": "Athénée Français",
   "by": "Takamasa Yoshizaka",
   "place": "Tokyo, JP",
@@ -190725,7 +192129,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Athénée Français",
   "lead": "File:Athenee Francais.jpg",
-  "coords": null,
+  "coords": [
+   35.70078,
+   139.75839
+  ],
   "hotlink": true,
   "images": [
    {
@@ -190758,7 +192165,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bunkier-sztuki",
-  "n": 2226,
+  "n": 2225,
   "name": "Bunkier Sztuki",
   "by": "Krystyna Tołłoczko-Różyska; facade by Stefan Borzęcki and Antoni Hajdecki",
   "place": "Kraków, PL",
@@ -190777,7 +192184,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Bunkier Sztuki",
   "lead": "File:Bunkier Sztuki spring 2014.jpg",
-  "coords": null,
+  "coords": [
+   50.06347,
+   19.93431
+  ],
   "hotlink": true,
   "images": [
    {
@@ -190834,7 +192244,7 @@ window.BUILDINGS = [
  },
  {
   "id": "imabari-city-hall",
-  "n": 2227,
+  "n": 2226,
   "name": "Imabari City Hall",
   "by": "Kenzō Tange",
   "place": "Imabari, JP",
@@ -190898,7 +192308,7 @@ window.BUILDINGS = [
  },
  {
   "id": "harold-holt-swimming-centre",
-  "n": 2228,
+  "n": 2227,
   "name": "Harold Holt Memorial Swimming Centre",
   "by": "Kevin Borland and Daryl Jackson",
   "place": "Melbourne, AU",
@@ -190917,7 +192327,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Harold Holt Memorial Swimming Centre",
   "lead": "File:Harold Holt Memorial Swimming Pool corner.jpg",
-  "coords": null,
+  "coords": [
+   -37.8586,
+   145.0447
+  ],
   "hotlink": true,
   "images": [
    {
@@ -190986,7 +192399,7 @@ window.BUILDINGS = [
  },
  {
   "id": "queensland-art-gallery",
-  "n": 2229,
+  "n": 2228,
   "name": "Queensland Art Gallery",
   "by": "Robin Gibson",
   "place": "Brisbane, AU",
@@ -191086,7 +192499,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cameron-offices",
-  "n": 2230,
+  "n": 2229,
   "name": "Cameron Offices",
   "by": "John Andrews",
   "place": "Canberra, AU",
@@ -191105,7 +192518,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Cameron Offices",
   "lead": "File:Cameron offices 1.JPG",
-  "coords": null,
+  "coords": [
+   -35.24194,
+   149.06972
+  ],
   "hotlink": true,
   "images": [
    {
@@ -191186,7 +192602,7 @@ window.BUILDINGS = [
  },
  {
   "id": "golden-mile-complex",
-  "n": 2231,
+  "n": 2230,
   "name": "Golden Mile Complex",
   "by": "Design Partnership (Gan Eng Oon, William Lim, Tay Kheng Soon)",
   "place": "Singapore, SG",
@@ -191205,7 +192621,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Golden Mile Complex",
   "lead": "File:Golden Mile Complex.jpg",
-  "coords": null,
+  "coords": [
+   1.30272,
+   103.865
+  ],
   "hotlink": true,
   "images": [
    {
@@ -191288,7 +192707,7 @@ window.BUILDINGS = [
  },
  {
   "id": "regenstein-library",
-  "n": 2232,
+  "n": 2231,
   "name": "Joseph Regenstein Library",
   "by": "Walter Netsch (Skidmore, Owings & Merrill)",
   "place": "Chicago, US",
@@ -191307,7 +192726,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Joseph Regenstein Library",
   "lead": "File:Regenstein Library, University of Chicago, 57th Street and Ellis Avenue, Hyde Park, Chicago, IL (54514265602).jpg",
-  "coords": null,
+  "coords": [
+   41.7922,
+   -87.5998
+  ],
   "hotlink": true,
   "images": [
    {
@@ -191388,7 +192810,7 @@ window.BUILDINGS = [
  },
  {
   "id": "scarborough-college-andrews-building",
-  "n": 2233,
+  "n": 2232,
   "name": "Scarborough College (Andrews Building)",
   "by": "John Andrews",
   "place": "Toronto, CA",
@@ -191407,7 +192829,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:John Andrews Building",
   "lead": "File:Andrews Building UofT.jpg",
-  "coords": null,
+  "coords": [
+   43.78356,
+   -79.18772
+  ],
   "hotlink": true,
   "images": [
    {
@@ -191488,7 +192913,7 @@ window.BUILDINGS = [
  },
  {
   "id": "miami-marine-stadium",
-  "n": 2234,
+  "n": 2233,
   "name": "Miami Marine Stadium",
   "by": "Hilario Candela",
   "place": "Miami, US",
@@ -191507,7 +192932,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": null,
   "lead": "File:Miami Marine Stadium.jpg",
-  "coords": null,
+  "coords": [
+   25.74306,
+   -80.16972
+  ],
   "hotlink": true,
   "images": [
    {
@@ -191528,7 +192956,7 @@ window.BUILDINGS = [
  },
  {
   "id": "slovak-national-gallery-extension",
-  "n": 2235,
+  "n": 2234,
   "name": "Slovak National Gallery Extension",
   "by": "Vladimír Dedeček; renovation by Architekti BKPŠ",
   "place": "Bratislava, SK",
@@ -191547,7 +192975,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Extension of Slovak National Gallery",
   "lead": "File:Bratislava - Slovenská národná galéria (SNG).jpg",
-  "coords": null,
+  "coords": [
+   48.14007,
+   17.10869
+  ],
   "hotlink": true,
   "images": [
    {
@@ -191628,7 +193059,7 @@ window.BUILDINGS = [
  },
  {
   "id": "university-hall-lethbridge",
-  "n": 2236,
+  "n": 2235,
   "name": "University Hall, University of Lethbridge",
   "by": "Arthur Erickson",
   "place": "Lethbridge, CA",
@@ -191704,7 +193135,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-arts-centre-ottawa",
-  "n": 2237,
+  "n": 2236,
   "name": "National Arts Centre",
   "by": "Fred Lebensold (ARCOP)",
   "place": "Ottawa, CA",
@@ -191723,7 +193154,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:National Arts Centre",
   "lead": "File:National Arts Centre.jpg",
-  "coords": null,
+  "coords": [
+   45.42319,
+   -75.69329
+  ],
   "hotlink": true,
   "images": [
    {
@@ -191804,7 +193238,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hillbrow-tower",
-  "n": 2238,
+  "n": 2237,
   "name": "Hillbrow Tower (Telkom Joburg Tower)",
   "by": "South African Posts & Telecommunications (client); designers not credited in sources",
   "place": "Johannesburg, ZA",
@@ -191823,7 +193257,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Hillbrow Tower",
   "lead": "File:South Africa-Johannesburg-Hillbrow001.jpg",
-  "coords": null,
+  "coords": [
+   -26.18694,
+   28.04917
+  ],
   "hotlink": true,
   "images": [
    {
@@ -191880,7 +193317,7 @@ window.BUILDINGS = [
  },
  {
   "id": "most-snp-bratislava",
-  "n": 2239,
+  "n": 2238,
   "name": "Most SNP (UFO Bridge)",
   "by": "Arpád Tesár, Jozef Lacko, Ivan Slameň",
   "place": "Bratislava, SK",
@@ -191899,7 +193336,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Most SNP",
   "lead": "File:Puente de la Insurrección Nacional Eslovaca, Bratislava, Eslovaquia, 2020-02-01, DD 49.jpg",
-  "coords": null,
+  "coords": [
+   48.13833,
+   17.10444
+  ],
   "hotlink": true,
   "images": [
    {
@@ -191994,7 +193434,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-carillon-canberra",
-  "n": 2240,
+  "n": 2239,
   "name": "National Carillon",
   "by": "Cameron Chisholm Nicol (Don Ho)",
   "place": "Canberra, AU",
@@ -192013,7 +193453,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:National Carillon",
   "lead": "File:Canberra Carillon on Lake Burley Griffin-2 (38441217986).jpg",
-  "coords": null,
+  "coords": [
+   -35.2985,
+   149.142
+  ],
   "hotlink": true,
   "images": [
    {
@@ -192094,7 +193537,7 @@ window.BUILDINGS = [
  },
  {
   "id": "majdanek-mausoleum",
-  "n": 2241,
+  "n": 2240,
   "name": "Majdanek Mausoleum",
   "by": "Wiktor Tołkin, Janusz Dembek",
   "place": "Lublin, PL",
@@ -192113,7 +193556,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Majdanek Mausoleum",
   "lead": "File:Majdanek Mausoleum 2018 P01.jpg",
-  "coords": null,
+  "coords": [
+   51.21636,
+   22.59601
+  ],
   "hotlink": true,
   "images": [
    {
@@ -192182,7 +193628,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hiroshima-moca",
-  "n": 2242,
+  "n": 2241,
   "name": "Hiroshima City Museum of Contemporary Art",
   "by": "Kisho Kurokawa",
   "place": "Hiroshima, JP",
@@ -192201,7 +193647,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Hiroshima City Museum of Contemporary Art",
   "lead": "File:広島市現代美術館01.jpg",
-  "coords": null,
+  "coords": [
+   34.38638,
+   132.47337
+  ],
   "hotlink": true,
   "images": [
    {
@@ -192270,7 +193719,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kirishima-concert-hall",
-  "n": 2243,
+  "n": 2242,
   "name": "Kirishima International Concert Hall (Miyama Conseru)",
   "by": "Fumihiko Maki",
   "place": "Kirishima, JP",
@@ -192289,7 +193738,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Kirishima International Concert Hall",
   "lead": "File:Miyama Conseru.jpg",
-  "coords": null,
+  "coords": [
+   31.88,
+   130.80556
+  ],
   "hotlink": true,
   "images": [
    {
@@ -192346,7 +193798,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kumamoto-prefectural-museum-of-art",
-  "n": 2244,
+  "n": 2243,
   "name": "Kumamoto Prefectural Museum of Art",
   "by": "Kunio Maekawa",
   "place": "Kumamoto, JP",
@@ -192365,7 +193817,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Kumamoto Prefectural Museum of Art",
   "lead": "Kumamoto Prefectural Museum Of Art Chibajō Branch 20230227.jpg",
-  "coords": null,
+  "coords": [
+   32.80753,
+   130.70053
+  ],
   "hotlink": true,
   "images": [
    {
@@ -192410,7 +193865,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lee-ufan-museum",
-  "n": 2245,
+  "n": 2244,
   "name": "Lee Ufan Museum",
   "by": "Tadao Ando",
   "place": "Naoshima, JP",
@@ -192429,7 +193884,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Lee Ufan Museum",
   "lead": "Lee Ufan Museum (26785053915).jpg",
-  "coords": null,
+  "coords": [
+   34.44889,
+   133.98889
+  ],
   "hotlink": true,
   "images": [
    {
@@ -192486,7 +193944,7 @@ window.BUILDINGS = [
  },
  {
   "id": "matsumoto-performing-arts-centre",
-  "n": 2246,
+  "n": 2245,
   "name": "Matsumoto Performing Arts Centre",
   "by": "Toyo Ito",
   "place": "Matsumoto, JP",
@@ -192505,7 +193963,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Matsumoto Performing Arts Centre",
   "lead": "File:Matsumoto Performing Arts Centre.jpg",
-  "coords": null,
+  "coords": [
+   36.23094,
+   137.97458
+  ],
   "hotlink": true,
   "images": [
    {
@@ -192562,7 +194023,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mikimoto-ginza-2",
-  "n": 2247,
+  "n": 2246,
   "name": "Mikimoto Ginza 2",
   "by": "Toyo Ito",
   "place": "Tokyo, JP",
@@ -192581,7 +194042,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Mikimoto Ginza 2",
   "lead": "File:Tokyo116 (7294792500).jpg",
-  "coords": null,
+  "coords": [
+   35.6737,
+   139.7659
+  ],
   "hotlink": true,
   "images": [
    {
@@ -192638,7 +194102,7 @@ window.BUILDINGS = [
  },
  {
   "id": "museum-of-modern-art-saitama",
-  "n": 2248,
+  "n": 2247,
   "name": "Museum of Modern Art, Saitama",
   "by": "Kisho Kurokawa",
   "place": "Saitama, JP",
@@ -192657,7 +194121,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Museum of Modern Art, Saitama",
   "lead": "File:The Museum of Modern Art, Saitama.jpg",
-  "coords": null,
+  "coords": [
+   35.86961,
+   139.64292
+  ],
   "hotlink": true,
   "images": [
    {
@@ -192702,7 +194169,7 @@ window.BUILDINGS = [
  },
  {
   "id": "nagoya-city-art-museum",
-  "n": 2249,
+  "n": 2248,
   "name": "Nagoya City Art Museum",
   "by": "Kisho Kurokawa",
   "place": "Nagoya, JP",
@@ -192721,7 +194188,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Nagoya City Art Museum",
   "lead": "File:Nagoya City Art Museum ac (2).jpg",
-  "coords": null,
+  "coords": [
+   35.16384,
+   136.90102
+  ],
   "hotlink": true,
   "images": [
    {
@@ -192778,7 +194248,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-museum-of-modern-art-kyoto",
-  "n": 2250,
+  "n": 2249,
   "name": "National Museum of Modern Art, Kyoto",
   "by": "Fumihiko Maki",
   "place": "Kyoto, JP",
@@ -192797,7 +194267,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:National Museum of Modern Art, Kyoto",
   "lead": "File:National Museum of Modern Art Kyoto 2010.jpg",
-  "coords": null,
+  "coords": [
+   35.01239,
+   135.78194
+  ],
   "hotlink": true,
   "images": [
    {
@@ -192854,7 +194327,7 @@ window.BUILDINGS = [
  },
  {
   "id": "alila-villas-uluwatu",
-  "n": 2251,
+  "n": 2250,
   "name": "Alila Villas Uluwatu",
   "by": "WOHA",
   "place": "Uluwatu, Bali, ID",
@@ -192873,7 +194346,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Alila Villas Uluwatu",
   "lead": "File:Pavilion (44618244035).jpg",
-  "coords": null,
+  "coords": [
+   -8.84604,
+   115.13711
+  ],
   "hotlink": true,
   "images": [
    {
@@ -192918,7 +194394,7 @@ window.BUILDINGS = [
  },
  {
   "id": "shanghai-suhe-mixc-world",
-  "n": 2252,
+  "n": 2251,
   "name": "Shanghai Suhe MixC World",
   "by": "Kokaistudios",
   "place": "Shanghai, CN",
@@ -192937,7 +194413,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Shanghai Suhe MixC World",
   "lead": "File:Shanghai Suhe MixC World 20251127.jpg",
-  "coords": null,
+  "coords": [
+   31.24408,
+   121.4754
+  ],
   "hotlink": true,
   "images": [
    {
@@ -192958,7 +194437,7 @@ window.BUILDINGS = [
  },
  {
   "id": "dalarna-media-library",
-  "n": 2253,
+  "n": 2252,
   "name": "Dalarna Media Library",
   "by": "ADEPT",
   "place": "Falun, SE",
@@ -192977,7 +194456,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Dalarna University College",
   "lead": "File:Dalarna University library.jpg",
-  "coords": null,
+  "coords": [
+   60.6141,
+   15.6532
+  ],
   "hotlink": true,
   "images": [
    {
@@ -193034,7 +194516,7 @@ window.BUILDINGS = [
  },
  {
   "id": "london-bridge-station-redevelopment",
-  "n": 2254,
+  "n": 2253,
   "name": "London Bridge Station",
   "by": "Grimshaw",
   "place": "London, GB",
@@ -193053,7 +194535,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:London Bridge station",
   "lead": "File:London Bridge platforms 7 ^ 8 - geograph.org.uk - 8341586.jpg",
-  "coords": null,
+  "coords": [
+   51.505,
+   -0.08611
+  ],
   "hotlink": true,
   "images": [
    {
@@ -193174,7 +194659,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lanserhof-sylt",
-  "n": 2255,
+  "n": 2254,
   "name": "Lanserhof Sylt",
   "by": "ingenhoven associates",
   "place": "List auf Sylt, DE",
@@ -193214,7 +194699,7 @@ window.BUILDINGS = [
  },
  {
   "id": "nissay-theatre",
-  "n": 2256,
+  "n": 2255,
   "name": "Nissay Theatre (Nippon Life Hibiya Building)",
   "by": "Togo Murano",
   "place": "Tokyo, JP",
@@ -193233,7 +194718,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Nissay Theatre",
   "lead": "File:Nissay Theatre 2012.jpg",
-  "coords": null,
+  "coords": [
+   35.67315,
+   139.75842
+  ],
   "hotlink": true,
   "images": [
    {
@@ -193314,7 +194802,7 @@ window.BUILDINGS = [
  },
  {
   "id": "odate-jukai-dome",
-  "n": 2257,
+  "n": 2256,
   "name": "Odate Jukai Dome",
   "by": "Toyo Ito",
   "place": "Odate, JP",
@@ -193333,7 +194821,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Odate Jukai Dome",
   "lead": "File:Nipro Hachiko Dome 2017 C.jpg",
-  "coords": null,
+  "coords": [
+   40.29242,
+   140.58675
+  ],
   "hotlink": true,
   "images": [
    {
@@ -193414,7 +194905,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sayamaike-historical-museum",
-  "n": 2258,
+  "n": 2257,
   "name": "Osaka Prefectural Sayamaike Museum",
   "by": "Tadao Ando",
   "place": "Osakasayama, JP",
@@ -193433,7 +194924,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Osaka Prefectural Sayamaike Museum",
   "lead": "File:Osaka Prefectural Sayamaike Museum1.jpg",
-  "coords": null,
+  "coords": [
+   34.50742,
+   135.55186
+  ],
   "hotlink": true,
   "images": [
    {
@@ -193478,7 +194972,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kadokawa-culture-museum",
-  "n": 2259,
+  "n": 2258,
   "name": "Kadokawa Culture Museum",
   "by": "Kengo Kuma",
   "place": "Tokorozawa, JP",
@@ -193497,7 +194991,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Kadokawa Culture Museum",
   "lead": "File:Kadokawa Culture Museum-2020-07-09.jpg",
-  "coords": null,
+  "coords": [
+   35.79767,
+   139.50775
+  ],
   "hotlink": true,
   "images": [
    {
@@ -193578,7 +195075,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kurashiki-ivy-square",
-  "n": 2260,
+  "n": 2259,
   "name": "Kurashiki Ivy Square",
   "by": "Shizutaro Urabe",
   "place": "Kurashiki, JP",
@@ -193654,7 +195151,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-museum-of-japanese-history",
-  "n": 2261,
+  "n": 2260,
   "name": "National Museum of Japanese History",
   "by": "Yoshinobu Ashihara",
   "place": "Sakura, JP",
@@ -193673,7 +195170,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:National Museum of Japanese History",
   "lead": "File:National Museum of Japanese History 06.jpg",
-  "coords": null,
+  "coords": [
+   35.7245,
+   140.21908
+  ],
   "hotlink": true,
   "images": [
    {
@@ -193718,7 +195218,7 @@ window.BUILDINGS = [
  },
  {
   "id": "shinjuku-park-tower",
-  "n": 2262,
+  "n": 2261,
   "name": "Shinjuku Park Tower",
   "by": "Kenzo Tange",
   "place": "Tokyo, JP",
@@ -193737,7 +195237,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Shinjuku Park Tower",
   "lead": "File:Shinjuku Park Tower.jpg",
-  "coords": null,
+  "coords": [
+   35.68564,
+   139.69095
+  ],
   "hotlink": true,
   "images": [
    {
@@ -193782,7 +195285,7 @@ window.BUILDINGS = [
  },
  {
   "id": "embassy-of-kuwait-tokyo",
-  "n": 2263,
+  "n": 2262,
   "name": "Embassy of Kuwait, Tokyo",
   "by": "Kenzo Tange",
   "place": "Tokyo, JP",
@@ -193801,7 +195304,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Kuwait Embassy building in Tokyo",
   "lead": "File:Embassy of Kuwait in Japan.jpg",
-  "coords": null,
+  "coords": [
+   35.64523,
+   139.74156
+  ],
   "hotlink": true,
   "images": [
    {
@@ -193858,7 +195364,7 @@ window.BUILDINGS = [
  },
  {
   "id": "komazawa-olympic-park-control-tower",
-  "n": 2264,
+  "n": 2263,
   "name": "Komazawa Olympic Park Control Tower and Gymnasium",
   "by": "Yoshinobu Ashihara",
   "place": "Tokyo, JP",
@@ -193946,7 +195452,7 @@ window.BUILDINGS = [
  },
  {
   "id": "miyagi-stadium",
-  "n": 2265,
+  "n": 2264,
   "name": "Miyagi Stadium",
   "by": "Hitoshi Abe",
   "place": "Rifu, JP",
@@ -193965,7 +195471,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Miyagi Stadium",
   "lead": "File:MiyagiStadium2007-4-29.jpg",
-  "coords": null,
+  "coords": [
+   38.33539,
+   140.95042
+  ],
   "hotlink": true,
   "images": [
    {
@@ -194010,7 +195519,7 @@ window.BUILDINGS = [
  },
  {
   "id": "toyota-stadium",
-  "n": 2266,
+  "n": 2265,
   "name": "Toyota Stadium",
   "by": "Kisho Kurokawa",
   "place": "Toyota, JP",
@@ -194029,7 +195538,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Toyota Stadium",
   "lead": "File:Toyota Stadium - panoramio.jpg",
-  "coords": null,
+  "coords": [
+   35.08444,
+   137.17083
+  ],
   "hotlink": true,
   "images": [
    {
@@ -194074,7 +195586,7 @@ window.BUILDINGS = [
  },
  {
   "id": "noa-building",
-  "n": 2267,
+  "n": 2266,
   "name": "NOA Building",
   "by": "Seiichi Shirai",
   "place": "Tokyo, JP",
@@ -194093,7 +195605,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Noa Building",
   "lead": "File:NOA Building.jpg",
-  "coords": null,
+  "coords": [
+   35.65933,
+   139.74258
+  ],
   "hotlink": true,
   "images": [
    {
@@ -194150,7 +195665,7 @@ window.BUILDINGS = [
  },
  {
   "id": "united-nations-university",
-  "n": 2268,
+  "n": 2267,
   "name": "United Nations University Headquarters",
   "by": "Kenzo Tange",
   "place": "Tokyo, JP",
@@ -194226,7 +195741,7 @@ window.BUILDINGS = [
  },
  {
   "id": "onagawa-station",
-  "n": 2269,
+  "n": 2268,
   "name": "Onagawa Station",
   "by": "Shigeru Ban",
   "place": "Onagawa, JP",
@@ -194245,7 +195760,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Onagawa Station",
   "lead": "File:JR East Onagawa Station building, Miyagi Pref 20240420.jpg",
-  "coords": null,
+  "coords": [
+   38.44675,
+   141.44397
+  ],
   "hotlink": true,
   "images": [
    {
@@ -194302,7 +195820,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sakaide-artificial-ground",
-  "n": 2270,
+  "n": 2269,
   "name": "Sakaide Artificial Ground",
   "by": "Masato Otaka",
   "place": "Sakaide, JP",
@@ -194321,7 +195839,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Sakaide Artificial Ground",
   "lead": "File:Sakaide Artificial Ground 2021-08 ac (1).jpg",
-  "coords": null,
+  "coords": [
+   34.31583,
+   133.85644
+  ],
   "hotlink": true,
   "images": [
    {
@@ -194354,7 +195875,7 @@ window.BUILDINGS = [
  },
  {
   "id": "shonandai-cultural-center",
-  "n": 2271,
+  "n": 2270,
   "name": "Shonandai Cultural Center",
   "by": "Itsuko Hasegawa",
   "place": "Fujisawa, JP",
@@ -194373,7 +195894,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Shonandai Culture Center",
   "lead": "File:Shonandai Culture Center 01.jpg",
-  "coords": null,
+  "coords": [
+   35.39794,
+   139.46964
+  ],
   "hotlink": true,
   "images": [
    {
@@ -194430,7 +195954,7 @@ window.BUILDINGS = [
  },
  {
   "id": "shoto-museum-of-art",
-  "n": 2272,
+  "n": 2271,
   "name": "Shoto Museum of Art",
   "by": "Seiichi Shirai",
   "place": "Tokyo, JP",
@@ -194449,7 +195973,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Shoto Museum of Art",
   "lead": "File:Shoto Museum of Art 2010.jpg",
-  "coords": null,
+  "coords": [
+   35.65867,
+   139.69178
+  ],
   "hotlink": true,
   "images": [
    {
@@ -194506,7 +196033,7 @@ window.BUILDINGS = [
  },
  {
   "id": "takanawa-gateway-station",
-  "n": 2273,
+  "n": 2272,
   "name": "Takanawa Gateway Station",
   "by": "Kengo Kuma",
   "place": "Tokyo, JP",
@@ -194525,7 +196052,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Takanawa Gateway Station",
   "lead": "File:Fully opened Takanawa Gateway Station 03.jpg",
-  "coords": null,
+  "coords": [
+   35.6355,
+   139.7407
+  ],
   "hotlink": true,
   "images": [
    {
@@ -194582,7 +196112,7 @@ window.BUILDINGS = [
  },
  {
   "id": "gunma-music-center",
-  "n": 2274,
+  "n": 2273,
   "name": "Gunma Music Center",
   "by": "Antonin Raymond",
   "place": "Takasaki, JP",
@@ -194601,7 +196131,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Gunma Music Center",
   "lead": "File:Gunma Music Center 2009.jpg",
-  "coords": null,
+  "coords": [
+   36.3235,
+   139.00358
+  ],
   "hotlink": true,
   "images": [
    {
@@ -194658,7 +196191,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kasumigaseki-building",
-  "n": 2275,
+  "n": 2274,
   "name": "Kasumigaseki Building",
   "by": "Yamashita Sekkei with Mitsui Fudosan",
   "place": "Tokyo, JP",
@@ -194677,7 +196210,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Kasumigaseki Building",
   "lead": "File:Kasumigaseki building - Nov 21 2019 various 16 02 25 344000.jpeg",
-  "coords": null,
+  "coords": [
+   35.67128,
+   139.74721
+  ],
   "hotlink": true,
   "images": [
    {
@@ -194734,7 +196270,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kabukiza",
-  "n": 2276,
+  "n": 2275,
   "name": "Kabuki-za (2013)",
   "by": "Kengo Kuma",
   "place": "Tokyo, JP",
@@ -194753,7 +196289,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Kabuki-za (2013-)",
   "lead": "File:Kabuki-za Theatre 2013 1125.jpg",
-  "coords": null,
+  "coords": [
+   35.66972,
+   139.76806
+  ],
   "hotlink": true,
   "images": [
    {
@@ -194822,7 +196361,7 @@ window.BUILDINGS = [
  },
  {
   "id": "yatsushiro-municipal-museum",
-  "n": 2277,
+  "n": 2276,
   "name": "Yatsushiro Municipal Museum",
   "by": "Toyo Ito",
   "place": "Yatsushiro, JP",
@@ -194841,7 +196380,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Yatsushiro Municipal Museum",
   "lead": "File:Yatsushiro Municipal Museum.jpg",
-  "coords": null,
+  "coords": [
+   32.50825,
+   130.59656
+  ],
   "hotlink": true,
   "images": [
    {
@@ -194862,7 +196404,7 @@ window.BUILDINGS = [
  },
  {
   "id": "museum-of-modern-art-kamakura",
-  "n": 2278,
+  "n": 2277,
   "name": "Museum of Modern Art, Kamakura (Kamakura Bunkakan Tsurugaoka Museum)",
   "by": "Junzo Sakakura",
   "place": "Kamakura, JP",
@@ -194881,7 +196423,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:The Museum of Modern Art, Kamakura",
   "lead": "File:Tsurugaoka Museum, Kamakura, -29 november 2025 14：42.jpg",
-  "coords": null,
+  "coords": [
+   35.3247,
+   139.55479
+  ],
   "hotlink": true,
   "images": [
    {
@@ -194950,7 +196495,7 @@ window.BUILDINGS = [
  },
  {
   "id": "meguro-city-office",
-  "n": 2279,
+  "n": 2278,
   "name": "Meguro City Office (former Chiyoda Life Insurance HQ)",
   "by": "Togo Murano",
   "place": "Tokyo, JP",
@@ -195014,7 +196559,7 @@ window.BUILDINGS = [
  },
  {
   "id": "nippon-budokan",
-  "n": 2280,
+  "n": 2279,
   "name": "Nippon Budokan",
   "by": "Mamoru Yamada",
   "place": "Tokyo, JP",
@@ -195033,7 +196578,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Nippon Budokan",
   "lead": "File:Nippon Budokan 20190406.jpg",
-  "coords": null,
+  "coords": [
+   35.69333,
+   139.75
+  ],
   "hotlink": true,
   "images": [
    {
@@ -195102,7 +196650,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kyoto-tower",
-  "n": 2281,
+  "n": 2280,
   "name": "Kyoto Tower",
   "by": "Mamoru Yamada",
   "place": "Kyoto, JP",
@@ -195121,7 +196669,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Kyoto Tower",
   "lead": "File:Kyoto Tower 2023-12 ac (1).jpg",
-  "coords": null,
+  "coords": [
+   34.9875,
+   135.75917
+  ],
   "hotlink": true,
   "images": [
    {
@@ -195202,7 +196753,7 @@ window.BUILDINGS = [
  },
  {
   "id": "toyoda-auditorium",
-  "n": 2282,
+  "n": 2281,
   "name": "Toyoda Auditorium, Nagoya University",
   "by": "Fumihiko Maki",
   "place": "Nagoya, JP",
@@ -195221,7 +196772,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Toyoda Auditorium of Nagoya University",
   "lead": "名古屋大学の豊田講堂(20210718).jpg",
-  "coords": null,
+  "coords": [
+   35.15333,
+   136.96806
+  ],
   "hotlink": true,
   "images": [
    {
@@ -195278,7 +196832,7 @@ window.BUILDINGS = [
  },
  {
   "id": "granship",
-  "n": 2283,
+  "n": 2282,
   "name": "Shizuoka Convention and Arts Center (Granship)",
   "by": "Arata Isozaki",
   "place": "Shizuoka, JP",
@@ -195297,7 +196851,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Shizuoka Convention & Arts Center",
   "lead": "File:Granship Facade.jpg",
-  "coords": null,
+  "coords": [
+   34.98567,
+   138.41711
+  ],
   "hotlink": true,
   "images": [
    {
@@ -195354,7 +196911,7 @@ window.BUILDINGS = [
  },
  {
   "id": "nagi-moca",
-  "n": 2284,
+  "n": 2283,
   "name": "Nagi Museum of Contemporary Art",
   "by": "Arata Isozaki",
   "place": "Nagi, JP",
@@ -195373,7 +196930,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Nagi Museum Of Contemporary Art",
   "lead": "File:Nagi MOCA.jpg",
-  "coords": null,
+  "coords": [
+   35.12394,
+   134.17494
+  ],
   "hotlink": true,
   "images": [
    {
@@ -195406,7 +196966,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mount-fuji-world-heritage-centre",
-  "n": 2285,
+  "n": 2284,
   "name": "Mt. Fuji World Heritage Centre, Shizuoka",
   "by": "Shigeru Ban",
   "place": "Fujinomiya, JP",
@@ -195425,7 +196985,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Mt.Fuji World Heritage Centre, Shizuoka",
   "lead": "File:Mt.Fuji World Heritage Centre,Shizuoka.jpg",
-  "coords": null,
+  "coords": [
+   35.22369,
+   138.60883
+  ],
   "hotlink": true,
   "images": [
    {
@@ -195506,7 +197069,7 @@ window.BUILDINGS = [
  },
  {
   "id": "za-koenji",
-  "n": 2286,
+  "n": 2285,
   "name": "Za-Koenji Public Theatre",
   "by": "Toyo Ito",
   "place": "Tokyo, JP",
@@ -195525,7 +197088,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Suginami Art Center",
   "lead": "File:Za koenji.jpg",
-  "coords": null,
+  "coords": [
+   35.70592,
+   139.65401
+  ],
   "hotlink": true,
   "images": [
    {
@@ -195582,7 +197148,7 @@ window.BUILDINGS = [
  },
  {
   "id": "aore-nagaoka",
-  "n": 2287,
+  "n": 2286,
   "name": "Aore Nagaoka City Hall",
   "by": "Kengo Kuma",
   "place": "Nagaoka, JP",
@@ -195601,7 +197167,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Ao-re Nagaoka",
   "lead": "File:Ao-re Nagaoka 20140430.jpg",
-  "coords": null,
+  "coords": [
+   37.44639,
+   138.85111
+  ],
   "hotlink": true,
   "images": [
    {
@@ -195682,7 +197251,7 @@ window.BUILDINGS = [
  },
  {
   "id": "starbucks-dazaifu",
-  "n": 2288,
+  "n": 2287,
   "name": "Starbucks Coffee, Dazaifu Tenmangu Omotesando",
   "by": "Kengo Kuma",
   "place": "Dazaifu, JP",
@@ -195770,7 +197339,7 @@ window.BUILDINGS = [
  },
  {
   "id": "prince-kyoto-takaragaike",
-  "n": 2289,
+  "n": 2288,
   "name": "The Prince Kyoto Takaragaike (Kyoto Takaragaike Prince Hotel)",
   "by": "Togo Murano",
   "place": "Kyoto, JP",
@@ -195789,7 +197358,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:The Prince Kyoto Takaragaike",
   "lead": "File:The Prince Kyoto Takaragaike 20211018-002.jpg",
-  "coords": null,
+  "coords": [
+   35.06306,
+   135.78111
+  ],
   "hotlink": true,
   "images": [
    {
@@ -195846,7 +197418,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hotel-tokoen",
-  "n": 2290,
+  "n": 2289,
   "name": "Hotel Tokoen",
   "by": "Kiyonori Kikutake",
   "place": "Yonago, JP",
@@ -195898,7 +197470,7 @@ window.BUILDINGS = [
  },
  {
   "id": "shiroiya-hotel",
-  "n": 2291,
+  "n": 2290,
   "name": "Shiroiya Hotel",
   "by": "Sou Fujimoto",
   "place": "Maebashi, JP",
@@ -195938,7 +197510,7 @@ window.BUILDINGS = [
  },
  {
   "id": "aalto-university-undergraduate-centre",
-  "n": 2292,
+  "n": 2291,
   "name": "Aalto University Undergraduate Centre (Otaniemi main building)",
   "by": "Alvar Aalto",
   "place": "Espoo, FI",
@@ -195957,7 +197529,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Aalto University Undergraduate Centre",
   "lead": "File:Aalto University Undergraduate Centre, Otaniemi, Espoo (January 2020).jpg",
-  "coords": null,
+  "coords": [
+   60.1858,
+   24.8274
+  ],
   "hotlink": true,
   "images": [
    {
@@ -196038,7 +197613,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kirjatalo-academic-bookstore",
-  "n": 2293,
+  "n": 2292,
   "name": "Academic Bookstore (Kirjatalo)",
   "by": "Alvar Aalto",
   "place": "Helsinki, FI",
@@ -196057,7 +197632,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Kirjatalo",
   "lead": "File:Pohjoisesplanadi 39.jpg",
-  "coords": null,
+  "coords": [
+   60.16786,
+   24.94356
+  ],
   "hotlink": true,
   "images": [
    {
@@ -196138,7 +197716,7 @@ window.BUILDINGS = [
  },
  {
   "id": "alvar-aalto-museum-jyvaskyla",
-  "n": 2294,
+  "n": 2293,
   "name": "Alvar Aalto Museum",
   "by": "Alvar Aalto",
   "place": "Jyväskylä, FI",
@@ -196157,7 +197735,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Alvar Aalto Museum Jyväskylä",
   "lead": "File:Alvar Aalto museum 2017.jpg",
-  "coords": null,
+  "coords": [
+   62.23343,
+   25.73096
+  ],
   "hotlink": true,
   "images": [
    {
@@ -196214,7 +197795,7 @@ window.BUILDINGS = [
  },
  {
   "id": "amos-rex",
-  "n": 2295,
+  "n": 2294,
   "name": "Amos Rex",
   "by": "JKMM Architects",
   "place": "Helsinki, FI",
@@ -196233,7 +197814,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Amos Rex",
   "lead": "File:Amos Rex aukio.jpg",
-  "coords": null,
+  "coords": [
+   60.16833,
+   24.93722
+  ],
   "hotlink": true,
   "images": [
    {
@@ -196302,7 +197886,7 @@ window.BUILDINGS = [
  },
  {
   "id": "den-bla-planet",
-  "n": 2296,
+  "n": 2295,
   "name": "Den Blå Planet (National Aquarium Denmark)",
   "by": "3XN",
   "place": "Kastrup, DK",
@@ -196321,7 +197905,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Den Blå Planet",
   "lead": "File:Blue Planet (Copenhagen).jpg",
-  "coords": null,
+  "coords": [
+   55.638,
+   12.656
+  ],
   "hotlink": true,
   "images": [
    {
@@ -196378,7 +197965,7 @@ window.BUILDINGS = [
  },
  {
   "id": "copenhagen-police-headquarters",
-  "n": 2297,
+  "n": 2296,
   "name": "Copenhagen Police Headquarters (Politigården)",
   "by": "Hack Kampmann, Aage Rafn",
   "place": "Copenhagen, DK",
@@ -196397,7 +197984,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Københavns Politigård",
   "lead": "File:20190917 Politigarden Kobenhavn (48835420686).jpg",
-  "coords": null,
+  "coords": [
+   55.6706,
+   12.572
+  ],
   "hotlink": true,
   "images": [
    {
@@ -196478,7 +198068,7 @@ window.BUILDINGS = [
  },
  {
   "id": "enso-gutzeit-headquarters",
-  "n": 2298,
+  "n": 2297,
   "name": "Enso-Gutzeit Headquarters (Stora Enso)",
   "by": "Alvar Aalto",
   "place": "Helsinki, FI",
@@ -196497,7 +198087,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Stora Enso headquarters",
   "lead": "File:Stora Enso headquars Helsinki Finland 02.jpg",
-  "coords": null,
+  "coords": [
+   60.16791,
+   24.95858
+  ],
   "hotlink": true,
   "images": [
    {
@@ -196578,7 +198171,7 @@ window.BUILDINGS = [
  },
  {
   "id": "filmhuset-stockholm",
-  "n": 2299,
+  "n": 2298,
   "name": "Filmhuset",
   "by": "Peter Celsing",
   "place": "Stockholm, SE",
@@ -196597,7 +198190,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Filmhuset",
   "lead": "File:Filmhuset 2009b.jpg",
-  "coords": null,
+  "coords": [
+   59.33987,
+   18.10366
+  ],
   "hotlink": true,
   "images": [
    {
@@ -196654,7 +198250,7 @@ window.BUILDINGS = [
  },
  {
   "id": "henie-onstad-kunstsenter",
-  "n": 2300,
+  "n": 2299,
   "name": "Henie Onstad Kunstsenter",
   "by": "Jon Eikvar, Sven Erik Engebretsen",
   "place": "Bærum, NO",
@@ -196673,7 +198269,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Henie Onstad kunstsenter",
   "lead": "File:Henie Onstad Hovik 02.JPG",
-  "coords": null,
+  "coords": [
+   59.88878,
+   10.55293
+  ],
   "hotlink": true,
   "images": [
    {
@@ -196742,7 +198341,7 @@ window.BUILDINGS = [
  },
  {
   "id": "holmenkollbakken",
-  "n": 2301,
+  "n": 2300,
   "name": "Holmenkollbakken ski jump",
   "by": "JDS Architects",
   "place": "Oslo, NO",
@@ -196761,7 +198360,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Holmenkollbakken",
   "lead": "File:19-08-25-Oslo Holmenkollenbakken-RalfR.jpg",
-  "coords": null,
+  "coords": [
+   59.96389,
+   10.66778
+  ],
   "hotlink": true,
   "images": [
    {
@@ -196830,7 +198432,7 @@ window.BUILDINGS = [
  },
  {
   "id": "moderna-museet-malmo",
-  "n": 2302,
+  "n": 2301,
   "name": "Moderna Museet Malmö",
   "by": "Tham & Videgård Arkitekter",
   "place": "Malmö, SE",
@@ -196849,7 +198451,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Moderna museet Malmö",
   "lead": "File:Moderna Museet Malmö.jpg",
-  "coords": null,
+  "coords": [
+   55.6046,
+   13.0096
+  ],
   "hotlink": true,
   "images": [
    {
@@ -196894,7 +198499,7 @@ window.BUILDINGS = [
  },
  {
   "id": "malmo-konsthall",
-  "n": 2303,
+  "n": 2302,
   "name": "Malmö Konsthall",
   "by": "Klas Anshelm",
   "place": "Malmö, SE",
@@ -196913,7 +198518,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Malmö konsthall",
   "lead": "File:Klas Anshelm's Malmö Konsthall Exterior.jpg",
-  "coords": null,
+  "coords": [
+   55.59556,
+   12.99889
+  ],
   "hotlink": true,
   "images": [
    {
@@ -196958,7 +198566,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sanomatalo",
-  "n": 2304,
+  "n": 2303,
   "name": "Sanomatalo",
   "by": "Jan Söderlund, Antti-Matti Siikala",
   "place": "Helsinki, FI",
@@ -196977,7 +198585,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Sanomatalo",
   "lead": "File:Sanomatalo Helsinki.jpg",
-  "coords": null,
+  "coords": [
+   60.17244,
+   24.93783
+  ],
   "hotlink": true,
   "images": [
    {
@@ -197034,7 +198645,7 @@ window.BUILDINGS = [
  },
  {
   "id": "seinajoki-city-hall",
-  "n": 2305,
+  "n": 2304,
   "name": "Seinäjoki City Hall",
   "by": "Alvar Aalto",
   "place": "Seinäjoki, FI",
@@ -197053,7 +198664,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Seinäjoki City Hall",
   "lead": "File:Seinajoki City Hall upper entrance.jpg",
-  "coords": null,
+  "coords": [
+   62.7867,
+   22.8417
+  ],
   "hotlink": true,
   "images": [
    {
@@ -197110,7 +198724,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sibelius-hall",
-  "n": 2306,
+  "n": 2305,
   "name": "Sibelius Hall",
   "by": "Kimmo Lintula, Hannu Tikka",
   "place": "Lahti, FI",
@@ -197129,7 +198743,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Sibelius hall",
   "lead": "File:Sibelius hall Lahti.jpg",
-  "coords": null,
+  "coords": [
+   60.995,
+   25.65111
+  ],
   "hotlink": true,
   "images": [
    {
@@ -197198,7 +198815,7 @@ window.BUILDINGS = [
  },
  {
   "id": "soholm-row-houses",
-  "n": 2307,
+  "n": 2306,
   "name": "Søholm Row Houses",
   "by": "Arne Jacobsen",
   "place": "Klampenborg, DK",
@@ -197217,7 +198834,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Søholm (Strandvejen)",
   "lead": "File:Arne jacobsen, Søholm I, 1946-1950.jpg",
-  "coords": null,
+  "coords": [
+   55.77465,
+   12.59089
+  ],
   "hotlink": true,
   "images": [
    {
@@ -197262,7 +198882,7 @@ window.BUILDINGS = [
  },
  {
   "id": "stegastein-viewpoint",
-  "n": 2308,
+  "n": 2307,
   "name": "Stegastein Viewpoint",
   "by": "Todd Saunders, Tommie Wilhelmsen",
   "place": "Aurland, NO",
@@ -197281,7 +198901,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Stegastein",
   "lead": "File:Norwegia-82.jpg",
-  "coords": null,
+  "coords": [
+   60.90833,
+   7.2125
+  ],
   "hotlink": true,
   "images": [
    {
@@ -197338,7 +198961,7 @@ window.BUILDINGS = [
  },
  {
   "id": "stockholm-city-hall",
-  "n": 2309,
+  "n": 2308,
   "name": "Stockholm City Hall",
   "by": "Ragnar Östberg",
   "place": "Stockholm, SE",
@@ -197357,7 +198980,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Stockholm City Hall",
   "lead": "File:Stockholm Sweden Stadshuset-02.jpg",
-  "coords": null,
+  "coords": [
+   59.3275,
+   18.05472
+  ],
   "hotlink": true,
   "images": [
    {
@@ -197441,7 +199067,7 @@ window.BUILDINGS = [
  },
  {
   "id": "viikki-church",
-  "n": 2310,
+  "n": 2309,
   "name": "Viikki Church",
   "by": "JKMM Architects (Samuli Miettinen)",
   "place": "Helsinki, FI",
@@ -197460,7 +199086,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Viikki Church",
   "lead": "File:Viikki Church in Latokartano, Viikki, Helsinki, Finland, 2022 July - 2.jpg",
-  "coords": null,
+  "coords": [
+   60.23333,
+   25.03361
+  ],
   "hotlink": true,
   "images": [
    {
@@ -197541,7 +199170,7 @@ window.BUILDINGS = [
  },
  {
   "id": "harlanda-church",
-  "n": 2311,
+  "n": 2310,
   "name": "Härlanda Church",
   "by": "Peter Celsing",
   "place": "Gothenburg, SE",
@@ -197560,7 +199189,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Härlanda kyrka",
   "lead": "File:Härlanda Kyrka, Gothenburg, Sweden 01.jpg",
-  "coords": null,
+  "coords": [
+   57.7193,
+   12.02365
+  ],
   "hotlink": true,
   "images": [
    {
@@ -197629,7 +199261,7 @@ window.BUILDINGS = [
  },
  {
   "id": "universeum",
-  "n": 2312,
+  "n": 2311,
   "name": "Universeum",
   "by": "Gert Wingårdh",
   "place": "Gothenburg, SE",
@@ -197648,7 +199280,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Universeum",
   "lead": "File:Goteborg Universeum.jpg",
-  "coords": null,
+  "coords": [
+   57.69556,
+   11.98917
+  ],
   "hotlink": true,
   "images": [
    {
@@ -197717,7 +199352,7 @@ window.BUILDINGS = [
  },
  {
   "id": "helsinki-olympic-stadium",
-  "n": 2313,
+  "n": 2312,
   "name": "Helsinki Olympic Stadium",
   "by": "Yrjö Lindegren, Toivo Jäntti",
   "place": "Helsinki, FI",
@@ -197736,7 +199371,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Helsinki Olympic Stadium",
   "lead": "File:Helsinki Olympic Stadium in Taka-Töölö, Helsinki, Finland, 2026 July.jpg",
-  "coords": null,
+  "coords": [
+   60.18689,
+   24.92606
+  ],
   "hotlink": true,
   "images": [
    {
@@ -197817,7 +199455,7 @@ window.BUILDINGS = [
  },
  {
   "id": "helsingborg-concert-hall",
-  "n": 2314,
+  "n": 2313,
   "name": "Helsingborg Concert Hall",
   "by": "Sven Markelius",
   "place": "Helsingborg, SE",
@@ -197836,7 +199474,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Helsingborgs konserthus",
   "lead": "File:Helsingborgs konserthus 2013-05-18.jpg",
-  "coords": null,
+  "coords": [
+   56.04961,
+   12.68889
+  ],
   "hotlink": true,
   "images": [
    {
@@ -197893,7 +199534,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kuokkala-church",
-  "n": 2315,
+  "n": 2314,
   "name": "Kuokkala Church",
   "by": "Lassila Hirvilammi (Anssi Lassila, Teemu Hirvilammi, Jani Jansson)",
   "place": "Jyväskylä, FI",
@@ -197912,7 +199553,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Kuokkala Church",
   "lead": "File:Kuokkala Church 2.jpg",
-  "coords": null,
+  "coords": [
+   62.22698,
+   25.77166
+  ],
   "hotlink": true,
   "images": [
    {
@@ -197969,7 +199613,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lieksa-church",
-  "n": 2316,
+  "n": 2315,
   "name": "Lieksa Church",
   "by": "Reima Pietilä, Raili Pietilä",
   "place": "Lieksa, FI",
@@ -197988,7 +199632,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Lieksa Church",
   "lead": "File:Lieksan kirkko (14821753598).jpg",
-  "coords": null,
+  "coords": [
+   63.3133,
+   30.0303
+  ],
   "hotlink": true,
   "images": [
    {
@@ -198069,7 +199716,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lister-county-courthouse",
-  "n": 2317,
+  "n": 2316,
   "name": "Lister County Courthouse",
   "by": "Gunnar Asplund",
   "place": "Sölvesborg, SE",
@@ -198088,7 +199735,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Listers härads tingshus, Sölvesborg",
   "lead": "File:Listers härads tingshus i Sölvesborg - 2.JPG",
-  "coords": null,
+  "coords": [
+   56.051,
+   14.57718
+  ],
   "hotlink": true,
   "images": [
    {
@@ -198145,7 +199795,7 @@ window.BUILDINGS = [
  },
  {
   "id": "loyly-helsinki",
-  "n": 2318,
+  "n": 2317,
   "name": "Löyly",
   "by": "Avanto Architects",
   "place": "Helsinki, FI",
@@ -198164,7 +199814,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Löyly",
   "lead": "File:Löyly Helsinki 2.jpg",
-  "coords": null,
+  "coords": [
+   60.15192,
+   24.93011
+  ],
   "hotlink": true,
   "images": [
    {
@@ -198233,7 +199886,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lund-konsthall",
-  "n": 2319,
+  "n": 2318,
   "name": "Lund Konsthall",
   "by": "Klas Anshelm",
   "place": "Lund, SE",
@@ -198252,7 +199905,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Lunds konsthall",
   "lead": "File:Klas Anshelm 1957 Lunds konsthall 01.jpg",
-  "coords": null,
+  "coords": [
+   55.70213,
+   13.19562
+  ],
   "hotlink": true,
   "images": [
    {
@@ -198309,7 +199965,7 @@ window.BUILDINGS = [
  },
  {
   "id": "riksbank-building-stockholm",
-  "n": 2320,
+  "n": 2319,
   "name": "Sveriges Riksbank Building",
   "by": "Peter Celsing",
   "place": "Stockholm, SE",
@@ -198328,7 +199984,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Riksbankshuset, Stockholm",
   "lead": "File:Brunkebergstorg, Riksbankens hus, 2020.jpg",
-  "coords": null,
+  "coords": [
+   59.33174,
+   18.06596
+  ],
   "hotlink": true,
   "images": [
    {
@@ -198397,7 +200056,7 @@ window.BUILDINGS = [
  },
  {
   "id": "st-henrys-ecumenical-art-chapel",
-  "n": 2321,
+  "n": 2320,
   "name": "St. Henry's Ecumenical Art Chapel",
   "by": "Sanaksenaho Architects (Matti Sanaksenaho)",
   "place": "Turku, FI",
@@ -198416,7 +200075,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Ecumenical Art Chapel of St. Henry",
   "lead": "File:Pyhän Henrikin ekumeeninen taidekappeli 2013 01.JPG",
-  "coords": null,
+  "coords": [
+   60.40778,
+   22.25361
+  ],
   "hotlink": true,
   "images": [
    {
@@ -198497,7 +200159,7 @@ window.BUILDINGS = [
  },
  {
   "id": "akureyrarkirkja",
-  "n": 2322,
+  "n": 2321,
   "name": "Akureyrarkirkja",
   "by": "Guðjón Samúelsson",
   "place": "Akureyri, IS",
@@ -198516,7 +200178,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Akureyrarkirkja",
   "lead": "File:Akureyrarkirkja - panoramio (1).jpg",
-  "coords": null,
+  "coords": [
+   65.67984,
+   -18.09097
+  ],
   "hotlink": true,
   "images": [
    {
@@ -198585,7 +200250,7 @@ window.BUILDINGS = [
  },
  {
   "id": "deichman-bjorvika",
-  "n": 2323,
+  "n": 2322,
   "name": "Deichman Bjørvika (Oslo Public Library)",
   "by": "Lundhagem, Atelier Oslo",
   "place": "Oslo, NO",
@@ -198604,7 +200269,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Deichman Bjørvika",
   "lead": "File:2020 wurde das neue Bibliotheksgebäude neben dem Opernhaus eröffnet. 02.jpg",
-  "coords": null,
+  "coords": [
+   59.90866,
+   10.7527
+  ],
   "hotlink": true,
   "images": [
    {
@@ -198685,7 +200353,7 @@ window.BUILDINGS = [
  },
  {
   "id": "dokk1",
-  "n": 2324,
+  "n": 2323,
   "name": "Dokk1",
   "by": "Schmidt Hammer Lassen Architects, Kristine Jensen",
   "place": "Aarhus, DK",
@@ -198704,7 +200372,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:DOKK1",
   "lead": "File:2015-06-30 Aarhus Dokk1 Bibliothek.jpg",
-  "coords": null,
+  "coords": [
+   56.15354,
+   10.21417
+  ],
   "hotlink": true,
   "images": [
    {
@@ -198785,7 +200456,7 @@ window.BUILDINGS = [
  },
  {
   "id": "gothenburg-concert-hall",
-  "n": 2325,
+  "n": 2324,
   "name": "Gothenburg Concert Hall",
   "by": "Nils Einar Eriksson",
   "place": "Gothenburg, SE",
@@ -198804,7 +200475,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Göteborgs konserthus",
   "lead": "File:At Göteborg 2026 0128.jpg",
-  "coords": null,
+  "coords": [
+   57.69669,
+   11.97858
+  ],
   "hotlink": true,
   "images": [
    {
@@ -198861,7 +200535,7 @@ window.BUILDINGS = [
  },
  {
   "id": "gothenburg-law-courts-extension",
-  "n": 2326,
+  "n": 2325,
   "name": "Gothenburg Law Courts Extension",
   "by": "Gunnar Asplund",
   "place": "Gothenburg, SE",
@@ -198880,7 +200554,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Göteborgs rådhusannexet",
   "lead": "File:Asplund fachada.jpg",
-  "coords": null,
+  "coords": [
+   57.70715,
+   11.96581
+  ],
   "hotlink": true,
   "images": [
    {
@@ -198961,7 +200638,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hornbaekhus",
-  "n": 2327,
+  "n": 2326,
   "name": "Hornbækhus",
   "by": "Kay Fisker",
   "place": "Copenhagen, DK",
@@ -198980,7 +200657,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Hornbækhus",
   "lead": "File:Hornbækhus 02.jpg",
-  "coords": null,
+  "coords": [
+   55.6896,
+   12.5404
+  ],
   "hotlink": true,
   "images": [
    {
@@ -199049,7 +200729,7 @@ window.BUILDINGS = [
  },
  {
   "id": "orestad-gymnasium",
-  "n": 2328,
+  "n": 2327,
   "name": "Ørestad Gymnasium",
   "by": "3XN",
   "place": "Copenhagen, DK",
@@ -199068,7 +200748,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Ørestad Gymnasium",
   "lead": "File:Ørestad Gymnasium.JPG",
-  "coords": null,
+  "coords": [
+   55.6317,
+   12.5814
+  ],
   "hotlink": true,
   "images": [
    {
@@ -199113,7 +200796,7 @@ window.BUILDINGS = [
  },
  {
   "id": "icefjord-centre-ilulissat",
-  "n": 2329,
+  "n": 2328,
   "name": "Ilulissat Icefjord Centre",
   "by": "Dorte Mandrup",
   "place": "Ilulissat, GL",
@@ -199132,7 +200815,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Ilulissat Icefjord Centre",
   "lead": "File:Ilulissat Isfjordscenter, Greenland (54067577094).jpg",
-  "coords": null,
+  "coords": [
+   69.2081,
+   -51.10865
+  ],
   "hotlink": true,
   "images": [
    {
@@ -199153,7 +200839,7 @@ window.BUILDINGS = [
  },
  {
   "id": "nordic-house-torshavn",
-  "n": 2330,
+  "n": 2329,
   "name": "Nordic House in the Faroe Islands",
   "by": "Ola Steen, Kolbrún Ragnarsdóttir",
   "place": "Tórshavn, FO",
@@ -199172,7 +200858,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Nordic House in the Faroe Islands",
   "lead": "File:Nordens Hus pa Faeroerne.jpg",
-  "coords": null,
+  "coords": [
+   62.0221,
+   -6.7846
+  ],
   "hotlink": true,
   "images": [
    {
@@ -199241,7 +200930,7 @@ window.BUILDINGS = [
  },
  {
   "id": "powerhouse-brattorkaia",
-  "n": 2331,
+  "n": 2330,
   "name": "Powerhouse Brattørkaia",
   "by": "Snøhetta",
   "place": "Trondheim, NO",
@@ -199305,7 +200994,7 @@ window.BUILDINGS = [
  },
  {
   "id": "reykjavik-city-hall",
-  "n": 2332,
+  "n": 2331,
   "name": "Reykjavík City Hall",
   "by": "Studio Granda",
   "place": "Reykjavík, IS",
@@ -199324,7 +201013,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Reykjavík Town Hall",
   "lead": "On the lake Tjörnin in Reykjavík (47627229891).jpg",
-  "coords": null,
+  "coords": [
+   64.14583,
+   -21.94222
+  ],
   "hotlink": true,
   "images": [
    {
@@ -199371,7 +201063,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sdu-campus-kolding",
-  "n": 2333,
+  "n": 2332,
   "name": "SDU Campus Kolding",
   "by": "Henning Larsen Architects",
   "place": "Kolding, DK",
@@ -199390,7 +201082,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Syddansk Universitet Kolding",
   "lead": "File:SDU Kolding 2015.jpg",
-  "coords": null,
+  "coords": [
+   55.48703,
+   9.4827
+  ],
   "hotlink": true,
   "images": [
    {
@@ -199471,7 +201166,7 @@ window.BUILDINGS = [
  },
  {
   "id": "st-hallvard-church-oslo",
-  "n": 2334,
+  "n": 2333,
   "name": "St. Hallvard Church and Monastery",
   "by": "Lund & Slaatto (Kjell Lund, Nils Slaatto)",
   "place": "Oslo, NO",
@@ -199490,7 +201185,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:St. Hallvard kirke og kloster",
   "lead": "File:St. Hallvard kirke c1987–92 OMU OMu.D0626.jpg",
-  "coords": null,
+  "coords": [
+   59.9127,
+   10.7691
+  ],
   "hotlink": true,
   "images": [
    {
@@ -199559,7 +201257,7 @@ window.BUILDINGS = [
  },
  {
   "id": "stockholm-concert-hall",
-  "n": 2335,
+  "n": 2334,
   "name": "Stockholm Concert Hall",
   "by": "Ivar Tengbom",
   "place": "Stockholm, SE",
@@ -199578,7 +201276,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Konserthuset Stockholm",
   "lead": "File:Concerthall - panoramio.jpg",
-  "coords": null,
+  "coords": [
+   59.335,
+   18.06333
+  ],
   "hotlink": true,
   "images": [
    {
@@ -199686,7 +201387,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tautra-mariakloster",
-  "n": 2336,
+  "n": 2335,
   "name": "Tautra Mariakloster (convent)",
   "by": "Jensen & Skodvin",
   "place": "Frosta, NO",
@@ -199705,7 +201406,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Tautra Mariakloster",
   "lead": "File:Tautra Mariakloster Frosta (2016.07.09).jpg",
-  "coords": null,
+  "coords": [
+   63.5841,
+   10.622
+  ],
   "hotlink": true,
   "images": [
    {
@@ -199776,7 +201480,7 @@ window.BUILDINGS = [
  },
  {
   "id": "the-twist-kistefos",
-  "n": 2337,
+  "n": 2336,
   "name": "The Twist",
   "by": "BIG (Bjarke Ingels Group)",
   "place": "Jevnaker, NO",
@@ -199795,7 +201499,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:The Twist",
   "lead": "File:The Twist II.jpg",
-  "coords": null,
+  "coords": [
+   60.22167,
+   10.36389
+  ],
   "hotlink": true,
   "images": [
    {
@@ -199864,7 +201571,7 @@ window.BUILDINGS = [
  },
  {
   "id": "under-restaurant",
-  "n": 2338,
+  "n": 2337,
   "name": "Under",
   "by": "Snøhetta",
   "place": "Lindesnes, NO",
@@ -199883,7 +201590,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Under (restaurant)",
   "lead": "File:Under restaurant AV4A9109 (48614080503).jpg",
-  "coords": null,
+  "coords": [
+   58.04081,
+   7.15431
+  ],
   "hotlink": true,
   "images": [
    {
@@ -199928,7 +201638,7 @@ window.BUILDINGS = [
  },
  {
   "id": "wadden-sea-centre",
-  "n": 2339,
+  "n": 2338,
   "name": "Wadden Sea Centre",
   "by": "Dorte Mandrup",
   "place": "Vester Vedsted, DK",
@@ -199947,7 +201657,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Vadehavscentret",
   "lead": "File:Vadehavscenteret.jpg",
-  "coords": null,
+  "coords": [
+   55.29569,
+   8.66916
+  ],
   "hotlink": true,
   "images": [
    {
@@ -200028,7 +201741,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kela-main-office",
-  "n": 2340,
+  "n": 2339,
   "name": "Kela Main Office (National Pensions Institute)",
   "by": "Alvar Aalto",
   "place": "Helsinki, FI",
@@ -200047,7 +201760,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Kansaneläkelaitos headquarters",
   "lead": "File:Kela hdqtrs 02.JPG",
-  "coords": null,
+  "coords": [
+   60.1875,
+   24.9173
+  ],
   "hotlink": true,
   "images": [
    {
@@ -200080,7 +201796,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kth-school-of-architecture",
-  "n": 2341,
+  "n": 2340,
   "name": "KTH School of Architecture",
   "by": "Tham & Videgård Arkitekter",
   "place": "Stockholm, SE",
@@ -200099,7 +201815,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Arkitekturskolan, KTH",
   "lead": "File:Arkitekturskolan October 2015 01.jpg",
-  "coords": null,
+  "coords": [
+   59.34722,
+   18.0725
+  ],
   "hotlink": true,
   "images": [
    {
@@ -200156,7 +201875,7 @@ window.BUILDINGS = [
  },
  {
   "id": "fragrant-hill-hotel",
-  "n": 2342,
+  "n": 2341,
   "name": "Fragrant Hill Hotel",
   "by": "I. M. Pei",
   "place": "Beijing, CN",
@@ -200175,7 +201894,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Fragrant Hill Hotel",
   "lead": "File:Back of Fragrant Hill Hotel (20170825140542).jpg",
-  "coords": null,
+  "coords": [
+   39.98831,
+   116.18846
+  ],
   "hotlink": true,
   "images": [
    {
@@ -200256,7 +201978,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sun-yat-sen-mausoleum",
-  "n": 2343,
+  "n": 2342,
   "name": "Sun Yat-sen Mausoleum",
   "by": "Lü Yanzhi",
   "place": "Nanjing, CN",
@@ -200275,7 +201997,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Sun Yat-sen Mausoleum",
   "lead": "File:Nanjing - Sun Yat-sen Mausoleum - View 02.jpg",
-  "coords": null,
+  "coords": [
+   32.06442,
+   118.84827
+  ],
   "hotlink": true,
   "images": [
    {
@@ -200320,7 +202045,7 @@ window.BUILDINGS = [
  },
  {
   "id": "chiang-kai-shek-memorial-hall",
-  "n": 2344,
+  "n": 2343,
   "name": "Chiang Kai-shek Memorial Hall",
   "by": "Yang Cho-cheng",
   "place": "Taipei, TW",
@@ -200339,7 +202064,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Chiang Kai-shek Memorial Hall",
   "lead": "File:Chiang Kai-shek Memorial Hall 2009 amk.JPG",
-  "coords": null,
+  "coords": [
+   25.03444,
+   121.52167
+  ],
   "hotlink": true,
   "images": [
    {
@@ -200410,7 +202138,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sun-yat-sen-memorial-hall-taipei",
-  "n": 2345,
+  "n": 2344,
   "name": "National Dr. Sun Yat-sen Memorial Hall",
   "by": "Wang Da-hong",
   "place": "Taipei, TW",
@@ -200429,7 +202157,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Sun Yat-sen Memorial Hall, Taipei",
   "lead": "File:National Dr. Sun Yat-sen Memorial Hall 09.jpg",
-  "coords": null,
+  "coords": [
+   25.03999,
+   121.56029
+  ],
   "hotlink": true,
   "images": [
    {
@@ -200486,7 +202217,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sun-yat-sen-memorial-hall-guangzhou",
-  "n": 2346,
+  "n": 2345,
   "name": "Sun Yat-sen Memorial Hall, Guangzhou",
   "by": "Lü Yanzhi",
   "place": "Guangzhou, CN",
@@ -200505,7 +202236,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Sun Yat-sen Memorial Hall, Guangzhou",
   "lead": "File:Guangzhou Yuexiu Zhongshan Jinian Tang 2023-01-18 15.31.59.jpg",
-  "coords": null,
+  "coords": [
+   23.13608,
+   113.25936
+  ],
   "hotlink": true,
   "images": [
    {
@@ -200562,7 +202296,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cultural-palace-of-nationalities",
-  "n": 2347,
+  "n": 2346,
   "name": "Cultural Palace of Nationalities",
   "by": "Zhang Bo",
   "place": "Beijing, CN",
@@ -200581,7 +202315,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Cultural Palace of Nationalities (Beijing)",
   "lead": "File:The Cultural Palace of Nationalities.jpg",
-  "coords": null,
+  "coords": [
+   39.90683,
+   116.36266
+  ],
   "hotlink": true,
   "images": [
    {
@@ -200650,7 +202387,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-palace-museum-taipei",
-  "n": 2348,
+  "n": 2347,
   "name": "National Palace Museum",
   "by": "Huang Pao-yu",
   "place": "Taipei, TW",
@@ -200669,7 +202406,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:National Palace Museum",
   "lead": "File:Nationella palatsmuseet.jpg",
-  "coords": null,
+  "coords": [
+   25.10222,
+   121.54861
+  ],
   "hotlink": true,
   "images": [
    {
@@ -200750,7 +202490,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ordos-museum",
-  "n": 2349,
+  "n": 2348,
   "name": "Ordos Museum",
   "by": "MAD Architects (Ma Yansong)",
   "place": "Ordos, CN",
@@ -200769,7 +202509,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Ordos Museum",
   "lead": "File:Ordos Museum.jpg",
-  "coords": null,
+  "coords": [
+   39.60003,
+   109.77844
+  ],
   "hotlink": true,
   "images": [
    {
@@ -200826,7 +202569,7 @@ window.BUILDINGS = [
  },
  {
   "id": "leeza-soho",
-  "n": 2350,
+  "n": 2349,
   "name": "Leeza SOHO",
   "by": "Zaha Hadid Architects",
   "place": "Beijing, CN",
@@ -200845,7 +202588,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Leeza SOHO",
   "lead": "File:Leeza SOHO.jpg",
-  "coords": null,
+  "coords": [
+   39.86556,
+   116.32417
+  ],
   "hotlink": true,
   "images": [
    {
@@ -200926,7 +202672,7 @@ window.BUILDINGS = [
  },
  {
   "id": "peace-hotel-sassoon-house",
-  "n": 2351,
+  "n": 2350,
   "name": "Peace Hotel (Sassoon House)",
   "by": "Palmer and Turner",
   "place": "Shanghai, CN",
@@ -200945,7 +202691,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Sassoon House",
   "lead": "File:Sassoon House 20250501.jpg",
-  "coords": null,
+  "coords": [
+   31.24111,
+   121.48472
+  ],
   "hotlink": true,
   "images": [
    {
@@ -201026,7 +202775,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ningbo-museum-of-art",
-  "n": 2352,
+  "n": 2351,
   "name": "Ningbo Museum of Art",
   "by": "Wang Shu, Amateur Architecture Studio",
   "place": "Ningbo, CN",
@@ -201045,7 +202794,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Ningbo Museum of Art",
   "lead": "File:2026-04-19 Ningbo Museum of Art 宁波美术馆 01.jpg",
-  "coords": null,
+  "coords": [
+   29.88092,
+   121.55714
+  ],
   "hotlink": true,
   "images": [
    {
@@ -201102,7 +202854,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sheraton-huzhou-hot-spring-resort",
-  "n": 2353,
+  "n": 2352,
   "name": "Sheraton Huzhou Hot Spring Resort",
   "by": "MAD Architects (Ma Yansong)",
   "place": "Huzhou, CN",
@@ -201121,7 +202873,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Sheraton Huzhou Hot Spring Resort",
   "lead": "File:Sheraton Huzhou Hot Spring Resort 1.jpg",
-  "coords": null,
+  "coords": [
+   30.5734,
+   120.611
+  ],
   "hotlink": true,
   "images": [
    {
@@ -201178,7 +202933,7 @@ window.BUILDINGS = [
  },
  {
   "id": "beijing-daxing-airport-terminal",
-  "n": 2354,
+  "n": 2353,
   "name": "Beijing Daxing International Airport Terminal",
   "by": "Zaha Hadid Architects, ADPI",
   "place": "Beijing, CN",
@@ -201230,7 +202985,7 @@ window.BUILDINGS = [
  },
  {
   "id": "shenzhen-stock-exchange",
-  "n": 2355,
+  "n": 2354,
   "name": "Shenzhen Stock Exchange",
   "by": "OMA",
   "place": "Shenzhen, CN",
@@ -201320,7 +203075,7 @@ window.BUILDINGS = [
  },
  {
   "id": "central-government-complex-tamar",
-  "n": 2356,
+  "n": 2355,
   "name": "Central Government Complex, Tamar",
   "by": "Rocco Yim (Rocco Design Architects)",
   "place": "Hong Kong, HK",
@@ -201339,7 +203094,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Central Government Offices (Tamar)",
   "lead": "File:Central Government Offices.jpg",
-  "coords": null,
+  "coords": [
+   22.28079,
+   114.16558
+  ],
   "hotlink": true,
   "images": [
    {
@@ -201396,7 +203154,7 @@ window.BUILDINGS = [
  },
  {
   "id": "jardine-house",
-  "n": 2357,
+  "n": 2356,
   "name": "Jardine House",
   "by": "Palmer and Turner",
   "place": "Hong Kong, HK",
@@ -201415,7 +203173,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Jardine House",
   "lead": "File:HK 中環 Central Jardine House facade blue sky July 2020 SS2.jpg",
-  "coords": null,
+  "coords": [
+   22.28306,
+   114.15889
+  ],
   "hotlink": true,
   "images": [
    {
@@ -201496,7 +203257,7 @@ window.BUILDINGS = [
  },
  {
   "id": "xiqu-centre",
-  "n": 2358,
+  "n": 2357,
   "name": "Xiqu Centre",
   "by": "Revery Architecture, Ronald Lu and Partners",
   "place": "Hong Kong, HK",
@@ -201515,7 +203276,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Xiqu Centre",
   "lead": "File:Xiqu Centre 25-04-2026.jpg",
-  "coords": null,
+  "coords": [
+   22.30228,
+   114.16722
+  ],
   "hotlink": true,
   "images": [
    {
@@ -201598,7 +203362,7 @@ window.BUILDINGS = [
  },
  {
   "id": "great-bamboo-wall-house",
-  "n": 2359,
+  "n": 2358,
   "name": "Great (Bamboo) Wall House",
   "by": "Kengo Kuma",
   "place": "Beijing, CN",
@@ -201617,7 +203381,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Commune by the Great Wall",
   "lead": "File:Commune by the great wall3.jpg",
-  "coords": null,
+  "coords": [
+   40.34034,
+   116.05163
+  ],
   "hotlink": true,
   "images": [
    {
@@ -201662,7 +203429,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hong-kong-cultural-centre",
-  "n": 2360,
+  "n": 2359,
   "name": "Hong Kong Cultural Centre",
   "by": "José Lei (Architectural Services Department)",
   "place": "Hong Kong, HK",
@@ -201681,7 +203448,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Hong Kong Cultural Centre",
   "lead": "File:Hong Kong Cultural Centre 201408.jpg",
-  "coords": null,
+  "coords": [
+   22.29395,
+   114.17039
+  ],
   "hotlink": true,
   "images": [
    {
@@ -201762,7 +203532,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hong-kong-design-institute",
-  "n": 2361,
+  "n": 2360,
   "name": "Hong Kong Design Institute",
   "by": "Coldefy & Associés (CAAU)",
   "place": "Hong Kong, HK",
@@ -201781,7 +203551,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Hong Kong Design Institute",
   "lead": "File:Hong Kong Design Institute Campus 201009.jpg",
-  "coords": null,
+  "coords": [
+   22.3057,
+   114.253
+  ],
   "hotlink": true,
   "images": [
    {
@@ -201862,7 +203635,7 @@ window.BUILDINGS = [
  },
  {
   "id": "oriental-pearl-tower",
-  "n": 2362,
+  "n": 2361,
   "name": "Oriental Pearl Tower",
   "by": "East China Architectural Design Institute",
   "place": "Shanghai, CN",
@@ -201881,7 +203654,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Oriental Pearl Tower",
   "lead": "File:2014.11.16.144847 Oriental Pearl Tower Shanghai.jpg",
-  "coords": null,
+  "coords": [
+   31.24167,
+   121.49472
+  ],
   "hotlink": true,
   "images": [
    {
@@ -201962,7 +203738,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kaohsiung-music-center",
-  "n": 2363,
+  "n": 2362,
   "name": "Kaohsiung Music Center",
   "by": "Manuel Monteserín (MADE IN Architects)",
   "place": "Kaohsiung, TW",
@@ -201981,7 +203757,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Kaohsiung Music Center",
   "lead": "File:Kaohsiung Music Center 2020.jpg",
-  "coords": null,
+  "coords": [
+   22.61778,
+   120.28889
+  ],
   "hotlink": true,
   "images": [
    {
@@ -202062,7 +203841,7 @@ window.BUILDINGS = [
  },
  {
   "id": "water-moon-monastery",
-  "n": 2364,
+  "n": 2363,
   "name": "Water-Moon Monastery (Nung Chan Monastery)",
   "by": "Kris Yao",
   "place": "Taipei, TW",
@@ -202081,7 +203860,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Nung Chan Monastery",
   "lead": "File:Nung Chan Monastery 005.jpg",
-  "coords": null,
+  "coords": [
+   25.12279,
+   121.49582
+  ],
   "hotlink": true,
   "images": [
    {
@@ -202138,7 +203920,7 @@ window.BUILDINGS = [
  },
  {
   "id": "taipei-music-center",
-  "n": 2365,
+  "n": 2364,
   "name": "Taipei Music Center",
   "by": "Reiser + Umemoto (RUR Architecture)",
   "place": "Taipei, TW",
@@ -202157,7 +203939,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Taipei Music Center",
   "lead": "File:202409 臺北流行音樂中心表演廳 晚間景象A.jpg",
-  "coords": null,
+  "coords": [
+   25.05163,
+   121.59939
+  ],
   "hotlink": true,
   "images": [
    {
@@ -202178,7 +203963,7 @@ window.BUILDINGS = [
  },
  {
   "id": "shaanxi-history-museum",
-  "n": 2366,
+  "n": 2365,
   "name": "Shaanxi History Museum",
   "by": "Zhang Jinqiu",
   "place": "Xi'an, CN",
@@ -202197,7 +203982,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Shaanxi History Museum",
   "lead": "File:2023-10-10 Shaanxi History Museum 陝西歷史博物館 01.jpg",
-  "coords": null,
+  "coords": [
+   34.22505,
+   108.95063
+  ],
   "hotlink": true,
   "images": [
    {
@@ -202266,7 +204054,7 @@ window.BUILDINGS = [
  },
  {
   "id": "shanghai-museum",
-  "n": 2367,
+  "n": 2366,
   "name": "Shanghai Museum",
   "by": "Xing Tonghe",
   "place": "Shanghai, CN",
@@ -202366,7 +204154,7 @@ window.BUILDINGS = [
  },
  {
   "id": "1000-trees-shanghai",
-  "n": 2368,
+  "n": 2367,
   "name": "1000 Trees",
   "by": "Heatherwick Studio",
   "place": "Shanghai, CN",
@@ -202385,7 +204173,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:1000 Trees",
   "lead": "File:1000 Trees 03.jpg",
-  "coords": null,
+  "coords": [
+   31.25093,
+   121.44077
+  ],
   "hotlink": true,
   "images": [
    {
@@ -202442,7 +204233,7 @@ window.BUILDINGS = [
  },
  {
   "id": "beijing-capital-airport-terminal-3",
-  "n": 2369,
+  "n": 2368,
   "name": "Beijing Capital International Airport Terminal 3",
   "by": "Foster + Partners, NACO, Arup",
   "place": "Beijing, CN",
@@ -202461,7 +204252,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Beijing Capital International Airport Terminal 3",
   "lead": "File:ZBAA T3E from 36R airborne (20250402094945).jpg",
-  "coords": null,
+  "coords": [
+   40.06556,
+   116.60778
+  ],
   "hotlink": true,
   "images": [
    {
@@ -202542,7 +204336,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tianjin-binhai-library",
-  "n": 2370,
+  "n": 2369,
   "name": "Tianjin Binhai Library",
   "by": "MVRDV, Tianjin Urban Planning and Design Institute",
   "place": "Tianjin, CN",
@@ -202561,7 +204355,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Tianjin Binhai Library",
   "lead": null,
-  "coords": null,
+  "coords": [
+   39.016,
+   117.68117
+  ],
   "hotlink": true,
   "images": [
    {
@@ -202582,7 +204379,7 @@ window.BUILDINGS = [
  },
  {
   "id": "beijing-railway-station",
-  "n": 2371,
+  "n": 2370,
   "name": "Beijing Railway Station",
   "by": "Yang Tingbao, Chen Deng'ao",
   "place": "Beijing, CN",
@@ -202601,7 +204398,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Beijing Railway Station",
   "lead": "File:Beijing Railway Station panorama.jpg",
-  "coords": null,
+  "coords": [
+   39.90222,
+   116.42111
+  ],
   "hotlink": true,
   "images": [
    {
@@ -202694,7 +204494,7 @@ window.BUILDINGS = [
  },
  {
   "id": "pagoda-of-fogong-temple",
-  "n": 2372,
+  "n": 2371,
   "name": "Pagoda of Fogong Temple (Yingxian Wooden Pagoda)",
   "by": "Liao dynasty builders",
   "place": "Yingxian, CN",
@@ -202713,7 +204513,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Pagoda of Fogong Temple",
   "lead": "File:Muta 2.jpg",
-  "coords": null,
+  "coords": [
+   39.56528,
+   113.18194
+  ],
   "hotlink": true,
   "images": [
    {
@@ -202808,7 +204611,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tao-zhu-yin-yuan",
-  "n": 2373,
+  "n": 2372,
   "name": "Tao Zhu Yin Yuan",
   "by": "Vincent Callebaut",
   "place": "Taipei, TW",
@@ -202827,7 +204630,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Tao Zhu Yin Yuan",
   "lead": "File:20180802 陶朱隱園 Agora Garden, Taipei, Taiwan.jpg",
-  "coords": null,
+  "coords": [
+   25.03854,
+   121.57042
+  ],
   "hotlink": true,
   "images": [
    {
@@ -202908,7 +204714,7 @@ window.BUILDINGS = [
  },
  {
   "id": "wah-fu-estate",
-  "n": 2374,
+  "n": 2373,
   "name": "Wah Fu Estate",
   "by": "Donald Liao",
   "place": "Hong Kong, HK",
@@ -202927,7 +204733,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Wah Fu Estate",
   "lead": "File:HK WahFu(I)Estate.JPG",
-  "coords": null,
+  "coords": [
+   22.2524,
+   114.134
+  ],
   "hotlink": true,
   "images": [
    {
@@ -203010,7 +204819,7 @@ window.BUILDINGS = [
  },
  {
   "id": "xiangshan-visitor-center",
-  "n": 2375,
+  "n": 2374,
   "name": "Xiangshan Visitor Center, Sun Moon Lake",
   "by": "Norihiko Dan",
   "place": "Yuchi, Nantou, TW",
@@ -203029,7 +204838,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Xiangshan Visitor Center",
   "lead": "File:Xiangshan Visitor Center 24509096650.jpg",
-  "coords": null,
+  "coords": [
+   23.85114,
+   120.90211
+  ],
   "hotlink": true,
   "images": [
    {
@@ -203086,7 +204898,7 @@ window.BUILDINGS = [
  },
  {
   "id": "zhongshan-hall-taipei",
-  "n": 2376,
+  "n": 2375,
   "name": "Zhongshan Hall (Taipei Public Hall)",
   "by": "Ide Kaoru",
   "place": "Taipei, TW",
@@ -203105,7 +204917,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Zhongshan Hall, Taipei",
   "lead": "File:Taipei Taiwan Zhongshan-Hall-01a.jpg",
-  "coords": null,
+  "coords": [
+   25.0431,
+   121.51
+  ],
   "hotlink": true,
   "images": [
    {
@@ -203162,7 +204977,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hong-kong-coliseum",
-  "n": 2377,
+  "n": 2376,
   "name": "Hong Kong Coliseum",
   "by": "Pau Shiu-hung (Architectural Services Department)",
   "place": "Hong Kong, HK",
@@ -203181,7 +204996,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Hong Kong Coliseum",
   "lead": "File:HK Hung Hom Hong Kong Coliseum July 2026 N13P 205.jpg",
-  "coords": null,
+  "coords": [
+   22.3015,
+   114.182
+  ],
   "hotlink": true,
   "images": [
    {
@@ -203226,7 +205044,7 @@ window.BUILDINGS = [
  },
  {
   "id": "grand-hotel-taipei",
-  "n": 2378,
+  "n": 2377,
   "name": "Grand Hotel Taipei",
   "by": "Yang Cho-cheng",
   "place": "Taipei, TW",
@@ -203245,7 +205063,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Grand Hotel Taipei",
   "lead": "File:Grand Hotel Taipei 20130902-1.jpg",
-  "coords": null,
+  "coords": [
+   25.07867,
+   121.52636
+  ],
   "hotlink": true,
   "images": [
    {
@@ -203326,7 +205147,7 @@ window.BUILDINGS = [
  },
  {
   "id": "shanghai-exhibition-centre",
-  "n": 2379,
+  "n": 2378,
   "name": "Shanghai Exhibition Centre",
   "by": "Sergey Andreyev, Chen Zhi, Wang Dingzheng, Cai Xianyu",
   "place": "Shanghai, CN",
@@ -203345,7 +205166,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Shanghai Exhibition Center",
   "lead": "File:上海展览中心主楼.jpg",
-  "coords": null,
+  "coords": [
+   31.22667,
+   121.44806
+  ],
   "hotlink": true,
   "images": [
    {
@@ -203414,7 +205238,7 @@ window.BUILDINGS = [
  },
  {
   "id": "taipei-fine-arts-museum",
-  "n": 2380,
+  "n": 2379,
   "name": "Taipei Fine Arts Museum",
   "by": "Kao Er-pan",
   "place": "Taipei, TW",
@@ -203433,7 +205257,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Taipei Fine Arts Museum",
   "lead": "File:Taipei Fine Arts Museum 20150919.jpg",
-  "coords": null,
+  "coords": [
+   25.0725,
+   121.525
+  ],
   "hotlink": true,
   "images": [
    {
@@ -203502,7 +205329,7 @@ window.BUILDINGS = [
  },
  {
   "id": "shenzhen-baoan-airport-terminal-3",
-  "n": 2381,
+  "n": 2380,
   "name": "Shenzhen Bao'an International Airport Terminal 3",
   "by": "Studio Fuksas",
   "place": "Shenzhen, CN",
@@ -203521,7 +205348,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Shenzhen Bao'an International Airport Terminal 3",
   "lead": "File:Shenzhen Bao'an Airport.jpg",
-  "coords": null,
+  "coords": [
+   22.6292,
+   113.80734
+  ],
   "hotlink": true,
   "images": [
    {
@@ -203578,7 +205408,7 @@ window.BUILDINGS = [
  },
  {
   "id": "shanghai-oriental-art-center",
-  "n": 2382,
+  "n": 2381,
   "name": "Shanghai Oriental Art Center",
   "by": "Paul Andreu",
   "place": "Shanghai, CN",
@@ -203597,7 +205427,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Shanghai Oriental Art Center",
   "lead": "File:东方艺术中心·上海浦东·俯视.jpg",
-  "coords": null,
+  "coords": [
+   31.22495,
+   121.5369
+  ],
   "hotlink": true,
   "images": [
    {
@@ -203666,7 +205499,7 @@ window.BUILDINGS = [
  },
  {
   "id": "foguang-temple-east-hall",
-  "n": 2383,
+  "n": 2382,
   "name": "East Hall of Foguang Temple",
   "by": "Tang dynasty builders (monk Yuancheng)",
   "place": "Wutai, CN",
@@ -203742,7 +205575,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ntu-college-of-social-sciences",
-  "n": 2384,
+  "n": 2383,
   "name": "College of Social Sciences, National Taiwan University (Koo Chen-Fu Memorial Library)",
   "by": "Toyo Ito",
   "place": "Taipei, TW",
@@ -203842,7 +205675,7 @@ window.BUILDINGS = [
  },
  {
   "id": "forbidden-city",
-  "n": 2385,
+  "n": 2384,
   "name": "Forbidden City",
   "by": "Kuai Xiang (Ming imperial builders)",
   "place": "Beijing, CN",
@@ -203861,7 +205694,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Forbidden City",
   "lead": "Beijing Forbidden City Viewed from Jingshan Park (10553754905).jpg",
-  "coords": null,
+  "coords": [
+   39.91583,
+   116.39083
+  ],
   "hotlink": true,
   "images": [
    {
@@ -203945,7 +205781,7 @@ window.BUILDINGS = [
  },
  {
   "id": "potala-palace",
-  "n": 2386,
+  "n": 2385,
   "name": "Potala Palace",
   "by": "5th Dalai Lama (commissioned)",
   "place": "Lhasa, CN",
@@ -203964,7 +205800,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Potala Palace",
   "lead": "File:Lhassa Potala.jpg",
-  "coords": null,
+  "coords": [
+   29.65778,
+   91.11694
+  ],
   "hotlink": true,
   "images": [
    {
@@ -204047,7 +205886,7 @@ window.BUILDINGS = [
  },
  {
   "id": "prime-tower",
-  "n": 2387,
+  "n": 2386,
   "name": "Prime Tower",
   "by": "Gigon/Guyer",
   "place": "Zurich, CH",
@@ -204066,7 +205905,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Prime Tower (Zürich)",
   "lead": "File:Industriequartier - Prime Tower 2011-08-08 13-56-38.JPG",
-  "coords": null,
+  "coords": [
+   47.3859,
+   8.51689
+  ],
   "hotlink": true,
   "images": [
    {
@@ -204147,7 +205989,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kirchner-museum-davos",
-  "n": 2388,
+  "n": 2387,
   "name": "Kirchner Museum Davos",
   "by": "Gigon/Guyer",
   "place": "Davos, CH",
@@ -204166,7 +206008,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Building of the Kirchner Museum",
   "lead": "File:Kirchner Museum Davos 2.jpg",
-  "coords": null,
+  "coords": [
+   46.80023,
+   9.82684
+  ],
   "hotlink": true,
   "images": [
    {
@@ -204211,7 +206056,7 @@ window.BUILDINGS = [
  },
  {
   "id": "toni-areal",
-  "n": 2389,
+  "n": 2388,
   "name": "Toni-Areal",
   "by": "EM2N",
   "place": "Zurich, CH",
@@ -204230,7 +206075,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Toni-Areal",
   "lead": "File:Hochhaus Toni-Areal Zürich.jpg",
-  "coords": null,
+  "coords": [
+   47.3909,
+   8.51206
+  ],
   "hotlink": true,
   "images": [
    {
@@ -204311,7 +206159,7 @@ window.BUILDINGS = [
  },
  {
   "id": "german-maritime-museum",
-  "n": 2390,
+  "n": 2389,
   "name": "German Maritime Museum (Scharoun building)",
   "by": "Hans Scharoun",
   "place": "Bremerhaven, DE",
@@ -204330,7 +206178,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Deutsches Schifffahrtsmuseum",
   "lead": "File:DSM 20070923.jpg",
-  "coords": null,
+  "coords": [
+   53.5401,
+   8.577
+  ],
   "hotlink": true,
   "images": [
    {
@@ -204387,7 +206238,7 @@ window.BUILDINGS = [
  },
  {
   "id": "berlin-musical-instrument-museum",
-  "n": 2391,
+  "n": 2390,
   "name": "Berlin Musical Instrument Museum",
   "by": "Edgar Wisniewski, after designs by Hans Scharoun",
   "place": "Berlin, DE",
@@ -204406,7 +206257,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Musikinstrumentenmuseum (Berlin)",
   "lead": "File:Berlin Musikinstrumentenmuseum 01.jpg",
-  "coords": null,
+  "coords": [
+   52.5103,
+   13.3709
+  ],
   "hotlink": true,
   "images": [
    {
@@ -204463,7 +206317,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kanzlerbungalow",
-  "n": 2392,
+  "n": 2391,
   "name": "Kanzlerbungalow",
   "by": "Sep Ruf",
   "place": "Bonn, DE",
@@ -204482,7 +206336,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Kanzlerbungalow",
   "lead": "File:Kanzlerbungalow.jpg",
-  "coords": null,
+  "coords": [
+   50.7215,
+   7.11791
+  ],
   "hotlink": true,
   "images": [
    {
@@ -204563,7 +206420,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bundestag-plenary-building-bonn",
-  "n": 2393,
+  "n": 2392,
   "name": "Plenary Building of the Bundestag, Bonn",
   "by": "Behnisch & Partner (Günter Behnisch)",
   "place": "Bonn, DE",
@@ -204663,7 +206520,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kunstmuseum-basel-new-building",
-  "n": 2394,
+  "n": 2393,
   "name": "Kunstmuseum Basel, New Building",
   "by": "Christ & Gantenbein",
   "place": "Basel, CH",
@@ -204682,7 +206539,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Kunstmuseum Basel (Neubau)",
   "lead": "File:Neubau des Kunstmuseums in Basel 2.jpg",
-  "coords": null,
+  "coords": [
+   47.55488,
+   7.59492
+  ],
   "hotlink": true,
   "images": [
    {
@@ -204739,7 +206599,7 @@ window.BUILDINGS = [
  },
  {
   "id": "schaulager",
-  "n": 2395,
+  "n": 2394,
   "name": "Schaulager",
   "by": "Herzog & de Meuron",
   "place": "Münchenstein, CH",
@@ -204758,7 +206618,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Schaulager",
   "lead": "File:Le Schaulager (Bâle, Suisse) (21682492191).jpg",
-  "coords": null,
+  "coords": [
+   47.52833,
+   7.61028
+  ],
   "hotlink": true,
   "images": [
    {
@@ -204827,7 +206690,7 @@ window.BUILDINGS = [
  },
  {
   "id": "monte-rosa-hut",
-  "n": 2396,
+  "n": 2395,
   "name": "New Monte Rosa Hut",
   "by": "Andrea Deplazes (ETH Zurich)",
   "place": "Zermatt, CH",
@@ -204903,7 +206766,7 @@ window.BUILDINGS = [
  },
  {
   "id": "deutsches-architekturmuseum",
-  "n": 2397,
+  "n": 2396,
   "name": "Deutsches Architekturmuseum (DAM)",
   "by": "Oswald Mathias Ungers",
   "place": "Frankfurt, DE",
@@ -204922,7 +206785,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Deutsches Architekturmuseum",
   "lead": "File:DAM 01.jpg",
-  "coords": null,
+  "coords": [
+   50.10498,
+   8.67731
+  ],
   "hotlink": true,
   "images": [
    {
@@ -205005,7 +206871,7 @@ window.BUILDINGS = [
  },
  {
   "id": "museum-brandhorst",
-  "n": 2398,
+  "n": 2397,
   "name": "Museum Brandhorst",
   "by": "Sauerbruch Hutton",
   "place": "Munich, DE",
@@ -205024,7 +206890,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Museum Brandhorst",
   "lead": "File:Brandhorst-Museum - Panorama.jpg",
-  "coords": null,
+  "coords": [
+   48.1481,
+   11.5742
+  ],
   "hotlink": true,
   "images": [
    {
@@ -205105,7 +206974,7 @@ window.BUILDINGS = [
  },
  {
   "id": "gsw-headquarters",
-  "n": 2399,
+  "n": 2398,
   "name": "GSW Headquarters",
   "by": "Sauerbruch Hutton",
   "place": "Berlin, DE",
@@ -205124,7 +206993,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:GSW-Building",
   "lead": "File:GSW-Hochhaus-Maerz-2020.jpg",
-  "coords": null,
+  "coords": [
+   52.5064,
+   13.3929
+  ],
   "hotlink": true,
   "images": [
    {
@@ -205193,7 +207065,7 @@ window.BUILDINGS = [
  },
  {
   "id": "german-environment-agency-dessau",
-  "n": 2400,
+  "n": 2399,
   "name": "German Environment Agency (Umweltbundesamt), Dessau",
   "by": "Sauerbruch Hutton",
   "place": "Dessau-Roßlau, DE",
@@ -205212,7 +207084,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Umweltbundesamt (Dessau headquarters)",
   "lead": "File:Umweltbundesamt Dessau, Rückseite.jpg",
-  "coords": null,
+  "coords": [
+   51.84234,
+   12.23928
+  ],
   "hotlink": true,
   "images": [
    {
@@ -205269,7 +207144,7 @@ window.BUILDINGS = [
  },
  {
   "id": "jacob-and-wilhelm-grimm-centre",
-  "n": 2401,
+  "n": 2400,
   "name": "Jacob and Wilhelm Grimm Centre",
   "by": "Max Dudler",
   "place": "Berlin, DE",
@@ -205288,7 +207163,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Jacob-und-Wilhelm-Grimm-Zentrum (Berlin)",
   "lead": "File:Mitte Planckstraße Jacob-und Wilhelm-Grimm-Zentrum-001.JPG",
-  "coords": null,
+  "coords": [
+   52.5206,
+   13.3911
+  ],
   "hotlink": true,
   "images": [
    {
@@ -205369,7 +207247,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tour-total-berlin",
-  "n": 2402,
+  "n": 2401,
   "name": "Tour Total (Jean-Monnet-Tower)",
   "by": "Barkow Leibinger",
   "place": "Berlin, DE",
@@ -205388,7 +207266,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Jean-Monnet-Tower",
   "lead": "File:Moabit Tour Total.JPG",
-  "coords": null,
+  "coords": [
+   52.5286,
+   13.3693
+  ],
   "hotlink": true,
   "images": [
    {
@@ -205457,7 +207338,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tegel-airport-terminal-a",
-  "n": 2403,
+  "n": 2402,
   "name": "Tegel Airport, Terminal A",
   "by": "von Gerkan, Marg und Partner (gmp)",
   "place": "Berlin, DE",
@@ -205476,7 +207357,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Berlin-Tegel Airport",
   "lead": "File:Flughafen Tegel 01.jpg",
-  "coords": null,
+  "coords": [
+   52.55972,
+   13.28778
+  ],
   "hotlink": true,
   "images": [
    {
@@ -205533,7 +207417,7 @@ window.BUILDINGS = [
  },
  {
   "id": "stuttgart-city-library",
-  "n": 2404,
+  "n": 2403,
   "name": "Stuttgart City Library (Stadtbibliothek am Mailänder Platz)",
   "by": "Eun Young Yi",
   "place": "Stuttgart, DE",
@@ -205552,7 +207436,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Stadtbibliothek am Mailänder Platz",
   "lead": "File:Stadtbibliothek am Mailaender Platz 03.jpg",
-  "coords": null,
+  "coords": [
+   48.7902,
+   9.18304
+  ],
   "hotlink": true,
   "images": [
    {
@@ -205633,7 +207520,7 @@ window.BUILDINGS = [
  },
  {
   "id": "paul-loebe-house",
-  "n": 2405,
+  "n": 2404,
   "name": "Paul Löbe House",
   "by": "Stephan Braunfels",
   "place": "Berlin, DE",
@@ -205652,7 +207539,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Paul-Löbe-Haus",
   "lead": "File:Abgeordnetenhaus - Paul-Löbe-Haus - Berlin - Germany - 02.jpg",
-  "coords": null,
+  "coords": [
+   52.52028,
+   13.37472
+  ],
   "hotlink": true,
   "images": [
    {
@@ -205733,7 +207623,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kranhaeuser-cologne",
-  "n": 2406,
+  "n": 2405,
   "name": "Kranhäuser (Crane Houses)",
   "by": "Alfons Linster and Hadi Teherani (BRT Architekten)",
   "place": "Cologne, DE",
@@ -205752,7 +207642,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Kranhaus, Rheinauhafen Cologne",
   "lead": "File:2026-05-27-Kranhäuser-068974.jpg",
-  "coords": null,
+  "coords": [
+   50.92639,
+   6.96639
+  ],
   "hotlink": true,
   "images": [
    {
@@ -205821,7 +207714,7 @@ window.BUILDINGS = [
  },
  {
   "id": "neuer-zollhof",
-  "n": 2407,
+  "n": 2406,
   "name": "Neuer Zollhof",
   "by": "Frank Gehry",
   "place": "Düsseldorf, DE",
@@ -205840,7 +207733,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Der Neue Zollhof",
   "lead": "File:Düsseldorf, Neuer Zollhof -- 2015 -- 8155.jpg",
-  "coords": null,
+  "coords": [
+   51.2162,
+   6.75771
+  ],
   "hotlink": true,
   "images": [
    {
@@ -205921,7 +207817,7 @@ window.BUILDINGS = [
  },
  {
   "id": "museum-der-bildenden-kuenste-leipzig",
-  "n": 2408,
+  "n": 2407,
   "name": "Museum der bildenden Künste, Leipzig",
   "by": "Hufnagel Pütz Rafaelian (Karl Hufnagel, Peter Pütz, Michael Rafaelian)",
   "place": "Leipzig, DE",
@@ -205940,7 +207836,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Museum der bildenden Künste",
   "lead": "File:Bildermuseumleipzig.jpg",
-  "coords": null,
+  "coords": [
+   51.34245,
+   12.37566
+  ],
   "hotlink": true,
   "images": [
    {
@@ -206009,7 +207908,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ohel-jakob-synagogue",
-  "n": 2409,
+  "n": 2408,
   "name": "Ohel Jakob Synagogue",
   "by": "Wandel Hoefer Lorch (Rena Wandel-Hoefer, Wolfgang Lorch)",
   "place": "Munich, DE",
@@ -206028,7 +207927,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Jüdisches Zentrum Jakobsplatz",
   "lead": "File:Juedisches Zentrum Hauptsynagoge Muenchen-1.jpg",
-  "coords": null,
+  "coords": [
+   48.13453,
+   11.57267
+  ],
   "hotlink": true,
   "images": [
    {
@@ -206073,7 +207975,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kant-dreieck",
-  "n": 2410,
+  "n": 2409,
   "name": "Kant-Dreieck",
   "by": "Josef Paul Kleihues",
   "place": "Berlin, DE",
@@ -206092,7 +207994,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Kant-Dreieck",
   "lead": "File:Kant-Dreieck-Hochhaus Berlin (2008).jpg",
-  "coords": null,
+  "coords": [
+   52.5052,
+   13.3284
+  ],
   "hotlink": true,
   "images": [
    {
@@ -206149,7 +208054,7 @@ window.BUILDINGS = [
  },
  {
   "id": "zueblin-haus",
-  "n": 2411,
+  "n": 2410,
   "name": "Züblin-Haus",
   "by": "Gottfried Böhm with Dörte Gatermann",
   "place": "Stuttgart, DE",
@@ -206168,7 +208073,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Züblin-Haus",
   "lead": "File:Verwaltungsgebäude der Ed. Züblin AG, Albstadtweg 3, Stuttgart-Möhringen.jpg",
-  "coords": null,
+  "coords": [
+   48.7278,
+   9.1328
+  ],
   "hotlink": true,
   "images": [
    {
@@ -206249,7 +208157,7 @@ window.BUILDINGS = [
  },
  {
   "id": "nord-lb-hanover",
-  "n": 2412,
+  "n": 2411,
   "name": "Norddeutsche Landesbank (NORD/LB) Headquarters",
   "by": "Behnisch, Behnisch & Partner",
   "place": "Hanover, DE",
@@ -206268,7 +208176,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Norddeutsche Landesbank Hannover",
   "lead": "File:Nord LB administration building Hanover Germany.jpg",
-  "coords": null,
+  "coords": [
+   52.3675,
+   9.74139
+  ],
   "hotlink": true,
   "images": [
    {
@@ -206325,7 +208236,7 @@ window.BUILDINGS = [
  },
  {
   "id": "academy-of-arts-pariser-platz",
-  "n": 2413,
+  "n": 2412,
   "name": "Academy of Arts, Pariser Platz",
   "by": "Günter Behnisch with Werner Durth (Behnisch & Partner)",
   "place": "Berlin, DE",
@@ -206344,7 +208255,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Akademie der Künste Berlin (Pariser Platz building)",
   "lead": "File:Akademie der künste berlin.JPG",
-  "coords": null,
+  "coords": [
+   52.51528,
+   13.37963
+  ],
   "hotlink": true,
   "images": [
    {
@@ -206413,7 +208327,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bmw-headquarters",
-  "n": 2414,
+  "n": 2413,
   "name": "BMW Headquarters (BMW Tower) and BMW Museum",
   "by": "Karl Schwanzer",
   "place": "Munich, DE",
@@ -206432,7 +208346,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:BMW Tower",
   "lead": "File:BMW Tower DSC 9732.jpg",
-  "coords": null,
+  "coords": [
+   48.17694,
+   11.56
+  ],
   "hotlink": true,
   "images": [
    {
@@ -206501,7 +208418,7 @@ window.BUILDINGS = [
  },
  {
   "id": "swiss-embassy-berlin",
-  "n": 2415,
+  "n": 2414,
   "name": "Swiss Embassy, Berlin (extension)",
   "by": "Diener & Diener",
   "place": "Berlin, DE",
@@ -206520,7 +208437,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Swiss Embassy building in Berlin",
   "lead": "File:Schweizer Botschaft.JPG",
-  "coords": null,
+  "coords": [
+   52.5211,
+   13.3711
+  ],
   "hotlink": true,
   "images": [
    {
@@ -206577,7 +208497,7 @@ window.BUILDINGS = [
  },
  {
   "id": "axel-springer-campus",
-  "n": 2416,
+  "n": 2415,
   "name": "Axel Springer Campus",
   "by": "OMA (Rem Koolhaas)",
   "place": "Berlin, DE",
@@ -206653,7 +208573,7 @@ window.BUILDINGS = [
  },
  {
   "id": "berlin-hauptbahnhof",
-  "n": 2417,
+  "n": 2416,
   "name": "Berlin Hauptbahnhof",
   "by": "Meinhard von Gerkan (gmp, von Gerkan, Marg and Partners)",
   "place": "Berlin, DE",
@@ -206672,7 +208592,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Exterior of Berlin Hauptbahnhof",
   "lead": "File:Berlin Hauptbahnhof vom Washingtonplatz - panoramio.jpg",
-  "coords": null,
+  "coords": [
+   52.52508,
+   13.36939
+  ],
   "hotlink": true,
   "images": [
    {
@@ -206767,7 +208690,7 @@ window.BUILDINGS = [
  },
  {
   "id": "adac-headquarters",
-  "n": 2418,
+  "n": 2417,
   "name": "ADAC Headquarters",
   "by": "Sauerbruch Hutton",
   "place": "Munich, DE",
@@ -206786,7 +208709,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:ADAC-Zentrale",
   "lead": "File:ADAC IMG 0470.JPG",
-  "coords": null,
+  "coords": [
+   48.13354,
+   11.52867
+  ],
   "hotlink": true,
   "images": [
    {
@@ -206843,7 +208769,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kunstmuseum-bonn",
-  "n": 2419,
+  "n": 2418,
   "name": "Kunstmuseum Bonn",
   "by": "Axel Schultes (BJSS) with Jürgen Pleuser",
   "place": "Bonn, DE",
@@ -206862,7 +208788,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Kunstmuseum Bonn",
   "lead": "File:20130704 bonn023.JPG",
-  "coords": null,
+  "coords": [
+   50.71506,
+   7.12103
+  ],
   "hotlink": true,
   "images": [
    {
@@ -206919,7 +208848,7 @@ window.BUILDINGS = [
  },
  {
   "id": "marco-polo-tower",
-  "n": 2420,
+  "n": 2419,
   "name": "Marco Polo Tower",
   "by": "Behnisch Architekten",
   "place": "Hamburg, DE",
@@ -206938,7 +208867,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Marco-Polo-Tower",
   "lead": "File:Marco-Polo-Tower (Hamburg-HafenCity).ajb.jpg",
-  "coords": null,
+  "coords": [
+   53.5395,
+   9.99278
+  ],
   "hotlink": true,
   "images": [
    {
@@ -206995,7 +208927,7 @@ window.BUILDINGS = [
  },
  {
   "id": "wu-library-learning-center",
-  "n": 2421,
+  "n": 2420,
   "name": "Library and Learning Center, Vienna University of Economics",
   "by": "Zaha Hadid Architects",
   "place": "Vienna, AT",
@@ -207014,7 +208946,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:WU Wien, Library and Learning Center",
   "lead": "File:Campus WU LC D1 TC DSC 1440w.jpg",
-  "coords": null,
+  "coords": [
+   48.21377,
+   16.40883
+  ],
   "hotlink": true,
   "images": [
    {
@@ -207095,7 +209030,7 @@ window.BUILDINGS = [
  },
  {
   "id": "gasometer-b-vienna",
-  "n": 2422,
+  "n": 2421,
   "name": "Gasometer B, Vienna",
   "by": "Coop Himmelb(l)au",
   "place": "Vienna, AT",
@@ -207114,7 +209049,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Gasometer B, Vienna",
   "lead": "File:Gasometer in Wien 2013 2.jpg",
-  "coords": null,
+  "coords": [
+   48.1851,
+   16.4193
+  ],
   "hotlink": true,
   "images": [
    {
@@ -207183,7 +209121,7 @@ window.BUILDINGS = [
  },
  {
   "id": "zentralsparkasse-favoriten",
-  "n": 2423,
+  "n": 2422,
   "name": "Zentralsparkasse Branch, Favoritenstrasse",
   "by": "Günther Domenig",
   "place": "Vienna, AT",
@@ -207202,7 +209140,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Zentralsparkassenfiliale Favoritenstraße",
   "lead": "File:2023-01-02-Domenig-Haus-Favoritenstr-Wien.jpg",
-  "coords": null,
+  "coords": [
+   48.1772,
+   16.3768
+  ],
   "hotlink": true,
   "images": [
    {
@@ -207283,7 +209224,7 @@ window.BUILDINGS = [
  },
  {
   "id": "loisium-langenlois",
-  "n": 2424,
+  "n": 2423,
   "name": "Loisium Wine World",
   "by": "Steven Holl",
   "place": "Langenlois, AT",
@@ -207302,7 +209243,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Loisium",
   "lead": "File:Loisium Langenlois.jpg",
-  "coords": null,
+  "coords": [
+   48.47591,
+   15.67567
+  ],
   "hotlink": true,
   "images": [
    {
@@ -207359,7 +209303,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kaufhaus-tyrol",
-  "n": 2425,
+  "n": 2424,
   "name": "Kaufhaus Tyrol",
   "by": "David Chipperfield with Dieter Mathoi",
   "place": "Innsbruck, AT",
@@ -207378,7 +209322,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Kaufhaus Tyrol",
   "lead": "File:Innsbruck-KaufhausTyrol-Front.jpg",
-  "coords": null,
+  "coords": [
+   47.26552,
+   11.39503
+  ],
   "hotlink": true,
   "images": [
    {
@@ -207459,7 +209406,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lentos-kunstmuseum-linz",
-  "n": 2426,
+  "n": 2425,
   "name": "Lentos Art Museum",
   "by": "Weber & Hofer",
   "place": "Linz, AT",
@@ -207478,7 +209425,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Building of Lentos Kunstmuseum Linz",
   "lead": "File:Lentos Donau.jpg",
-  "coords": null,
+  "coords": [
+   48.3086,
+   14.2894
+  ],
   "hotlink": true,
   "images": [
    {
@@ -207561,7 +209511,7 @@ window.BUILDINGS = [
  },
  {
   "id": "wiener-stadthalle",
-  "n": 2427,
+  "n": 2426,
   "name": "Wiener Stadthalle",
   "by": "Roland Rainer",
   "place": "Vienna, AT",
@@ -207580,7 +209530,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Wiener Stadthalle",
   "lead": "File:Stadthalle Wien ca 1972.jpg",
-  "coords": null,
+  "coords": [
+   48.20231,
+   16.33244
+  ],
   "hotlink": true,
   "images": [
    {
@@ -207625,7 +209578,7 @@ window.BUILDINGS = [
  },
  {
   "id": "murinsel-graz",
-  "n": 2428,
+  "n": 2427,
   "name": "Murinsel",
   "by": "Vito Acconci",
   "place": "Graz, AT",
@@ -207644,7 +209597,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Murinsel, Graz",
   "lead": "File:Graz Murinsel 2.JPG",
-  "coords": null,
+  "coords": [
+   47.07306,
+   15.43444
+  ],
   "hotlink": true,
   "images": [
    {
@@ -207725,7 +209681,7 @@ window.BUILDINGS = [
  },
  {
   "id": "werkraum-haus-andelsbuch",
-  "n": 2429,
+  "n": 2428,
   "name": "Werkraum Haus",
   "by": "Peter Zumthor",
   "place": "Andelsbuch, AT",
@@ -207777,7 +209733,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lifecycle-tower-one",
-  "n": 2430,
+  "n": 2429,
   "name": "LifeCycle Tower One (LCT ONE)",
   "by": "Hermann Kaufmann",
   "place": "Dornbirn, AT",
@@ -207796,7 +209752,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:LifeCycle Tower",
   "lead": "File:North-east sight-3.JPG",
-  "coords": null,
+  "coords": [
+   47.42317,
+   9.73818
+  ],
   "hotlink": true,
   "images": [
    {
@@ -207829,7 +209788,7 @@ window.BUILDINGS = [
  },
  {
   "id": "building-2226-lustenau",
-  "n": 2431,
+  "n": 2430,
   "name": "2226 Office Building",
   "by": "Baumschlager Eberle",
   "place": "Lustenau, AT",
@@ -207848,7 +209807,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Bürogebäude 2226",
   "lead": "File:Bürogebäude 2226 Lustenau Österreich 2013 Baumschlager Eberle Architekten.jpg",
-  "coords": null,
+  "coords": [
+   47.41953,
+   9.67042
+  ],
   "hotlink": true,
   "images": [
    {
@@ -207905,7 +209867,7 @@ window.BUILDINGS = [
  },
  {
   "id": "fiore-di-pietra",
-  "n": 2432,
+  "n": 2431,
   "name": "Fiore di pietra",
   "by": "Mario Botta",
   "place": "Monte Generoso, CH",
@@ -207924,7 +209886,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Fiore di pietra",
   "lead": "File:Fiore di pietra (Mario Botta).jpg",
-  "coords": null,
+  "coords": [
+   45.9282,
+   9.0187
+  ],
   "hotlink": true,
   "images": [
    {
@@ -207969,7 +209934,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palestra-losone",
-  "n": 2433,
+  "n": 2432,
   "name": "Palestra (Gymnasium), Losone",
   "by": "Livio Vacchini",
   "place": "Losone, CH",
@@ -207988,7 +209953,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Palestra polivalente, Losone",
   "lead": "File:Losone palestra 060415.jpg",
-  "coords": null,
+  "coords": [
+   46.1736,
+   8.7526
+  ],
   "hotlink": true,
   "images": [
    {
@@ -208021,7 +209989,7 @@ window.BUILDINGS = [
  },
  {
   "id": "biblioteca-cantonale-lugano",
-  "n": 2434,
+  "n": 2433,
   "name": "Biblioteca cantonale, Lugano",
   "by": "Rino Tami and Carlo Tami",
   "place": "Lugano, CH",
@@ -208040,7 +210008,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Biblioteca cantonale di Lugano (edificio)",
   "lead": "File:Lugano - Biblioteca cantonale.jpg",
-  "coords": null,
+  "coords": [
+   46.00424,
+   8.95965
+  ],
   "hotlink": true,
   "images": [
    {
@@ -208121,7 +210092,7 @@ window.BUILDINGS = [
  },
  {
   "id": "swiss-national-museum-extension",
-  "n": 2435,
+  "n": 2434,
   "name": "Swiss National Museum, Extension",
   "by": "Christ & Gantenbein",
   "place": "Zurich, CH",
@@ -208221,7 +210192,7 @@ window.BUILDINGS = [
  },
  {
   "id": "frauenmuseum-hittisau",
-  "n": 2436,
+  "n": 2435,
   "name": "Frauenmuseum Hittisau",
   "by": "Cukrowicz Nachbaur",
   "place": "Hittisau, AT",
@@ -208240,7 +210211,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Frauenmuseum Hittisau",
   "lead": "File:HITT 16©AdolfBereuter.jpg",
-  "coords": null,
+  "coords": [
+   47.4563,
+   9.96139
+  ],
   "hotlink": true,
   "images": [
    {
@@ -208285,7 +210259,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bus-stop-krumbach",
-  "n": 2437,
+  "n": 2436,
   "name": "BUS:STOP Krumbach",
   "by": "Sou Fujimoto, Ensamble Studio, Wang Shu and Lu Wenyu, Smiljan Radić, Rintala Eggertsson, Alexander Brodsky, De Vylder Vinck Taillieu, with Vorarlberg partner architects",
   "place": "Krumbach, AT",
@@ -208349,7 +210323,7 @@ window.BUILDINGS = [
  },
  {
   "id": "museum-liner-appenzell",
-  "n": 2438,
+  "n": 2437,
   "name": "Museum Liner (Kunstmuseum Appenzell)",
   "by": "Gigon/Guyer",
   "place": "Appenzell, CH",
@@ -208368,7 +210342,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Kunstmuseum Appenzell Liner Building",
   "lead": "File:Kunstmuseum Appenzell - Das Kunstmuseum Appenzell von Norden aus.jpg",
-  "coords": null,
+  "coords": [
+   47.32824,
+   9.41148
+  ],
   "hotlink": true,
   "images": [
    {
@@ -208401,7 +210378,7 @@ window.BUILDINGS = [
  },
  {
   "id": "torre-bbva-madrid",
-  "n": 2439,
+  "n": 2438,
   "name": "Torre BBVA (Castellana 81)",
   "by": "Francisco Javier Sáenz de Oiza",
   "place": "Madrid, ES",
@@ -208420,7 +210397,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Castellana 81, Madrid",
   "lead": "File:Madrid Paseo de la Castellana-BBVA.jpg",
-  "coords": null,
+  "coords": [
+   40.44778,
+   -3.69194
+  ],
   "hotlink": true,
   "images": [
    {
@@ -208501,7 +210481,7 @@ window.BUILDINGS = [
  },
  {
   "id": "pilar-joan-miro-foundation",
-  "n": 2440,
+  "n": 2439,
   "name": "Fundació Pilar i Joan Miró, Moneo Building",
   "by": "Rafael Moneo",
   "place": "Palma, ES",
@@ -208520,7 +210500,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Fundació Pilar i Joan Miró",
   "lead": "File:Fundació Pilar i Joan Miró Aussen 1.jpg",
-  "coords": null,
+  "coords": [
+   39.555,
+   2.60917
+  ],
   "hotlink": true,
   "images": [
    {
@@ -208577,7 +210560,7 @@ window.BUILDINGS = [
  },
  {
   "id": "studio-sert-palma",
-  "n": 2441,
+  "n": 2440,
   "name": "Joan Miró's Studio (Taller Sert)",
   "by": "Josep Lluís Sert",
   "place": "Palma, ES",
@@ -208596,7 +210579,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Studio Sert",
   "lead": "File:Miro's Studio Sert - Palma de Mallorca.jpg",
-  "coords": null,
+  "coords": [
+   39.5553,
+   2.6091
+  ],
   "hotlink": true,
   "images": [
    {
@@ -208677,7 +210663,7 @@ window.BUILDINGS = [
  },
  {
   "id": "la-muralla-roja",
-  "n": 2442,
+  "n": 2441,
   "name": "La Muralla Roja",
   "by": "Ricardo Bofill (Taller de Arquitectura)",
   "place": "Calp, ES",
@@ -208696,7 +210682,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Muralla Roja, Calp",
   "lead": "File:Muralla Roja, Calp.JPG",
-  "coords": null,
+  "coords": [
+   38.63934,
+   0.04056
+  ],
   "hotlink": true,
   "images": [
    {
@@ -208741,7 +210730,7 @@ window.BUILDINGS = [
  },
  {
   "id": "torres-de-colon",
-  "n": 2443,
+  "n": 2442,
   "name": "Torres de Colón",
   "by": "Antonio Lamela",
   "place": "Madrid, ES",
@@ -208760,7 +210749,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Torres de Colón",
   "lead": "File:Madrid - Torres de Colón (36011832276).jpg",
-  "coords": null,
+  "coords": [
+   40.42583,
+   -3.69111
+  ],
   "hotlink": true,
   "images": [
    {
@@ -208855,7 +210847,7 @@ window.BUILDINGS = [
  },
  {
   "id": "caja-granada",
-  "n": 2444,
+  "n": 2443,
   "name": "Caja Granada Headquarters",
   "by": "Alberto Campo Baeza",
   "place": "Granada, ES",
@@ -208874,7 +210866,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Sede Central de Caja Granada",
   "lead": "File:Edificio CajaGranada.jpg",
-  "coords": null,
+  "coords": [
+   37.16102,
+   -3.60616
+  ],
   "hotlink": true,
   "images": [
    {
@@ -208955,7 +210950,7 @@ window.BUILDINGS = [
  },
  {
   "id": "museo-memoria-andalucia",
-  "n": 2445,
+  "n": 2444,
   "name": "Museum of Memory of Andalusia (MA)",
   "by": "Alberto Campo Baeza",
   "place": "Granada, ES",
@@ -208974,7 +210969,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Centro Cultural CajaGranada Memoria de Andalucía",
   "lead": "Centro Cultural CajaGranada Museo Memoria de Andalucía.jpg",
-  "coords": null,
+  "coords": [
+   37.16207,
+   -3.60746
+  ],
   "hotlink": true,
   "images": [
    {
@@ -209031,7 +211029,7 @@ window.BUILDINGS = [
  },
  {
   "id": "gallery-royal-collections",
-  "n": 2446,
+  "n": 2445,
   "name": "Royal Collections Gallery",
   "by": "Mansilla + Tuñón (Luis Moreno Mansilla, Emilio Tuñón)",
   "place": "Madrid, ES",
@@ -209050,7 +211048,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Galería de las Colecciones Reales",
   "lead": "File:Galeria de las Colecciones Reales - Madrid 02.jpg",
-  "coords": null,
+  "coords": [
+   40.4157,
+   -3.71545
+  ],
   "hotlink": true,
   "images": [
    {
@@ -209131,7 +211132,7 @@ window.BUILDINGS = [
  },
  {
   "id": "museu-belles-arts-castello",
-  "n": 2447,
+  "n": 2446,
   "name": "Museu de Belles Arts de Castelló",
   "by": "Mansilla + Tuñón",
   "place": "Castellón de la Plana, ES",
@@ -209150,7 +211151,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Museu de Belles Arts de Castelló",
   "lead": "File:Exterior del Museu de Belles Arts, Castelló de la Plana.JPG",
-  "coords": null,
+  "coords": [
+   39.98231,
+   -0.03019
+  ],
   "hotlink": true,
   "images": [
    {
@@ -209195,7 +211199,7 @@ window.BUILDINGS = [
  },
  {
   "id": "auditorio-ciudad-de-leon",
-  "n": 2448,
+  "n": 2447,
   "name": "Auditorio Ciudad de León",
   "by": "Mansilla + Tuñón",
   "place": "León, ES",
@@ -209214,7 +211218,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Auditorio Ciudad de León",
   "lead": "File:Auditorio Ciudad de León (2).jpg",
-  "coords": null,
+  "coords": [
+   42.60275,
+   -5.57911
+  ],
   "hotlink": true,
   "images": [
    {
@@ -209259,7 +211266,7 @@ window.BUILDINGS = [
  },
  {
   "id": "torre-woermann",
-  "n": 2449,
+  "n": 2448,
   "name": "Woermann Tower",
   "by": "Ábalos & Herreros, with Joaquín Casariego and Elsa Guerra",
   "place": "Las Palmas de Gran Canaria, ES",
@@ -209278,7 +211285,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Torre Woermann",
   "lead": "File:Trilce XIV (Woermann Building) - panoramio.jpg",
-  "coords": null,
+  "coords": [
+   28.1456,
+   -15.4298
+  ],
   "hotlink": true,
   "images": [
    {
@@ -209323,7 +211333,7 @@ window.BUILDINGS = [
  },
  {
   "id": "usera-library",
-  "n": 2450,
+  "n": 2449,
   "name": "Usera Public Library (José Hierro)",
   "by": "Ábalos & Herreros",
   "place": "Madrid, ES",
@@ -209342,7 +211352,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Biblioteca Pública José Hierro, Madrid",
   "lead": "File:Biblioteca Pública José Hierro (Madrid) 01.jpg",
-  "coords": null,
+  "coords": [
+   40.3818,
+   -3.71055
+  ],
   "hotlink": true,
   "images": [
    {
@@ -209375,7 +211388,7 @@ window.BUILDINGS = [
  },
  {
   "id": "santa-justa-station",
-  "n": 2451,
+  "n": 2450,
   "name": "Seville–Santa Justa Station",
   "by": "Cruz y Ortiz",
   "place": "Seville, ES",
@@ -209394,7 +211407,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Sevilla Santa Justa train station",
   "lead": "File:Station Sevilla Santa Justa exterior.jpg",
-  "coords": null,
+  "coords": [
+   37.39247,
+   -5.97481
+  ],
   "hotlink": true,
   "images": [
    {
@@ -209463,7 +211479,7 @@ window.BUILDINGS = [
  },
  {
   "id": "alamillo-bridge",
-  "n": 2452,
+  "n": 2451,
   "name": "Alamillo Bridge",
   "by": "Santiago Calatrava",
   "place": "Seville, ES",
@@ -209482,7 +211498,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Puente del Alamillo",
   "lead": "File:Puente del Alamillo 2017.jpg",
-  "coords": null,
+  "coords": [
+   37.41333,
+   -5.99028
+  ],
   "hotlink": true,
   "images": [
    {
@@ -209551,7 +211570,7 @@ window.BUILDINGS = [
  },
  {
   "id": "la-ricarda",
-  "n": 2453,
+  "n": 2452,
   "name": "La Ricarda (Casa Gomis)",
   "by": "Antoni Bonet i Castellana",
   "place": "El Prat de Llobregat, ES",
@@ -209570,7 +211589,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:La Ricarda (El Prat de Llobregat)",
   "lead": "File:Casa Gomis 02.jpg",
-  "coords": null,
+  "coords": [
+   41.28925,
+   2.10745
+  ],
   "hotlink": true,
   "images": [
    {
@@ -209639,7 +211661,7 @@ window.BUILDINGS = [
  },
  {
   "id": "badajoz-congress-centre",
-  "n": 2454,
+  "n": 2453,
   "name": "Badajoz Congress Centre (Manuel Rojas)",
   "by": "SelgasCano (José Selgas, Lucía Cano)",
   "place": "Badajoz, ES",
@@ -209658,7 +211680,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Palacio de Congresos de Badajoz",
   "lead": "File:Badajoz - Palacio de Congresos Manuel Rojas 1.jpg",
-  "coords": null,
+  "coords": [
+   38.87492,
+   -6.96946
+  ],
   "hotlink": true,
   "images": [
    {
@@ -209727,7 +211752,7 @@ window.BUILDINGS = [
  },
  {
   "id": "el-batel-cartagena",
-  "n": 2455,
+  "n": 2454,
   "name": "El Batel Auditorium and Congress Centre",
   "by": "SelgasCano (José Selgas, Lucía Cano)",
   "place": "Cartagena, ES",
@@ -209746,7 +211771,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Auditorio y Palacio de Congresos El Batel",
   "lead": "Modernist construction in Cartagena 2016 c.jpg",
-  "coords": null,
+  "coords": [
+   37.5978,
+   -0.97827
+  ],
   "hotlink": true,
   "images": [
    {
@@ -209815,7 +211843,7 @@ window.BUILDINGS = [
  },
  {
   "id": "corona-de-espinas",
-  "n": 2456,
+  "n": 2455,
   "name": "Spanish Cultural Heritage Institute (\"Corona de Espinas\")",
   "by": "Fernando Higueras and Antonio Miró",
   "place": "Madrid, ES",
@@ -209834,7 +211862,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Headquarters of the Cultural Heritage Institute of Spain, Madrid",
   "lead": "File:Instituto del Patrimonio Histórico Español (Madrid) 01.jpg",
-  "coords": null,
+  "coords": [
+   40.44114,
+   -3.73485
+  ],
   "hotlink": true,
   "images": [
    {
@@ -209915,7 +211946,7 @@ window.BUILDINGS = [
  },
  {
   "id": "arqua-cartagena",
-  "n": 2457,
+  "n": 2456,
   "name": "National Museum of Underwater Archaeology (ARQVA)",
   "by": "Guillermo Vázquez Consuegra",
   "place": "Cartagena, ES",
@@ -209934,7 +211965,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Museo Nacional de Arqueología Subacuática",
   "lead": "File:Small people toward a modernist building in Cartagena in Spain - Holmstad 2016 AAA.jpg",
-  "coords": null,
+  "coords": [
+   37.59778,
+   -0.98083
+  ],
   "hotlink": true,
   "images": [
    {
@@ -209991,7 +212025,7 @@ window.BUILDINGS = [
  },
  {
   "id": "trade-buildings-barcelona",
-  "n": 2458,
+  "n": 2457,
   "name": "Trade Buildings",
   "by": "Josep Antoni Coderch and Manuel Valls",
   "place": "Barcelona, ES",
@@ -210010,7 +212044,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Edificis Trade (Barcelona)",
   "lead": "File:Barcelona - Edificios Trade.jpg",
-  "coords": null,
+  "coords": [
+   41.38605,
+   2.1277
+  ],
   "hotlink": true,
   "images": [
    {
@@ -210067,7 +212104,7 @@ window.BUILDINGS = [
  },
  {
   "id": "biblioteca-jaume-fuster",
-  "n": 2459,
+  "n": 2458,
   "name": "Jaume Fuster Library",
   "by": "Josep Llinàs (with Joan Vera)",
   "place": "Barcelona, ES",
@@ -210086,7 +212123,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Biblioteca Jaume Fuster",
   "lead": "File:387 Biblioteca Jaume Fuster, pl. Lesseps 20 (Barcelona).jpg",
-  "coords": null,
+  "coords": [
+   41.40743,
+   2.14926
+  ],
   "hotlink": true,
   "images": [
    {
@@ -210167,7 +212207,7 @@ window.BUILDINGS = [
  },
  {
   "id": "caixaforum-zaragoza",
-  "n": 2460,
+  "n": 2459,
   "name": "CaixaForum Zaragoza",
   "by": "Carme Pinós",
   "place": "Zaragoza, ES",
@@ -210186,7 +212226,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:CaixaForum Zaragoza",
   "lead": "File:Zaragoza - CaixaForum 1.jpg",
-  "coords": null,
+  "coords": [
+   41.65239,
+   -0.89395
+  ],
   "hotlink": true,
   "images": [
    {
@@ -210243,7 +212286,7 @@ window.BUILDINGS = [
  },
  {
   "id": "pavilion-of-knowledge",
-  "n": 2461,
+  "n": 2460,
   "name": "Pavilion of Knowledge (Pavilhão do Conhecimento)",
   "by": "João Luís Carrilho da Graça",
   "place": "Lisbon, PT",
@@ -210262,7 +212305,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Pavilhão do Conhecimento",
   "lead": "File:Pavilhão do Conhecimento (1).jpg",
-  "coords": null,
+  "coords": [
+   38.76223,
+   -9.09561
+  ],
   "hotlink": true,
   "images": [
    {
@@ -210319,7 +212365,7 @@ window.BUILDINGS = [
  },
  {
   "id": "nadir-afonso-museum",
-  "n": 2462,
+  "n": 2461,
   "name": "Nadir Afonso Contemporary Art Museum",
   "by": "Álvaro Siza",
   "place": "Chaves, PT",
@@ -210338,7 +212384,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Museu de Arte Contemporânea Nadir Afonso",
   "lead": "File:Monade Museu Nadir Afonso 2.jpg",
-  "coords": null,
+  "coords": [
+   41.74092,
+   -7.46572
+  ],
   "hotlink": true,
   "images": [
    {
@@ -210371,7 +212420,7 @@ window.BUILDINGS = [
  },
  {
   "id": "setubal-school-of-education",
-  "n": 2463,
+  "n": 2462,
   "name": "Setúbal School of Education",
   "by": "Álvaro Siza",
   "place": "Setúbal, PT",
@@ -210435,7 +212484,7 @@ window.BUILDINGS = [
  },
  {
   "id": "edp-headquarters-lisbon",
-  "n": 2464,
+  "n": 2463,
   "name": "EDP Headquarters",
   "by": "Aires Mateus (Manuel and Francisco Aires Mateus)",
   "place": "Lisbon, PT",
@@ -210454,7 +212503,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Edifício EDP (Av. 24 de Julho, Lisboa)",
   "lead": "File:Edifício EDP (Av. 24 de Julho, Lisboa) 01.jpg",
-  "coords": null,
+  "coords": [
+   38.70713,
+   -9.14897
+  ],
   "hotlink": true,
   "images": [
    {
@@ -210523,7 +212575,7 @@ window.BUILDINGS = [
  },
  {
   "id": "amoreiras-towers",
-  "n": 2465,
+  "n": 2464,
   "name": "Amoreiras Towers",
   "by": "Tomás Taveira",
   "place": "Lisbon, PT",
@@ -210542,7 +212594,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Torres das Amoreiras",
   "lead": "File:Emozioni di architettura geometrica - panoramio.jpg",
-  "coords": null,
+  "coords": [
+   38.72355,
+   -9.16218
+  ],
   "hotlink": true,
   "images": [
    {
@@ -210587,7 +212642,7 @@ window.BUILDINGS = [
  },
  {
   "id": "nossa-senhora-fatima-lisbon",
-  "n": 2466,
+  "n": 2465,
   "name": "Church of Our Lady of the Rosary of Fátima",
   "by": "Porfírio Pardal Monteiro",
   "place": "Lisbon, PT",
@@ -210606,7 +212661,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Igreja de Nossa Senhora de Fátima (Lisbon)",
   "lead": "File:Igreja de Nossa Senhora de Fátima (Avenidas Novas - Lisboa).jpg",
-  "coords": null,
+  "coords": [
+   38.73968,
+   -9.15072
+  ],
   "hotlink": true,
   "images": [
    {
@@ -210687,7 +212745,7 @@ window.BUILDINGS = [
  },
  {
   "id": "matosinhos-town-hall",
-  "n": 2467,
+  "n": 2466,
   "name": "Matosinhos Town Hall",
   "by": "Alcino Soutinho",
   "place": "Matosinhos, PT",
@@ -210706,7 +212764,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Câmara Municipal de Matosinhos",
   "lead": "File:Câmara Municipal de Matosinhos - Portugal (22685574346).jpg",
-  "coords": null,
+  "coords": [
+   41.18326,
+   -8.68321
+  ],
   "hotlink": true,
   "images": [
    {
@@ -210763,7 +212824,7 @@ window.BUILDINGS = [
  },
  {
   "id": "coliseu-do-porto",
-  "n": 2468,
+  "n": 2467,
   "name": "Coliseu do Porto",
   "by": "Cassiano Branco",
   "place": "Porto, PT",
@@ -210782,7 +212843,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Coliseu do Porto",
   "lead": "File:Cassiano Branco Coliseu Porto 3279.jpg",
-  "coords": null,
+  "coords": [
+   41.1469,
+   -8.60551
+  ],
   "hotlink": true,
   "images": [
    {
@@ -210863,7 +212927,7 @@ window.BUILDINGS = [
  },
  {
   "id": "wanda-metropolitano",
-  "n": 2469,
+  "n": 2468,
   "name": "Metropolitano Stadium",
   "by": "Cruz y Ortiz",
   "place": "Madrid, ES",
@@ -210882,7 +212946,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Estadio Metropolitano, Madrid",
   "lead": "File:Estadio Metropolitano, 2016 (01).jpg",
-  "coords": null,
+  "coords": [
+   40.43611,
+   -3.59944
+  ],
   "hotlink": true,
   "images": [
    {
@@ -210965,7 +213032,7 @@ window.BUILDINGS = [
  },
  {
   "id": "universidad-laboral-gijon",
-  "n": 2470,
+  "n": 2469,
   "name": "Universidad Laboral de Gijón",
   "by": "Luis Moya Blanco",
   "place": "Gijón, ES",
@@ -210984,7 +213051,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Universidad Laboral de Gijón",
   "lead": "File:Gijon Universidad Laboral 02.jpg",
-  "coords": null,
+  "coords": [
+   43.5241,
+   -5.61351
+  ],
   "hotlink": true,
   "images": [
    {
@@ -211029,7 +213099,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bilbao-metro-fosteritos",
-  "n": 2471,
+  "n": 2470,
   "name": "Bilbao Metro entrances (\"Fosteritos\")",
   "by": "Foster + Partners",
   "place": "Bilbao, ES",
@@ -211129,7 +213199,7 @@ window.BUILDINGS = [
  },
  {
   "id": "casa-de-la-marina-barcelona",
-  "n": 2472,
+  "n": 2471,
   "name": "Casa de la Marina (Barceloneta housing)",
   "by": "Josep Antoni Coderch and Manuel Valls",
   "place": "Barcelona, ES",
@@ -211148,7 +213218,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Habitatges Barceloneta",
   "lead": "File:2001-12-Casa-de-la-Marina-Habitatges-Barceloneta-Josep-Antoni-Coderch-Manuel-Valls.jpg",
-  "coords": null,
+  "coords": [
+   41.378,
+   2.18839
+  ],
   "hotlink": true,
   "images": [
    {
@@ -211205,7 +213278,7 @@ window.BUILDINGS = [
  },
  {
   "id": "edificio-girasol",
-  "n": 2473,
+  "n": 2472,
   "name": "Edificio Girasol",
   "by": "Josep Antoni Coderch",
   "place": "Madrid, ES",
@@ -211224,7 +213297,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Edificio Girasol",
   "lead": "File:Edificio Girasol (Madrid) 01.jpg",
-  "coords": null,
+  "coords": [
+   40.43053,
+   -3.68455
+  ],
   "hotlink": true,
   "images": [
    {
@@ -211305,7 +213381,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bac-de-roda-bridge",
-  "n": 2474,
+  "n": 2473,
   "name": "Bac de Roda Bridge",
   "by": "Santiago Calatrava",
   "place": "Barcelona, ES",
@@ -211324,7 +213400,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Pont de Bac de Roda",
   "lead": "File:Barcelona Puente Calatrava 01 JMM.JPG",
-  "coords": null,
+  "coords": [
+   41.4162,
+   2.1924
+  ],
   "hotlink": true,
   "images": [
    {
@@ -211381,7 +213460,7 @@ window.BUILDINGS = [
  },
  {
   "id": "altamira-museum",
-  "n": 2475,
+  "n": 2474,
   "name": "National Museum and Research Center of Altamira",
   "by": "Juan Navarro Baldeweg",
   "place": "Santillana del Mar, ES",
@@ -211400,7 +213479,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Museo de Altamira",
   "lead": "File:Entrada al Museo de Altamira.jpg",
-  "coords": null,
+  "coords": [
+   43.3774,
+   -4.1225
+  ],
   "hotlink": true,
   "images": [
    {
@@ -211445,7 +213527,7 @@ window.BUILDINGS = [
  },
  {
   "id": "salamanca-congress-centre",
-  "n": 2476,
+  "n": 2475,
   "name": "Castile and León Congress and Exhibition Centre",
   "by": "Juan Navarro Baldeweg",
   "place": "Salamanca, ES",
@@ -211464,7 +213546,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Palacio de Congresos y Exposiciones de Castilla y León (Salamanca)",
   "lead": "SIIE 2008 Salamanca hirian (31) (2903177604).jpg",
-  "coords": null,
+  "coords": [
+   40.96265,
+   -5.66954
+  ],
   "hotlink": true,
   "images": [
    {
@@ -211509,7 +213594,7 @@ window.BUILDINGS = [
  },
  {
   "id": "deusto-library",
-  "n": 2477,
+  "n": 2476,
   "name": "University of Deusto Library",
   "by": "Rafael Moneo",
   "place": "Bilbao, ES",
@@ -211528,7 +213613,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Biblioteca de la Universidad de Deusto",
   "lead": "File:Deusto New Library, Bilbao, July 2010 (01).JPG",
-  "coords": null,
+  "coords": [
+   43.26842,
+   -2.93716
+  ],
   "hotlink": true,
   "images": [
    {
@@ -211597,7 +213685,7 @@ window.BUILDINGS = [
  },
  {
   "id": "casa-de-las-flores",
-  "n": 2478,
+  "n": 2477,
   "name": "Casa de las Flores",
   "by": "Secundino Zuazo",
   "place": "Madrid, ES",
@@ -211616,7 +213704,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Casa de las Flores, Madrid",
   "lead": "File:Casa de las Flores (Madrid) 01.jpg",
-  "coords": null,
+  "coords": [
+   40.43244,
+   -3.71628
+  ],
   "hotlink": true,
   "images": [
    {
@@ -211685,7 +213776,7 @@ window.BUILDINGS = [
  },
  {
   "id": "casa-sindical-madrid",
-  "n": 2479,
+  "n": 2478,
   "name": "Casa Sindical",
   "by": "Francisco de Asís Cabrero and Rafael Aburto",
   "place": "Madrid, ES",
@@ -211704,7 +213795,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Casa Sindical, Madrid",
   "lead": "File:Ministerio de Sanidad de España (Madrid) 12.jpg",
-  "coords": null,
+  "coords": [
+   40.41341,
+   -3.69397
+  ],
   "hotlink": true,
   "images": [
    {
@@ -211787,7 +213881,7 @@ window.BUILDINGS = [
  },
  {
   "id": "zubizuri",
-  "n": 2480,
+  "n": 2479,
   "name": "Zubizuri",
   "by": "Santiago Calatrava",
   "place": "Bilbao, ES",
@@ -211806,7 +213900,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Zubizuri",
   "lead": "File:Bilbao (Vizcaya)-Puente Zubizuri (Santiago Calatrava)-1.jpg",
-  "coords": null,
+  "coords": [
+   43.26639,
+   -2.92806
+  ],
   "hotlink": true,
   "images": [
    {
@@ -211887,7 +213984,7 @@ window.BUILDINGS = [
  },
  {
   "id": "la-fabrica-bofill",
-  "n": 2481,
+  "n": 2480,
   "name": "La Fábrica",
   "by": "Ricardo Bofill (Taller de Arquitectura)",
   "place": "Sant Just Desvern, ES",
@@ -211906,7 +214003,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Xemeneia de la fàbrica Sanson",
   "lead": "File:Fabrica 2022 entrance.jpg",
-  "coords": null,
+  "coords": [
+   41.38056,
+   2.06847
+  ],
   "hotlink": true,
   "images": [
    {
@@ -211951,7 +214051,7 @@ window.BUILDINGS = [
  },
  {
   "id": "blues-point-tower",
-  "n": 2482,
+  "n": 2481,
   "name": "Blues Point Tower",
   "by": "Harry Seidler",
   "place": "Sydney, AU",
@@ -211970,7 +214070,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Blues Point Tower",
   "lead": "File:Blues Point Tower September 2012.JPG",
-  "coords": null,
+  "coords": [
+   -33.8492,
+   151.203
+  ],
   "hotlink": true,
   "images": [
    {
@@ -212015,7 +214118,7 @@ window.BUILDINGS = [
  },
  {
   "id": "grosvenor-place-sydney",
-  "n": 2483,
+  "n": 2482,
   "name": "Grosvenor Place",
   "by": "Harry Seidler & Associates",
   "place": "Sydney, AU",
@@ -212034,7 +214137,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Grosvenor Place (skyscraper)",
   "lead": "File:Grosvenor Place (Sydney).jpg",
-  "coords": null,
+  "coords": [
+   -33.8629,
+   151.207
+  ],
   "hotlink": true,
   "images": [
    {
@@ -212115,7 +214221,7 @@ window.BUILDINGS = [
  },
  {
   "id": "aami-park",
-  "n": 2484,
+  "n": 2483,
   "name": "AAMI Park (Melbourne Rectangular Stadium)",
   "by": "Cox Architecture",
   "place": "Melbourne, AU",
@@ -212134,7 +214240,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Melbourne Rectangular Stadium",
   "lead": "File:AAMI Park Melbourne 20180726-004.jpg",
-  "coords": null,
+  "coords": [
+   -37.82528,
+   144.98389
+  ],
   "hotlink": true,
   "images": [
    {
@@ -212215,7 +214324,7 @@ window.BUILDINGS = [
  },
  {
   "id": "qv1-perth",
-  "n": 2485,
+  "n": 2484,
   "name": "QV1",
   "by": "Harry Seidler & Associates",
   "place": "Perth, AU",
@@ -212234,7 +214343,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:QV1",
   "lead": "File:QV1 gnangarra.jpg",
-  "coords": null,
+  "coords": [
+   -31.9524,
+   115.851
+  ],
   "hotlink": true,
   "images": [
    {
@@ -212315,7 +214427,7 @@ window.BUILDINGS = [
  },
  {
   "id": "featherston-house",
-  "n": 2486,
+  "n": 2485,
   "name": "Featherston House",
   "by": "Robin Boyd (Romberg & Boyd)",
   "place": "Ivanhoe, Melbourne, AU",
@@ -212334,7 +214446,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Featherston House",
   "lead": "File:Featherston's.JPG",
-  "coords": null,
+  "coords": [
+   -37.779,
+   145.039
+  ],
   "hotlink": true,
   "images": [
    {
@@ -212355,7 +214470,7 @@ window.BUILDINGS = [
  },
  {
   "id": "riverside-centre-brisbane",
-  "n": 2487,
+  "n": 2486,
   "name": "Riverside Centre",
   "by": "Harry Seidler & Associates",
   "place": "Brisbane, AU",
@@ -212374,7 +214489,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Riverside Centre, Brisbane",
   "lead": "File:Riparian Plaza 111 Eagle St and Riverside Centre from Petrie Bight Brisbane River P1260416.jpg",
-  "coords": null,
+  "coords": [
+   -27.4672,
+   153.03
+  ],
   "hotlink": true,
   "images": [
    {
@@ -212431,7 +214549,7 @@ window.BUILDINGS = [
  },
  {
   "id": "domain-park-flats",
-  "n": 2488,
+  "n": 2487,
   "name": "Domain Park Flats",
   "by": "Robin Boyd",
   "place": "South Yarra, Melbourne, AU",
@@ -212450,7 +214568,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Domain Park Flats",
   "lead": "File:Domain Park Flats Photo3.jpg",
-  "coords": null,
+  "coords": [
+   -37.83444,
+   144.98278
+  ],
   "hotlink": true,
   "images": [
    {
@@ -212483,7 +214604,7 @@ window.BUILDINGS = [
  },
  {
   "id": "qeii-courts-of-law-brisbane",
-  "n": 2489,
+  "n": 2488,
   "name": "Queen Elizabeth II Courts of Law",
   "by": "Architectus with Guymer Bailey Architects",
   "place": "Brisbane, AU",
@@ -212502,7 +214623,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Queen Elizabeth II Courts of Law, Brisbane",
   "lead": "File:Queen Elizabeth II Courts of Law, Brisbane, 2024, L3.jpg",
-  "coords": null,
+  "coords": [
+   -27.4676,
+   153.021
+  ],
   "hotlink": true,
   "images": [
    {
@@ -212571,7 +214695,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-portrait-gallery-canberra",
-  "n": 2490,
+  "n": 2489,
   "name": "National Portrait Gallery",
   "by": "Johnson Pilton Walker",
   "place": "Canberra, AU",
@@ -212590,7 +214714,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:National Portrait Gallery, Canberra",
   "lead": "File:National Portrait Gallery, Canberra, Australia - Joy of Museums - Ext.jpg",
-  "coords": null,
+  "coords": [
+   -35.3,
+   149.13389
+  ],
   "hotlink": true,
   "images": [
    {
@@ -212635,7 +214762,7 @@ window.BUILDINGS = [
  },
  {
   "id": "rmit-design-hub",
-  "n": 2491,
+  "n": 2490,
   "name": "RMIT Design Hub",
   "by": "Sean Godsell Architects with Peddle Thorp",
   "place": "Melbourne, AU",
@@ -212654,7 +214781,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:RMIT Design Hub",
   "lead": "File:RMIT Design Hub at intersection 2011-10-05.jpg",
-  "coords": null,
+  "coords": [
+   -37.8062,
+   144.9627
+  ],
   "hotlink": true,
   "images": [
    {
@@ -212735,7 +214865,7 @@ window.BUILDINGS = [
  },
  {
   "id": "swanston-academic-building",
-  "n": 2492,
+  "n": 2491,
   "name": "Swanston Academic Building (RMIT Building 80)",
   "by": "Lyons",
   "place": "Melbourne, AU",
@@ -212754,7 +214884,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Swanston Academic Building",
   "lead": "File:SAB, Melbourne CBD, as viewed from Swanston Street.jpg",
-  "coords": null,
+  "coords": [
+   -37.80819,
+   144.96295
+  ],
   "hotlink": true,
   "images": [
    {
@@ -212823,7 +214956,7 @@ window.BUILDINGS = [
  },
  {
   "id": "melbourne-school-of-design",
-  "n": 2493,
+  "n": 2492,
   "name": "Melbourne School of Design (Glyn Davis Building)",
   "by": "John Wardle Architects with NADAAA",
   "place": "Melbourne, AU",
@@ -212899,7 +215032,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ian-potter-museum-of-art",
-  "n": 2494,
+  "n": 2493,
   "name": "Ian Potter Museum of Art",
   "by": "Nonda Katsalidis (Katsalidis Architects)",
   "place": "Melbourne, AU",
@@ -212918,7 +215051,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Ian Potter Museum of Art",
   "lead": "File:Ian Potter Museum of Art 2010.jpg",
-  "coords": null,
+  "coords": [
+   -37.7975,
+   144.964
+  ],
   "hotlink": true,
   "images": [
    {
@@ -212951,7 +215087,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sahmri",
-  "n": 2495,
+  "n": 2494,
   "name": "South Australian Health and Medical Research Institute (SAHMRI)",
   "by": "Woods Bagot",
   "place": "Adelaide, AU",
@@ -212970,7 +215106,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:South Australian Health and Medical Research Institute",
   "lead": "File:South Australian Health and Medical Research Institute in Adelaide (028A1254).jpg",
-  "coords": null,
+  "coords": [
+   -34.92127,
+   138.58973
+  ],
   "hotlink": true,
   "images": [
    {
@@ -213027,7 +215166,7 @@ window.BUILDINGS = [
  },
  {
   "id": "institute-for-marine-and-antarctic-studies",
-  "n": 2496,
+  "n": 2495,
   "name": "Institute for Marine and Antarctic Studies",
   "by": "John Wardle Architects with Terroir",
   "place": "Hobart, AU",
@@ -213079,7 +215218,7 @@ window.BUILDINGS = [
  },
  {
   "id": "queensland-childrens-hospital",
-  "n": 2497,
+  "n": 2496,
   "name": "Queensland Children's Hospital (former Lady Cilento Children's Hospital)",
   "by": "Conrad Gargett Lyons",
   "place": "Brisbane, AU",
@@ -213098,7 +215237,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Queensland Children's Hospital",
   "lead": "File:Queensland Children's Hospital in Brisbane, November 2019.jpg",
-  "coords": null,
+  "coords": [
+   -27.48397,
+   153.02797
+  ],
   "hotlink": true,
   "images": [
    {
@@ -213167,7 +215309,7 @@ window.BUILDINGS = [
  },
  {
   "id": "wellington-central-library",
-  "n": 2498,
+  "n": 2497,
   "name": "Wellington Central Library (Te Matapihi)",
   "by": "Athfield Architects (Ian Athfield)",
   "place": "Wellington, NZ",
@@ -213186,7 +215328,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Wellington Central Library",
   "lead": "File:Te Matapihi Central Library 2026-03-15 05.jpg",
-  "coords": null,
+  "coords": [
+   -41.28813,
+   174.77653
+  ],
   "hotlink": true,
   "images": [
    {
@@ -213255,7 +215400,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palmerston-north-city-library",
-  "n": 2499,
+  "n": 2498,
   "name": "Palmerston North City Library",
   "by": "Ian Athfield (Athfield Architects)",
   "place": "Palmerston North, NZ",
@@ -213274,7 +215419,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Palmerston North City Library",
   "lead": "File:Palmerston North City Library, Palmerston North, New Zealand 06.JPG",
-  "coords": null,
+  "coords": [
+   -40.3561,
+   175.609
+  ],
   "hotlink": true,
   "images": [
    {
@@ -213343,7 +215491,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sydney-modern",
-  "n": 2500,
+  "n": 2499,
   "name": "Art Gallery of New South Wales, North Building (Sydney Modern, Naala Nura)",
   "by": "SANAA with Architectus",
   "place": "Sydney, AU",
@@ -213443,7 +215591,7 @@ window.BUILDINGS = [
  },
  {
   "id": "geelong-library-and-heritage-centre",
-  "n": 2501,
+  "n": 2500,
   "name": "Geelong Library and Heritage Centre",
   "by": "ARM Architecture",
   "place": "Geelong, AU",
@@ -213462,7 +215610,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Geelong Library and Heritage Centre",
   "lead": "File:Geelong Library 2015.jpg",
-  "coords": null,
+  "coords": [
+   -38.1454,
+   144.361
+  ],
   "hotlink": true,
   "images": [
    {
@@ -213495,7 +215646,7 @@ window.BUILDINGS = [
  },
  {
   "id": "melbourne-recital-centre",
-  "n": 2502,
+  "n": 2501,
   "name": "Melbourne Recital Centre",
   "by": "Ashton Raggatt McDougall (ARM Architecture)",
   "place": "Melbourne, AU",
@@ -213514,7 +215665,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Melbourne Recital Centre",
   "lead": "File:Melbourne Recital Center.jpg",
-  "coords": null,
+  "coords": [
+   -37.8241,
+   144.968
+  ],
   "hotlink": true,
   "images": [
    {
@@ -213595,7 +215749,7 @@ window.BUILDINGS = [
  },
  {
   "id": "dorset-street-flats",
-  "n": 2503,
+  "n": 2502,
   "name": "Dorset Street Flats",
   "by": "Miles Warren",
   "place": "Christchurch, NZ",
@@ -213614,7 +215768,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Dorset Street Flats",
   "lead": "File:Dorset Street Flats in 2016 (cropped).jpg",
-  "coords": null,
+  "coords": [
+   -43.5228,
+   172.62791
+  ],
   "hotlink": true,
   "images": [
    {
@@ -213647,7 +215804,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-museum-of-australia",
-  "n": 2504,
+  "n": 2503,
   "name": "National Museum of Australia",
   "by": "Ashton Raggatt McDougall with Robert Peck von Hartel Trethowan",
   "place": "Canberra, AU",
@@ -213666,7 +215823,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:National Museum of Australia",
   "lead": "NatMusAus Main Entrance Strip.jpg",
-  "coords": null,
+  "coords": [
+   -35.2931,
+   149.121
+  ],
   "hotlink": true,
   "images": [
    {
@@ -213699,7 +215859,7 @@ window.BUILDINGS = [
  },
  {
   "id": "melbourne-museum",
-  "n": 2505,
+  "n": 2504,
   "name": "Melbourne Museum",
   "by": "Denton Corker Marshall",
   "place": "Melbourne, AU",
@@ -213718,7 +215878,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Melbourne Museum",
   "lead": "File:Entrance to the Melbourne Museum (6768078685).jpg",
-  "coords": null,
+  "coords": [
+   -37.80334,
+   144.97144
+  ],
   "hotlink": true,
   "images": [
    {
@@ -213763,7 +215926,7 @@ window.BUILDINGS = [
  },
  {
   "id": "michael-fowler-centre",
-  "n": 2506,
+  "n": 2505,
   "name": "Michael Fowler Centre",
   "by": "Warren and Mahoney (Miles Warren, Maurice Mahoney)",
   "place": "Wellington, NZ",
@@ -213782,7 +215945,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Michael Fowler Centre",
   "lead": "Michael fowler centre 20 march 2018 2.jpg",
-  "coords": null,
+  "coords": [
+   -41.2894,
+   174.778
+  ],
   "hotlink": true,
   "images": [
    {
@@ -213863,7 +216029,7 @@ window.BUILDINGS = [
  },
  {
   "id": "olympic-park-station-sydney",
-  "n": 2507,
+  "n": 2506,
   "name": "Olympic Park Station",
   "by": "Hassell",
   "place": "Sydney, AU",
@@ -213882,7 +216048,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Olympic Park railway station, Sydney",
   "lead": "File:Olympic Park Station Sydney.jpg",
-  "coords": null,
+  "coords": [
+   -33.84663,
+   151.06948
+  ],
   "hotlink": true,
   "images": [
    {
@@ -213939,7 +216108,7 @@ window.BUILDINGS = [
  },
  {
   "id": "dixon-street-flats",
-  "n": 2508,
+  "n": 2507,
   "name": "Dixon Street Flats",
   "by": "Gordon Wilson (Department of Housing Construction)",
   "place": "Wellington, NZ",
@@ -213958,7 +216127,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Dixon Street Flats",
   "lead": "File:Dixon Street Flats 1.jpg",
-  "coords": null,
+  "coords": [
+   -41.2905,
+   174.77303
+  ],
   "hotlink": true,
   "images": [
    {
@@ -213991,7 +216163,7 @@ window.BUILDINGS = [
  },
  {
   "id": "melbourne-exhibition-centre",
-  "n": 2509,
+  "n": 2508,
   "name": "Melbourne Exhibition Centre ('Jeff's Shed')",
   "by": "Denton Corker Marshall",
   "place": "Melbourne, AU",
@@ -214067,7 +216239,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sky-tower-auckland",
-  "n": 2510,
+  "n": 2509,
   "name": "Sky Tower",
   "by": "Craig Craig Moller",
   "place": "Auckland, NZ",
@@ -214086,7 +216258,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Sky Tower (Auckland)",
   "lead": "File:Auckland, sky tower 01.jpg",
-  "coords": null,
+  "coords": [
+   -36.84847,
+   174.76231
+  ],
   "hotlink": true,
   "images": [
    {
@@ -214167,7 +216342,7 @@ window.BUILDINGS = [
  },
  {
   "id": "aotea-centre",
-  "n": 2511,
+  "n": 2510,
   "name": "Aotea Centre",
   "by": "Ewen Wainscott (Auckland City Architect)",
   "place": "Auckland, NZ",
@@ -214186,7 +216361,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Aotea Centre",
   "lead": "File:Aotea Centre Off Aotea Square, Auckland.jpg",
-  "coords": null,
+  "coords": [
+   -36.8519,
+   174.762
+  ],
   "hotlink": true,
   "images": [
    {
@@ -214255,7 +216433,7 @@ window.BUILDINGS = [
  },
  {
   "id": "governor-phillip-tower",
-  "n": 2512,
+  "n": 2511,
   "name": "Governor Phillip Tower",
   "by": "Denton Corker Marshall",
   "place": "Sydney, AU",
@@ -214274,7 +216452,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Governor Phillip Tower",
   "lead": "File:Quay Quarter Tower, Governor Phillip Tower, Sydney, 2023, 01.jpg",
-  "coords": null,
+  "coords": [
+   -33.8639,
+   151.211
+  ],
   "hotlink": true,
   "images": [
    {
@@ -214331,7 +216512,7 @@ window.BUILDINGS = [
  },
  {
   "id": "turanga-christchurch",
-  "n": 2513,
+  "n": 2512,
   "name": "Tūranga (Christchurch Central Library)",
   "by": "Architectus with Schmidt Hammer Lassen",
   "place": "Christchurch, NZ",
@@ -214350,7 +216531,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Tūranga",
   "lead": "File:Christchurch Public Library 2019 Outside.jpg",
-  "coords": null,
+  "coords": [
+   -43.53005,
+   172.63722
+  ],
   "hotlink": true,
   "images": [
    {
@@ -214421,7 +216605,7 @@ window.BUILDINGS = [
  },
  {
   "id": "museum-of-sydney",
-  "n": 2514,
+  "n": 2513,
   "name": "Museum of Sydney",
   "by": "Denton Corker Marshall",
   "place": "Sydney, AU",
@@ -214440,7 +216624,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Museum of Sydney",
   "lead": "File:Museum of Sydney 2015.JPG",
-  "coords": null,
+  "coords": [
+   -33.8636,
+   151.211
+  ],
   "hotlink": true,
   "images": [
    {
@@ -214521,7 +216708,7 @@ window.BUILDINGS = [
  },
  {
   "id": "university-house-anu",
-  "n": 2515,
+  "n": 2514,
   "name": "University House, Australian National University",
   "by": "Brian Lewis",
   "place": "Canberra, AU",
@@ -214540,7 +216727,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:University House (Australian National University)",
   "lead": "File:University House May 2012.JPG",
-  "coords": null,
+  "coords": [
+   -35.284,
+   149.118
+  ],
   "hotlink": true,
   "images": [
    {
@@ -214609,7 +216799,7 @@ window.BUILDINGS = [
  },
  {
   "id": "christchurch-art-gallery",
-  "n": 2516,
+  "n": 2515,
   "name": "Christchurch Art Gallery Te Puna o Waiwhetū",
   "by": "Buchan Group",
   "place": "Christchurch, NZ",
@@ -214628,7 +216818,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Christchurch Art Gallery",
   "lead": "File:Christchurch Art Gallery - Christchurch, NZ - DSC02266.jpg",
-  "coords": null,
+  "coords": [
+   -43.5306,
+   172.631
+  ],
   "hotlink": true,
   "images": [
    {
@@ -214709,7 +216902,7 @@ window.BUILDINGS = [
  },
  {
   "id": "adam-art-gallery",
-  "n": 2517,
+  "n": 2516,
   "name": "Adam Art Gallery Te Pātaka Toi",
   "by": "Ian Athfield (Athfield Architects)",
   "place": "Wellington, NZ",
@@ -214728,7 +216921,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Adam Art Gallery",
   "lead": "File:Adam Art Gallery October 2018.jpg",
-  "coords": null,
+  "coords": [
+   -41.2886,
+   174.769
+  ],
   "hotlink": true,
   "images": [
    {
@@ -214773,7 +216969,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ici-house-melbourne",
-  "n": 2518,
+  "n": 2517,
   "name": "ICI House (Orica House)",
   "by": "Osborn McCutcheon (Bates Smart McCutcheon)",
   "place": "Melbourne, AU",
@@ -214792,7 +216988,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:ICI House",
   "lead": "File:Former ICI Building PIC 04.jpg",
-  "coords": null,
+  "coords": [
+   -37.809,
+   144.97344
+  ],
   "hotlink": true,
   "images": [
    {
@@ -214849,7 +217048,7 @@ window.BUILDINGS = [
  },
  {
   "id": "qantas-house-sydney",
-  "n": 2519,
+  "n": 2518,
   "name": "Qantas House (No. 1 Chifley Square)",
   "by": "Rudder, Littlemore & Rudder",
   "place": "Sydney, AU",
@@ -214868,7 +217067,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Qantas House",
   "lead": "File:Qantas House, 68-96 Hunter Street, Sydney.jpg",
-  "coords": null,
+  "coords": [
+   -33.866,
+   151.2107
+  ],
   "hotlink": true,
   "images": [
    {
@@ -214889,7 +217091,7 @@ window.BUILDINGS = [
  },
  {
   "id": "advanced-engineering-building-uq",
-  "n": 2520,
+  "n": 2519,
   "name": "Advanced Engineering Building, University of Queensland",
   "by": "Richard Kirk Architect and Hassell",
   "place": "Brisbane, AU",
@@ -214965,7 +217167,7 @@ window.BUILDINGS = [
  },
  {
   "id": "green-square-library",
-  "n": 2521,
+  "n": 2520,
   "name": "Green Square Library and Plaza",
   "by": "Studio Hollenstein with Stewart Architecture",
   "place": "Sydney, AU",
@@ -214984,7 +217186,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Green Square Library",
   "lead": "File:Green Square Library 001.jpg",
-  "coords": null,
+  "coords": [
+   -33.90638,
+   151.20343
+  ],
   "hotlink": true,
   "images": [
    {
@@ -215041,7 +217246,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-library-of-australia",
-  "n": 2522,
+  "n": 2521,
   "name": "National Library of Australia",
   "by": "Bunning and Madden (Walter Bunning)",
   "place": "Canberra, AU",
@@ -215060,7 +217265,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:National Library of Australia",
   "lead": "File:National Library Of Australia, Entrance side, Fountains on.jpg",
-  "coords": null,
+  "coords": [
+   -35.29639,
+   149.12944
+  ],
   "hotlink": true,
   "images": [
    {
@@ -215117,7 +217325,7 @@ window.BUILDINGS = [
  },
  {
   "id": "eureka-tower",
-  "n": 2523,
+  "n": 2522,
   "name": "Eureka Tower",
   "by": "Fender Katsalidis",
   "place": "Melbourne, AU",
@@ -215136,7 +217344,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Eureka Tower",
   "lead": "File:Eureka Tower, Melbourne, 2024.jpg",
-  "coords": null,
+  "coords": [
+   -37.82167,
+   144.96444
+  ],
   "hotlink": true,
   "images": [
    {
@@ -215217,7 +217428,7 @@ window.BUILDINGS = [
  },
  {
   "id": "qpac-brisbane",
-  "n": 2524,
+  "n": 2523,
   "name": "Queensland Performing Arts Centre (QPAC)",
   "by": "Robin Gibson",
   "place": "Brisbane, AU",
@@ -215236,7 +217447,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Queensland Performing Arts Centre",
   "lead": "File:Queensland Performing Arts Centre Grey Street facade, Brisbane.jpg",
-  "coords": null,
+  "coords": [
+   -27.475,
+   153.02
+  ],
   "hotlink": true,
   "images": [
    {
@@ -215293,7 +217507,7 @@ window.BUILDINGS = [
  },
  {
   "id": "harry-and-penelope-seidler-house",
-  "n": 2525,
+  "n": 2524,
   "name": "Harry and Penelope Seidler House",
   "by": "Harry and Penelope Seidler",
   "place": "Killara, Sydney, AU",
@@ -215312,7 +217526,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Seidler House",
   "lead": "File:Penelope and Harry Seidler House, Killara, NSW, Australia.jpg",
-  "coords": null,
+  "coords": [
+   -33.7593,
+   151.166
+  ],
   "hotlink": true,
   "images": [
    {
@@ -215395,7 +217612,7 @@ window.BUILDINGS = [
  },
  {
   "id": "rialto-towers",
-  "n": 2526,
+  "n": 2525,
   "name": "Rialto Towers",
   "by": "Gerard de Preu and Partners with Perrott Lyon Mathieson",
   "place": "Melbourne, AU",
@@ -215414,7 +217631,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Rialto Towers",
   "lead": "File:Rialto Collins Street.JPG",
-  "coords": null,
+  "coords": [
+   -37.81889,
+   144.95833
+  ],
   "hotlink": true,
   "images": [
    {
@@ -215495,7 +217715,7 @@ window.BUILDINGS = [
  },
  {
   "id": "te-uru-gallery",
-  "n": 2527,
+  "n": 2526,
   "name": "Te Uru Waitākere Contemporary Gallery",
   "by": "Mitchell & Stout Architects (Julie Stout)",
   "place": "Titirangi, Auckland, NZ",
@@ -215514,7 +217734,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Te Uru Gallery",
   "lead": "File:Lopdell Precinct 04.jpg",
-  "coords": null,
+  "coords": [
+   -36.93836,
+   174.65518
+  ],
   "hotlink": true,
   "images": [
    {
@@ -215571,7 +217794,7 @@ window.BUILDINGS = [
  },
  {
   "id": "1-bligh-street",
-  "n": 2528,
+  "n": 2527,
   "name": "1 Bligh Street",
   "by": "Ingenhoven Architects with Architectus",
   "place": "Sydney, AU",
@@ -215590,7 +217813,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:1 Bligh Street",
   "lead": "File:Young Street, 1 Bligh Street, Sydney, 2013.jpg",
-  "coords": null,
+  "coords": [
+   -33.865,
+   151.21056
+  ],
   "hotlink": true,
   "images": [
    {
@@ -215635,7 +217861,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sydney-tower",
-  "n": 2529,
+  "n": 2528,
   "name": "Sydney Tower (Centrepoint Tower)",
   "by": "Donald Crone & Associates",
   "place": "Sydney, AU",
@@ -215654,7 +217880,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Sydney Tower",
   "lead": "St James' Church and Sydney Tower.jpg",
-  "coords": null,
+  "coords": [
+   -33.87028,
+   151.20889
+  ],
   "hotlink": true,
   "images": [
    {
@@ -215723,7 +217952,7 @@ window.BUILDINGS = [
  },
  {
   "id": "southern-cross-station",
-  "n": 2530,
+  "n": 2529,
   "name": "Southern Cross Station",
   "by": "Grimshaw Architects with Jackson Architecture",
   "place": "Melbourne, AU",
@@ -215742,7 +217971,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Southern Cross Station",
   "lead": "File:AUS Melbourne, Central Business District, Southern Cross Railway Station 001.jpg",
-  "coords": null,
+  "coords": [
+   -37.81836,
+   144.95242
+  ],
   "hotlink": true,
   "images": [
    {
@@ -215823,7 +218055,7 @@ window.BUILDINGS = [
  },
  {
   "id": "roy-grounds-house",
-  "n": 2531,
+  "n": 2530,
   "name": "Roy Grounds House",
   "by": "Roy Grounds",
   "place": "Toorak, Melbourne, AU",
@@ -215842,7 +218074,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Roy Grounds House",
   "lead": "Roy Grounds house - Flats.jpg",
-  "coords": null,
+  "coords": [
+   -37.8168,
+   144.961
+  ],
   "hotlink": true,
   "images": [
    {
@@ -215887,7 +218122,7 @@ window.BUILDINGS = [
  },
  {
   "id": "napier-street-housing",
-  "n": 2532,
+  "n": 2531,
   "name": "Napier Street Housing",
   "by": "Kerstin Thompson Architects",
   "place": "Fitzroy, Melbourne, AU",
@@ -215906,7 +218141,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Napier Street Housing",
   "lead": "File:Napier Street Housing.jpg",
-  "coords": null,
+  "coords": [
+   -37.804,
+   144.97987
+  ],
   "hotlink": true,
   "images": [
    {
@@ -215953,7 +218191,7 @@ window.BUILDINGS = [
  },
  {
   "id": "forsyth-barr-stadium",
-  "n": 2533,
+  "n": 2532,
   "name": "Forsyth Barr Stadium",
   "by": "Populous and Jasmax",
   "place": "Dunedin, NZ",
@@ -215972,7 +218210,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Forsyth Barr Stadium",
   "lead": "File:Forsyth Barr Stadium 95.JPG",
-  "coords": null,
+  "coords": [
+   -45.86917,
+   170.52444
+  ],
   "hotlink": true,
   "images": [
    {
@@ -216029,7 +218270,7 @@ window.BUILDINGS = [
  },
  {
   "id": "copernicus-science-centre",
-  "n": 2534,
+  "n": 2533,
   "name": "Copernicus Science Centre",
   "by": "RAr-2 (Ruda Śląska)",
   "place": "Warsaw, PL",
@@ -216048,7 +218289,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Centrum Nauki Kopernik",
   "lead": "File:Barka wynurzenie i centrum nauki kopernik.jpg",
-  "coords": null,
+  "coords": [
+   52.24194,
+   21.02833
+  ],
   "hotlink": true,
   "images": [
    {
@@ -216105,7 +218349,7 @@ window.BUILDINGS = [
  },
  {
   "id": "university-of-warsaw-library",
-  "n": 2535,
+  "n": 2534,
   "name": "University of Warsaw Library (BUW)",
   "by": "Marek Budzyński, Zbigniew Badowski",
   "place": "Warsaw, PL",
@@ -216124,7 +218368,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:University of Warsaw Library",
   "lead": "File:Warszawa - Biblioteka Uniwersytecka - 06.10.2025 10-03-43.jpg",
-  "coords": null,
+  "coords": [
+   52.24239,
+   21.02437
+  ],
   "hotlink": true,
   "images": [
    {
@@ -216181,7 +218428,7 @@ window.BUILDINGS = [
  },
  {
   "id": "gdansk-shakespeare-theatre",
-  "n": 2536,
+  "n": 2535,
   "name": "Gdańsk Shakespeare Theatre",
   "by": "Renato Rizzi",
   "place": "Gdańsk, PL",
@@ -216200,7 +218447,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Shakespearean theatre in Gdańsk",
   "lead": "File:Gdańsk ulica Bogusławskiego 1 – Gdański Teatr Szekspirowski.JPG",
-  "coords": null,
+  "coords": [
+   54.3482,
+   18.6532
+  ],
   "hotlink": true,
   "images": [
    {
@@ -216269,7 +218519,7 @@ window.BUILDINGS = [
  },
  {
   "id": "museum-of-the-second-world-war-gdansk",
-  "n": 2537,
+  "n": 2536,
   "name": "Museum of the Second World War",
   "by": "Kwadrat",
   "place": "Gdańsk, PL",
@@ -216288,7 +218538,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Museum of Second World War in Gdańsk",
   "lead": "File:2025-04 Gdańsk budynek Muzeum II Wojny Światowej (1).jpg",
-  "coords": null,
+  "coords": [
+   54.35583,
+   18.66056
+  ],
   "hotlink": true,
   "images": [
    {
@@ -216345,7 +218598,7 @@ window.BUILDINGS = [
  },
  {
   "id": "divine-mercy-church-kalisz",
-  "n": 2538,
+  "n": 2537,
   "name": "Divine Mercy Church",
   "by": "Jerzy Kuźmienko, Andrzej Fajans",
   "place": "Kalisz, PL",
@@ -216364,7 +218617,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Sanctuary of Divine Mercy in Kalisz",
   "lead": "File:Kalisz Sanktuarium Miłosierdzia Bożego (2).jpg",
-  "coords": null,
+  "coords": [
+   51.74871,
+   18.07857
+  ],
   "hotlink": true,
   "images": [
    {
@@ -216421,7 +218677,7 @@ window.BUILDINGS = [
  },
  {
   "id": "renoma-wroclaw",
-  "n": 2539,
+  "n": 2538,
   "name": "Renoma (Wertheim department store)",
   "by": "Hermann Dernburg",
   "place": "Wrocław, PL",
@@ -216440,7 +218696,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Wertheim/Renoma department store in Wrocław",
   "lead": "File:Breslau Kaufhaus Renoma.jpg",
-  "coords": null,
+  "coords": [
+   51.10361,
+   17.03111
+  ],
   "hotlink": true,
   "images": [
    {
@@ -216521,7 +218780,7 @@ window.BUILDINGS = [
  },
  {
   "id": "villa-bilek-prague",
-  "n": 2540,
+  "n": 2539,
   "name": "Villa Bílek",
   "by": "František Bílek",
   "place": "Prague, CZ",
@@ -216540,7 +218799,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Bílkova vila",
   "lead": "File:Bílkova vila (06).jpg",
-  "coords": null,
+  "coords": [
+   50.095,
+   14.4083
+  ],
   "hotlink": true,
   "images": [
    {
@@ -216597,7 +218859,7 @@ window.BUILDINGS = [
  },
  {
   "id": "legiobanka-prague",
-  "n": 2541,
+  "n": 2540,
   "name": "Legiobanka (Bank of the Czechoslovak Legions)",
   "by": "Josef Gočár",
   "place": "Prague, CZ",
@@ -216616,7 +218878,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Bank of the Czechoslovak Legions, Prague",
   "lead": "File:Bank of the Czechoslovak Legions, Prague13.jpg",
-  "coords": null,
+  "coords": [
+   50.08967,
+   14.43367
+  ],
   "hotlink": true,
   "images": [
    {
@@ -216697,7 +218962,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hotel-intercontinental-prague",
-  "n": 2542,
+  "n": 2541,
   "name": "Hotel Intercontinental Prague (Fairmont Golden Prague)",
   "by": "Karel Filsak",
   "place": "Prague, CZ",
@@ -216716,7 +218981,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Hotel Intercontinental (Prague)",
   "lead": "File:2015-07 Praha (4).jpg",
-  "coords": null,
+  "coords": [
+   50.09137,
+   14.41838
+  ],
   "hotlink": true,
   "images": [
    {
@@ -216749,7 +219017,7 @@ window.BUILDINGS = [
  },
  {
   "id": "colonnade-bridge-piestany",
-  "n": 2543,
+  "n": 2542,
   "name": "Colonnade Bridge (Kolonádový most)",
   "by": "Emil Belluš",
   "place": "Piešťany, SK",
@@ -216768,7 +219036,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Kolonádový most",
   "lead": "File:Kolonadovy most (2022-02-14).jpg",
-  "coords": null,
+  "coords": [
+   48.58806,
+   17.84017
+  ],
   "hotlink": true,
   "images": [
    {
@@ -216825,7 +219096,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hotel-de-ville-le-havre",
-  "n": 2544,
+  "n": 2543,
   "name": "Hôtel de Ville, Le Havre",
   "by": "Auguste Perret (completed by Jacques Tournant)",
   "place": "Le Havre, FR",
@@ -216844,7 +219115,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Town hall of Le Havre",
   "lead": "File:Hôtel de Ville du Havre (54869965992).jpg",
-  "coords": null,
+  "coords": [
+   49.4935,
+   0.1078
+  ],
   "hotlink": true,
   "images": [
    {
@@ -216877,7 +219151,7 @@ window.BUILDINGS = [
  },
  {
   "id": "muma-le-havre",
-  "n": 2545,
+  "n": 2544,
   "name": "MuMa (Musée d'art moderne André Malraux)",
   "by": "Guy Lagneau, Michel Weill, Jean Dimitrijevic; louvres by Jean Prouvé",
   "place": "Le Havre, FR",
@@ -216896,7 +219170,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Musée des Beaux-Arts André Malraux",
   "lead": "File:MuMA, Le Havre.jpg",
-  "coords": null,
+  "coords": [
+   49.48504,
+   0.10262
+  ],
   "hotlink": true,
   "images": [
    {
@@ -216977,7 +219254,7 @@ window.BUILDINGS = [
  },
  {
   "id": "la-grande-borne",
-  "n": 2546,
+  "n": 2545,
   "name": "La Grande Borne",
   "by": "Émile Aillaud",
   "place": "Grigny, FR",
@@ -216996,7 +219273,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:La Grande Borne",
   "lead": "File:Quartier Grande Borne - Grigny (FR91) - 2026-01-11 - 1.jpg",
-  "coords": null,
+  "coords": [
+   48.6525,
+   2.37556
+  ],
   "hotlink": true,
   "images": [
    {
@@ -217077,7 +219357,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tour-montparnasse",
-  "n": 2547,
+  "n": 2546,
   "name": "Tour Montparnasse",
   "by": "Eugène Beaudouin, Urbain Cassan, Louis de Hoÿm de Marien",
   "place": "Paris, FR",
@@ -217096,7 +219376,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Tour Montparnasse",
   "lead": "File:Tour Montparnasse 20250513.jpg",
-  "coords": null,
+  "coords": [
+   48.84211,
+   2.32198
+  ],
   "hotlink": true,
   "images": [
    {
@@ -217153,7 +219436,7 @@ window.BUILDINGS = [
  },
  {
   "id": "stade-de-france",
-  "n": 2548,
+  "n": 2547,
   "name": "Stade de France",
   "by": "Michel Macary, Aymeric Zublena, Michel Regembal, Claude Constantini",
   "place": "Saint-Denis, FR",
@@ -217172,7 +219455,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Stade de France",
   "lead": "Stade de France tour (48097673993).jpg",
-  "coords": null,
+  "coords": [
+   48.92444,
+   2.36
+  ],
   "hotlink": true,
   "images": [
    {
@@ -217243,7 +219529,7 @@ window.BUILDINGS = [
  },
  {
   "id": "accor-arena-bercy",
-  "n": 2549,
+  "n": 2548,
   "name": "Accor Arena (Palais omnisports de Paris-Bercy)",
   "by": "Andrault & Parat, Jean Prouvé, Aydin Guvan",
   "place": "Paris, FR",
@@ -217262,7 +219548,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Palais omnisports de Paris-Bercy",
   "lead": "File:AccorHotels Arena @ Bercy @ Paris (27157316713).jpg",
-  "coords": null,
+  "coords": [
+   48.8391,
+   2.37949
+  ],
   "hotlink": true,
   "images": [
    {
@@ -217331,7 +219620,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ministere-des-finances-bercy",
-  "n": 2550,
+  "n": 2549,
   "name": "Ministère de l'Économie et des Finances (Bercy)",
   "by": "Paul Chemetov, Borja Huidobro",
   "place": "Paris, FR",
@@ -217350,7 +219639,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Ministère de l'Économie et des Finances",
   "lead": "File:Paris - Ministère de l'Économie et des Finances & Pont de Bercy (23219016895).jpg",
-  "coords": null,
+  "coords": [
+   48.83917,
+   2.37583
+  ],
   "hotlink": true,
   "images": [
    {
@@ -217395,7 +219687,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cite-des-sciences-et-de-l-industrie",
-  "n": 2551,
+  "n": 2550,
   "name": "Cité des Sciences et de l'Industrie",
   "by": "Adrien Fainsilber",
   "place": "Paris, FR",
@@ -217414,7 +219706,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Cité des sciences et de l'industrie",
   "lead": "File:Cité des Sciences et de l'Industrie, La Villette, Paris - France (63392).jpg",
-  "coords": null,
+  "coords": [
+   48.89556,
+   2.38806
+  ],
   "hotlink": true,
   "images": [
    {
@@ -217495,7 +219790,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palais-de-tokyo",
-  "n": 2552,
+  "n": 2551,
   "name": "Palais de Tokyo",
   "by": "André Aubert, Marcel Dastugue, Paul Viard",
   "place": "Paris, FR",
@@ -217514,7 +219809,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Palais de Tokyo",
   "lead": "Palais de Tokyo @ Paris (31028565970).jpg",
-  "coords": null,
+  "coords": [
+   48.86408,
+   2.29713
+  ],
   "hotlink": true,
   "images": [
    {
@@ -217562,7 +219860,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palais-de-chaillot",
-  "n": 2553,
+  "n": 2552,
   "name": "Palais de Chaillot",
   "by": "Louis-Hippolyte Boileau, Jacques Carlu, Léon Azéma",
   "place": "Paris, FR",
@@ -217581,7 +219879,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Palais de Chaillot",
   "lead": "File:Palais de Chaillot from the Jardins du Trocadéro.jpg",
-  "coords": null,
+  "coords": [
+   48.86234,
+   2.28807
+  ],
   "hotlink": true,
   "images": [
    {
@@ -217650,7 +219951,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mobilier-national-paris",
-  "n": 2554,
+  "n": 2553,
   "name": "Mobilier National",
   "by": "Auguste Perret",
   "place": "Paris, FR",
@@ -217669,7 +219970,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Mobilier national",
   "lead": "File:Siège du Mobilier national - rue Berbier-du-Mets - 2024 (01).jpg",
-  "coords": null,
+  "coords": [
+   48.8338,
+   2.35086
+  ],
   "hotlink": true,
   "images": [
    {
@@ -217726,7 +220030,7 @@ window.BUILDINGS = [
  },
  {
   "id": "station-f-halle-freyssinet",
-  "n": 2555,
+  "n": 2554,
   "name": "Station F (Halle Freyssinet)",
   "by": "Eugène Freyssinet (conversion: Wilmotte & Associés)",
   "place": "Paris, FR",
@@ -217745,7 +220049,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Station F",
   "lead": "File:Halle Freyssinet, Paris 13e.jpg",
-  "coords": null,
+  "coords": [
+   48.83449,
+   2.37084
+  ],
   "hotlink": true,
   "images": [
    {
@@ -217814,7 +220121,7 @@ window.BUILDINGS = [
  },
  {
   "id": "passerelle-simone-de-beauvoir",
-  "n": 2556,
+  "n": 2555,
   "name": "Passerelle Simone-de-Beauvoir",
   "by": "Dietmar Feichtinger Architectes",
   "place": "Paris, FR",
@@ -217833,7 +220140,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Passerelle Simone-de-Beauvoir",
   "lead": "File:Passerelle Simone-de-Beauvoir @ Seine @ Paris (28410220012).jpg",
-  "coords": null,
+  "coords": [
+   48.83528,
+   2.378
+  ],
   "hotlink": true,
   "images": [
    {
@@ -217902,7 +220212,7 @@ window.BUILDINGS = [
  },
  {
   "id": "halle-tony-garnier",
-  "n": 2557,
+  "n": 2556,
   "name": "Halle Tony Garnier",
   "by": "Tony Garnier",
   "place": "Lyon, FR",
@@ -217921,7 +220231,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Halle Tony Garnier",
   "lead": "File:Lyon 7e - Halle Tony Garnier, façade sud.jpg",
-  "coords": null,
+  "coords": [
+   45.72984,
+   4.82493
+  ],
   "hotlink": true,
   "images": [
    {
@@ -218002,7 +220315,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hotel-du-departement-bouches-du-rhone",
-  "n": 2558,
+  "n": 2557,
   "name": "Hôtel du Département des Bouches-du-Rhône (Le Grand Bleu)",
   "by": "Will Alsop, Jan Störmer (Alsop & Störmer)",
   "place": "Marseille, FR",
@@ -218021,7 +220334,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Hôtel du Département des Bouches-du-Rhône",
   "lead": "File:Hôtel du département marseille1.jpg",
-  "coords": null,
+  "coords": [
+   43.31502,
+   5.40588
+  ],
   "hotlink": true,
   "images": [
    {
@@ -218066,7 +220382,7 @@ window.BUILDINGS = [
  },
  {
   "id": "usine-claude-et-duval",
-  "n": 2559,
+  "n": 2558,
   "name": "Usine Claude et Duval",
   "by": "Le Corbusier",
   "place": "Saint-Dié-des-Vosges, FR",
@@ -218106,7 +220422,7 @@ window.BUILDINGS = [
  },
  {
   "id": "saint-christophe-de-javel",
-  "n": 2560,
+  "n": 2559,
   "name": "Saint-Christophe de Javel",
   "by": "Charles-Henri Besnard",
   "place": "Paris, FR",
@@ -218125,7 +220441,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Église Saint-Christophe-de-Javel",
   "lead": "File:Église Saint-Christophe-de-Javel.jpg",
-  "coords": null,
+  "coords": [
+   48.84469,
+   2.27933
+  ],
   "hotlink": true,
   "images": [
    {
@@ -218194,7 +220513,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bibliotheque-sainte-genevieve",
-  "n": 2561,
+  "n": 2560,
   "name": "Bibliothèque Sainte-Geneviève",
   "by": "Henri Labrouste",
   "place": "Paris, FR",
@@ -218213,7 +220532,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Bibliothèque Sainte-Geneviève",
   "lead": "File:Paris Bibliothèque Sainte-Geneviève facade.jpg",
-  "coords": null,
+  "coords": [
+   48.84708,
+   2.34583
+  ],
   "hotlink": true,
   "images": [
    {
@@ -218310,7 +220632,7 @@ window.BUILDINGS = [
  },
  {
   "id": "notre-dame-de-toute-grace-assy",
-  "n": 2562,
+  "n": 2561,
   "name": "Notre-Dame-de-Toute-Grâce du Plateau d'Assy",
   "by": "Maurice Novarina",
   "place": "Passy (Plateau d'Assy), FR",
@@ -218329,7 +220651,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Église Notre-Dame-de-Toute-Grâce du plateau d'Assy",
   "lead": "File:Passy Église Notre-Dame-de-Toute-Grace sur Plateau d'Assy Extérieur Clocher 1.jpg",
-  "coords": null,
+  "coords": [
+   45.93944,
+   6.71056
+  ],
   "hotlink": true,
   "images": [
    {
@@ -218386,7 +220711,7 @@ window.BUILDINGS = [
  },
  {
   "id": "viaduc-de-garabit",
-  "n": 2563,
+  "n": 2562,
   "name": "Garabit Viaduct",
   "by": "Gustave Eiffel, Maurice Koechlin",
   "place": "Ruynes-en-Margeride, FR",
@@ -218405,7 +220730,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Viaduc de Garabit",
   "lead": "File:00 0510 Viaduc de Garabit - Département Cantal, Frankreich.jpg",
-  "coords": null,
+  "coords": [
+   44.9754,
+   3.17722
+  ],
   "hotlink": true,
   "images": [
    {
@@ -218500,7 +220828,7 @@ window.BUILDINGS = [
  },
  {
   "id": "le-cent-quatre",
-  "n": 2564,
+  "n": 2563,
   "name": "Le CentQuatre",
   "by": "Édouard Delebarre de Bay and Godon (1874); Atelier Novembre (2008)",
   "place": "Paris, FR",
@@ -218564,7 +220892,7 @@ window.BUILDINGS = [
  },
  {
   "id": "grande-halle-de-la-villette",
-  "n": 2565,
+  "n": 2564,
   "name": "Grande halle de la Villette",
   "by": "Jules de Mérindol, Louis-Adolphe Janvier; Bernard Reichen, Philippe Robert (1985)",
   "place": "Paris, FR",
@@ -218583,7 +220911,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Grande halle de La Villette",
   "lead": "File:Grande halle de la Villette, Paris 12 March 2016 002.jpg",
-  "coords": null,
+  "coords": [
+   48.89083,
+   2.39083
+  ],
   "hotlink": true,
   "images": [
    {
@@ -218664,7 +220995,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hotel-de-ville-boulogne-billancourt",
-  "n": 2566,
+  "n": 2565,
   "name": "Hôtel de Ville de Boulogne-Billancourt",
   "by": "Tony Garnier, Jacques Debat-Ponsan",
   "place": "Boulogne-Billancourt, FR",
@@ -218683,7 +221014,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Hôtel de Ville de Boulogne-Billancourt, Boulogne-Billancourt (RATP bus)",
   "lead": "File:Hôtel Ville Boulogne Billancourt 2.jpg",
-  "coords": null,
+  "coords": [
+   48.83611,
+   2.23878
+  ],
   "hotlink": true,
   "images": [
    {
@@ -218728,7 +221062,7 @@ window.BUILDINGS = [
  },
  {
   "id": "stade-velodrome-marseille",
-  "n": 2567,
+  "n": 2566,
   "name": "Stade Vélodrome",
   "by": "Henri Ploquin; SCAU (2014 roof)",
   "place": "Marseille, FR",
@@ -218747,7 +221081,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Stade Vélodrome",
   "lead": "Stade Vélodrome closeup.jpg",
-  "coords": null,
+  "coords": [
+   43.26924,
+   5.39491
+  ],
   "hotlink": true,
   "images": [
    {
@@ -218794,7 +221131,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bourse-de-commerce-pinault",
-  "n": 2568,
+  "n": 2567,
   "name": "Bourse de Commerce - Pinault Collection",
   "by": "Henri Blondel (1889 rebuild); Tadao Ando (2021 conversion)",
   "place": "Paris, FR",
@@ -218813,7 +221150,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Bourse de Commerce - Pinault Collection",
   "lead": "File:Bourse de commerce de Paris.jpg",
-  "coords": null,
+  "coords": [
+   48.86282,
+   2.34283
+  ],
   "hotlink": true,
   "images": [
    {
@@ -218870,7 +221210,7 @@ window.BUILDINGS = [
  },
  {
   "id": "villa-arson",
-  "n": 2569,
+  "n": 2568,
   "name": "Villa Arson",
   "by": "Michel Marot",
   "place": "Nice, FR",
@@ -218889,7 +221229,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Villa Arson (Nice)",
   "lead": "File:Les terrasses de la villa Arson (Nice) (5954199627).jpg",
-  "coords": null,
+  "coords": [
+   43.721,
+   7.253
+  ],
   "hotlink": true,
   "images": [
    {
@@ -218922,7 +221265,7 @@ window.BUILDINGS = [
  },
  {
   "id": "roma-termini",
-  "n": 2570,
+  "n": 2569,
   "name": "Roma Termini",
   "by": "Leo Calini, Eugenio Montuori",
   "place": "Rome, IT",
@@ -218941,7 +221284,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Roma Termini railway station",
   "lead": "File:1958 Stazione Termini Roma Maurice Luyten.jpg",
-  "coords": null,
+  "coords": [
+   41.90065,
+   12.50175
+  ],
   "hotlink": true,
   "images": [
    {
@@ -219022,7 +221368,7 @@ window.BUILDINGS = [
  },
  {
   "id": "stadio-dei-marmi",
-  "n": 2571,
+  "n": 2570,
   "name": "Stadio dei Marmi",
   "by": "Enrico Del Debbio",
   "place": "Rome, IT",
@@ -219041,7 +221387,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Stadio dei Marmi",
   "lead": "File:Stadio dei Marmi (cropped).jpg",
-  "coords": null,
+  "coords": [
+   41.9337,
+   12.45787
+  ],
   "hotlink": true,
   "images": [
    {
@@ -219074,7 +221423,7 @@ window.BUILDINGS = [
  },
  {
   "id": "santi-pietro-e-paolo-eur",
-  "n": 2572,
+  "n": 2571,
   "name": "Santi Pietro e Paolo, EUR",
   "by": "Arnaldo Foschini",
   "place": "Rome, IT",
@@ -219093,7 +221442,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Santi Pietro e Paolo (Rome)",
   "lead": "File:Santi Petro e Paolo a Via Ostiense, Jul 21.jpg",
-  "coords": null,
+  "coords": [
+   41.83369,
+   12.45928
+  ],
   "hotlink": true,
   "images": [
    {
@@ -219150,7 +221502,7 @@ window.BUILDINGS = [
  },
  {
   "id": "villa-necchi-campiglio",
-  "n": 2573,
+  "n": 2572,
   "name": "Villa Necchi Campiglio",
   "by": "Piero Portaluppi",
   "place": "Milan, IT",
@@ -219169,7 +221521,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Villa Necchi Campiglio (Milan)",
   "lead": "File:Villa Necchi Campiglio 20220818-174847.jpg",
-  "coords": null,
+  "coords": [
+   45.46827,
+   9.20185
+  ],
   "hotlink": true,
   "images": [
    {
@@ -219250,7 +221605,7 @@ window.BUILDINGS = [
  },
  {
   "id": "torre-galfa",
-  "n": 2574,
+  "n": 2573,
   "name": "Torre Galfa",
   "by": "Melchiorre Bega",
   "place": "Milan, IT",
@@ -219269,7 +221624,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Torre Galfa (Milan)",
   "lead": "File:Milano - torre Galfa.jpg",
-  "coords": null,
+  "coords": [
+   45.48639,
+   9.19889
+  ],
   "hotlink": true,
   "images": [
    {
@@ -219350,7 +221708,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palazzo-di-giustizia-milano",
-  "n": 2575,
+  "n": 2574,
   "name": "Palazzo di Giustizia, Milan",
   "by": "Marcello Piacentini",
   "place": "Milan, IT",
@@ -219369,7 +221727,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Palazzo di Giustizia (Milan)",
   "lead": "File:Il Palazzo di Giustizia di Milano, sede del Tribunale, opera di Marcello Piacentini.jpg",
-  "coords": null,
+  "coords": [
+   45.4616,
+   9.20157
+  ],
   "hotlink": true,
   "images": [
    {
@@ -219414,7 +221775,7 @@ window.BUILDINGS = [
  },
  {
   "id": "museo-della-civilta-romana",
-  "n": 2576,
+  "n": 2575,
   "name": "Museo della Civiltà Romana",
   "by": "Pietro Ascheri, Domenico Bernardini, Cesare Pascoletti",
   "place": "Rome, IT",
@@ -219433,7 +221794,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Museo della civiltà romana (Rome)",
   "lead": "File:Roma 2011 08 22 Museo Civiltà Romana colonnato fronte.jpg",
-  "coords": null,
+  "coords": [
+   41.83152,
+   12.47774
+  ],
   "hotlink": true,
   "images": [
    {
@@ -219492,7 +221856,7 @@ window.BUILDINGS = [
  },
  {
   "id": "nuovo-villaggio-matteotti",
-  "n": 2577,
+  "n": 2576,
   "name": "Nuovo Villaggio Matteotti",
   "by": "Giancarlo De Carlo",
   "place": "Terni, IT",
@@ -219511,7 +221875,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Villaggio Matteotti (Terni)",
   "lead": "File:Villaggio Matteotti (Terni) 01.jpg",
-  "coords": null,
+  "coords": [
+   42.54764,
+   12.65856
+  ],
   "hotlink": true,
   "images": [
    {
@@ -219556,7 +221923,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lingotto",
-  "n": 2578,
+  "n": 2577,
   "name": "Lingotto",
   "by": "Giacomo Matté-Trucco",
   "place": "Turin, IT",
@@ -219608,7 +221975,7 @@ window.BUILDINGS = [
  },
  {
   "id": "santa-maria-consolatrice-al-tiburtino",
-  "n": 2579,
+  "n": 2578,
   "name": "Santa Maria Consolatrice al Tiburtino",
   "by": "Tullio Rossi",
   "place": "Rome, IT",
@@ -219627,7 +221994,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Santa Maria Consolatrice (Rome)",
   "lead": "File:Roma, chiesa di Santa Maria Consolatrice - Facciata.jpg",
-  "coords": null,
+  "coords": [
+   41.89752,
+   12.53515
+  ],
   "hotlink": true,
   "images": [
    {
@@ -219672,7 +222042,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sacrario-militare-di-redipuglia",
-  "n": 2580,
+  "n": 2579,
   "name": "Sacrario Militare di Redipuglia",
   "by": "Giovanni Greppi",
   "place": "Redipuglia (Fogliano Redipuglia), IT",
@@ -219691,7 +222061,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Sacrario Militare di Redipuglia (Fogliano Redipuglia)",
   "lead": "File:Sacrario militare di Redipuglia 01.jpg",
-  "coords": null,
+  "coords": [
+   45.85167,
+   13.48972
+  ],
   "hotlink": true,
   "images": [
    {
@@ -219736,7 +222109,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palazzo-della-farnesina",
-  "n": 2581,
+  "n": 2580,
   "name": "Palazzo della Farnesina",
   "by": "Enrico Del Debbio, Arnaldo Foschini, Vittorio Ballio Morpurgo",
   "place": "Rome, IT",
@@ -219755,7 +222128,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Palazzo della Farnesina (Rome)",
   "lead": "File:Palazzo della Farnesina.jpg",
-  "coords": null,
+  "coords": [
+   41.93685,
+   12.45842
+  ],
   "hotlink": true,
   "images": [
    {
@@ -219800,7 +222176,7 @@ window.BUILDINGS = [
  },
  {
   "id": "stadio-renato-dall-ara",
-  "n": 2582,
+  "n": 2581,
   "name": "Stadio Renato Dall'Ara",
   "by": "Giulio Ulisse Arata",
   "place": "Bologna, IT",
@@ -219819,7 +222195,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Stadio Renato Dall'Ara",
   "lead": "Stadio Renato Dall'Ara 2019.jpg",
-  "coords": null,
+  "coords": [
+   44.4922,
+   11.3098
+  ],
   "hotlink": true,
   "images": [
    {
@@ -219864,7 +222243,7 @@ window.BUILDINGS = [
  },
  {
   "id": "stazione-di-venezia-santa-lucia",
-  "n": 2583,
+  "n": 2582,
   "name": "Stazione di Venezia Santa Lucia",
   "by": "Angiolo Mazzoni, Virgilio Vallot, Paul Perilli",
   "place": "Venice, IT",
@@ -219883,7 +222262,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Venezia Santa Lucia train station",
   "lead": "File:Stazione di Venezia Santa Lucia 2024.jpg",
-  "coords": null,
+  "coords": [
+   45.44098,
+   12.32104
+  ],
   "hotlink": true,
   "images": [
    {
@@ -219964,7 +222346,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palazzo-del-cinema-venezia",
-  "n": 2584,
+  "n": 2583,
   "name": "Palazzo del Cinema, Venice Lido",
   "by": "Luigi Quagliata",
   "place": "Venice, IT",
@@ -219983,7 +222365,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Palazzo del Cinema (Lido di Venezia)",
   "lead": "File:Palazzo del Cinema (Lido di Venezia) 01.jpg",
-  "coords": null,
+  "coords": [
+   45.4058,
+   12.3671
+  ],
   "hotlink": true,
   "images": [
    {
@@ -220040,7 +222425,7 @@ window.BUILDINGS = [
  },
  {
   "id": "fondazione-querini-stampalia",
-  "n": 2585,
+  "n": 2584,
   "name": "Fondazione Querini Stampalia (Scarpa ground floor and garden)",
   "by": "Carlo Scarpa",
   "place": "Venice, IT",
@@ -220059,7 +222444,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Pinacoteca Querini Stampalia (Venice)",
   "lead": "File:Palazzo querini stampalia, piano terra e giardino di carlo scarpa 01.jpg",
-  "coords": null,
+  "coords": [
+   45.43628,
+   12.34107
+  ],
   "hotlink": true,
   "images": [
    {
@@ -220092,7 +222480,7 @@ window.BUILDINGS = [
  },
  {
   "id": "venezuela-pavilion-venice",
-  "n": 2586,
+  "n": 2585,
   "name": "Venezuela Pavilion, Venice Biennale",
   "by": "Carlo Scarpa",
   "place": "Venice, IT",
@@ -220111,7 +222499,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Venice Biennale",
   "lead": "File:Le pavillon du Vénézuela (Biennale de Venise 2019) (48094271267).jpg",
-  "coords": null,
+  "coords": [
+   45.42889,
+   12.35861
+  ],
   "hotlink": true,
   "images": [
    {
@@ -220156,7 +222547,7 @@ window.BUILDINGS = [
  },
  {
   "id": "stazione-di-milano-centrale",
-  "n": 2587,
+  "n": 2586,
   "name": "Milano Centrale",
   "by": "Ulisse Stacchini",
   "place": "Milan, IT",
@@ -220175,7 +222566,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Milano Centrale train station",
   "lead": "File:Facciata della Stazione Centrale di Milano nel 2016.jpg",
-  "coords": null,
+  "coords": [
+   45.48566,
+   9.20399
+  ],
   "hotlink": true,
   "images": [
    {
@@ -220256,7 +222650,7 @@ window.BUILDINGS = [
  },
  {
   "id": "stadio-olimpico-roma",
-  "n": 2588,
+  "n": 2587,
   "name": "Stadio Olimpico",
   "by": "Luigi Moretti, Carlo Valle, Annibale Vitellozzi",
   "place": "Rome, IT",
@@ -220275,7 +222669,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Stadio Olimpico (Rome)",
   "lead": "File:Stadio Olimpico 2024.jpg",
-  "coords": null,
+  "coords": [
+   41.93389,
+   12.45472
+  ],
   "hotlink": true,
   "images": [
    {
@@ -220356,7 +222753,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mediopadana-station",
-  "n": 2589,
+  "n": 2588,
   "name": "Reggio Emilia AV Mediopadana station",
   "by": "Santiago Calatrava",
   "place": "Reggio Emilia, IT",
@@ -220375,7 +222772,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Reggio Emilia AV Mediopadana train station",
   "lead": "File:Reggio Emilia AV Mediopadana railway station in 2026.12.jpg",
-  "coords": null,
+  "coords": [
+   44.72437,
+   10.65519
+  ],
   "hotlink": true,
   "images": [
    {
@@ -220444,7 +222844,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ponte-della-costituzione",
-  "n": 2590,
+  "n": 2589,
   "name": "Ponte della Costituzione",
   "by": "Santiago Calatrava",
   "place": "Venice, IT",
@@ -220463,7 +222863,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Ponte della Costituzione",
   "lead": "File:Ponte della Costituzione 06 2017 2606.jpg",
-  "coords": null,
+  "coords": [
+   45.43889,
+   12.31944
+  ],
   "hotlink": true,
   "images": [
    {
@@ -220544,7 +222947,7 @@ window.BUILDINGS = [
  },
  {
   "id": "roma-tiburtina-station",
-  "n": 2591,
+  "n": 2590,
   "name": "Roma Tiburtina station",
   "by": "Paolo Desideri",
   "place": "Rome, IT",
@@ -220563,7 +222966,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Roma Tiburtina train station",
   "lead": "File:2013-06-15 Roma Stazione FS Tiburtina.jpg",
-  "coords": null,
+  "coords": [
+   41.91028,
+   12.53083
+  ],
   "hotlink": true,
   "images": [
    {
@@ -220620,7 +223026,7 @@ window.BUILDINGS = [
  },
  {
   "id": "intesa-sanpaolo-skyscraper",
-  "n": 2592,
+  "n": 2591,
   "name": "Intesa Sanpaolo Skyscraper",
   "by": "Renzo Piano",
   "place": "Turin, IT",
@@ -220639,7 +223045,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Intesa Sanpaolo Building",
   "lead": "File:Grattacielo Intesa Sanpaolo Torino.jpg",
-  "coords": null,
+  "coords": [
+   45.06951,
+   7.6628
+  ],
   "hotlink": true,
   "images": [
    {
@@ -220696,7 +223105,7 @@ window.BUILDINGS = [
  },
  {
   "id": "napoli-afragola-station",
-  "n": 2593,
+  "n": 2592,
   "name": "Napoli Afragola station",
   "by": "Zaha Hadid",
   "place": "Afragola, IT",
@@ -220715,7 +223124,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Napoli Afragola train station",
   "lead": "File:Stazione alta velocita, Zaha Hadid, Napoli Afragola.jpg",
-  "coords": null,
+  "coords": [
+   40.93139,
+   14.33111
+  ],
   "hotlink": true,
   "images": [
    {
@@ -220748,7 +223160,7 @@ window.BUILDINGS = [
  },
  {
   "id": "museion-bolzano",
-  "n": 2594,
+  "n": 2593,
   "name": "Museion",
   "by": "KSV Krüger Schuberth Vandreike",
   "place": "Bolzano, IT",
@@ -220767,7 +223179,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Museion (Bolzano)",
   "lead": "File:Museion - Lato Talvera (1).jpg",
-  "coords": null,
+  "coords": [
+   46.49736,
+   11.34843
+  ],
   "hotlink": true,
   "images": [
    {
@@ -220824,7 +223239,7 @@ window.BUILDINGS = [
  },
  {
   "id": "allianz-tower-milan",
-  "n": 2595,
+  "n": 2594,
   "name": "Allianz Tower (Il Dritto)",
   "by": "Arata Isozaki, Andrea Maffei",
   "place": "Milan, IT",
@@ -220843,7 +223258,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Allianz Tower",
   "lead": "File:Torre Isozaki Milano.jpg",
-  "coords": null,
+  "coords": [
+   45.47761,
+   9.15729
+  ],
   "hotlink": true,
   "images": [
    {
@@ -220888,7 +223306,7 @@ window.BUILDINGS = [
  },
  {
   "id": "centro-direzionale-napoli",
-  "n": 2596,
+  "n": 2595,
   "name": "Centro Direzionale di Napoli",
   "by": "Kenzo Tange",
   "place": "Naples, IT",
@@ -220907,7 +223325,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Centro direzionale (Naples)",
   "lead": "File:Centro Direzionale di Napoli.jpg",
-  "coords": null,
+  "coords": [
+   40.8577,
+   14.2816
+  ],
   "hotlink": true,
   "images": [
    {
@@ -220964,7 +223385,7 @@ window.BUILDINGS = [
  },
  {
   "id": "madre-museum-naples",
-  "n": 2597,
+  "n": 2596,
   "name": "MADRE Museum",
   "by": "Álvaro Siza",
   "place": "Naples, IT",
@@ -220983,7 +223404,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Museo d'arte contemporanea Donnaregina (Naples)",
   "lead": "File:Museo Madre,.jpg",
-  "coords": null,
+  "coords": [
+   40.85486,
+   14.25867
+  ],
   "hotlink": true,
   "images": [
    {
@@ -221040,7 +223464,7 @@ window.BUILDINGS = [
  },
  {
   "id": "aquarium-of-genoa",
-  "n": 2598,
+  "n": 2597,
   "name": "Aquarium of Genoa",
   "by": "Renzo Piano",
   "place": "Genoa, IT",
@@ -221059,7 +223483,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Aquarium of Genoa",
   "lead": "File:Aquarium of Genoa in 2021.01.jpg",
-  "coords": null,
+  "coords": [
+   44.41019,
+   8.92651
+  ],
   "hotlink": true,
   "images": [
    {
@@ -221104,7 +223531,7 @@ window.BUILDINGS = [
  },
  {
   "id": "biosphere-genoa",
-  "n": 2599,
+  "n": 2598,
   "name": "Biosphere (Bigo)",
   "by": "Renzo Piano",
   "place": "Genoa, IT",
@@ -221123,7 +223550,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Biosphere of Genoa",
   "lead": "File:Genova Porto Antico Biosfera e Acquario 01.jpg",
-  "coords": null,
+  "coords": [
+   44.40984,
+   8.92549
+  ],
   "hotlink": true,
   "images": [
    {
@@ -221156,7 +223586,7 @@ window.BUILDINGS = [
  },
  {
   "id": "teatro-degli-arcimboldi",
-  "n": 2600,
+  "n": 2599,
   "name": "Teatro degli Arcimboldi",
   "by": "Vittorio Gregotti",
   "place": "Milan, IT",
@@ -221175,7 +223605,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Teatro degli Arcimboldi",
   "lead": "File:Teatro degli Arcimboldi esterno.jpg",
-  "coords": null,
+  "coords": [
+   45.5143,
+   9.21393
+  ],
   "hotlink": true,
   "images": [
    {
@@ -221208,7 +223641,7 @@ window.BUILDINGS = [
  },
  {
   "id": "casino-di-campione",
-  "n": 2601,
+  "n": 2600,
   "name": "Casinò di Campione",
   "by": "Mario Botta",
   "place": "Campione d'Italia, IT",
@@ -221227,7 +223660,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Casinò di Campione",
   "lead": "File:Casinò di Campione d'Italia 2.jpg",
-  "coords": null,
+  "coords": [
+   45.97082,
+   8.97164
+  ],
   "hotlink": true,
   "images": [
    {
@@ -221284,7 +223720,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palasport-olimpico-turin",
-  "n": 2602,
+  "n": 2601,
   "name": "Palasport Olimpico (Pala Alpitour)",
   "by": "Arata Isozaki",
   "place": "Turin, IT",
@@ -221303,7 +223739,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Palasport Olimpico (Turin)",
   "lead": "Piazzale Grande Torino, Turin, Italy.jpg",
-  "coords": null,
+  "coords": [
+   45.04167,
+   7.65222
+  ],
   "hotlink": true,
   "images": [
    {
@@ -221360,7 +223799,7 @@ window.BUILDINGS = [
  },
  {
   "id": "centro-pecci-prato",
-  "n": 2603,
+  "n": 2602,
   "name": "Centro per l'arte contemporanea Luigi Pecci",
   "by": "Italo Gamberini, Maurice Nio",
   "place": "Prato, IT",
@@ -221379,7 +223818,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Centro per l'Arte Contemporanea Luigi Pecci",
   "lead": "File:Architettura esterna.jpg",
-  "coords": null,
+  "coords": [
+   43.86103,
+   11.10893
+  ],
   "hotlink": true,
   "images": [
    {
@@ -221460,7 +223902,7 @@ window.BUILDINGS = [
  },
  {
   "id": "20-fenchurch-street",
-  "n": 2604,
+  "n": 2603,
   "name": "20 Fenchurch Street",
   "by": "Rafael Viñoly",
   "place": "London, GB",
@@ -221479,7 +223921,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:20 Fenchurch Street, London",
   "lead": "File:20 Fenchurch St (Walkie-Talkie building) from Rood Ln, London, UK - Diliff.jpg",
-  "coords": null,
+  "coords": [
+   51.51128,
+   -0.08353
+  ],
   "hotlink": true,
   "images": [
    {
@@ -221574,7 +224019,7 @@ window.BUILDINGS = [
  },
  {
   "id": "denys-wilkinson-building",
-  "n": 2605,
+  "n": 2604,
   "name": "Denys Wilkinson Building",
   "by": "Philip Dowson (Arup)",
   "place": "Oxford, GB",
@@ -221593,7 +224038,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Denys Wilkinson Building",
   "lead": "File:Denys Wilkinson Building - geograph.org.uk - 8240272.jpg",
-  "coords": null,
+  "coords": [
+   51.7596,
+   -1.2596
+  ],
   "hotlink": true,
   "images": [
    {
@@ -221662,7 +224110,7 @@ window.BUILDINGS = [
  },
  {
   "id": "renold-building",
-  "n": 2606,
+  "n": 2605,
   "name": "Renold Building",
   "by": "W. A. Gibbon (Cruickshank and Seward)",
   "place": "Manchester, GB",
@@ -221681,7 +224129,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Renold Building",
   "lead": "File:Renold Building.jpg",
-  "coords": null,
+  "coords": [
+   53.47482,
+   -2.23359
+  ],
   "hotlink": true,
   "images": [
    {
@@ -221738,7 +224189,7 @@ window.BUILDINGS = [
  },
  {
   "id": "battersea-power-station",
-  "n": 2607,
+  "n": 2606,
   "name": "Battersea Power Station",
   "by": "J. Theo Halliday and Giles Gilbert Scott",
   "place": "London, GB",
@@ -221757,7 +224208,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Battersea Power Station",
   "lead": "File:Battersea Power Station 2025-05-22.jpg",
-  "coords": null,
+  "coords": [
+   51.4811,
+   -0.14444
+  ],
   "hotlink": true,
   "images": [
    {
@@ -221826,7 +224280,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kensal-house",
-  "n": 2608,
+  "n": 2607,
   "name": "Kensal House",
   "by": "Maxwell Fry",
   "place": "London, GB",
@@ -221845,7 +224299,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Kensal House, Ladbroke Grove",
   "lead": "File:Kensal House, Ladbroke Grove (geograph 4854156).jpg",
-  "coords": null,
+  "coords": [
+   51.525,
+   -0.21524
+  ],
   "hotlink": true,
   "images": [
    {
@@ -221878,7 +224335,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kings-cross-station",
-  "n": 2609,
+  "n": 2608,
   "name": "King's Cross station",
   "by": "Lewis Cubitt; John McAslan (2012 concourse)",
   "place": "London, GB",
@@ -221897,7 +224354,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:London King's Cross railway station",
   "lead": "File:London King's Cross Railway Station (NHLE Code 1078328) (April 2016) (1).jpg",
-  "coords": null,
+  "coords": [
+   51.53097,
+   -0.12333
+  ],
   "hotlink": true,
   "images": [
    {
@@ -221978,7 +224438,7 @@ window.BUILDINGS = [
  },
  {
   "id": "jubilee-pool-penzance",
-  "n": 2610,
+  "n": 2609,
   "name": "Jubilee Pool",
   "by": "Frank Latham",
   "place": "Penzance, GB",
@@ -221997,7 +224457,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Jubilee Pool",
   "lead": "File:Jubilee Pool - general view from N.jpg",
-  "coords": null,
+  "coords": [
+   50.11477,
+   -5.53144
+  ],
   "hotlink": true,
   "images": [
    {
@@ -222054,7 +224517,7 @@ window.BUILDINGS = [
  },
  {
   "id": "st-catherines-college-oxford",
-  "n": 2611,
+  "n": 2610,
   "name": "St Catherine's College, Oxford",
   "by": "Arne Jacobsen",
   "place": "Oxford, GB",
@@ -222073,7 +224536,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:St Catherine's College, Oxford",
   "lead": "File:St Catherine's College - geograph.org.uk - 7499133.jpg",
-  "coords": null,
+  "coords": [
+   51.7559,
+   -1.2442
+  ],
   "hotlink": true,
   "images": [
    {
@@ -222142,7 +224608,7 @@ window.BUILDINGS = [
  },
  {
   "id": "robinson-college-cambridge",
-  "n": 2612,
+  "n": 2611,
   "name": "Robinson College",
   "by": "Andy MacMillan and Isi Metzstein (Gillespie, Kidd & Coia)",
   "place": "Cambridge, GB",
@@ -222161,7 +224627,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Robinson College, Cambridge",
   "lead": "File:Robinson College - geograph.org.uk - 5613517.jpg",
-  "coords": null,
+  "coords": [
+   52.20472,
+   0.10528
+  ],
   "hotlink": true,
   "images": [
    {
@@ -222218,7 +224687,7 @@ window.BUILDINGS = [
  },
  {
   "id": "dudley-zoo",
-  "n": 2613,
+  "n": 2612,
   "name": "Dudley Zoo",
   "by": "Berthold Lubetkin and Tecton (engineer Ove Arup)",
   "place": "Dudley, GB",
@@ -222237,7 +224706,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Dudley Zoo",
   "lead": "File:Dudley Zoo, West Midlands, England-8March2011 (1).jpg",
-  "coords": null,
+  "coords": [
+   52.51394,
+   -2.07713
+  ],
   "hotlink": true,
   "images": [
    {
@@ -222306,7 +224778,7 @@ window.BUILDINGS = [
  },
  {
   "id": "pallant-house-gallery",
-  "n": 2614,
+  "n": 2613,
   "name": "Pallant House Gallery",
   "by": "Colin St John Wilson and MJ Long (2006 extension)",
   "place": "Chichester, GB",
@@ -222325,7 +224797,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Pallant House Gallery",
   "lead": "File:Pallant House Gallery, Chichester 2 - 53995775682.jpg",
-  "coords": null,
+  "coords": [
+   50.8351,
+   -0.7778
+  ],
   "hotlink": true,
   "images": [
    {
@@ -222394,7 +224869,7 @@ window.BUILDINGS = [
  },
  {
   "id": "the-whitworth",
-  "n": 2615,
+  "n": 2614,
   "name": "The Whitworth",
   "by": "MUMA (2015 extension); J. W. Beaumont (original)",
   "place": "Manchester, GB",
@@ -222413,7 +224888,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Whitworth Art Gallery",
   "lead": "File:The Whitworth Art Gallery in Manchester - 50140147328.jpg",
-  "coords": null,
+  "coords": [
+   53.4603,
+   -2.22944
+  ],
   "hotlink": true,
   "images": [
    {
@@ -222494,7 +224972,7 @@ window.BUILDINGS = [
  },
  {
   "id": "embassy-of-denmark-london",
-  "n": 2616,
+  "n": 2615,
   "name": "Embassy of Denmark, London",
   "by": "Arne Jacobsen (completed by Dissing+Weitling)",
   "place": "London, GB",
@@ -222513,7 +224991,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Danish Embassy building in London",
   "lead": "File:Danish Embassy, London.jpg",
-  "coords": null,
+  "coords": [
+   51.4978,
+   -0.1594
+  ],
   "hotlink": true,
   "images": [
    {
@@ -222570,7 +225051,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palm-house-kew-gardens",
-  "n": 2617,
+  "n": 2616,
   "name": "Palm House, Kew Gardens",
   "by": "Decimus Burton and Richard Turner",
   "place": "London, GB",
@@ -222589,7 +225070,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Kew Gardens Palm House",
   "lead": "File:1262670 I THE PALM HOUSE, ROYAL BOTANIC GARDENS KEW, KEW GREEN, RICHMOND UPON THAMES, TW9 3AB London 20250618 0001.jpg",
-  "coords": null,
+  "coords": [
+   51.47917,
+   -0.29278
+  ],
   "hotlink": true,
   "images": [
    {
@@ -222634,7 +225118,7 @@ window.BUILDINGS = [
  },
  {
   "id": "royal-pavilion-brighton",
-  "n": 2618,
+  "n": 2617,
   "name": "Royal Pavilion",
   "by": "John Nash",
   "place": "Brighton, GB",
@@ -222653,7 +225137,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Royal Pavilion, Brighton",
   "lead": "File:Royal Pavilion, Brighton (General View from East) (March 2022).jpg",
-  "coords": null,
+  "coords": [
+   50.82236,
+   -0.13772
+  ],
   "hotlink": true,
   "images": [
    {
@@ -222748,7 +225235,7 @@ window.BUILDINGS = [
  },
  {
   "id": "scottish-poetry-library",
-  "n": 2619,
+  "n": 2618,
   "name": "Scottish Poetry Library",
   "by": "Malcolm Fraser Architects",
   "place": "Edinburgh, GB",
@@ -222767,7 +225254,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Scottish Poetry Library",
   "lead": "File:Scottish Poetry Library - geograph.org.uk - 7990145.jpg",
-  "coords": null,
+  "coords": [
+   55.9514,
+   -3.1781
+  ],
   "hotlink": true,
   "images": [
    {
@@ -222812,7 +225302,7 @@ window.BUILDINGS = [
  },
  {
   "id": "broadcasting-house-cardiff",
-  "n": 2620,
+  "n": 2619,
   "name": "Broadcasting House, Cardiff",
   "by": "Dale Owen",
   "place": "Cardiff, GB",
@@ -222831,7 +225321,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Broadcasting House, Cardiff",
   "lead": "File:Broadcasting House, Cardiff.jpg",
-  "coords": null,
+  "coords": [
+   51.4976,
+   -3.2273
+  ],
   "hotlink": true,
   "images": [
    {
@@ -222888,7 +225381,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hugh-owen-library",
-  "n": 2621,
+  "n": 2620,
   "name": "Hugh Owen Library",
   "by": "Dale Owen (Sir Percy Thomas and Son)",
   "place": "Aberystwyth, GB",
@@ -222928,7 +225421,7 @@ window.BUILDINGS = [
  },
  {
   "id": "st-davids-hall-cardiff",
-  "n": 2622,
+  "n": 2621,
   "name": "St David's Hall",
   "by": "Seymour Harris Partnership",
   "place": "Cardiff, GB",
@@ -222947,7 +225440,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:St David's Hall",
   "lead": "File:St David's Hall (geograph 7470493).jpg",
-  "coords": null,
+  "coords": [
+   51.4803,
+   -3.17667
+  ],
   "hotlink": true,
   "images": [
    {
@@ -223004,7 +225500,7 @@ window.BUILDINGS = [
  },
  {
   "id": "central-bank-of-ireland-dublin",
-  "n": 2623,
+  "n": 2622,
   "name": "Central Bank of Ireland, Dame Street",
   "by": "Sam Stephenson (Stephenson Gibney & Associates)",
   "place": "Dublin, IE",
@@ -223023,7 +225519,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Central Plaza, Dublin",
   "lead": "File:Central Bank of Ireland.JPG",
-  "coords": null,
+  "coords": [
+   53.34408,
+   -6.26291
+  ],
   "hotlink": true,
   "images": [
    {
@@ -223056,7 +225555,7 @@ window.BUILDINGS = [
  },
  {
   "id": "spire-of-dublin",
-  "n": 2624,
+  "n": 2623,
   "name": "Spire of Dublin",
   "by": "Ian Ritchie Architects",
   "place": "Dublin, IE",
@@ -223075,7 +225574,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:The Spire of Dublin",
   "lead": "File:Dublin Spire of Dublin 1.jpg",
-  "coords": null,
+  "coords": [
+   53.34972,
+   -6.26028
+  ],
   "hotlink": true,
   "images": [
    {
@@ -223120,7 +225622,7 @@ window.BUILDINGS = [
  },
  {
   "id": "custom-house-dublin",
-  "n": 2625,
+  "n": 2624,
   "name": "The Custom House",
   "by": "James Gandon",
   "place": "Dublin, IE",
@@ -223139,7 +225641,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Dublin Custom House",
   "lead": "File:Custom House CF.jpg",
-  "coords": null,
+  "coords": [
+   53.34854,
+   -6.25315
+  ],
   "hotlink": true,
   "images": [
    {
@@ -223220,7 +225725,7 @@ window.BUILDINGS = [
  },
  {
   "id": "central-hall-university-of-york",
-  "n": 2626,
+  "n": 2625,
   "name": "Central Hall, University of York",
   "by": "Robert Matthew, Johnson-Marshall & Partners (design by John Speight)",
   "place": "York, GB",
@@ -223239,7 +225744,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Central Hall, University of York",
   "lead": "Central Hall, York - DSC 1530.jpg",
-  "coords": null,
+  "coords": [
+   53.94702,
+   -1.05295
+  ],
   "hotlink": true,
   "images": [
    {
@@ -223296,7 +225804,7 @@ window.BUILDINGS = [
  },
  {
   "id": "golden-lane-estate",
-  "n": 2627,
+  "n": 2626,
   "name": "Golden Lane Estate",
   "by": "Chamberlin, Powell and Bon",
   "place": "London, GB",
@@ -223315,7 +225823,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Golden Lane Estate",
   "lead": "File:Golden Lane Estate 2025-06-19.jpg",
-  "coords": null,
+  "coords": [
+   51.5223,
+   -0.0956
+  ],
   "hotlink": true,
   "images": [
    {
@@ -223372,7 +225883,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bevin-court",
-  "n": 2628,
+  "n": 2627,
   "name": "Bevin Court",
   "by": "Berthold Lubetkin (Tecton); completed with Francis Skinner and Douglas Carr Bailey",
   "place": "London, GB",
@@ -223391,7 +225902,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Bevin Court",
   "lead": "File:Bevin exterior.JPG",
-  "coords": null,
+  "coords": [
+   51.5304,
+   -0.1131
+  ],
   "hotlink": true,
   "images": [
    {
@@ -223472,7 +225986,7 @@ window.BUILDINGS = [
  },
  {
   "id": "us-embassy-london-nine-elms",
-  "n": 2629,
+  "n": 2628,
   "name": "Embassy of the United States, London (Nine Elms)",
   "by": "KieranTimberlake",
   "place": "London, GB",
@@ -223524,7 +226038,7 @@ window.BUILDINGS = [
  },
  {
   "id": "southwark-tube-station",
-  "n": 2630,
+  "n": 2629,
   "name": "Southwark tube station",
   "by": "Richard MacCormac (MacCormac Jamieson Prichard)",
   "place": "London, GB",
@@ -223543,7 +226057,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Southwark tube station",
   "lead": "File:Southwark tube station 2026-05-14.jpg",
-  "coords": null,
+  "coords": [
+   51.50389,
+   -0.105
+  ],
   "hotlink": true,
   "images": [
    {
@@ -223624,7 +226141,7 @@ window.BUILDINGS = [
  },
  {
   "id": "senate-house-london",
-  "n": 2631,
+  "n": 2630,
   "name": "Senate House, London",
   "by": "Charles Holden",
   "place": "London, GB",
@@ -223643,7 +226160,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Senate House, University of London",
   "lead": "File:Exterior of Senate House IMG 1211.JPG",
-  "coords": null,
+  "coords": [
+   51.521,
+   -0.1287
+  ],
   "hotlink": true,
   "images": [
    {
@@ -223691,7 +226211,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kettles-yard",
-  "n": 2632,
+  "n": 2631,
   "name": "Kettle's Yard",
   "by": "Leslie Martin (1970 extension); Jamie Fobert (2018)",
   "place": "Cambridge, GB",
@@ -223710,7 +226230,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Kettle's Yard",
   "lead": "Castle Street, Cambridge. - geograph.org.uk - 5905322.jpg",
-  "coords": null,
+  "coords": [
+   52.21085,
+   0.11464
+  ],
   "hotlink": true,
   "images": [
    {
@@ -223779,7 +226302,7 @@ window.BUILDINGS = [
  },
  {
   "id": "surbiton-railway-station",
-  "n": 2633,
+  "n": 2632,
   "name": "Surbiton railway station",
   "by": "James Robb Scott (Southern Railway)",
   "place": "London, GB",
@@ -223798,7 +226321,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Surbiton railway station",
   "lead": "File:2018 at Surbiton station - the main buildings.JPG",
-  "coords": null,
+  "coords": [
+   51.3926,
+   -0.3044
+  ],
   "hotlink": true,
   "images": [
    {
@@ -223867,7 +226393,7 @@ window.BUILDINGS = [
  },
  {
   "id": "liverpool-cathedral",
-  "n": 2634,
+  "n": 2633,
   "name": "Liverpool Cathedral",
   "by": "Giles Gilbert Scott (completed by Frederick Thomas)",
   "place": "Liverpool, GB",
@@ -223886,7 +226412,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Liverpool Anglican Cathedral",
   "lead": "File:Cathedral Church of Christ in Liverpool September 2014.JPG",
-  "coords": null,
+  "coords": [
+   53.39751,
+   -2.97305
+  ],
   "hotlink": true,
   "images": [
    {
@@ -223957,7 +226486,7 @@ window.BUILDINGS = [
  },
  {
   "id": "portmeirion",
-  "n": 2635,
+  "n": 2634,
   "name": "Portmeirion",
   "by": "Clough Williams-Ellis",
   "place": "Penrhyndeudraeth, GB",
@@ -223976,7 +226505,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Portmeirion",
   "lead": "File:A corner of Portmeirion, Wales (49798996653).jpg",
-  "coords": null,
+  "coords": [
+   52.91306,
+   -4.09917
+  ],
   "hotlink": true,
   "images": [
    {
@@ -224009,7 +226541,7 @@ window.BUILDINGS = [
  },
  {
   "id": "blenheim-palace",
-  "n": 2636,
+  "n": 2635,
   "name": "Blenheim Palace",
   "by": "John Vanbrugh (assisted by Nicholas Hawksmoor)",
   "place": "Woodstock, GB",
@@ -224028,7 +226560,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Blenheim Palace",
   "lead": "File:An exercise in English Baroque - geograph.org.uk - 2334872.jpg",
-  "coords": null,
+  "coords": [
+   51.84136,
+   -1.36095
+  ],
   "hotlink": true,
   "images": [
    {
@@ -224123,7 +226658,7 @@ window.BUILDINGS = [
  },
  {
   "id": "st-pancras-railway-station",
-  "n": 2637,
+  "n": 2636,
   "name": "St Pancras railway station",
   "by": "William Henry Barlow (train shed)",
   "place": "London, GB",
@@ -224142,7 +226677,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:St Pancras railway station",
   "lead": "File:2018-04-25 St Pancras railway station.jpg",
-  "coords": null,
+  "coords": [
+   51.53,
+   -0.12528
+  ],
   "hotlink": true,
   "images": [
    {
@@ -224223,7 +226761,7 @@ window.BUILDINGS = [
  },
  {
   "id": "castell-coch",
-  "n": 2638,
+  "n": 2637,
   "name": "Castell Coch",
   "by": "William Burges (completed by Richard Pullan)",
   "place": "Cardiff, GB",
@@ -224242,7 +226780,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Castell Coch, Cardiff",
   "lead": "File:Castell Coch (4547).jpg",
-  "coords": null,
+  "coords": [
+   51.53583,
+   -3.25472
+  ],
   "hotlink": true,
   "images": [
    {
@@ -224313,7 +226854,7 @@ window.BUILDINGS = [
  },
  {
   "id": "livingstone-tower-glasgow",
-  "n": 2639,
+  "n": 2638,
   "name": "Livingstone Tower",
   "by": "Covell, Matthews & Partners",
   "place": "Glasgow, GB",
@@ -224332,7 +226873,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Livingstone Tower, Glasgow",
   "lead": "File:Livingstone tower 2024, north view.jpg",
-  "coords": null,
+  "coords": [
+   55.8612,
+   -4.24346
+  ],
   "hotlink": true,
   "images": [
    {
@@ -224389,7 +226933,7 @@ window.BUILDINGS = [
  },
  {
   "id": "scottish-storytelling-centre",
-  "n": 2640,
+  "n": 2639,
   "name": "Scottish Storytelling Centre",
   "by": "Malcolm Fraser Architects",
   "place": "Edinburgh, GB",
@@ -224408,7 +226952,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Scottish Storytelling Centre",
   "lead": "File:Scottish-Storytelling-Centre 2014-07-17~ MG 0036.jpg",
-  "coords": null,
+  "coords": [
+   55.9508,
+   -3.18472
+  ],
   "hotlink": true,
   "images": [
    {
@@ -224429,7 +226976,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lyric-theatre-belfast",
-  "n": 2641,
+  "n": 2640,
   "name": "Lyric Theatre, Belfast",
   "by": "O'Donnell & Tuomey",
   "place": "Belfast, GB",
@@ -224448,7 +226995,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Lyric Theatre, Belfast",
   "lead": "File:The Lyric Theatre - geograph.org.uk - 3522487.jpg",
-  "coords": null,
+  "coords": [
+   54.579,
+   -5.934
+  ],
   "hotlink": true,
   "images": [
    {
@@ -224469,7 +227019,7 @@ window.BUILDINGS = [
  },
  {
   "id": "swansea-civic-centre",
-  "n": 2642,
+  "n": 2641,
   "name": "Swansea Civic Centre",
   "by": "C. W. Quick (West Glamorgan County Architects Department)",
   "place": "Swansea, GB",
@@ -224488,7 +227038,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Civic Centre, Swansea",
   "lead": "File:Civic Centre, Swansea, view of south facade.jpg",
-  "coords": null,
+  "coords": [
+   51.6136,
+   -3.94833
+  ],
   "hotlink": true,
   "images": [
    {
@@ -224533,7 +227086,7 @@ window.BUILDINGS = [
  },
  {
   "id": "peace-bridge-derry",
-  "n": 2643,
+  "n": 2642,
   "name": "Peace Bridge (Foyle)",
   "by": "AECOM and Wilkinson Eyre",
   "place": "Derry, GB",
@@ -224552,7 +227105,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Peace Bridge (Foyle)",
   "lead": "File:Peace Bridge, Derry 01.jpg",
-  "coords": null,
+  "coords": [
+   54.998,
+   -7.3163
+  ],
   "hotlink": true,
   "images": [
    {
@@ -224633,7 +227189,7 @@ window.BUILDINGS = [
  },
  {
   "id": "aras-an-uachtarain",
-  "n": 2644,
+  "n": 2643,
   "name": "Áras an Uachtaráin",
   "by": "Nathaniel Clements",
   "place": "Dublin, IE",
@@ -224652,7 +227208,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Áras an Uachtaráin",
   "lead": "File:Aras as uachtarain.jpg",
-  "coords": null,
+  "coords": [
+   53.35968,
+   -6.31745
+  ],
   "hotlink": true,
   "images": [
    {
@@ -224723,7 +227282,7 @@ window.BUILDINGS = [
  },
  {
   "id": "chichester-festival-theatre",
-  "n": 2645,
+  "n": 2644,
   "name": "Chichester Festival Theatre",
   "by": "Philip Powell and Hidalgo Moya",
   "place": "Chichester, GB",
@@ -224742,7 +227301,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Chichester Festival Theatre",
   "lead": "File:Chichester Festival Theatre, Sussex - geograph.org.uk - 1760414.jpg",
-  "coords": null,
+  "coords": [
+   50.84299,
+   -0.77729
+  ],
   "hotlink": true,
   "images": [
    {
@@ -224787,7 +227349,7 @@ window.BUILDINGS = [
  },
  {
   "id": "eden-court-theatre",
-  "n": 2646,
+  "n": 2645,
   "name": "Eden Court Theatre",
   "by": "Law Dunbar Naismith; Page\\Park Architects (2007)",
   "place": "Inverness, GB",
@@ -224806,7 +227368,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Eden Court Theatre",
   "lead": "File:Eden Court Theatre (4860116209).jpg",
-  "coords": null,
+  "coords": [
+   57.47308,
+   -4.23082
+  ],
   "hotlink": true,
   "images": [
    {
@@ -224887,7 +227452,7 @@ window.BUILDINGS = [
  },
  {
   "id": "broadcasting-house-london",
-  "n": 2647,
+  "n": 2646,
   "name": "Broadcasting House",
   "by": "George Val Myer and Raymond McGrath",
   "place": "London, GB",
@@ -224906,7 +227471,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Broadcasting House, London",
   "lead": "File:BBC Broadcasting House (4743719598).jpg",
-  "coords": null,
+  "coords": [
+   51.51856,
+   -0.14383
+  ],
   "hotlink": true,
   "images": [
    {
@@ -224975,7 +227543,7 @@ window.BUILDINGS = [
  },
  {
   "id": "gorilla-house-london-zoo",
-  "n": 2648,
+  "n": 2647,
   "name": "Gorilla House, London Zoo",
   "by": "Berthold Lubetkin (Tecton)",
   "place": "London, GB",
@@ -224994,7 +227562,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Gorilla House (London Zoo)",
   "lead": "File:Old Gorilla House London Zoo.jpg",
-  "coords": null,
+  "coords": [
+   51.53652,
+   -0.15447
+  ],
   "hotlink": true,
   "images": [
    {
@@ -225027,7 +227598,7 @@ window.BUILDINGS = [
  },
  {
   "id": "spa-green-estate",
-  "n": 2649,
+  "n": 2648,
   "name": "Spa Green Estate",
   "by": "Berthold Lubetkin (Tecton / Skinner, Bailey & Lubetkin)",
   "place": "London, GB",
@@ -225046,7 +227617,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Spa Green Estate",
   "lead": "File:Lubetkin Spa Green from park.jpg",
-  "coords": null,
+  "coords": [
+   51.5288,
+   -0.1055
+  ],
   "hotlink": true,
   "images": [
    {
@@ -225129,7 +227703,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cambridge-university-library",
-  "n": 2650,
+  "n": 2649,
   "name": "Cambridge University Library",
   "by": "Giles Gilbert Scott",
   "place": "Cambridge, GB",
@@ -225148,7 +227722,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Cambridge University Library",
   "lead": "File:Cambridge-University-Library.jpg",
-  "coords": null,
+  "coords": [
+   52.20517,
+   0.10806
+  ],
   "hotlink": true,
   "images": [
    {
@@ -225207,7 +227784,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tate-st-ives",
-  "n": 2651,
+  "n": 2650,
   "name": "Tate St Ives",
   "by": "Eldred Evans and David Shalev",
   "place": "St Ives, GB",
@@ -225226,7 +227803,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Tate St Ives",
   "lead": "File:Porthmeor Beach and Tate St Ives (6658).jpg",
-  "coords": null,
+  "coords": [
+   50.21472,
+   -5.48472
+  ],
   "hotlink": true,
   "images": [
    {
@@ -225295,7 +227875,7 @@ window.BUILDINGS = [
  },
  {
   "id": "baltic-centre-for-contemporary-art",
-  "n": 2652,
+  "n": 2651,
   "name": "Baltic Centre for Contemporary Art",
   "by": "Dominic Williams (Ellis Williams Architects)",
   "place": "Gateshead, GB",
@@ -225314,7 +227894,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Baltic Centre for Contemporary Art",
   "lead": "File:Baltic (33274682041).jpg",
-  "coords": null,
+  "coords": [
+   54.96917,
+   -1.59778
+  ],
   "hotlink": true,
   "images": [
    {
@@ -225383,7 +227966,7 @@ window.BUILDINGS = [
  },
  {
   "id": "manchester-central-library",
-  "n": 2653,
+  "n": 2652,
   "name": "Manchester Central Library",
   "by": "E. Vincent Harris",
   "place": "Manchester, GB",
@@ -225402,7 +227985,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Manchester Central Library",
   "lead": "File:Central Library - geograph.org.uk - 4284472.jpg",
-  "coords": null,
+  "coords": [
+   53.4781,
+   -2.24472
+  ],
   "hotlink": true,
   "images": [
    {
@@ -225483,7 +228069,7 @@ window.BUILDINGS = [
  },
  {
   "id": "radcliffe-camera",
-  "n": 2654,
+  "n": 2653,
   "name": "Radcliffe Camera",
   "by": "James Gibbs",
   "place": "Oxford, GB",
@@ -225502,7 +228088,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Radcliffe Camera",
   "lead": "File:1099146 I RADCLIFFE CAMERA Oxford 20250617 0001.jpg",
-  "coords": null,
+  "coords": [
+   51.7534,
+   -1.2539
+  ],
   "hotlink": true,
   "images": [
    {
@@ -225585,7 +228174,7 @@ window.BUILDINGS = [
  },
  {
   "id": "glasgow-tower",
-  "n": 2655,
+  "n": 2654,
   "name": "Glasgow Tower",
   "by": "Richard Horden; BDP",
   "place": "Glasgow, GB",
@@ -225604,7 +228193,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Glasgow Tower",
   "lead": "File:Glasgow Tower - Flickr - Ian D.jpg",
-  "coords": null,
+  "coords": [
+   55.8585,
+   -4.29325
+  ],
   "hotlink": true,
   "images": [
    {
@@ -225673,7 +228265,7 @@ window.BUILDINGS = [
  },
  {
   "id": "st-alberts-chaplaincy-edinburgh",
-  "n": 2656,
+  "n": 2655,
   "name": "St Albert's Catholic Chaplaincy",
   "by": "Stuart Allan (Simpson & Brown)",
   "place": "Edinburgh, GB",
@@ -225692,7 +228284,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:St Albert's Chapel",
   "lead": "File:Chapel of St Albert the Great and rear of George Square Townhouses.jpg",
-  "coords": null,
+  "coords": [
+   55.94302,
+   -3.19061
+  ],
   "hotlink": true,
   "images": [
    {
@@ -225773,7 +228368,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cyncoed-methodist-church",
-  "n": 2657,
+  "n": 2656,
   "name": "Cyncoed Methodist Church",
   "by": "Alex Gordon",
   "place": "Cardiff, GB",
@@ -225837,7 +228432,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-waterfront-museum",
-  "n": 2658,
+  "n": 2657,
   "name": "National Waterfront Museum",
   "by": "Wilkinson Eyre",
   "place": "Swansea, GB",
@@ -225856,7 +228451,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:National Waterfront Museum",
   "lead": "File:National Waterfront Museum (19125415205).jpg",
-  "coords": null,
+  "coords": [
+   51.61639,
+   -3.93861
+  ],
   "hotlink": true,
   "images": [
    {
@@ -225913,7 +228511,7 @@ window.BUILDINGS = [
  },
  {
   "id": "titanic-belfast",
-  "n": 2659,
+  "n": 2658,
   "name": "Titanic Belfast",
   "by": "Eric Kuhne (CivicArts); Todd Architects",
   "place": "Belfast, GB",
@@ -225932,7 +228530,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Titanic Signature Building, Belfast",
   "lead": "File:Belfast Titanic Museum 19-11-2023 13-02-52.jpg",
-  "coords": null,
+  "coords": [
+   54.6083,
+   -5.90975
+  ],
   "hotlink": true,
   "images": [
    {
@@ -225977,7 +228578,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bord-gais-energy-theatre",
-  "n": 2660,
+  "n": 2659,
   "name": "Bord Gais Energy Theatre",
   "by": "Daniel Libeskind",
   "place": "Dublin, IE",
@@ -225996,7 +228597,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Bord Gáis Energy Theatre",
   "lead": "File:Bord Gáis Energy Theatre, Dublin from Sir John Rogerson's Quay.jpg",
-  "coords": null,
+  "coords": [
+   53.34425,
+   -6.24004
+  ],
   "hotlink": true,
   "images": [
    {
@@ -226065,7 +228669,7 @@ window.BUILDINGS = [
  },
  {
   "id": "four-courts-dublin",
-  "n": 2661,
+  "n": 2660,
   "name": "Four Courts",
   "by": "Thomas Cooley; James Gandon",
   "place": "Dublin, IE",
@@ -226084,7 +228688,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Four Courts",
   "lead": "File:Dublin Four Courts 01.jpg",
-  "coords": null,
+  "coords": [
+   53.34594,
+   -6.27354
+  ],
   "hotlink": true,
   "images": [
    {
@@ -226155,7 +228762,7 @@ window.BUILDINGS = [
  },
  {
   "id": "galway-cathedral",
-  "n": 2662,
+  "n": 2661,
   "name": "Galway Cathedral",
   "by": "John J. Robinson",
   "place": "Galway, IE",
@@ -226174,7 +228781,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Galway Cathedral",
   "lead": "File:Cathedral of Our Lady Assumed into Heaven and St Nicholas with Salmon Weir Bridge.jpg",
-  "coords": null,
+  "coords": [
+   53.27528,
+   -9.0575
+  ],
   "hotlink": true,
   "images": [
    {
@@ -226269,7 +228879,7 @@ window.BUILDINGS = [
  },
  {
   "id": "church-of-st-aengus-burt",
-  "n": 2663,
+  "n": 2662,
   "name": "Church of St Aengus, Burt",
   "by": "Liam McCormick",
   "place": "Burt, IE",
@@ -226288,7 +228898,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Church of St Aengus, Burt",
   "lead": "File:St Aengus (Burt Chapel).jpg",
-  "coords": null,
+  "coords": [
+   55.03952,
+   -7.42912
+  ],
   "hotlink": true,
   "images": [
    {
@@ -226333,7 +228946,7 @@ window.BUILDINGS = [
  },
  {
   "id": "churchill-college-cambridge",
-  "n": 2664,
+  "n": 2663,
   "name": "Churchill College",
   "by": "Richard Sheppard, Robson & Partners",
   "place": "Cambridge, GB",
@@ -226352,7 +228965,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Churchill College, Cambridge",
   "lead": "File:Central Buildings Churchill College.jpg",
-  "coords": null,
+  "coords": [
+   52.21259,
+   0.1036
+  ],
   "hotlink": true,
   "images": [
    {
@@ -226421,7 +229037,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lillington-gardens",
-  "n": 2665,
+  "n": 2664,
   "name": "Lillington Gardens",
   "by": "Darbourne & Darke (Roger Westman, John Darbourne, Geoffrey Darke)",
   "place": "London, GB",
@@ -226440,7 +229056,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Lillington Gardens",
   "lead": "File:Goodyer House, Lillington Gardens, Moreton Street, Pimlico, October 2022.jpg",
-  "coords": null,
+  "coords": [
+   51.4909,
+   -0.1359
+  ],
   "hotlink": true,
   "images": [
    {
@@ -226521,7 +229140,7 @@ window.BUILDINGS = [
  },
  {
   "id": "daily-express-building-london",
-  "n": 2666,
+  "n": 2665,
   "name": "Daily Express Building",
   "by": "Ellis & Clarke (structure by Owen Williams)",
   "place": "London, GB",
@@ -226540,7 +229159,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Daily Express Building, London",
   "lead": "File:Daily Express 40409.jpg",
-  "coords": null,
+  "coords": [
+   51.5144,
+   -0.106
+  ],
   "hotlink": true,
   "images": [
    {
@@ -226621,7 +229243,7 @@ window.BUILDINGS = [
  },
  {
   "id": "heathrow-terminal-5",
-  "n": 2667,
+  "n": 2666,
   "name": "Heathrow Terminal 5",
   "by": "Richard Rogers Partnership",
   "place": "London, GB",
@@ -226640,7 +229262,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Terminal 5 (London Heathrow Airport)",
   "lead": "File:A glimpse of Terminal 5, Heathrow, Sept. 2010 - Flickr - PhillipC.jpg",
-  "coords": null,
+  "coords": [
+   51.4728,
+   -0.48756
+  ],
   "hotlink": true,
   "images": [
    {
@@ -226697,7 +229322,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sun-house-frognal",
-  "n": 2668,
+  "n": 2667,
   "name": "Sun House",
   "by": "Maxwell Fry",
   "place": "London, GB",
@@ -226716,7 +229341,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Sun House, Frognal Way, London",
   "lead": "File:Sun House 40379.jpg",
-  "coords": null,
+  "coords": [
+   51.5547,
+   -0.18137
+  ],
   "hotlink": true,
   "images": [
    {
@@ -226797,7 +229425,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cranbrook-estate-london",
-  "n": 2669,
+  "n": 2668,
   "name": "Cranbrook Estate",
   "by": "Berthold Lubetkin (with Francis Skinner, Douglas Bailey)",
   "place": "London, GB",
@@ -226816,7 +229444,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Cranbrook Estate",
   "lead": "File:Cranbrook Estate 01.jpg",
-  "coords": null,
+  "coords": [
+   51.5305,
+   -0.0455
+  ],
   "hotlink": true,
   "images": [
    {
@@ -226849,7 +229480,7 @@ window.BUILDINGS = [
  },
  {
   "id": "said-business-school",
-  "n": 2670,
+  "n": 2669,
   "name": "Saïd Business School",
   "by": "Edward Jones and Jeremy Dixon",
   "place": "Oxford, GB",
@@ -226868,7 +229499,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Saïd Business School",
   "lead": "File:Oxford , Saïd Business School - geograph.org.uk - 4060501.jpg",
-  "coords": null,
+  "coords": [
+   51.7536,
+   -1.2684
+  ],
   "hotlink": true,
   "images": [
    {
@@ -226937,7 +229571,7 @@ window.BUILDINGS = [
  },
  {
   "id": "weston-library-oxford",
-  "n": 2671,
+  "n": 2670,
   "name": "Weston Library",
   "by": "Giles Gilbert Scott (1940); WilkinsonEyre (2015 interior)",
   "place": "Oxford, GB",
@@ -226956,7 +229590,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Weston Library, Oxford",
   "lead": "File:Weston Library Exterior by John Cairns 20.3.15-27.jpg",
-  "coords": null,
+  "coords": [
+   51.75504,
+   -1.25512
+  ],
   "hotlink": true,
   "images": [
    {
@@ -227037,7 +229674,7 @@ window.BUILDINGS = [
  },
  {
   "id": "manchester-civil-justice-centre",
-  "n": 2672,
+  "n": 2671,
   "name": "Manchester Civil Justice Centre",
   "by": "Denton Corker Marshall",
   "place": "Manchester, GB",
@@ -227056,7 +229693,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Manchester Civil Justice Centre",
   "lead": "File:Civil Justice Centre 2014.JPG",
-  "coords": null,
+  "coords": [
+   53.48087,
+   -2.25247
+  ],
   "hotlink": true,
   "images": [
    {
@@ -227125,7 +229765,7 @@ window.BUILDINGS = [
  },
  {
   "id": "royal-liver-building",
-  "n": 2673,
+  "n": 2672,
   "name": "Royal Liver Building",
   "by": "Walter Aubrey Thomas",
   "place": "Liverpool, GB",
@@ -227144,7 +229784,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Royal Liver Building",
   "lead": "Liverbird building 02.jpg",
-  "coords": null,
+  "coords": [
+   53.4058,
+   -2.9958
+  ],
   "hotlink": true,
   "images": [
    {
@@ -227201,7 +229844,7 @@ window.BUILDINGS = [
  },
  {
   "id": "the-iron-bridge",
-  "n": 2674,
+  "n": 2673,
   "name": "The Iron Bridge",
   "by": "Thomas Farnolls Pritchard",
   "place": "Ironbridge, Shropshire, GB",
@@ -227220,7 +229863,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:The Iron Bridge",
   "lead": "File:Cropped in of The Iron Bridge in 2014.jpg",
-  "coords": null,
+  "coords": [
+   52.62736,
+   -2.48544
+  ],
   "hotlink": true,
   "images": [
    {
@@ -227289,7 +229935,7 @@ window.BUILDINGS = [
  },
  {
   "id": "red-house-bexleyheath",
-  "n": 2675,
+  "n": 2674,
   "name": "Red House",
   "by": "Philip Webb and William Morris",
   "place": "London, GB",
@@ -227308,7 +229954,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Red House, Bexleyheath",
   "lead": "File:Philip Webb's Red House in Upton.jpg",
-  "coords": null,
+  "coords": [
+   51.45556,
+   0.13028
+  ],
   "hotlink": true,
   "images": [
    {
@@ -227404,7 +230053,7 @@ window.BUILDINGS = [
  },
  {
   "id": "wollaton-hall",
-  "n": 2676,
+  "n": 2675,
   "name": "Wollaton Hall",
   "by": "Robert Smythson (attributed)",
   "place": "Nottingham, GB",
@@ -227423,7 +230072,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Wollaton Hall",
   "lead": "File:A view of Wollaton Hall west front from the south-west, Nottingham, England.jpg",
-  "coords": null,
+  "coords": [
+   52.9479,
+   -1.20966
+  ],
   "hotlink": true,
   "images": [
    {
@@ -227520,7 +230172,7 @@ window.BUILDINGS = [
  },
  {
   "id": "our-dynamic-earth-edinburgh",
-  "n": 2677,
+  "n": 2676,
   "name": "Dynamic Earth",
   "by": "Michael Hopkins and Partners",
   "place": "Edinburgh, GB",
@@ -227539,7 +230191,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Our Dynamic Earth",
   "lead": "File:Centre Our Dynamic Earth Édimbourg 1.jpg",
-  "coords": null,
+  "coords": [
+   55.9506,
+   -3.17437
+  ],
   "hotlink": true,
   "images": [
    {
@@ -227572,7 +230227,7 @@ window.BUILDINGS = [
  },
  {
   "id": "glasgow-university-library",
-  "n": 2678,
+  "n": 2677,
   "name": "Glasgow University Library",
   "by": "William Whitfield",
   "place": "Glasgow, GB",
@@ -227591,7 +230246,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Glasgow University Library",
   "lead": "File:Glasgow University Library, Scotland, UK.jpg",
-  "coords": null,
+  "coords": [
+   55.8733,
+   -4.289
+  ],
   "hotlink": true,
   "images": [
    {
@@ -227648,7 +230306,7 @@ window.BUILDINGS = [
  },
  {
   "id": "queens-cross-church-glasgow",
-  "n": 2679,
+  "n": 2678,
   "name": "Queen's Cross Church",
   "by": "Charles Rennie Mackintosh",
   "place": "Glasgow, GB",
@@ -227667,7 +230325,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Queen's Cross Church, Glasgow",
   "lead": "File:Glasgow City - Queen's Cross Church - 2026-09-08 05-39-19 001.jpg",
-  "coords": null,
+  "coords": [
+   55.8803,
+   -4.27191
+  ],
   "hotlink": true,
   "images": [
    {
@@ -227748,7 +230409,7 @@ window.BUILDINGS = [
  },
  {
   "id": "pierhead-building-cardiff",
-  "n": 2680,
+  "n": 2679,
   "name": "Pierhead Building",
   "by": "William Frame",
   "place": "Cardiff, GB",
@@ -227767,7 +230428,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Pierhead Building",
   "lead": "File:Bute Docks Company building, Cardiff Docks, South Wales.jpg",
-  "coords": null,
+  "coords": [
+   51.4635,
+   -3.16341
+  ],
   "hotlink": true,
   "images": [
    {
@@ -227848,7 +230512,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ulster-museum-belfast",
-  "n": 2681,
+  "n": 2680,
   "name": "Ulster Museum",
   "by": "Francis Pym (extension); James Cumming Wynne (original, 1929)",
   "place": "Belfast, GB",
@@ -227867,7 +230531,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Ulster Museum",
   "lead": "File:Belfast - Botanic Gardens 20230227 Ulster Museum.jpg",
-  "coords": null,
+  "coords": [
+   54.582,
+   -5.935
+  ],
   "hotlink": true,
   "images": [
    {
@@ -227936,7 +230603,7 @@ window.BUILDINGS = [
  },
  {
   "id": "casino-at-marino",
-  "n": 2682,
+  "n": 2681,
   "name": "Casino at Marino",
   "by": "William Chambers",
   "place": "Dublin, IE",
@@ -227955,7 +230622,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Casino at Marino",
   "lead": "File:Casino at Marino, May 2015.jpg",
-  "coords": null,
+  "coords": [
+   53.37124,
+   -6.22703
+  ],
   "hotlink": true,
   "images": [
    {
@@ -228012,7 +230682,7 @@ window.BUILDINGS = [
  },
  {
   "id": "knock-basilica",
-  "n": 2683,
+  "n": 2682,
   "name": "Knock Basilica",
   "by": "Daithi Hanly (with Louis J Brennan, Brian Brennan)",
   "place": "Knock, IE",
@@ -228031,7 +230701,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Basilica of Our Lady, Queen of Ireland (Knock)",
   "lead": "File:Knock Basilica 16 July 2017.jpg",
-  "coords": null,
+  "coords": [
+   53.79212,
+   -8.91715
+  ],
   "hotlink": true,
   "images": [
    {
@@ -228088,7 +230761,7 @@ window.BUILDINGS = [
  },
  {
   "id": "liberty-hall-dublin",
-  "n": 2684,
+  "n": 2683,
   "name": "Liberty Hall",
   "by": "Desmond Rea O'Kelly",
   "place": "Dublin, IE",
@@ -228107,7 +230780,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Liberty Hall, Dublin",
   "lead": "File:Dublin - Liberty Hall - 20220728172601.jpg",
-  "coords": null,
+  "coords": [
+   53.34833,
+   -6.25528
+  ],
   "hotlink": true,
   "images": [
    {
@@ -228128,7 +230804,7 @@ window.BUILDINGS = [
  },
  {
   "id": "churchill-gardens-estate",
-  "n": 2685,
+  "n": 2684,
   "name": "Churchill Gardens Estate",
   "by": "Powell & Moya (Philip Powell, Hidalgo Moya)",
   "place": "London, GB",
@@ -228147,7 +230823,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Churchill Gardens, London",
   "lead": "File:Churchill Gardens Estate, Pimlico 2025-05-03.jpg",
-  "coords": null,
+  "coords": [
+   51.487,
+   -0.1407
+  ],
   "hotlink": true,
   "images": [
    {
@@ -228192,7 +230871,7 @@ window.BUILDINGS = [
  },
  {
   "id": "dawsons-heights",
-  "n": 2686,
+  "n": 2685,
   "name": "Dawson's Heights",
   "by": "Kate Macintosh",
   "place": "London, GB",
@@ -228211,7 +230890,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Dawson Heights",
   "lead": "File:Dawson's Heights.jpg",
-  "coords": null,
+  "coords": [
+   51.44714,
+   -0.06725
+  ],
   "hotlink": true,
   "images": [
    {
@@ -228280,7 +230962,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lys-kernow",
-  "n": 2687,
+  "n": 2686,
   "name": "Lys Kernow (New County Hall)",
   "by": "Francis Kenneth Hicklin and Alan Groves",
   "place": "Truro, GB",
@@ -228299,7 +230981,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:New County Hall, Truro",
   "lead": "File:New County Hall 2019.jpg",
-  "coords": null,
+  "coords": [
+   50.25967,
+   -5.06937
+  ],
   "hotlink": true,
   "images": [
    {
@@ -228332,7 +231017,7 @@ window.BUILDINGS = [
  },
  {
   "id": "66-portland-place-riba",
-  "n": 2688,
+  "n": 2687,
   "name": "RIBA Headquarters (66 Portland Place)",
   "by": "George Grey Wornum",
   "place": "London, GB",
@@ -228351,7 +231036,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Royal Institute of British Architects (building)",
   "lead": "File:RIBA 66 Portland Place.jpg",
-  "coords": null,
+  "coords": [
+   51.5212,
+   -0.14505
+  ],
   "hotlink": true,
   "images": [
    {
@@ -228432,7 +231120,7 @@ window.BUILDINGS = [
  },
  {
   "id": "eltham-palace-courtauld-house",
-  "n": 2689,
+  "n": 2688,
   "name": "Eltham Palace (Courtauld house)",
   "by": "Seely & Paget",
   "place": "London, GB",
@@ -228451,7 +231139,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Eltham Palace",
   "lead": "File:Eltham Palace - London (4979953470).jpg",
-  "coords": null,
+  "coords": [
+   51.4471,
+   0.0484
+  ],
   "hotlink": true,
   "images": [
    {
@@ -228522,7 +231213,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hornsey-town-hall",
-  "n": 2690,
+  "n": 2689,
   "name": "Hornsey Town Hall",
   "by": "Reginald Uren",
   "place": "London, GB",
@@ -228541,7 +231232,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Hornsey Town Hall",
   "lead": "File:Hornsey Town Hall 01.jpg",
-  "coords": null,
+  "coords": [
+   51.5787,
+   -0.12234
+  ],
   "hotlink": true,
   "images": [
    {
@@ -228598,7 +231292,7 @@ window.BUILDINGS = [
  },
  {
   "id": "fitzwilliam-college-cambridge",
-  "n": 2691,
+  "n": 2690,
   "name": "Fitzwilliam College",
   "by": "Denys Lasdun",
   "place": "Cambridge, GB",
@@ -228617,7 +231311,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Fitzwilliam College, Cambridge",
   "lead": "File:Fitzwilliam College, Cambridge.jpg",
-  "coords": null,
+  "coords": [
+   52.21447,
+   0.10489
+  ],
   "hotlink": true,
   "images": [
    {
@@ -228650,7 +231347,7 @@ window.BUILDINGS = [
  },
  {
   "id": "shell-centre-london",
-  "n": 2692,
+  "n": 2691,
   "name": "Shell Centre",
   "by": "Howard Robertson and Ralph Maynard Smith",
   "place": "London, GB",
@@ -228669,7 +231366,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Shell Centre, London",
   "lead": "File:London - Jubilee Gardens - Jubilee Walkway - View East towards Shell Centre 1961 by Sir Howard Robertson.jpg",
-  "coords": null,
+  "coords": [
+   51.50383,
+   -0.11689
+  ],
   "hotlink": true,
   "images": [
    {
@@ -228690,7 +231390,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bridgewater-hall",
-  "n": 2693,
+  "n": 2692,
   "name": "Bridgewater Hall",
   "by": "RHWL",
   "place": "Manchester, GB",
@@ -228709,7 +231409,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Bridgewater Hall, Manchester",
   "lead": "File:Bridgewater Hall 2015 001.jpg",
-  "coords": null,
+  "coords": [
+   53.47528,
+   -2.24583
+  ],
   "hotlink": true,
   "images": [
    {
@@ -228766,7 +231469,7 @@ window.BUILDINGS = [
  },
  {
   "id": "newcastle-civic-centre",
-  "n": 2694,
+  "n": 2693,
   "name": "Newcastle Civic Centre",
   "by": "George Kenyon",
   "place": "Newcastle upon Tyne, GB",
@@ -228785,7 +231488,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Civic Centre, Newcastle upon Tyne",
   "lead": "File:Civic Centre, Newcastle upon Tyne - geograph.org.uk - 5394271.jpg",
-  "coords": null,
+  "coords": [
+   54.979,
+   -1.6109
+  ],
   "hotlink": true,
   "images": [
    {
@@ -228830,7 +231536,7 @@ window.BUILDINGS = [
  },
  {
   "id": "turner-contemporary",
-  "n": 2695,
+  "n": 2694,
   "name": "Turner Contemporary",
   "by": "David Chipperfield",
   "place": "Margate, GB",
@@ -228849,7 +231555,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Turner Contemporary gallery",
   "lead": "File:North side of Turner Contemporary gallery Margate Kent England.jpg",
-  "coords": null,
+  "coords": [
+   51.39125,
+   1.38207
+  ],
   "hotlink": true,
   "images": [
    {
@@ -228918,7 +231627,7 @@ window.BUILDINGS = [
  },
  {
   "id": "chiswick-house",
-  "n": 2696,
+  "n": 2695,
   "name": "Chiswick House",
   "by": "Richard Boyle, 3rd Earl of Burlington",
   "place": "London, GB",
@@ -228937,7 +231646,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Chiswick House",
   "lead": "File:1079607 I CHISWICK HOUSE Hounslow London 20250611 0001.jpg",
-  "coords": null,
+  "coords": [
+   51.48361,
+   -0.25861
+  ],
   "hotlink": true,
   "images": [
    {
@@ -229021,7 +231733,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palace-of-westminster",
-  "n": 2697,
+  "n": 2696,
   "name": "Palace of Westminster",
   "by": "Charles Barry and Augustus Pugin",
   "place": "London, GB",
@@ -229040,7 +231752,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Palace of Westminster",
   "lead": "File:Greater London - Palace of Westminster - 2025-09-23 16-24-04 001.JPG",
-  "coords": null,
+  "coords": [
+   51.49944,
+   -0.12417
+  ],
   "hotlink": true,
   "images": [
    {
@@ -229097,7 +231812,7 @@ window.BUILDINGS = [
  },
  {
   "id": "royal-crescent-bath",
-  "n": 2698,
+  "n": 2697,
   "name": "Royal Crescent",
   "by": "John Wood the Younger",
   "place": "Bath, GB",
@@ -229116,7 +231831,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Royal Crescent",
   "lead": "File:2023-09-15 Bath Royal Crescent 05.jpg",
-  "coords": null,
+  "coords": [
+   51.38694,
+   -2.36833
+  ],
   "hotlink": true,
   "images": [
    {
@@ -229211,7 +231929,7 @@ window.BUILDINGS = [
  },
  {
   "id": "london-stadium",
-  "n": 2699,
+  "n": 2698,
   "name": "London Stadium",
   "by": "Populous",
   "place": "London, GB",
@@ -229230,7 +231948,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:London Stadium",
   "lead": "Outside the London Stadium - geograph.org.uk - 8310738.jpg",
-  "coords": null,
+  "coords": [
+   51.53861,
+   -0.01639
+  ],
   "hotlink": true,
   "images": [
    {
@@ -229299,7 +232020,7 @@ window.BUILDINGS = [
  },
  {
   "id": "falkirk-wheel",
-  "n": 2700,
+  "n": 2699,
   "name": "Falkirk Wheel",
   "by": "Tony Kettle (RMJM)",
   "place": "Falkirk, GB",
@@ -229318,7 +232039,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Falkirk Wheel",
   "lead": "File:2018 07 07 Schottland (38) Falkirk Wheel.jpg",
-  "coords": null,
+  "coords": [
+   56.00028,
+   -3.84167
+  ],
   "hotlink": true,
   "images": [
    {
@@ -229389,7 +232113,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hill-house-helensburgh",
-  "n": 2701,
+  "n": 2700,
   "name": "Hill House",
   "by": "Charles Rennie Mackintosh",
   "place": "Helensburgh, GB",
@@ -229408,7 +232132,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Hill House, Helensburgh",
   "lead": "File:Helensburgh - Hill House 01.JPG",
-  "coords": null,
+  "coords": [
+   56.017,
+   -4.72797
+  ],
   "hotlink": true,
   "images": [
    {
@@ -229516,7 +232243,7 @@ window.BUILDINGS = [
  },
  {
   "id": "castletown-house",
-  "n": 2702,
+  "n": 2701,
   "name": "Castletown House",
   "by": "Alessandro Galilei and Edward Lovett Pearce",
   "place": "Celbridge, IE",
@@ -229535,7 +232262,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Castletown House",
   "lead": "File:Castletown House.jpg",
-  "coords": null,
+  "coords": [
+   53.34,
+   -6.53861
+  ],
   "hotlink": true,
   "images": [
    {
@@ -229606,7 +232336,7 @@ window.BUILDINGS = [
  },
  {
   "id": "centre-point-london",
-  "n": 2703,
+  "n": 2702,
   "name": "Centre Point",
   "by": "George Marsh (R. Seifert and Partners)",
   "place": "London, GB",
@@ -229625,7 +232355,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Centre Point",
   "lead": "File:Centre Point (4281441823).jpg",
-  "coords": null,
+  "coords": [
+   51.51586,
+   -0.12969
+  ],
   "hotlink": true,
   "images": [
    {
@@ -229708,7 +232441,7 @@ window.BUILDINGS = [
  },
  {
   "id": "waterfront-hall-belfast",
-  "n": 2704,
+  "n": 2703,
   "name": "Waterfront Hall",
   "by": "Robinson McIlwaine",
   "place": "Belfast, GB",
@@ -229727,7 +232460,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Waterfront Hall, Belfast",
   "lead": "File:THE WATERFRONT HALL IN BELFAST (WITH NEW EXTENSION) - panoramio - William Murphy.jpg",
-  "coords": null,
+  "coords": [
+   54.5975,
+   -5.92028
+  ],
   "hotlink": true,
   "images": [
    {
@@ -229772,7 +232508,7 @@ window.BUILDINGS = [
  },
  {
   "id": "arts-tower-sheffield",
-  "n": 2705,
+  "n": 2704,
   "name": "Arts Tower",
   "by": "Gollins, Melvin, Ward & Partners",
   "place": "Sheffield, GB",
@@ -229791,7 +232527,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:The Arts Tower",
   "lead": "File:Arts Tower, Sheffield (2022).jpg",
-  "coords": null,
+  "coords": [
+   53.38274,
+   -1.48729
+  ],
   "hotlink": true,
   "images": [
    {
@@ -229860,7 +232599,7 @@ window.BUILDINGS = [
  },
  {
   "id": "glasgow-science-centre",
-  "n": 2706,
+  "n": 2705,
   "name": "Glasgow Science Centre",
   "by": "Building Design Partnership (Glasgow Tower: Richard Horden)",
   "place": "Glasgow, GB",
@@ -229879,7 +232618,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Glasgow Science Centre",
   "lead": "File:Glasgow Science Centre - geograph.org.uk - 5485104.jpg",
-  "coords": null,
+  "coords": [
+   55.8585,
+   -4.29403
+  ],
   "hotlink": true,
   "images": [
    {
@@ -229924,7 +232666,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cork-county-hall",
-  "n": 2707,
+  "n": 2706,
   "name": "County Hall, Cork",
   "by": "Patrick McSweeney",
   "place": "Cork, IE",
@@ -230000,7 +232742,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tower-bridge",
-  "n": 2708,
+  "n": 2707,
   "name": "Tower Bridge",
   "by": "Horace Jones; John Wolfe Barry",
   "place": "London, GB",
@@ -230019,7 +232761,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Tower Bridge",
   "lead": "File:Tower Bridge from Pool of London River Thames London England lighter.jpg",
-  "coords": null,
+  "coords": [
+   51.50556,
+   -0.07528
+  ],
   "hotlink": true,
   "images": [
    {
@@ -230088,7 +232833,7 @@ window.BUILDINGS = [
  },
  {
   "id": "wolfson-college-oxford",
-  "n": 2709,
+  "n": 2708,
   "name": "Wolfson College, Oxford",
   "by": "Powell and Moya",
   "place": "Oxford, GB",
@@ -230107,7 +232852,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Wolfson College, Oxford",
   "lead": "File:Wolfson College - geograph.org.uk - 4837270.jpg",
-  "coords": null,
+  "coords": [
+   51.77098,
+   -1.25526
+  ],
   "hotlink": true,
   "images": [
    {
@@ -230176,7 +232924,7 @@ window.BUILDINGS = [
  },
  {
   "id": "empire-state-plaza",
-  "n": 2710,
+  "n": 2709,
   "name": "Empire State Plaza",
   "by": "Wallace Harrison",
   "place": "Albany, US",
@@ -230195,7 +232943,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Empire State Plaza",
   "lead": "File:Empire State Plaza at sunset.jpg",
-  "coords": null,
+  "coords": [
+   42.65035,
+   -73.75969
+  ],
   "hotlink": true,
   "images": [
    {
@@ -230264,7 +233015,7 @@ window.BUILDINGS = [
  },
  {
   "id": "first-unitarian-church-rochester",
-  "n": 2711,
+  "n": 2710,
   "name": "First Unitarian Church of Rochester",
   "by": "Louis Kahn",
   "place": "Rochester, US",
@@ -230283,7 +233034,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:First Unitarian Church of Rochester",
   "lead": "File:Louis I. Kahn, Tempio unitario a Rochester (NY), Stati Uniti.JPG",
-  "coords": null,
+  "coords": [
+   43.1411,
+   -77.5572
+  ],
   "hotlink": true,
   "images": [
    {
@@ -230378,7 +233132,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bradfield-hall-cornell",
-  "n": 2712,
+  "n": 2711,
   "name": "Bradfield Hall",
   "by": "Ulrich Franzen",
   "place": "Ithaca, US",
@@ -230397,7 +233151,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Bradfield Hall (Cornell University)",
   "lead": "File:Bradfield Hall 01.jpg",
-  "coords": null,
+  "coords": [
+   42.4476,
+   -76.48011
+  ],
   "hotlink": true,
   "images": [
    {
@@ -230442,7 +233199,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kleinhans-music-hall",
-  "n": 2713,
+  "n": 2712,
   "name": "Kleinhans Music Hall",
   "by": "Eliel Saarinen & Eero Saarinen",
   "place": "Buffalo, US",
@@ -230461,7 +233218,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Kleinhans Music Hall",
   "lead": "File:20190611 - 09 - Kleinhans Music Hall.jpg",
-  "coords": null,
+  "coords": [
+   42.90194,
+   -78.88361
+  ],
   "hotlink": true,
   "images": [
    {
@@ -230518,7 +233278,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cummins-corporate-office-building",
-  "n": 2714,
+  "n": 2713,
   "name": "Cummins Corporate Office Building",
   "by": "Kevin Roche",
   "place": "Columbus, US",
@@ -230537,7 +233297,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Cummins Corporate Office Building",
   "lead": "File:Cummins Corporate Office Building - April 2008 - Holly Higgins 02.jpg",
-  "coords": null,
+  "coords": [
+   39.2061,
+   -85.924
+  ],
   "hotlink": true,
   "images": [
    {
@@ -230606,7 +233369,7 @@ window.BUILDINGS = [
  },
  {
   "id": "harbor-towers-boston",
-  "n": 2715,
+  "n": 2714,
   "name": "Harbor Towers",
   "by": "Henry N. Cobb (I. M. Pei & Partners)",
   "place": "Boston, US",
@@ -230625,7 +233388,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Harbor Towers (Boston, Massachusetts)",
   "lead": "File:Harbor Towers, Boston, August 2024.jpg",
-  "coords": null,
+  "coords": [
+   42.358,
+   -71.05
+  ],
   "hotlink": true,
   "images": [
    {
@@ -230706,7 +233472,7 @@ window.BUILDINGS = [
  },
  {
   "id": "manitoga",
-  "n": 2716,
+  "n": 2715,
   "name": "Manitoga",
   "by": "Russel Wright & David L. Leavitt",
   "place": "Garrison, US",
@@ -230725,7 +233491,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Manitoga",
   "lead": "File:Manitoga 02.jpg",
-  "coords": null,
+  "coords": [
+   41.34861,
+   -73.95111
+  ],
   "hotlink": true,
   "images": [
    {
@@ -230757,84 +233526,8 @@ window.BUILDINGS = [
   "gv": 3
  },
  {
-  "id": "merck-headquarters-building",
-  "n": 2717,
-  "name": "Merck Headquarters Building",
-  "by": "Kevin Roche John Dinkeloo and Associates",
-  "place": "Whitehouse Station, US",
-  "year": "1990",
-  "y": 1990,
-  "type": "Workplace",
-  "movement": "Late modernism",
-  "region": "Americas",
-  "era": "1990–2005",
-  "concepts": [
-   "Climate response",
-   "Steel & glass",
-   "Landscape"
-  ],
-  "study": "Modernist corporate headquarters known for its environmentally friendly features.",
-  "qid": null,
-  "commons": "Category:SAS Frösundavik Office Building",
-  "lead": "File:SAS byggnad 2010c.jpg",
-  "coords": null,
-  "hotlink": true,
-  "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/SAS_byggnad_2010c.jpg/1280px-SAS_byggnad_2010c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/merck-headquarters-building/thumbs/0.webp",
-    "w": 1280,
-    "h": 926,
-    "kind": "Exterior",
-    "caption": "Exterior · Scandinavian Airlines head office in Solna, Sweden",
-    "credit": "Holger.Ellgaard",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:SAS_byggnad_2010c.jpg",
-    "file": "File:SAS byggnad 2010c.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/SAS_byggnad_2010.jpg/1280px-SAS_byggnad_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/merck-headquarters-building/thumbs/1.webp",
-    "w": 1280,
-    "h": 915,
-    "kind": "Exterior",
-    "caption": "Exterior · Scandinavian Airlines head office in Solna, Sweden",
-    "credit": "Holger.Ellgaard",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:SAS_byggnad_2010.jpg",
-    "file": "File:SAS byggnad 2010.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/SAS_byggnad_2010a.jpg/1280px-SAS_byggnad_2010a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/merck-headquarters-building/thumbs/2.webp",
-    "w": 1280,
-    "h": 956,
-    "kind": "Exterior",
-    "caption": "Exterior · Scandinavian Airlines head office in Solna, Sweden",
-    "credit": "Holger.Ellgaard",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:SAS_byggnad_2010a.jpg",
-    "file": "File:SAS byggnad 2010a.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/SAS_koncernbyggnad.JPG/1280px-SAS_koncernbyggnad.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/merck-headquarters-building/thumbs/3.webp",
-    "w": 1280,
-    "h": 872,
-    "kind": "Context",
-    "caption": "Context · Scandinavian Airlines head office as seen by helicopter",
-    "credit": "Jan Ainali",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:SAS_koncernbyggnad.JPG",
-    "file": "File:SAS koncernbyggnad.JPG"
-   }
-  ],
-  "has": [],
-  "gv": 3
- },
- {
   "id": "murray-d-lincoln-campus-center",
-  "n": 2718,
+  "n": 2716,
   "name": "Murray D. Lincoln Campus Center",
   "by": "Marcel Breuer",
   "place": "Amherst, US",
@@ -230853,7 +233546,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Murray D. Lincoln Campus Center",
   "lead": "File:Campus Center UMass 5.JPG",
-  "coords": null,
+  "coords": [
+   42.3918,
+   -72.527
+  ],
   "hotlink": true,
   "images": [
    {
@@ -230886,7 +233582,7 @@ window.BUILDINGS = [
  },
  {
   "id": "american-republic-insurance-headquarters",
-  "n": 2719,
+  "n": 2717,
   "name": "American Republic Insurance Company Headquarters",
   "by": "Gordon Bunshaft",
   "place": "Des Moines, US",
@@ -230905,7 +233601,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:American Enterprise Group Building",
   "lead": "File:American Enterprise Group Building - Des Moines.jpg",
-  "coords": null,
+  "coords": [
+   41.59017,
+   -93.62531
+  ],
   "hotlink": true,
   "images": [
    {
@@ -230950,7 +233649,7 @@ window.BUILDINGS = [
  },
  {
   "id": "one-woodward-avenue",
-  "n": 2720,
+  "n": 2718,
   "name": "One Woodward Avenue",
   "by": "Minoru Yamasaki",
   "place": "Detroit, US",
@@ -230969,7 +233668,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:One Woodward Avenue",
   "lead": "File:One Woodward Avenue from Windsor, Ontario, 2025-07-30.jpg",
-  "coords": null,
+  "coords": [
+   42.32889,
+   -83.04556
+  ],
   "hotlink": true,
   "images": [
    {
@@ -231038,7 +233740,7 @@ window.BUILDINGS = [
  },
  {
   "id": "power-center-ann-arbor",
-  "n": 2721,
+  "n": 2719,
   "name": "Power Center for the Performing Arts",
   "by": "Kevin Roche John Dinkeloo and Associates",
   "place": "Ann Arbor, US",
@@ -231057,7 +233759,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Power Center for the Performing Arts",
   "lead": "File:Power Center for the Performing Arts at Night, University of Michigan, Ann Arbor, Michigan - panoramio.jpg",
-  "coords": null,
+  "coords": [
+   42.28108,
+   -83.73602
+  ],
   "hotlink": true,
   "images": [
    {
@@ -231090,7 +233795,7 @@ window.BUILDINGS = [
  },
  {
   "id": "richards-medical-research-laboratories",
-  "n": 2722,
+  "n": 2720,
   "name": "Richards Medical Research Laboratories",
   "by": "Louis Kahn",
   "place": "Philadelphia, US",
@@ -231109,7 +233814,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Richards Medical Research Laboratories",
   "lead": "File:RnG labs Tower tops.JPG",
-  "coords": null,
+  "coords": [
+   39.94972,
+   -75.19806
+  ],
   "hotlink": true,
   "images": [
    {
@@ -231190,7 +233898,7 @@ window.BUILDINGS = [
  },
  {
   "id": "140-broadway",
-  "n": 2723,
+  "n": 2721,
   "name": "140 Broadway",
   "by": "Gordon Bunshaft (Skidmore, Owings & Merrill)",
   "place": "New York, US",
@@ -231209,7 +233917,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:140 Broadway",
   "lead": "File:140 Broadway 001.jpg",
-  "coords": null,
+  "coords": [
+   40.7086,
+   -74.01
+  ],
   "hotlink": true,
   "images": [
    {
@@ -231266,7 +233977,7 @@ window.BUILDINGS = [
  },
  {
   "id": "alden-dow-house-and-studio",
-  "n": 2724,
+  "n": 2722,
   "name": "Alden B. Dow Home and Studio",
   "by": "Alden B. Dow",
   "place": "Midland, US",
@@ -231285,7 +233996,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Alden Dow House and Studio",
   "lead": "File:Alden Dow House.jpg",
-  "coords": null,
+  "coords": [
+   43.6241,
+   -84.2533
+  ],
   "hotlink": true,
   "images": [
    {
@@ -231330,7 +234044,7 @@ window.BUILDINGS = [
  },
  {
   "id": "alfonse-damato-courthouse",
-  "n": 2725,
+  "n": 2723,
   "name": "Alfonse M. D'Amato United States Courthouse",
   "by": "Richard Meier",
   "place": "Central Islip, US",
@@ -231349,7 +234063,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": null,
   "lead": "File:Damato-courthouse.jpg",
-  "coords": null,
+  "coords": [
+   40.7596,
+   -73.1906
+  ],
   "hotlink": true,
   "images": [
    {
@@ -231370,7 +234087,7 @@ window.BUILDINGS = [
  },
  {
   "id": "allegheny-county-courthouse",
-  "n": 2726,
+  "n": 2724,
   "name": "Allegheny County Courthouse",
   "by": "Henry Hobson Richardson",
   "place": "Pittsburgh, US",
@@ -231389,7 +234106,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Allegheny County Courthouse",
   "lead": "File:Allegheny County Courthouse, 2025-05-24-1.jpg",
-  "coords": null,
+  "coords": [
+   40.4384,
+   -79.9961
+  ],
   "hotlink": true,
   "images": [
    {
@@ -231470,7 +234190,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ames-free-library",
-  "n": 2727,
+  "n": 2725,
   "name": "Ames Free Library",
   "by": "Henry Hobson Richardson",
   "place": "Easton, US",
@@ -231489,7 +234209,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Ames Free Library",
   "lead": "File:Ames Free Library (North Easton, MA) - oblique view.JPG",
-  "coords": null,
+  "coords": [
+   42.06736,
+   -71.10466
+  ],
   "hotlink": true,
   "images": [
    {
@@ -231570,7 +234293,7 @@ window.BUILDINGS = [
  },
  {
   "id": "austin-hall-harvard",
-  "n": 2728,
+  "n": 2726,
   "name": "Austin Hall",
   "by": "Henry Hobson Richardson",
   "place": "Cambridge, US",
@@ -231589,7 +234312,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Austin Hall",
   "lead": "File:Austin Hall, Harvard University.JPG",
-  "coords": null,
+  "coords": [
+   42.37683,
+   -71.11937
+  ],
   "hotlink": true,
   "images": [
    {
@@ -231646,7 +234372,7 @@ window.BUILDINGS = [
  },
  {
   "id": "billings-memorial-library",
-  "n": 2729,
+  "n": 2727,
   "name": "Billings Memorial Library",
   "by": "Henry Hobson Richardson",
   "place": "Burlington, US",
@@ -231665,7 +234391,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Billings Memorial Library",
   "lead": "File:University of Vermont Billings Library.jpg",
-  "coords": null,
+  "coords": [
+   44.47931,
+   -73.1991
+  ],
   "hotlink": true,
   "images": [
    {
@@ -231746,7 +234475,7 @@ window.BUILDINGS = [
  },
  {
   "id": "campbell-sports-center",
-  "n": 2730,
+  "n": 2728,
   "name": "Campbell Sports Center",
   "by": "Steven Holl Architects",
   "place": "New York, US",
@@ -231765,7 +234494,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Campbell Sports Center",
   "lead": "File:Campbell Sports Center at Columbia University 218th street.jpg",
-  "coords": null,
+  "coords": [
+   40.87166,
+   -73.91419
+  ],
   "hotlink": true,
   "images": [
    {
@@ -231822,7 +234554,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cleo-rogers-memorial-library",
-  "n": 2731,
+  "n": 2729,
   "name": "Cleo Rogers Memorial Library",
   "by": "I. M. Pei",
   "place": "Columbus, US",
@@ -231841,7 +234573,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Cleo Rogers Memorial Library",
   "lead": "Cleo Rogers Memorial Library.jpeg",
-  "coords": null,
+  "coords": [
+   39.204,
+   -85.9189
+  ],
   "hotlink": true,
   "images": [
    {
@@ -231910,7 +234645,7 @@ window.BUILDINGS = [
  },
  {
   "id": "converse-memorial-library",
-  "n": 2732,
+  "n": 2730,
   "name": "Converse Memorial Library",
   "by": "Henry Hobson Richardson",
   "place": "Malden, US",
@@ -231929,7 +234664,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Converse Memorial Library",
   "lead": "File:Converse Memorial Library (Malden, MA) - angle view.JPG",
-  "coords": null,
+  "coords": [
+   42.4275,
+   -71.06639
+  ],
   "hotlink": true,
   "images": [
    {
@@ -231988,7 +234726,7 @@ window.BUILDINGS = [
  },
  {
   "id": "crawford-manor",
-  "n": 2733,
+  "n": 2731,
   "name": "Crawford Manor",
   "by": "Paul Rudolph",
   "place": "New Haven, US",
@@ -232007,7 +234745,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Crawford Manor",
   "lead": "File:Crawford Manor (54106345969).jpg",
-  "coords": null,
+  "coords": [
+   41.30667,
+   -72.93528
+  ],
   "hotlink": true,
   "images": [
    {
@@ -232064,7 +234805,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cultural-education-center-albany",
-  "n": 2734,
+  "n": 2732,
   "name": "New York State Cultural Education Center",
   "by": "Harrison & Abramovitz",
   "place": "Albany, US",
@@ -232083,7 +234824,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:New York State Cultural Education Center",
   "lead": "File:NewYorkStateCulturalEducationCenter.JPG",
-  "coords": null,
+  "coords": [
+   42.6483,
+   -73.7618
+  ],
   "hotlink": true,
   "images": [
    {
@@ -232140,7 +234884,7 @@ window.BUILDINGS = [
  },
  {
   "id": "davenport-public-library",
-  "n": 2735,
+  "n": 2733,
   "name": "Davenport Public Library",
   "by": "Edward Durell Stone",
   "place": "Davenport, US",
@@ -232159,7 +234903,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Davenport Public Library",
   "lead": "File:Davenport Public Library - Main Branch.jpg",
-  "coords": null,
+  "coords": [
+   41.5232,
+   -90.5752
+  ],
   "hotlink": true,
   "images": [
    {
@@ -232204,7 +234951,7 @@ window.BUILDINGS = [
  },
  {
   "id": "grant-house-cedar-rapids",
-  "n": 2736,
+  "n": 2734,
   "name": "Douglas and Charlotte Grant House",
   "by": "Frank Lloyd Wright",
   "place": "Cedar Rapids, US",
@@ -232223,7 +234970,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Douglas and Charlotte Grant House",
   "lead": "File:Grant Home Cedar Rapids Iowa (Frank Lloyd Wright) NW View.jpg",
-  "coords": null,
+  "coords": [
+   42.01127,
+   -91.62262
+  ],
   "hotlink": true,
   "images": [
    {
@@ -232256,7 +235006,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hampden-county-courthouse",
-  "n": 2737,
+  "n": 2735,
   "name": "Hampden County Courthouse",
   "by": "Henry Hobson Richardson",
   "place": "Springfield, US",
@@ -232275,7 +235025,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Hampden County Courthouse",
   "lead": "File:Hampden County Courthouse MA.jpg",
-  "coords": null,
+  "coords": [
+   42.10028,
+   -72.58855
+  ],
   "hotlink": true,
   "images": [
    {
@@ -232332,7 +235085,7 @@ window.BUILDINGS = [
  },
  {
   "id": "home-building-association-bank",
-  "n": 2738,
+  "n": 2736,
   "name": "Home Building Association Bank",
   "by": "Louis Sullivan",
   "place": "Newark, US",
@@ -232351,7 +235104,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Home Building Association Bank",
   "lead": "File:Home Building Association Company Building, 3rd Street and Main Street, Newark, OH.jpg",
-  "coords": null,
+  "coords": [
+   40.05778,
+   -82.4025
+  ],
   "hotlink": true,
   "images": [
    {
@@ -232432,7 +235188,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hubert-h-humphrey-building",
-  "n": 2739,
+  "n": 2737,
   "name": "Hubert H. Humphrey Building",
   "by": "Marcel Breuer",
   "place": "Washington, D.C., US",
@@ -232451,7 +235207,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Hubert H. Humphrey Building",
   "lead": "File:Hubert H. Humphrey Building, located at the foot of Capitol Hill, Washington, D.C LCCN2013634632.jpg",
-  "coords": null,
+  "coords": [
+   38.88667,
+   -77.01444
+  ],
   "hotlink": true,
   "images": [
    {
@@ -232532,7 +235291,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kauffman-center-performing-arts",
-  "n": 2740,
+  "n": 2738,
   "name": "Kauffman Center for the Performing Arts",
   "by": "Moshe Safdie",
   "place": "Kansas City, US",
@@ -232551,7 +235310,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Kauffman Center for the Performing Arts",
   "lead": "File:Kauffman Center for Performing Arts 2.jpg",
-  "coords": null,
+  "coords": [
+   39.0937,
+   -94.5868
+  ],
   "hotlink": true,
   "images": [
    {
@@ -232620,7 +235382,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kips-bay-towers",
-  "n": 2741,
+  "n": 2739,
   "name": "Kips Bay Towers",
   "by": "I. M. Pei & S. J. Kessler",
   "place": "New York, US",
@@ -232639,7 +235401,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Kips Bay Plaza",
   "lead": "File:Kips Bay Plaza North Building.jpg",
-  "coords": null,
+  "coords": [
+   40.74278,
+   -73.97583
+  ],
   "hotlink": true,
   "images": [
    {
@@ -232684,7 +235449,7 @@ window.BUILDINGS = [
  },
  {
   "id": "manhattan-house",
-  "n": 2742,
+  "n": 2740,
   "name": "Manhattan House",
   "by": "Gordon Bunshaft (Skidmore, Owings & Merrill)",
   "place": "New York, US",
@@ -232703,7 +235468,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Manhattan House Apartments",
   "lead": "File:Manhattan House 65 jeh.JPG",
-  "coords": null,
+  "coords": [
+   40.76528,
+   -73.96278
+  ],
   "hotlink": true,
   "images": [
    {
@@ -232760,7 +235528,7 @@ window.BUILDINGS = [
  },
  {
   "id": "munson-williams-proctor-arts-institute",
-  "n": 2743,
+  "n": 2741,
   "name": "Munson-Williams-Proctor Arts Institute",
   "by": "Philip Johnson",
   "place": "Utica, US",
@@ -232779,7 +235547,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Munson-Williams-Proctor Arts Institute",
   "lead": "File:Munson-Williams-Proctor Arts Institute, Utica NY.jpg",
-  "coords": null,
+  "coords": [
+   43.09694,
+   -75.24139
+  ],
   "hotlink": true,
   "images": [
    {
@@ -232811,84 +235582,8 @@ window.BUILDINGS = [
   "gv": 3
  },
  {
-  "id": "niagara-falls-public-library",
-  "n": 2744,
-  "name": "Niagara Falls Public Library",
-  "by": "Paul Rudolph",
-  "place": "Niagara Falls, US",
-  "year": "1974",
-  "y": 1974,
-  "type": "Library",
-  "movement": "Brutalism",
-  "region": "Americas",
-  "era": "1970–1990",
-  "concepts": [
-   "Exposed concrete",
-   "Sculptural form",
-   "Geometry"
-  ],
-  "study": "Main Library in the Earl W. Brydges Building, built 1974 by Paul Rudolph.",
-  "qid": null,
-  "commons": "Category:Niagara Falls Public Library (Ontario)",
-  "lead": "File:20190615 - 05 - Niagara Falls Public Library.jpg",
-  "coords": null,
-  "hotlink": true,
-  "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/20190615_-_05_-_Niagara_Falls_Public_Library.jpg/1280px-20190615_-_05_-_Niagara_Falls_Public_Library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/niagara-falls-public-library/thumbs/0.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Earl W",
-    "credit": "Andre Carrotflower",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:20190615_-_05_-_Niagara_Falls_Public_Library.jpg",
-    "file": "File:20190615 - 05 - Niagara Falls Public Library.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Back_entrance_of_Stamford_Community_Centre_Library.jpg/1280px-Back_entrance_of_Stamford_Community_Centre_Library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/niagara-falls-public-library/thumbs/1.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · The back entrance of Stamford Community Centre Library in Niagara Falls, Ontario",
-    "credit": "Hannah Clover",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Back_entrance_of_Stamford_Community_Centre_Library.jpg",
-    "file": "File:Back entrance of Stamford Community Centre Library.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Inside_MacBain_Community_Centre_library.jpg/1280px-Inside_MacBain_Community_Centre_library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/niagara-falls-public-library/thumbs/4.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Hannah Clover",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Inside_MacBain_Community_Centre_library.jpg",
-    "file": "File:Inside MacBain Community Centre library.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Inside_Stamford_Community_Centre_library.jpg/1280px-Inside_Stamford_Community_Centre_library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/niagara-falls-public-library/thumbs/5.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior · The inside of the Stamford Centre Community Centre library in Niagara Falls, Ontario",
-    "credit": "Hannah Clover",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Inside_Stamford_Community_Centre_library.jpg",
-    "file": "File:Inside Stamford Community Centre library.jpg"
-   }
-  ],
-  "has": [],
-  "gv": 3
- },
- {
   "id": "north-shore-congregation-israel",
-  "n": 2745,
+  "n": 2742,
   "name": "North Shore Congregation Israel",
   "by": "Minoru Yamasaki",
   "place": "Glencoe, US",
@@ -232928,7 +235623,7 @@ window.BUILDINGS = [
  },
  {
   "id": "oakes-ames-memorial-hall",
-  "n": 2746,
+  "n": 2743,
   "name": "Oakes Ames Memorial Hall",
   "by": "Henry Hobson Richardson",
   "place": "Easton, US",
@@ -232947,7 +235642,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Oakes Ames Memorial Hall",
   "lead": "File:Oakes Ames Memorial Hall (North Easton, MA) - front facade.JPG",
-  "coords": null,
+  "coords": [
+   42.06722,
+   -71.105
+  ],
   "hotlink": true,
   "images": [
    {
@@ -233004,7 +235702,7 @@ window.BUILDINGS = [
  },
  {
   "id": "olivetti-underwood-factory",
-  "n": 2747,
+  "n": 2744,
   "name": "Olivetti-Underwood Factory",
   "by": "Louis Kahn",
   "place": "Harrisburg, US",
@@ -233023,7 +235721,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": null,
   "lead": "File:Kahn's Olivetti factory.png",
-  "coords": null,
+  "coords": [
+   40.306,
+   -76.8392
+  ],
   "hotlink": true,
   "images": [
    {
@@ -233044,7 +235745,7 @@ window.BUILDINGS = [
  },
  {
   "id": "guaranty-building-buffalo",
-  "n": 2748,
+  "n": 2745,
   "name": "Guaranty Building (Prudential Building)",
   "by": "Louis Sullivan & Dankmar Adler",
   "place": "Buffalo, US",
@@ -233063,7 +235764,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Prudential Building (Buffalo, New York)",
   "lead": "File:Guaranty (Prudential) Building, Church Street and Pearl Street, Buffalo, NY - 52674539907.jpg",
-  "coords": null,
+  "coords": [
+   42.88276,
+   -78.87674
+  ],
   "hotlink": true,
   "images": [
    {
@@ -233158,7 +235862,7 @@ window.BUILDINGS = [
  },
  {
   "id": "reynolds-metals-headquarters",
-  "n": 2749,
+  "n": 2746,
   "name": "Reynolds Metals Company International Headquarters",
   "by": "Gordon Bunshaft (Skidmore, Owings & Merrill)",
   "place": "Richmond, US",
@@ -233177,7 +235881,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": null,
   "lead": "File:Reynolds Headquarters.JPG",
-  "coords": null,
+  "coords": [
+   37.6014,
+   -77.52
+  ],
   "hotlink": true,
   "images": [
    {
@@ -233198,7 +235905,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mandel-house-bedford-hills",
-  "n": 2750,
+  "n": 2747,
   "name": "Richard H. Mandel House",
   "by": "Edward Durell Stone",
   "place": "Bedford Hills, US",
@@ -233238,7 +235945,7 @@ window.BUILDINGS = [
  },
  {
   "id": "river-city-chicago",
-  "n": 2751,
+  "n": 2748,
   "name": "River City",
   "by": "Bertrand Goldberg",
   "place": "Chicago, US",
@@ -233257,7 +235964,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:River City, Chicago",
   "lead": "File:River City 01.jpg",
-  "coords": null,
+  "coords": [
+   41.8714,
+   -87.6345
+  ],
   "hotlink": true,
   "images": [
    {
@@ -233326,7 +236036,7 @@ window.BUILDINGS = [
  },
  {
   "id": "rockefeller-guest-house",
-  "n": 2752,
+  "n": 2749,
   "name": "Rockefeller Guest House",
   "by": "Philip Johnson",
   "place": "New York, US",
@@ -233345,7 +236055,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Rockefeller Guest House",
   "lead": "File:Rockefeller Guest House (55273670943).jpg",
-  "coords": null,
+  "coords": [
+   40.75622,
+   -73.96842
+  ],
   "hotlink": true,
   "images": [
    {
@@ -233414,7 +236127,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sciences-library-brown",
-  "n": 2753,
+  "n": 2750,
   "name": "Sciences Library (SciLi)",
   "by": "Warner, Burns, Toan & Lunde",
   "place": "Providence, US",
@@ -233433,7 +236146,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Sciences Library (Brown University)",
   "lead": "File:Brown University Sciences Library Providence.jpg",
-  "coords": null,
+  "coords": [
+   41.8269,
+   -71.4
+  ],
   "hotlink": true,
   "images": [
    {
@@ -233502,7 +236218,7 @@ window.BUILDINGS = [
  },
  {
   "id": "seventeenth-church-christ-scientist-chicago",
-  "n": 2754,
+  "n": 2751,
   "name": "Seventeenth Church of Christ, Scientist",
   "by": "Harry Weese",
   "place": "Chicago, US",
@@ -233521,7 +236237,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Seventeenth Church of Christ, Scientist (Chicago, Illinois)",
   "lead": "File:Seventeenth Church of Christ, Scientist (Chicago, Illinois).jpg",
-  "coords": null,
+  "coords": [
+   41.8871,
+   -87.6259
+  ],
   "hotlink": true,
   "images": [
    {
@@ -233602,7 +236321,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sever-hall",
-  "n": 2755,
+  "n": 2752,
   "name": "Sever Hall",
   "by": "Henry Hobson Richardson",
   "place": "Cambridge, US",
@@ -233621,7 +236340,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Sever Hall",
   "lead": "File:Sever Hall (Harvard University) - east facade.JPG",
-  "coords": null,
+  "coords": [
+   42.37436,
+   -71.11547
+  ],
   "hotlink": true,
   "images": [
    {
@@ -233666,7 +236388,7 @@ window.BUILDINGS = [
  },
  {
   "id": "terrace-plaza-hotel",
-  "n": 2756,
+  "n": 2753,
   "name": "Terrace Plaza Hotel",
   "by": "Skidmore, Owings & Merrill",
   "place": "Cincinnati, US",
@@ -233685,7 +236407,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Terrace Plaza Hotel",
   "lead": "File:Terrace Plaza Hotel, Cincinnati, OH (47220500021).jpg",
-  "coords": null,
+  "coords": [
+   39.10211,
+   -84.51403
+  ],
   "hotlink": true,
   "images": [
    {
@@ -233754,7 +236479,7 @@ window.BUILDINGS = [
  },
  {
   "id": "class-of-1959-chapel",
-  "n": 2757,
+  "n": 2754,
   "name": "Class of 1959 Chapel",
   "by": "Moshe Safdie",
   "place": "Boston, US",
@@ -233773,7 +236498,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Class of 1959 Chapel",
   "lead": "File:1959chapelexterior.JPG",
-  "coords": null,
+  "coords": [
+   42.36588,
+   -71.12381
+  ],
   "hotlink": true,
   "images": [
    {
@@ -233830,7 +236558,7 @@ window.BUILDINGS = [
  },
  {
   "id": "the-republic-newspaper-office",
-  "n": 2758,
+  "n": 2755,
   "name": "The Republic Newspaper Office",
   "by": "Myron Goldsmith (Skidmore, Owings & Merrill)",
   "place": "Columbus, US",
@@ -233849,7 +236577,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:The Republic offices",
   "lead": "File:Republic offices in Columbus, side and rear.jpg",
-  "coords": null,
+  "coords": [
+   39.2,
+   -85.92167
+  ],
   "hotlink": true,
   "images": [
    {
@@ -233906,7 +236637,7 @@ window.BUILDINGS = [
  },
  {
   "id": "thomas-crane-public-library",
-  "n": 2759,
+  "n": 2756,
   "name": "Thomas Crane Public Library",
   "by": "Henry Hobson Richardson",
   "place": "Quincy, US",
@@ -233925,7 +236656,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Thomas Crane Public Library",
   "lead": "File:Thomas Crane Public Library, Quincy, Massachusetts (Front view).JPG",
-  "coords": null,
+  "coords": [
+   42.25167,
+   -71.00111
+  ],
   "hotlink": true,
   "images": [
    {
@@ -234006,7 +236740,7 @@ window.BUILDINGS = [
  },
  {
   "id": "unitarian-universalist-church-arlington",
-  "n": 2760,
+  "n": 2757,
   "name": "Unitarian Universalist Church of Arlington",
   "by": "Charles M. Goodman",
   "place": "Arlington, US",
@@ -234025,7 +236759,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Unitarian Universalist Church (Arlington, Virginia)",
   "lead": "File:Unitarian Universalist Church, Arlington, Virginia - 11.jpeg",
-  "coords": null,
+  "coords": [
+   38.8684,
+   -77.1075
+  ],
   "hotlink": true,
   "images": [
    {
@@ -234070,7 +236807,7 @@ window.BUILDINGS = [
  },
  {
   "id": "united-states-institute-of-peace-headquarters",
-  "n": 2761,
+  "n": 2758,
   "name": "United States Institute of Peace Headquarters",
   "by": "Moshe Safdie",
   "place": "Washington, D.C., US",
@@ -234089,7 +236826,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:United States Institute of Peace Headquarters",
   "lead": "File:United States Institute of Peace.jpg",
-  "coords": null,
+  "coords": [
+   38.89276,
+   -77.05069
+  ],
   "hotlink": true,
   "images": [
    {
@@ -234170,7 +236910,7 @@ window.BUILDINGS = [
  },
  {
   "id": "united-states-tax-court-building",
-  "n": 2762,
+  "n": 2759,
   "name": "United States Tax Court Building",
   "by": "Victor A. Lundy",
   "place": "Washington, D.C., US",
@@ -234189,7 +236929,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:United States Tax Court Building",
   "lead": "File:Tax Court by Matthew Bisanz.jpg",
-  "coords": null,
+  "coords": [
+   38.89528,
+   -77.01444
+  ],
   "hotlink": true,
   "images": [
    {
@@ -234234,7 +236977,7 @@ window.BUILDINGS = [
  },
  {
   "id": "van-allen-building",
-  "n": 2763,
+  "n": 2760,
   "name": "Van Allen Building",
   "by": "Louis Sullivan",
   "place": "Clinton, US",
@@ -234253,7 +236996,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Van Allen Building",
   "lead": "File:July 18, 2005 249 1.JPG",
-  "coords": null,
+  "coords": [
+   41.84137,
+   -90.18833
+  ],
   "hotlink": true,
   "images": [
    {
@@ -234334,7 +237080,7 @@ window.BUILDINGS = [
  },
  {
   "id": "w-e-b-du-bois-library",
-  "n": 2764,
+  "n": 2761,
   "name": "W. E. B. Du Bois Library",
   "by": "Edward Durell Stone",
   "place": "Amherst, US",
@@ -234353,7 +237099,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:W. E. B. Du Bois Library",
   "lead": "File:UMass Amherst W.E.B. Dubois Library night 2.jpg",
-  "coords": null,
+  "coords": [
+   42.38984,
+   -72.52824
+  ],
   "hotlink": true,
   "images": [
    {
@@ -234434,7 +237183,7 @@ window.BUILDINGS = [
  },
  {
   "id": "w-r-grace-building",
-  "n": 2765,
+  "n": 2762,
   "name": "W. R. Grace Building",
   "by": "Gordon Bunshaft (Skidmore, Owings & Merrill)",
   "place": "New York, US",
@@ -234453,7 +237202,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:W. R. Grace Building",
   "lead": "File:W.R Grace Building viewed from Empire State Building, around 1 pm.jpg",
-  "coords": null,
+  "coords": [
+   40.7547,
+   -73.9825
+  ],
   "hotlink": true,
   "images": [
    {
@@ -234510,7 +237262,7 @@ window.BUILDINGS = [
  },
  {
   "id": "watergate-complex",
-  "n": 2766,
+  "n": 2763,
   "name": "Watergate Complex",
   "by": "Luigi Moretti, with Milton Fischer",
   "place": "Washington, D.C., US",
@@ -234529,7 +237281,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Watergate complex",
   "lead": "File:Watergate complex, 2025.jpg",
-  "coords": null,
+  "coords": [
+   38.89889,
+   -77.05417
+  ],
   "hotlink": true,
   "images": [
    {
@@ -234598,7 +237353,7 @@ window.BUILDINGS = [
  },
  {
   "id": "wiesner-building-mit",
-  "n": 2767,
+  "n": 2764,
   "name": "Wiesner Building (MIT Media Lab)",
   "by": "I. M. Pei & Partners",
   "place": "Cambridge, US",
@@ -234617,7 +237372,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Wiesner Building (MIT Building E15)",
   "lead": "File:2017 Wiesner Building (MIT Building E14), 20 Ames Street, Cambridge, Massachusetts.jpg",
-  "coords": null,
+  "coords": [
+   42.36086,
+   -71.08772
+  ],
   "hotlink": true,
   "images": [
    {
@@ -234698,7 +237456,7 @@ window.BUILDINGS = [
  },
  {
   "id": "winn-memorial-library",
-  "n": 2768,
+  "n": 2765,
   "name": "Winn Memorial Library",
   "by": "Henry Hobson Richardson",
   "place": "Woburn, US",
@@ -234717,7 +237475,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Winn Memorial Library",
   "lead": "File:Woburn, Massachusetts, Library with statue of Benjamin Thompson.JPG",
-  "coords": null,
+  "coords": [
+   42.47889,
+   -71.155
+  ],
   "hotlink": true,
   "images": [
    {
@@ -234812,7 +237573,7 @@ window.BUILDINGS = [
  },
  {
   "id": "arthur-and-mona-hofmann-house",
-  "n": 2769,
+  "n": 2766,
   "name": "Arthur and Mona Hofmann House",
   "by": "Richard Neutra, with Otto Winkler",
   "place": "Hillsborough, US",
@@ -234831,7 +237592,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Arthur and Mona Hofmann House (Hillsborough, California)",
   "lead": "File:Arthur and Mona Hofmann House, 1048 La Cuesta Rd., Hillsborough, CA 9-5-2011 3-14-45 PM.JPG",
-  "coords": null,
+  "coords": [
+   37.55051,
+   -122.35044
+  ],
   "hotlink": true,
   "images": [
    {
@@ -234864,7 +237628,7 @@ window.BUILDINGS = [
  },
  {
   "id": "butterfly-house-carmel",
-  "n": 2770,
+  "n": 2767,
   "name": "Butterfly House",
   "by": "Francis W. Wynkoop",
   "place": "Carmel-by-the-Sea, US",
@@ -234883,7 +237647,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Butterfly House (Carmel Point, California)",
   "lead": "File:Butterfly House in Carmel Point.jpg",
-  "coords": null,
+  "coords": [
+   36.5412,
+   -121.93294
+  ],
   "hotlink": true,
   "images": [
    {
@@ -234940,7 +237707,7 @@ window.BUILDINGS = [
  },
  {
   "id": "charles-e-young-research-library",
-  "n": 2771,
+  "n": 2768,
   "name": "Charles E. Young Research Library",
   "by": "A. Quincy Jones and Frederick Earl Emmons",
   "place": "Los Angeles, US",
@@ -234959,7 +237726,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Charles E. Young Research Library",
   "lead": "File:2019 UCLA Charles E. Young Research Library.jpg",
-  "coords": null,
+  "coords": [
+   34.07492,
+   -118.44154
+  ],
   "hotlink": true,
   "images": [
    {
@@ -234980,7 +237750,7 @@ window.BUILDINGS = [
  },
  {
   "id": "chet-holifield-federal-building",
-  "n": 2772,
+  "n": 2769,
   "name": "Chet Holifield Federal Building",
   "by": "William L. Pereira",
   "place": "Laguna Niguel, US",
@@ -234999,7 +237769,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Chet Holifield Federal Building",
   "lead": "File:Chet Holifield Federal Building 2020.jpg",
-  "coords": null,
+  "coords": [
+   33.5617,
+   -117.713
+  ],
   "hotlink": true,
   "images": [
    {
@@ -235056,7 +237829,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cinerama-dome",
-  "n": 2773,
+  "n": 2770,
   "name": "Cinerama Dome",
   "by": "Pierre Cabrol and Welton Becket & Associates",
   "place": "Los Angeles, US",
@@ -235075,7 +237848,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Cinerama Dome",
   "lead": "File:Cinerama Dome front.jpg",
-  "coords": null,
+  "coords": [
+   34.0976,
+   -118.328
+  ],
   "hotlink": true,
   "images": [
    {
@@ -235132,7 +237908,7 @@ window.BUILDINGS = [
  },
  {
   "id": "evans-hall-uc-berkeley",
-  "n": 2774,
+  "n": 2771,
   "name": "Evans Hall",
   "by": "Gardner Dailey",
   "place": "Berkeley, US",
@@ -235151,7 +237927,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Evans Hall (UC Berkeley)",
   "lead": "File:UC-Berkeley-020-evans-hall-college-of-engineering.jpg",
-  "coords": null,
+  "coords": [
+   37.8736,
+   -122.258
+  ],
   "hotlink": true,
   "images": [
    {
@@ -235208,7 +237987,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hallidie-building",
-  "n": 2775,
+  "n": 2772,
   "name": "Hallidie Building",
   "by": "Willis Polk",
   "place": "San Francisco, US",
@@ -235227,7 +238006,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Hallidie Building",
   "lead": "File:Hallidie Building 01.jpg",
-  "coords": null,
+  "coords": [
+   37.79002,
+   -122.40352
+  ],
   "hotlink": true,
   "images": [
    {
@@ -235322,7 +238104,7 @@ window.BUILDINGS = [
  },
  {
   "id": "horatio-west-court",
-  "n": 2776,
+  "n": 2773,
   "name": "Horatio West Court",
   "by": "Irving Gill",
   "place": "Santa Monica, US",
@@ -235341,7 +238123,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Horatio West Court",
   "lead": "File:Horatio West Court 3.JPG",
-  "coords": null,
+  "coords": [
+   34.00333,
+   -118.48611
+  ],
   "hotlink": true,
   "images": [
    {
@@ -235410,7 +238195,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hyatt-regency-san-francisco",
-  "n": 2777,
+  "n": 2774,
   "name": "Hyatt Regency San Francisco",
   "by": "John Portman & Associates",
   "place": "San Francisco, US",
@@ -235429,7 +238214,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Hyatt Regency San Francisco",
   "lead": "File:2015-07 Hyatt Regency San Francisco.jpg",
-  "coords": null,
+  "coords": [
+   37.79413,
+   -122.39619
+  ],
   "hotlink": true,
   "images": [
    {
@@ -235486,7 +238274,7 @@ window.BUILDINGS = [
  },
  {
   "id": "los-angeles-county-hall-of-records",
-  "n": 2778,
+  "n": 2775,
   "name": "Los Angeles County Hall of Records",
   "by": "Richard Neutra and Robert Alexander",
   "place": "Los Angeles, US",
@@ -235505,7 +238293,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Los Angeles County Hall of Records",
   "lead": "File:Los Angeles Hall of Records.jpg",
-  "coords": null,
+  "coords": [
+   34.0558,
+   -118.244
+  ],
   "hotlink": true,
   "images": [
    {
@@ -235538,7 +238329,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mark-taper-forum",
-  "n": 2779,
+  "n": 2776,
   "name": "Mark Taper Forum",
   "by": "Welton Becket and Associates",
   "place": "Los Angeles, US",
@@ -235557,7 +238348,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Mark Taper Forum",
   "lead": "File:LA Music Center Mark Taper Forum.jpg",
-  "coords": null,
+  "coords": [
+   34.05779,
+   -118.24777
+  ],
   "hotlink": true,
   "images": [
    {
@@ -235614,7 +238408,7 @@ window.BUILDINGS = [
  },
  {
   "id": "pacific-design-center",
-  "n": 2780,
+  "n": 2777,
   "name": "Pacific Design Center",
   "by": "César Pelli",
   "place": "West Hollywood, US",
@@ -235633,7 +238427,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Pacific Design Center",
   "lead": "File:Pacific Design Center-Blue.jpg",
-  "coords": null,
+  "coords": [
+   34.0828,
+   -118.3823
+  ],
   "hotlink": true,
   "images": [
    {
@@ -235714,7 +238511,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palm-springs-art-museum",
-  "n": 2781,
+  "n": 2778,
   "name": "Palm Springs Art Museum",
   "by": "E. Stewart Williams",
   "place": "Palm Springs, US",
@@ -235733,7 +238530,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Palm Springs Art Museum",
   "lead": "File:WLM Palm Springs Art Museum front.jpg",
-  "coords": null,
+  "coords": [
+   33.8242,
+   -116.55
+  ],
   "hotlink": true,
   "images": [
    {
@@ -235814,7 +238614,7 @@ window.BUILDINGS = [
  },
  {
   "id": "parker-center",
-  "n": 2782,
+  "n": 2779,
   "name": "Parker Center",
   "by": "Welton Becket & Associates; J.E. Stanton",
   "place": "Los Angeles, US",
@@ -235833,7 +238633,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Parker Center (Los Angeles)",
   "lead": "File:Los Angeles Police Administration Building - 1976.jpg",
-  "coords": null,
+  "coords": [
+   34.0519,
+   -118.241
+  ],
   "hotlink": true,
   "images": [
    {
@@ -235854,7 +238657,7 @@ window.BUILDINGS = [
  },
  {
   "id": "pearlman-mountain-cabin",
-  "n": 2783,
+  "n": 2780,
   "name": "Pearlman Mountain Cabin",
   "by": "John Lautner",
   "place": "Idyllwild, US",
@@ -235873,7 +238676,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Pearlman Cabin",
   "lead": "File:USA CA Pearlman Mountain Cabin 01.jpg",
-  "coords": null,
+  "coords": [
+   33.73082,
+   -116.74089
+  ],
   "hotlink": true,
   "images": [
    {
@@ -235954,7 +238760,7 @@ window.BUILDINGS = [
  },
  {
   "id": "santa-monica-civic-auditorium",
-  "n": 2784,
+  "n": 2781,
   "name": "Santa Monica Civic Auditorium",
   "by": "Welton Becket & Associates",
   "place": "Santa Monica, US",
@@ -235973,7 +238779,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Santa Monica Civic Auditorium",
   "lead": "File:Santa Monica Civic Auditorium.JPG",
-  "coords": null,
+  "coords": [
+   34.0089,
+   -118.489
+  ],
   "hotlink": true,
   "images": [
    {
@@ -236006,7 +238815,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sinai-temple-los-angeles",
-  "n": 2785,
+  "n": 2782,
   "name": "Sinai Temple (Los Angeles)",
   "by": "Sidney Eisenshtat; Mehrdad Yazdani with Dworsky Associates (1998 expansion)",
   "place": "Los Angeles, US",
@@ -236025,7 +238834,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Sinai Temple (Los Angeles)",
   "lead": "File:Sinai Temple, Westwood, Los Angeles.JPG",
-  "coords": null,
+  "coords": [
+   34.0663,
+   -118.429
+  ],
   "hotlink": true,
   "images": [
    {
@@ -236058,7 +238870,7 @@ window.BUILDINGS = [
  },
  {
   "id": "smud-headquarters-building",
-  "n": 2786,
+  "n": 2783,
   "name": "SMUD Headquarters Building",
   "by": "Dreyfuss & Blackford",
   "place": "Sacramento, US",
@@ -236077,7 +238889,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:SMUD Headquarters Building",
   "lead": "SMUD HQ 1.JPG",
-  "coords": null,
+  "coords": [
+   38.55306,
+   -121.43278
+  ],
   "hotlink": true,
   "images": [
    {
@@ -236134,7 +238949,7 @@ window.BUILDINGS = [
  },
  {
   "id": "television-city",
-  "n": 2787,
+  "n": 2784,
   "name": "Television City",
   "by": "William Pereira and Charles Luckman (Pereira & Luckman)",
   "place": "Los Angeles, US",
@@ -236153,7 +238968,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:CBS Television City",
   "lead": "File:Cbs La Studio (84226019).jpeg",
-  "coords": null,
+  "coords": [
+   34.07444,
+   -118.36
+  ],
   "hotlink": true,
   "images": [
    {
@@ -236186,7 +239004,7 @@ window.BUILDINGS = [
  },
  {
   "id": "theme-building",
-  "n": 2788,
+  "n": 2785,
   "name": "Theme Building",
   "by": "Pereira & Luckman (William Pereira and Charles Luckman), with Paul Williams and Welton Becket",
   "place": "Los Angeles, US",
@@ -236205,7 +239023,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Theme Building",
   "lead": "File:Iconic LAX Theme Park Restaurant (27252068389).jpg",
-  "coords": null,
+  "coords": [
+   33.9441,
+   -118.402
+  ],
   "hotlink": true,
   "images": [
    {
@@ -236262,7 +239083,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tramway-gas-station",
-  "n": 2789,
+  "n": 2786,
   "name": "Tramway Gas Station",
   "by": "Albert Frey and Robson C. Chambers",
   "place": "Palm Springs, US",
@@ -236281,7 +239102,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Palm Springs Tramway Gas Station",
   "lead": "File:Palm Springs - Tramway Gas Station - 20150728120333.jpg",
-  "coords": null,
+  "coords": [
+   33.8584,
+   -116.558
+  ],
   "hotlink": true,
   "images": [
    {
@@ -236338,7 +239162,7 @@ window.BUILDINGS = [
  },
  {
   "id": "wayfarers-chapel",
-  "n": 2790,
+  "n": 2787,
   "name": "Wayfarers Chapel",
   "by": "Lloyd Wright",
   "place": "Rancho Palos Verdes, US",
@@ -236357,7 +239181,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Wayfarers Chapel",
   "lead": "File:Wayfarer's Chapel.jpg",
-  "coords": null,
+  "coords": [
+   33.74364,
+   -118.37775
+  ],
   "hotlink": true,
   "images": [
    {
@@ -236438,7 +239265,7 @@ window.BUILDINGS = [
  },
  {
   "id": "yerba-buena-center-for-the-arts",
-  "n": 2791,
+  "n": 2788,
   "name": "Yerba Buena Center for the Arts",
   "by": "Fumihiko Maki (Galleries and Forum); James Stewart Polshek and Todd Schliemann (Theater)",
   "place": "San Francisco, US",
@@ -236457,7 +239284,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Yerba Buena Center for the Arts",
   "lead": "File:Yerba Buena Center for the Arts, exterior, from Yerba Buena Gardens, San Francisco (May 2013).jpg",
-  "coords": null,
+  "coords": [
+   37.7854,
+   -122.402
+  ],
   "hotlink": true,
   "images": [
    {
@@ -236526,7 +239356,7 @@ window.BUILDINGS = [
  },
  {
   "id": "zellerbach-hall",
-  "n": 2792,
+  "n": 2789,
   "name": "Zellerbach Hall",
   "by": "Vernon DeMars",
   "place": "Berkeley, US",
@@ -236545,7 +239375,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Zellerbach Hall",
   "lead": "File:Berkeley Zellerbach Hall.jpg",
-  "coords": null,
+  "coords": [
+   37.8689,
+   -122.261
+  ],
   "hotlink": true,
   "images": [
    {
@@ -236602,7 +239435,7 @@ window.BUILDINGS = [
  },
  {
   "id": "koerner-house",
-  "n": 2793,
+  "n": 2790,
   "name": "Koerner House",
   "by": "E. Stewart Williams",
   "place": "Palm Springs, US",
@@ -236621,7 +239454,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Koerner House",
   "lead": "File:Koerner House 01.jpg",
-  "coords": null,
+  "coords": [
+   33.80622,
+   -116.53258
+  ],
   "hotlink": true,
   "images": [
    {
@@ -236642,7 +239478,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palm-springs-unified-school-district-educational-administrative-center",
-  "n": 2794,
+  "n": 2791,
   "name": "Palm Springs Unified School District Educational Administrative Center",
   "by": "E. Stewart Williams",
   "place": "Palm Springs, US",
@@ -236661,7 +239497,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Palm Springs Unified School District Educational Administrative Center",
   "lead": "File:Palm Springs Unified School District Educational Administrative Center.jpg",
-  "coords": null,
+  "coords": [
+   33.81897,
+   -116.51825
+  ],
   "hotlink": true,
   "images": [
    {
@@ -236706,7 +239545,7 @@ window.BUILDINGS = [
  },
  {
   "id": "santa-fe-federal-savings-and-loan-association",
-  "n": 2795,
+  "n": 2792,
   "name": "Santa Fe Federal Savings and Loan Association",
   "by": "E. Stewart Williams",
   "place": "Palm Springs, US",
@@ -236725,7 +239564,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Palm Springs Art Museum Architecture & Design Center-Edwards Harris Pavilion",
   "lead": "File:Edwards Harris Pavilion.jpg",
-  "coords": null,
+  "coords": [
+   33.81914,
+   -116.54672
+  ],
   "hotlink": true,
   "images": [
    {
@@ -236782,7 +239624,7 @@ window.BUILDINGS = [
  },
  {
   "id": "austin-city-hall",
-  "n": 2796,
+  "n": 2793,
   "name": "Austin City Hall",
   "by": "Antoine Predock; Cotera + Reed Architects",
   "place": "Austin, US",
@@ -236801,7 +239643,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Austin City Hall",
   "lead": "File:Austin August 2019 30 (Austin City Hall).jpg",
-  "coords": null,
+  "coords": [
+   30.2649,
+   -97.7472
+  ],
   "hotlink": true,
   "images": [
    {
@@ -236858,7 +239703,7 @@ window.BUILDINGS = [
  },
  {
   "id": "reunion-tower",
-  "n": 2797,
+  "n": 2794,
   "name": "Reunion Tower",
   "by": "Welton Becket & Associates",
   "place": "Dallas, US",
@@ -236877,7 +239722,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Reunion Tower",
   "lead": "File:Reunion Tower, Dallas, Texas.jpg",
-  "coords": null,
+  "coords": [
+   32.7753,
+   -96.80886
+  ],
   "hotlink": true,
   "images": [
    {
@@ -236946,7 +239794,7 @@ window.BUILDINGS = [
  },
  {
   "id": "thanks-giving-square",
-  "n": 2798,
+  "n": 2795,
   "name": "Thanks-Giving Square",
   "by": "Philip Johnson",
   "place": "Dallas, US",
@@ -236965,7 +239813,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Thanks-Giving Square",
   "lead": "File:Dallas Thanks-Giving Square 01.jpg",
-  "coords": null,
+  "coords": [
+   32.7827,
+   -96.7985
+  ],
   "hotlink": true,
   "images": [
    {
@@ -236998,7 +239849,7 @@ window.BUILDINGS = [
  },
  {
   "id": "freeway-park",
-  "n": 2799,
+  "n": 2796,
   "name": "Freeway Park",
   "by": "Lawrence Halprin & Associates (Angela Danadjieva)",
   "place": "Seattle, US",
@@ -237017,7 +239868,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Freeway Park, Seattle",
   "lead": "File:Freeway Park Seattle.jpg",
-  "coords": null,
+  "coords": [
+   47.6097,
+   -122.331
+  ],
   "hotlink": true,
   "images": [
    {
@@ -237074,7 +239928,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kingdome",
-  "n": 2800,
+  "n": 2797,
   "name": "Kingdome",
   "by": "Naramore, Skilling & Praeger",
   "place": "Seattle, US",
@@ -237093,7 +239947,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Kingdome",
   "lead": "File:Kingdome across parking lot in 1996.jpg",
-  "coords": null,
+  "coords": [
+   47.59556,
+   -122.33306
+  ],
   "hotlink": true,
   "images": [
    {
@@ -237164,7 +240021,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tacoma-dome",
-  "n": 2801,
+  "n": 2798,
   "name": "Tacoma Dome",
   "by": "Jim McGranahan and Lyn Messenger",
   "place": "Tacoma, US",
@@ -237183,7 +240040,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Tacoma Dome",
   "lead": "File:Tacoma Dome 2497.jpg",
-  "coords": null,
+  "coords": [
+   47.23667,
+   -122.42667
+  ],
   "hotlink": true,
   "images": [
    {
@@ -237216,7 +240076,7 @@ window.BUILDINGS = [
  },
  {
   "id": "aubrey-r-watzek-house",
-  "n": 2802,
+  "n": 2799,
   "name": "Aubrey R. Watzek House",
   "by": "John Yeon",
   "place": "Portland, US",
@@ -237235,7 +240095,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Aubrey R. Watzek House",
   "lead": "File:Aubrey R Watzek House 1 (Portland, Oregon).jpg",
-  "coords": null,
+  "coords": [
+   45.51517,
+   -122.7281
+  ],
   "hotlink": true,
   "images": [
    {
@@ -237280,7 +240143,7 @@ window.BUILDINGS = [
  },
  {
   "id": "eugene-city-hall",
-  "n": 2803,
+  "n": 2800,
   "name": "Eugene City Hall",
   "by": "Stafford, Morin, and Longwood",
   "place": "Eugene, US",
@@ -237299,7 +240162,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Eugene City Hall",
   "lead": "File:City Hall (Eugene, Oregon).jpg",
-  "coords": null,
+  "coords": [
+   44.0515,
+   -123.089
+  ],
   "hotlink": true,
   "images": [
    {
@@ -237356,7 +240222,7 @@ window.BUILDINGS = [
  },
  {
   "id": "chapel-of-the-holy-cross",
-  "n": 2804,
+  "n": 2801,
   "name": "Chapel of the Holy Cross",
   "by": "August K. Strotz and Richard Hein (Anshen & Allen)",
   "place": "Sedona, US",
@@ -237375,7 +240241,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Chapel of the Holy Cross (Sedona, Arizona)",
   "lead": "File:Chapel of the Holy Cross From Below.jpg",
-  "coords": null,
+  "coords": [
+   34.83202,
+   -111.76676
+  ],
   "hotlink": true,
   "images": [
    {
@@ -237432,7 +240301,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tempe-municipal-building",
-  "n": 2805,
+  "n": 2802,
   "name": "Tempe Municipal Building",
   "by": "Rolf Osland, Michael Goodwin, and Kemper Goodwin",
   "place": "Tempe, US",
@@ -237451,7 +240320,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Tempe Municipal Building",
   "lead": "File:Tempe Municipal Building-2.jpg",
-  "coords": null,
+  "coords": [
+   33.4249,
+   -111.938
+  ],
   "hotlink": true,
   "images": [
    {
@@ -237532,7 +240404,7 @@ window.BUILDINGS = [
  },
  {
   "id": "dennis-chavez-federal-building",
-  "n": 2806,
+  "n": 2803,
   "name": "Dennis Chavez Federal Building",
   "by": "Flatow, Moore, Bryan, and Fairburn",
   "place": "Albuquerque, US",
@@ -237551,7 +240423,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Dennis Chavez Federal Building",
   "lead": "File:Dennis Chavez Federal Building Albuquerque 2017.jpg",
-  "coords": null,
+  "coords": [
+   35.0835,
+   -106.653
+  ],
   "hotlink": true,
   "images": [
    {
@@ -237584,7 +240459,7 @@ window.BUILDINGS = [
  },
  {
   "id": "albuquerque-main-library",
-  "n": 2807,
+  "n": 2804,
   "name": "Albuquerque Main Library",
   "by": "George Pearl (Stevens, Mallory, Pearl and Campbell)",
   "place": "Albuquerque, US",
@@ -237636,7 +240511,7 @@ window.BUILDINGS = [
  },
  {
   "id": "solar-building-albuquerque",
-  "n": 2808,
+  "n": 2805,
   "name": "Solar Building",
   "by": "Stanley & Wright",
   "place": "Albuquerque, US",
@@ -237655,7 +240530,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Solar Building",
   "lead": "File:Solar Building, Albuquerque NM.jpg",
-  "coords": null,
+  "coords": [
+   35.08083,
+   -106.58778
+  ],
   "hotlink": true,
   "images": [
    {
@@ -237700,7 +240578,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hoffmantown-baptist-church",
-  "n": 2809,
+  "n": 2806,
   "name": "Hoffmantown Baptist Church",
   "by": "Kruger, Lake and Henderson",
   "place": "Albuquerque, US",
@@ -237719,7 +240597,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Hoffmantown Baptist Church",
   "lead": "File:Former Hoffmantown Baptist Church Albuquerque.jpg",
-  "coords": null,
+  "coords": [
+   35.11083,
+   -106.55111
+  ],
   "hotlink": true,
   "images": [
    {
@@ -237740,7 +240621,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bullitt-center",
-  "n": 2810,
+  "n": 2807,
   "name": "Bullitt Center",
   "by": "Miller Hull",
   "place": "Seattle, US",
@@ -237759,7 +240640,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Bullitt Center",
   "lead": "File:Seattle - Bullitt Center 01.jpg",
-  "coords": null,
+  "coords": [
+   47.6143,
+   -122.312
+  ],
   "hotlink": true,
   "images": [
    {
@@ -237804,7 +240688,7 @@ window.BUILDINGS = [
  },
  {
   "id": "fort-worth-water-gardens",
-  "n": 2811,
+  "n": 2808,
   "name": "Fort Worth Water Gardens",
   "by": "Philip Johnson and John Burgee",
   "place": "Fort Worth, US",
@@ -237823,7 +240707,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Fort Worth Water Gardens",
   "lead": "File:Fort Worth Water Gardens 01.jpg",
-  "coords": null,
+  "coords": [
+   32.74778,
+   -97.32667
+  ],
   "hotlink": true,
   "images": [
    {
@@ -237880,7 +240767,7 @@ window.BUILDINGS = [
  },
  {
   "id": "nasher-sculpture-center",
-  "n": 2812,
+  "n": 2809,
   "name": "Nasher Sculpture Center",
   "by": "Renzo Piano; Peter Walker (garden)",
   "place": "Dallas, US",
@@ -237899,7 +240786,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Nasher Sculpture Center",
   "lead": "File:Nasher Sculpture Center August 2017 1.jpg",
-  "coords": null,
+  "coords": [
+   32.7881,
+   -96.79994
+  ],
   "hotlink": true,
   "images": [
    {
@@ -237944,7 +240834,7 @@ window.BUILDINGS = [
  },
  {
   "id": "wyly-theatre",
-  "n": 2813,
+  "n": 2810,
   "name": "Dee and Charles Wyly Theatre",
   "by": "Joshua Prince-Ramus and Rem Koolhaas (REX | OMA)",
   "place": "Dallas, US",
@@ -237963,7 +240853,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Wyly Theatre (Dallas)",
   "lead": "File:Dallas Wyly Theatre 03.jpg",
-  "coords": null,
+  "coords": [
+   32.7899,
+   -96.7964
+  ],
   "hotlink": true,
   "images": [
    {
@@ -238020,7 +240913,7 @@ window.BUILDINGS = [
  },
  {
   "id": "clyfford-still-museum",
-  "n": 2814,
+  "n": 2811,
   "name": "Clyfford Still Museum",
   "by": "Allied Works Architecture (Brad Cloepfil)",
   "place": "Denver, US",
@@ -238039,7 +240932,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Clyfford Still Museum",
   "lead": "File:Clyfford Still Museum by CSM staff.jpg",
-  "coords": null,
+  "coords": [
+   39.73611,
+   -104.98972
+  ],
   "hotlink": true,
   "images": [
    {
@@ -238084,7 +240980,7 @@ window.BUILDINGS = [
  },
  {
   "id": "olympic-sculpture-park",
-  "n": 2815,
+  "n": 2812,
   "name": "Olympic Sculpture Park",
   "by": "Weiss/Manfredi",
   "place": "Seattle, US",
@@ -238103,7 +240999,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Olympic Sculpture Park",
   "lead": "File:Olympic Sculpture Park Seattle seen from waterfront.JPG",
-  "coords": null,
+  "coords": [
+   47.61676,
+   -122.3553
+  ],
   "hotlink": true,
   "images": [
    {
@@ -238148,7 +241047,7 @@ window.BUILDINGS = [
  },
  {
   "id": "oregon-convention-center",
-  "n": 2816,
+  "n": 2813,
   "name": "Oregon Convention Center",
   "by": "Zimmer Gunsul Frasca Architects (ZGF)",
   "place": "Portland, US",
@@ -238167,7 +241066,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Oregon Convention Center",
   "lead": "File:Exterior1 (30778316935).jpg",
-  "coords": null,
+  "coords": [
+   45.5286,
+   -122.663
+  ],
   "hotlink": true,
   "images": [
    {
@@ -238224,7 +241126,7 @@ window.BUILDINGS = [
  },
  {
   "id": "benaroya-hall",
-  "n": 2817,
+  "n": 2814,
   "name": "Benaroya Hall",
   "by": "LMN Architects",
   "place": "Seattle, US",
@@ -238243,7 +241145,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Benaroya Hall",
   "lead": "File:Benaroya Hall, Seattle, Washington, USA.jpg",
-  "coords": null,
+  "coords": [
+   47.6081,
+   -122.337
+  ],
   "hotlink": true,
   "images": [
    {
@@ -238288,7 +241193,7 @@ window.BUILDINGS = [
  },
  {
   "id": "henry-art-gallery",
-  "n": 2818,
+  "n": 2815,
   "name": "Henry Art Gallery",
   "by": "Bebb and Gould; Gwathmey Siegel & Associates (expansion)",
   "place": "Seattle, US",
@@ -238307,7 +241212,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Henry Art Gallery",
   "lead": "File:Henry Art Gallery 01.jpg",
-  "coords": null,
+  "coords": [
+   47.6564,
+   -122.312
+  ],
   "hotlink": true,
   "images": [
    {
@@ -238364,7 +241272,7 @@ window.BUILDINGS = [
  },
  {
   "id": "norton-simon-museum",
-  "n": 2819,
+  "n": 2816,
   "name": "Norton Simon Museum",
   "by": "Thornton Ladd and John Kelsey (Ladd & Kelsey)",
   "place": "Pasadena, US",
@@ -238383,7 +241291,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Norton Simon Museum",
   "lead": "File:Norton Simon Museum entrance 01.jpg",
-  "coords": null,
+  "coords": [
+   34.14623,
+   -118.15916
+  ],
   "hotlink": true,
   "images": [
    {
@@ -238452,7 +241363,7 @@ window.BUILDINGS = [
  },
  {
   "id": "jacobs-medical-center",
-  "n": 2820,
+  "n": 2817,
   "name": "Jacobs Medical Center",
   "by": "CannonDesign",
   "place": "La Jolla, US",
@@ -238471,7 +241382,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Jacobs Medical Center",
   "lead": "File:Jacobs Medical Center southwest.jpg",
-  "coords": null,
+  "coords": [
+   32.8777,
+   -117.2265
+  ],
   "hotlink": true,
   "images": [
    {
@@ -238528,7 +241442,7 @@ window.BUILDINGS = [
  },
  {
   "id": "burnside-hall",
-  "n": 2821,
+  "n": 2818,
   "name": "Burnside Hall",
   "by": "Marshall, Merrett and Associates",
   "place": "Montréal, CA",
@@ -238547,7 +241461,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Burnside Hall",
   "lead": "File:Burnside Hall 01.jpg",
-  "coords": null,
+  "coords": [
+   45.5047,
+   -73.5749
+  ],
   "hotlink": true,
   "images": [
    {
@@ -238592,7 +241509,7 @@ window.BUILDINGS = [
  },
  {
   "id": "confederation-centre-of-the-arts",
-  "n": 2822,
+  "n": 2819,
   "name": "Confederation Centre of the Arts",
   "by": "Ray Affleck, Hazen Sise, Dimitri Dimakopoulos (Arcop)",
   "place": "Charlottetown, CA",
@@ -238611,7 +241528,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Confederation Centre of the Arts",
   "lead": "File:Confederation Centre of the Art in Prince Edward Island (November 2023).jpg",
-  "coords": null,
+  "coords": [
+   46.23449,
+   -63.1269
+  ],
   "hotlink": true,
   "images": [
    {
@@ -238656,7 +241576,7 @@ window.BUILDINGS = [
  },
  {
   "id": "macmillan-bloedel-building",
-  "n": 2823,
+  "n": 2820,
   "name": "MacMillan Bloedel Building",
   "by": "Arthur Erickson (Erickson/Massey Architects)",
   "place": "Vancouver, CA",
@@ -238675,7 +241595,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:MacMillan Bloedel Building",
   "lead": "File:MacMillan Bloedel Building 1075 West Georgia Vancouver BC CA IM2 0773.JPG",
-  "coords": null,
+  "coords": [
+   49.2858,
+   -123.1223
+  ],
   "hotlink": true,
   "images": [
    {
@@ -238708,7 +241631,7 @@ window.BUILDINGS = [
  },
  {
   "id": "maison-de-radio-canada",
-  "n": 2824,
+  "n": 2821,
   "name": "Maison de Radio-Canada",
   "by": "Tore Björnstad",
   "place": "Montréal, CA",
@@ -238727,7 +241650,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Maison Radio-Canada",
   "lead": "File:Maison Radio-Canada.jpg",
-  "coords": null,
+  "coords": [
+   45.518,
+   -73.551
+  ],
   "hotlink": true,
   "images": [
    {
@@ -238810,7 +241736,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lester-b-pearson-building",
-  "n": 2825,
+  "n": 2822,
   "name": "Lester B. Pearson Building",
   "by": "WZMH Architects",
   "place": "Ottawa, CA",
@@ -238829,7 +241755,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Lester B. Pearson Building",
   "lead": "File:Lester B. Pearson Building in 2026.jpg",
-  "coords": null,
+  "coords": [
+   45.43698,
+   -75.69605
+  ],
   "hotlink": true,
   "images": [
    {
@@ -238910,7 +241839,7 @@ window.BUILDINGS = [
  },
  {
   "id": "theatre-maisonneuve",
-  "n": 2826,
+  "n": 2823,
   "name": "Théâtre Maisonneuve",
   "by": "David & Boulva",
   "place": "Montréal, CA",
@@ -238929,7 +241858,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Théâtre Maisonneuve",
   "lead": "File:Théâtre Maisonneuve.jpg",
-  "coords": null,
+  "coords": [
+   45.50841,
+   -73.56576
+  ],
   "hotlink": true,
   "images": [
    {
@@ -238998,7 +241930,7 @@ window.BUILDINGS = [
  },
  {
   "id": "roy-thomson-hall",
-  "n": 2827,
+  "n": 2824,
   "name": "Roy Thomson Hall",
   "by": "Arthur Erickson, Mathers and Haldenby",
   "place": "Toronto, CA",
@@ -239017,7 +241949,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Roy Thomson Hall",
   "lead": "File:Roy Thomson Hall, Toronto, Ontario, 2025-08-25.jpg",
-  "coords": null,
+  "coords": [
+   43.6466,
+   -79.3864
+  ],
   "hotlink": true,
   "images": [
    {
@@ -239074,7 +242009,7 @@ window.BUILDINGS = [
  },
  {
   "id": "remai-modern",
-  "n": 2828,
+  "n": 2825,
   "name": "Remai Modern",
   "by": "Bruce Kuwabara (KPMB Architects) with Architecture49",
   "place": "Saskatoon, CA",
@@ -239093,7 +242028,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Remai Modern",
   "lead": "File:Remai Art Gallery Exterior (42300899864).jpg",
-  "coords": null,
+  "coords": [
+   52.12295,
+   -106.66707
+  ],
   "hotlink": true,
   "images": [
    {
@@ -239149,72 +242087,8 @@ window.BUILDINGS = [
   "gv": 3
  },
  {
-  "id": "halifax-central-library",
-  "n": 2829,
-  "name": "Halifax Central Library",
-  "by": "Schmidt Hammer Lassen with Fowler Bauld & Mitchell",
-  "place": "Halifax, CA",
-  "year": "2014",
-  "y": 2014,
-  "type": "Library",
-  "movement": "Contemporary",
-  "region": "Americas",
-  "era": "2005–today",
-  "concepts": [
-   "Public space",
-   "Circulation",
-   "Steel & glass"
-  ],
-  "study": "Flagship public library at Spring Garden Road and Queen Street; opened December 2014.",
-  "qid": null,
-  "commons": "Category:Halifax Central Library",
-  "lead": "File:Central library, Halifax - geograph.org.uk - 4781238.jpg",
-  "coords": null,
-  "hotlink": true,
-  "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Central_library%2C_Halifax_-_geograph.org.uk_-_4781238.jpg/1280px-Central_library%2C_Halifax_-_geograph.org.uk_-_4781238.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/halifax-central-library/thumbs/0.webp",
-    "w": 1280,
-    "h": 857,
-    "kind": "Exterior",
-    "caption": "Exterior · Central library, Halifax",
-    "credit": "stalked",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Central_library,_Halifax_-_geograph.org.uk_-_4781238.jpg",
-    "file": "File:Central library, Halifax - geograph.org.uk - 4781238.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Halifax_central_library.jpg/1280px-Halifax_central_library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/halifax-central-library/thumbs/1.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Halifax central library, Halifax, West Yorkshire",
-    "credit": "Mtaylor848",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Halifax_central_library.jpg",
-    "file": "File:Halifax central library.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Trinity_Sixth_Form_Academy%2C_Market_Street%2C_Halifax%2C_West_Yorkshire_%2811th_February_2023%29.jpg/1280px-Trinity_Sixth_Form_Academy%2C_Market_Street%2C_Halifax%2C_West_Yorkshire_%2811th_February_2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/halifax-central-library/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Context",
-    "caption": "Context · Trinity Sixth Form Academy, Market Street, Halifax, West Yorkshire",
-    "credit": "Mtaylor848",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Trinity_Sixth_Form_Academy,_Market_Street,_Halifax,_West_Yorkshire_(11th_February_2023).jpg",
-    "file": "File:Trinity Sixth Form Academy, Market Street, Halifax, West Yorkshire (11th February 2023).jpg"
-   }
-  ],
-  "has": [],
-  "gv": 3
- },
- {
   "id": "grande-bibliotheque",
-  "n": 2830,
+  "n": 2826,
   "name": "Grande Bibliothèque",
   "by": "Patkau Architects with Croft-Pelletier",
   "place": "Montréal, CA",
@@ -239233,7 +242107,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Grande Bibliothèque",
   "lead": "Entrance corridor, Grande Bibliothèque, May 28, 2023.jpg",
-  "coords": null,
+  "coords": [
+   45.5156,
+   -73.5625
+  ],
   "hotlink": true,
   "images": [
    {
@@ -239278,7 +242155,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mississauga-civic-centre",
-  "n": 2831,
+  "n": 2827,
   "name": "Mississauga Civic Centre",
   "by": "Jones and Kirkland",
   "place": "Mississauga, CA",
@@ -239297,7 +242174,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Mississauga Civic Centre",
   "lead": "File:Mississauga Civic Centre (1).jpg",
-  "coords": null,
+  "coords": [
+   43.5884,
+   -79.6444
+  ],
   "hotlink": true,
   "images": [
    {
@@ -239354,7 +242234,7 @@ window.BUILDINGS = [
  },
  {
   "id": "igloo-church-inuvik",
-  "n": 2832,
+  "n": 2828,
   "name": "Our Lady of Victory Church (Igloo Church)",
   "by": "Maurice Larocque",
   "place": "Inuvik, CA",
@@ -239373,7 +242253,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Our Lady Of Victory Church (Inuvik)",
   "lead": "File:Our Lady of Victory Church, Inuvik, NT, in late-evening sunlight.jpg",
-  "coords": null,
+  "coords": [
+   68.3578,
+   -133.722
+  ],
   "hotlink": true,
   "images": [
    {
@@ -239442,7 +242325,7 @@ window.BUILDINGS = [
  },
  {
   "id": "supreme-court-of-canada-building",
-  "n": 2833,
+  "n": 2829,
   "name": "Supreme Court of Canada Building",
   "by": "Ernest Cormier",
   "place": "Ottawa, CA",
@@ -239461,7 +242344,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Supreme Court of Canada Building",
   "lead": "File:DSC02755 - Supreme Court of Canada (43079299850).jpg",
-  "coords": null,
+  "coords": [
+   45.42182,
+   -75.70542
+  ],
   "hotlink": true,
   "images": [
    {
@@ -239542,7 +242428,7 @@ window.BUILDINGS = [
  },
  {
   "id": "edmonton-city-hall",
-  "n": 2834,
+  "n": 2830,
   "name": "Edmonton City Hall",
   "by": "Dub Architects",
   "place": "Edmonton, CA",
@@ -239561,7 +242447,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Edmonton City Hall",
   "lead": "File:Edmonton City Hall, Edmonton, Alberta, 2026-09-27 02.jpg",
-  "coords": null,
+  "coords": [
+   53.54556,
+   -113.49028
+  ],
   "hotlink": true,
   "images": [
    {
@@ -239594,7 +242483,7 @@ window.BUILDINGS = [
  },
  {
   "id": "peace-bridge-calgary",
-  "n": 2835,
+  "n": 2831,
   "name": "Peace Bridge",
   "by": "Santiago Calatrava",
   "place": "Calgary, CA",
@@ -239613,7 +242502,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Peace Bridge (Calgary)",
   "lead": "File:Calgary Peace Bridge during the day May 2012.jpg",
-  "coords": null,
+  "coords": [
+   51.0539,
+   -114.079
+  ],
   "hotlink": true,
   "images": [
    {
@@ -239670,7 +242562,7 @@ window.BUILDINGS = [
  },
  {
   "id": "monumento-a-la-revolucion",
-  "n": 2836,
+  "n": 2832,
   "name": "Monumento a la Revolución",
   "by": "Émile Bénard, Carlos Obregón Santacilia",
   "place": "Mexico City, MX",
@@ -239689,7 +242581,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Monumento a la Revolución (México)",
   "lead": "File:Monumento a la revolucion2020.jpg",
-  "coords": null,
+  "coords": [
+   19.43618,
+   -99.15463
+  ],
   "hotlink": true,
   "images": [
    {
@@ -239761,7 +242656,7 @@ window.BUILDINGS = [
  },
  {
   "id": "torre-del-reformador",
-  "n": 2837,
+  "n": 2833,
   "name": "Torre del Reformador",
   "by": "Arturo Bickford",
   "place": "Guatemala City, GT",
@@ -239780,7 +242675,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Torre del Reformador, Guatemala",
   "lead": "File:Torre del Reformador Fabriccio Díaz.jpg",
-  "coords": null,
+  "coords": [
+   14.61303,
+   -90.5168
+  ],
   "hotlink": true,
   "images": [
    {
@@ -239837,7 +242735,7 @@ window.BUILDINGS = [
  },
  {
   "id": "capitolio-de-puerto-rico",
-  "n": 2838,
+  "n": 2834,
   "name": "Capitol of Puerto Rico",
   "by": "Rafael Carmoega",
   "place": "San Juan, PR",
@@ -239856,7 +242754,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Capitol of Puerto Rico",
   "lead": "File:Capitolio de Puerto Rico (28755163211).jpg",
-  "coords": null,
+  "coords": [
+   18.46667,
+   -66.10583
+  ],
   "hotlink": true,
   "images": [
    {
@@ -239937,7 +242838,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hotel-nacional-de-cuba",
-  "n": 2839,
+  "n": 2835,
   "name": "Hotel Nacional de Cuba",
   "by": "McKim, Mead and White",
   "place": "Havana, CU",
@@ -239956,7 +242857,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Hotel Nacional de Cuba",
   "lead": "File:Отель Nacional de Cuba - panoramio.jpg",
-  "coords": null,
+  "coords": [
+   23.14306,
+   -82.38056
+  ],
   "hotlink": true,
   "images": [
    {
@@ -240015,7 +242919,7 @@ window.BUILDINGS = [
  },
  {
   "id": "gran-teatro-de-la-habana",
-  "n": 2840,
+  "n": 2836,
   "name": "Gran Teatro de La Habana",
   "by": "Paul Belau",
   "place": "Havana, CU",
@@ -240034,7 +242938,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Gran Teatro de La Habana",
   "lead": "File:Gran Teatro de La Habana (23488369999).jpg",
-  "coords": null,
+  "coords": [
+   23.13683,
+   -82.3596
+  ],
   "hotlink": true,
   "images": [
    {
@@ -240103,7 +243010,7 @@ window.BUILDINGS = [
  },
  {
   "id": "saint-josephs-oratory",
-  "n": 2841,
+  "n": 2837,
   "name": "Saint Joseph's Oratory",
   "by": "Dalbé Viau, Alphonse Venne, Lucien Parent, Dom Paul Bellot",
   "place": "Montréal, CA",
@@ -240122,7 +243029,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Saint Joseph's Oratory of Mount-Royal",
   "lead": "File:Oratoire St-Joseph 2016 2.jpg",
-  "coords": null,
+  "coords": [
+   45.49167,
+   -73.61667
+  ],
   "hotlink": true,
   "images": [
    {
@@ -240217,7 +243127,7 @@ window.BUILDINGS = [
  },
  {
   "id": "chateau-frontenac",
-  "n": 2842,
+  "n": 2838,
   "name": "Château Frontenac",
   "by": "Bruce Price",
   "place": "Quebec City, CA",
@@ -240236,7 +243146,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Château Frontenac",
   "lead": "File:Chateau Frontenac viewed from a park in Quebec City.jpg",
-  "coords": null,
+  "coords": [
+   46.81182,
+   -71.20538
+  ],
   "hotlink": true,
   "images": [
    {
@@ -240307,7 +243220,7 @@ window.BUILDINGS = [
  },
  {
   "id": "union-station-toronto",
-  "n": 2843,
+  "n": 2839,
   "name": "Union Station",
   "by": "Ross and Macdonald",
   "place": "Toronto, CA",
@@ -240326,7 +243239,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Union Station (Toronto)",
   "lead": "Front of Union Station in Toronto, April 3 2026.jpg",
-  "coords": null,
+  "coords": [
+   43.64528,
+   -79.38056
+  ],
   "hotlink": true,
   "images": [
    {
@@ -240407,7 +243323,7 @@ window.BUILDINGS = [
  },
  {
   "id": "old-city-hall-toronto",
-  "n": 2844,
+  "n": 2840,
   "name": "Old City Hall",
   "by": "E. J. Lennox",
   "place": "Toronto, CA",
@@ -240426,7 +243342,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Old City Hall, Toronto",
   "lead": "File:Frontal view of Old City Hall in Toronto.jpg",
-  "coords": null,
+  "coords": [
+   43.6525,
+   -79.38167
+  ],
   "hotlink": true,
   "images": [
    {
@@ -240498,7 +243417,7 @@ window.BUILDINGS = [
  },
  {
   "id": "quebec-parliament-building",
-  "n": 2845,
+  "n": 2841,
   "name": "Parliament Building of Quebec",
   "by": "Eugène-Étienne Taché",
   "place": "Quebec City, CA",
@@ -240517,7 +243436,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Parliament Building of Quebec",
   "lead": "File:Assemblée nationale du Québec, Canada.jpg",
-  "coords": null,
+  "coords": [
+   46.80861,
+   -71.21417
+  ],
   "hotlink": true,
   "images": [
    {
@@ -240550,7 +243472,7 @@ window.BUILDINGS = [
  },
  {
   "id": "centre-block-ottawa",
-  "n": 2846,
+  "n": 2842,
   "name": "Centre Block",
   "by": "John A. Pearson, Jean-Omer Marchand",
   "place": "Ottawa, CA",
@@ -240569,7 +243491,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Centre Block",
   "lead": "File:Parliament Hill - Ottawa, Ontario, Canada - Ca. July 1990.jpg",
-  "coords": null,
+  "coords": [
+   45.425,
+   -75.69972
+  ],
   "hotlink": true,
   "images": [
    {
@@ -240664,7 +243589,7 @@ window.BUILDINGS = [
  },
  {
   "id": "rogers-centre",
-  "n": 2847,
+  "n": 2843,
   "name": "Rogers Centre",
   "by": "Rod Robbie (Robbie Adjeleian NORR Consortium)",
   "place": "Toronto, CA",
@@ -240683,7 +243608,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Rogers Centre",
   "lead": "Rogers Centre.jpg",
-  "coords": null,
+  "coords": [
+   43.64139,
+   -79.38917
+  ],
   "hotlink": true,
   "images": [
    {
@@ -240752,7 +243680,7 @@ window.BUILDINGS = [
  },
  {
   "id": "calgary-city-hall",
-  "n": 2848,
+  "n": 2844,
   "name": "Calgary City Hall",
   "by": "William M. Dodd",
   "place": "Calgary, CA",
@@ -240771,7 +243699,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Calgary City Hall",
   "lead": "File:Calgary City Hall, Calgary, Alberta, 2025-07-14 04.jpg",
-  "coords": null,
+  "coords": [
+   51.046,
+   -114.057
+  ],
   "hotlink": true,
   "images": [
    {
@@ -240816,7 +243747,7 @@ window.BUILDINGS = [
  },
  {
   "id": "william-g-davis-building",
-  "n": 2849,
+  "n": 2845,
   "name": "William G. Davis Building",
   "by": "Raymond Moriyama",
   "place": "Mississauga, CA",
@@ -240835,7 +243766,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:William G. Davis Building",
   "lead": "File:William G. Davis Building.jpg",
-  "coords": null,
+  "coords": [
+   43.54862,
+   -79.66152
+  ],
   "hotlink": true,
   "images": [
    {
@@ -240916,7 +243850,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hamilton-city-hall",
-  "n": 2850,
+  "n": 2846,
   "name": "Hamilton City Hall",
   "by": "Stanley Roscoe",
   "place": "Hamilton, CA",
@@ -240935,7 +243869,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Hamilton City Hall",
   "lead": "File:Hamilton City Hall in Hamilton, Ontario, from Commonwealth Square.jpg",
-  "coords": null,
+  "coords": [
+   43.2555,
+   -79.8733
+  ],
   "hotlink": true,
   "images": [
    {
@@ -240980,7 +243917,7 @@ window.BUILDINGS = [
  },
  {
   "id": "plaza-de-las-tres-culturas",
-  "n": 2851,
+  "n": 2847,
   "name": "Plaza de las Tres Culturas",
   "by": "Mario Pani",
   "place": "Mexico City, MX",
@@ -240999,7 +243936,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Plaza de las Tres Culturas, Tlatelolco",
   "lead": "File:Danzantes en la Plaza de las Tres Culturas, Tlatelolco.jpg",
-  "coords": null,
+  "coords": [
+   19.45167,
+   -99.13611
+  ],
   "hotlink": true,
   "images": [
    {
@@ -241032,7 +243972,7 @@ window.BUILDINGS = [
  },
  {
   "id": "teatro-nacional-de-panama",
-  "n": 2852,
+  "n": 2848,
   "name": "National Theatre of Panama",
   "by": "Genaro Ruggieri",
   "place": "Panama City, PA",
@@ -241051,7 +243991,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:National Theatre of Panama",
   "lead": "File:Teatro Nacional de Panamá.jpg",
-  "coords": null,
+  "coords": [
+   8.9528,
+   -79.53317
+  ],
   "hotlink": true,
   "images": [
    {
@@ -241132,7 +244075,7 @@ window.BUILDINGS = [
  },
  {
   "id": "toronto-reference-library",
-  "n": 2853,
+  "n": 2849,
   "name": "Toronto Reference Library",
   "by": "Raymond Moriyama",
   "place": "Toronto, CA",
@@ -241151,7 +244094,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Toronto Reference Library",
   "lead": "File:Toronto Reference Library Exterior, July 29 2026.jpg",
-  "coords": null,
+  "coords": [
+   43.6718,
+   -79.3867
+  ],
   "hotlink": true,
   "images": [
    {
@@ -241232,7 +244178,7 @@ window.BUILDINGS = [
  },
  {
   "id": "groninger-museum",
-  "n": 2854,
+  "n": 2850,
   "name": "Groninger Museum",
   "by": "Alessandro Mendini, Philippe Starck, Coop Himmelb(l)au",
   "place": "Groningen, NL",
@@ -241251,7 +244197,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Groninger Museum",
   "lead": "File:Groningen, Groninger Museum vanaf de westkant IMG 4247 2023-04-02 18.01.jpg",
-  "coords": null,
+  "coords": [
+   53.21194,
+   6.56556
+  ],
   "hotlink": true,
   "images": [
    {
@@ -241332,7 +244281,7 @@ window.BUILDINGS = [
  },
  {
   "id": "erasmus-bridge-rotterdam",
-  "n": 2855,
+  "n": 2851,
   "name": "Erasmus Bridge",
   "by": "Ben van Berkel (UNStudio)",
   "place": "Rotterdam, NL",
@@ -241351,7 +244300,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Erasmus bridge",
   "lead": "File:0 8562 Rotterdam - Erasmusbrücke.jpg",
-  "coords": null,
+  "coords": [
+   51.90864,
+   4.48654
+  ],
   "hotlink": true,
   "images": [
    {
@@ -241420,7 +244372,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kunstmuseum-den-haag",
-  "n": 2856,
+  "n": 2852,
   "name": "Kunstmuseum Den Haag (Gemeentemuseum)",
   "by": "Hendrik Petrus Berlage",
   "place": "The Hague, NL",
@@ -241439,7 +244391,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Kunstmuseum Den Haag",
   "lead": "File:Kunstmuseum Den Haag.jpg",
-  "coords": null,
+  "coords": [
+   52.08972,
+   4.28056
+  ],
   "hotlink": true,
   "images": [
    {
@@ -241508,7 +244463,7 @@ window.BUILDINGS = [
  },
  {
   "id": "het-nieuwe-instituut-rotterdam",
-  "n": 2857,
+  "n": 2853,
   "name": "Het Nieuwe Instituut",
   "by": "Jo Coenen",
   "place": "Rotterdam, NL",
@@ -241527,7 +244482,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Het Nieuwe Instituut",
   "lead": "File:Architectuurinstituut Rotterdam, the Netherlands 01.jpg",
-  "coords": null,
+  "coords": [
+   51.91467,
+   4.47111
+  ],
   "hotlink": true,
   "images": [
    {
@@ -241635,7 +244593,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lijnbaan-rotterdam",
-  "n": 2858,
+  "n": 2854,
   "name": "Lijnbaan",
   "by": "Van den Broek & Bakema",
   "place": "Rotterdam, NL",
@@ -241654,7 +244612,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Lijnbaan, Rotterdam",
   "lead": "File:Rotterdam lijnbaan50-52.jpg",
-  "coords": null,
+  "coords": [
+   51.92111,
+   4.47667
+  ],
   "hotlink": true,
   "images": [
    {
@@ -241723,7 +244684,7 @@ window.BUILDINGS = [
  },
  {
   "id": "timmerhuis-rotterdam",
-  "n": 2859,
+  "n": 2855,
   "name": "Timmerhuis",
   "by": "OMA, with J.R.A. Koops (1953 building)",
   "place": "Rotterdam, NL",
@@ -241742,7 +244703,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Timmerhuis (Rotterdam)",
   "lead": "File:Rotterdam - Timmerhuis (1).jpg",
-  "coords": null,
+  "coords": [
+   51.92264,
+   4.48128
+  ],
   "hotlink": true,
   "images": [
    {
@@ -241823,7 +244787,7 @@ window.BUILDINGS = [
  },
  {
   "id": "glaspaleis-heerlen",
-  "n": 2860,
+  "n": 2856,
   "name": "Glaspaleis (Schunck)",
   "by": "Frits Peutz",
   "place": "Heerlen, NL",
@@ -241842,7 +244806,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Glaspaleis",
   "lead": "File:Glaspaleis front-east.jpg",
-  "coords": null,
+  "coords": [
+   50.88792,
+   5.97934
+  ],
   "hotlink": true,
   "images": [
    {
@@ -241923,7 +244890,7 @@ window.BUILDINGS = [
  },
  {
   "id": "peace-palace-the-hague",
-  "n": 2861,
+  "n": 2857,
   "name": "Peace Palace",
   "by": "Louis M. Cordonnier",
   "place": "The Hague, NL",
@@ -241942,7 +244909,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Peace Palace",
   "lead": "File:(NLD-South Holland) Vredespaleis 2025-06-05.jpg",
-  "coords": null,
+  "coords": [
+   52.0866,
+   4.2955
+  ],
   "hotlink": true,
   "images": [
    {
@@ -242011,7 +244981,7 @@ window.BUILDINGS = [
  },
  {
   "id": "royal-palace-amsterdam",
-  "n": 2862,
+  "n": 2858,
   "name": "Royal Palace of Amsterdam",
   "by": "Jacob van Campen",
   "place": "Amsterdam, NL",
@@ -242030,7 +245000,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Royal Palace of Amsterdam",
   "lead": "File:Royal Palace, Amsterdam (25674891383).jpg",
-  "coords": null,
+  "coords": [
+   52.37317,
+   4.89136
+  ],
   "hotlink": true,
   "images": [
    {
@@ -242125,7 +245098,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lovink-pumping-station",
-  "n": 2863,
+  "n": 2859,
   "name": "H. J. Lovink Pumping Station",
   "by": "Dirk Roosenburg",
   "place": "Biddinghuizen, NL",
@@ -242144,7 +245117,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Gemaal Lovink",
   "lead": "File:Gemaal Lovink.jpg",
-  "coords": null,
+  "coords": [
+   52.37111,
+   5.615
+  ],
   "hotlink": true,
   "images": [
    {
@@ -242201,7 +245177,7 @@ window.BUILDINGS = [
  },
  {
   "id": "blauwe-theehuis-vondelpark",
-  "n": 2864,
+  "n": 2860,
   "name": "Blauwe Theehuis",
   "by": "H.A.J. Baanders and Jan Baanders",
   "place": "Amsterdam, NL",
@@ -242220,7 +245196,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Blauwe Theehuis",
   "lead": "File:'t Blauwe Theehuis - panoramio.jpg",
-  "coords": null,
+  "coords": [
+   52.35885,
+   4.87258
+  ],
   "hotlink": true,
   "images": [
    {
@@ -242277,7 +245256,7 @@ window.BUILDINGS = [
  },
  {
   "id": "scheepvaarthuis-amsterdam",
-  "n": 2865,
+  "n": 2861,
   "name": "Scheepvaarthuis",
   "by": "Johan van der Mey, with Michel de Klerk and Piet Kramer",
   "place": "Amsterdam, NL",
@@ -242296,7 +245275,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Scheepvaarthuis",
   "lead": "File:2024 Grand Hotel Amrâth gf71.jpg",
-  "coords": null,
+  "coords": [
+   52.37436,
+   4.90411
+  ],
   "hotlink": true,
   "images": [
    {
@@ -242377,7 +245359,7 @@ window.BUILDINGS = [
  },
  {
   "id": "museum-aan-de-stroom-antwerp",
-  "n": 2866,
+  "n": 2862,
   "name": "Museum aan de Stroom (MAS)",
   "by": "Neutelings Riedijk Architects",
   "place": "Antwerp, BE",
@@ -242396,7 +245378,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Museum aan de Stroom",
   "lead": "File:MAS - Museum aan de Stroom FotoThalerTamas2.jpg",
-  "coords": null,
+  "coords": [
+   51.22892,
+   4.40467
+  ],
   "hotlink": true,
   "images": [
    {
@@ -242441,7 +245426,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sacred-heart-basilica-koekelberg",
-  "n": 2867,
+  "n": 2863,
   "name": "National Basilica of the Sacred Heart",
   "by": "Albert Van Huffel (completed by Paul Rome)",
   "place": "Brussels, BE",
@@ -242460,7 +245445,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Basilica of the Sacred Heart (Brussels)",
   "lead": "File:1001 Basilica of the Sacred Heart in Brussels Photo by Giles Laurent.jpg",
-  "coords": null,
+  "coords": [
+   50.86667,
+   4.31722
+  ],
   "hotlink": true,
   "images": [
    {
@@ -242517,7 +245505,7 @@ window.BUILDINGS = [
  },
  {
   "id": "europa-building-brussels",
-  "n": 2868,
+  "n": 2864,
   "name": "Europa building",
   "by": "Philippe Samyn and Partners, with Studio Valle (Michel Polak's Résidence Palace)",
   "place": "Brussels, BE",
@@ -242536,7 +245524,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Europa building",
   "lead": "File:2017-10-17-bruessel-europaviertel-Europa-01.jpg",
-  "coords": null,
+  "coords": [
+   50.8425,
+   4.38083
+  ],
   "hotlink": true,
   "images": [
    {
@@ -242605,7 +245596,7 @@ window.BUILDINGS = [
  },
  {
   "id": "flagey-building-brussels",
-  "n": 2869,
+  "n": 2865,
   "name": "Flagey Building (Radio House)",
   "by": "Joseph Diongre",
   "place": "Brussels, BE",
@@ -242624,7 +245615,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Flagey",
   "lead": "File:Brussel Flagey 01.jpg",
-  "coords": null,
+  "coords": [
+   50.82687,
+   4.37313
+  ],
   "hotlink": true,
   "images": [
    {
@@ -242681,7 +245675,7 @@ window.BUILDINGS = [
  },
  {
   "id": "boerentoren-antwerp",
-  "n": 2870,
+  "n": 2866,
   "name": "Boerentoren (KBC Tower)",
   "by": "Jan Vanhoenacker, Émile Van Averbeke, Jos Smolderen",
   "place": "Antwerp, BE",
@@ -242700,7 +245694,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Boerentoren (Antwerp)",
   "lead": "File:1920's Skyscraper - panoramio.jpg",
-  "coords": null,
+  "coords": [
+   51.21864,
+   4.40408
+  ],
   "hotlink": true,
   "images": [
    {
@@ -242757,7 +245754,7 @@ window.BUILDINGS = [
  },
  {
   "id": "antwerpen-centraal-station",
-  "n": 2871,
+  "n": 2867,
   "name": "Antwerpen-Centraal railway station",
   "by": "Louis Delacenserie",
   "place": "Antwerp, BE",
@@ -242776,7 +245773,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Antwerp Central Station",
   "lead": "File:Bahnhof Antwerpen-Centraal.jpg",
-  "coords": null,
+  "coords": [
+   51.21694,
+   4.42111
+  ],
   "hotlink": true,
   "images": [
    {
@@ -242833,7 +245833,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cinquantenaire-arcade-brussels",
-  "n": 2872,
+  "n": 2868,
   "name": "Cinquantenaire Arcade",
   "by": "Gédéon Bordiau, Charles Girault",
   "place": "Brussels, BE",
@@ -242852,7 +245852,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Arcade du Cinquantenaire",
   "lead": "File:2009-05-21 Arcade du Cinquantenaire.jpg",
-  "coords": null,
+  "coords": [
+   50.84055,
+   4.39299
+  ],
   "hotlink": true,
   "images": [
    {
@@ -242921,7 +245924,7 @@ window.BUILDINGS = [
  },
  {
   "id": "royal-greenhouses-laeken",
-  "n": 2873,
+  "n": 2869,
   "name": "Royal Greenhouses of Laeken",
   "by": "Alphonse Balat (later Henri Maquet, Charles Girault)",
   "place": "Brussels, BE",
@@ -242940,7 +245943,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Laeken Royal Greenhouses",
   "lead": "File:Laeken Royal Greenhouses (6).jpg",
-  "coords": null,
+  "coords": [
+   50.88833,
+   4.36028
+  ],
   "hotlink": true,
   "images": [
    {
@@ -243021,7 +246027,7 @@ window.BUILDINGS = [
  },
  {
   "id": "m-museum-leuven",
-  "n": 2874,
+  "n": 2870,
   "name": "M – Museum Leuven",
   "by": "Stéphane Beel",
   "place": "Leuven, BE",
@@ -243040,7 +246046,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:M Leuven",
   "lead": "File:20091015 leuven museum1.jpg",
-  "coords": null,
+  "coords": [
+   50.87889,
+   4.70444
+  ],
   "hotlink": true,
   "images": [
    {
@@ -243121,7 +246130,7 @@ window.BUILDINGS = [
  },
  {
   "id": "leuven-town-hall",
-  "n": 2875,
+  "n": 2871,
   "name": "Leuven Town Hall",
   "by": "Sulpitius van Vorst, Jan Keldermans II, Matheus de Layens",
   "place": "Leuven, BE",
@@ -243140,7 +246149,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Town hall of Leuven",
   "lead": "File:20091015 leuven stadhuis3.jpg",
-  "coords": null,
+  "coords": [
+   50.87889,
+   4.70111
+  ],
   "hotlink": true,
   "images": [
    {
@@ -243197,7 +246209,7 @@ window.BUILDINGS = [
  },
  {
   "id": "royal-museum-central-africa-tervuren",
-  "n": 2876,
+  "n": 2872,
   "name": "Royal Museum for Central Africa (AfricaMuseum)",
   "by": "Charles Girault (2018 renovation: Stéphane Beel Architects)",
   "place": "Tervuren, BE",
@@ -243216,7 +246228,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Royal Museum for Central Africa",
   "lead": "File:AfricaMuseum in Tervuren (Belgium).jpg",
-  "coords": null,
+  "coords": [
+   50.83089,
+   4.5185
+  ],
   "hotlink": true,
   "images": [
    {
@@ -243273,7 +246288,7 @@ window.BUILDINGS = [
  },
  {
   "id": "grand-theatre-luxembourg",
-  "n": 2877,
+  "n": 2873,
   "name": "Grand Théâtre de Luxembourg",
   "by": "Alain Bourbonnais",
   "place": "Luxembourg City, LU",
@@ -243292,7 +246307,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Grand théâtre de la ville de Luxembourg",
   "lead": "File:Luxembourg, fontaine parvis Grand Théâtre (blurred).jpg",
-  "coords": null,
+  "coords": [
+   49.61787,
+   6.12788
+  ],
   "hotlink": true,
   "images": [
    {
@@ -243337,7 +246355,7 @@ window.BUILDINGS = [
  },
  {
   "id": "museum-de-fundatie-zwolle",
-  "n": 2878,
+  "n": 2874,
   "name": "Museum de Fundatie",
   "by": "Bierman Henket architecten (extension); Eduard Louis de Coninck (1841 court building)",
   "place": "Zwolle, NL",
@@ -243356,7 +246374,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Museum de Fundatie",
   "lead": "File:Basiliek van Onze-Lieve-Vrouw-Tenhemelopneming - Zwolle - View from the tower towards the southeast - De Fundatie.jpg",
-  "coords": null,
+  "coords": [
+   52.51019,
+   6.09128
+  ],
   "hotlink": true,
   "images": [
    {
@@ -243425,7 +246446,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tuschinski-theatre-amsterdam",
-  "n": 2879,
+  "n": 2875,
   "name": "Tuschinski Theatre",
   "by": "Hijman Louis de Jong",
   "place": "Amsterdam, NL",
@@ -243444,7 +246465,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Tuschinski Theater",
   "lead": "File:Tuschinski Theater-Amsterdam-2025-msu-9137.jpg",
-  "coords": null,
+  "coords": [
+   52.36611,
+   4.89444
+  ],
   "hotlink": true,
   "images": [
    {
@@ -243513,7 +246537,7 @@ window.BUILDINGS = [
  },
  {
   "id": "eye-filmmuseum-amsterdam",
-  "n": 2880,
+  "n": 2876,
   "name": "Eye Filmmuseum",
   "by": "Delugan Meissl Associated Architects",
   "place": "Amsterdam, NL",
@@ -243532,7 +246556,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:EYE Film Institute Netherlands",
   "lead": "File:Amsterdam 10.04.2012 - panoramio (11).jpg",
-  "coords": null,
+  "coords": [
+   52.38441,
+   4.90059
+  ],
   "hotlink": true,
   "images": [
    {
@@ -243553,7 +246580,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cauchie-house-brussels",
-  "n": 2881,
+  "n": 2877,
   "name": "Cauchie House",
   "by": "Paul Cauchie",
   "place": "Brussels, BE",
@@ -243572,7 +246599,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Maison Cauchie",
   "lead": "File:Bruxelles - Maison Cauchie (2).jpg",
-  "coords": null,
+  "coords": [
+   50.83837,
+   4.39533
+  ],
   "hotlink": true,
   "images": [
    {
@@ -243653,7 +246683,7 @@ window.BUILDINGS = [
  },
  {
   "id": "saint-cyr-house-brussels",
-  "n": 2882,
+  "n": 2878,
   "name": "Saint-Cyr House",
   "by": "Gustave Strauven",
   "place": "Brussels, BE",
@@ -243672,7 +246702,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Hotel Saint-Cyr",
   "lead": "File:Bruxelles Maison Saint-Cyr 1.jpg",
-  "coords": null,
+  "coords": [
+   50.84781,
+   4.38398
+  ],
   "hotlink": true,
   "images": [
    {
@@ -243753,7 +246786,7 @@ window.BUILDINGS = [
  },
  {
   "id": "villa-empain-brussels",
-  "n": 2883,
+  "n": 2879,
   "name": "Villa Empain",
   "by": "Michel Polak",
   "place": "Brussels, BE",
@@ -243772,7 +246805,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Villa Empain",
   "lead": "File:Brussel Villa Empain 01.jpg",
-  "coords": null,
+  "coords": [
+   50.8075,
+   4.38431
+  ],
   "hotlink": true,
   "images": [
    {
@@ -243853,7 +246889,7 @@ window.BUILDINGS = [
  },
  {
   "id": "olympic-stadium-amsterdam",
-  "n": 2884,
+  "n": 2880,
   "name": "Olympic Stadium (Olympisch Stadion)",
   "by": "Jan Wils",
   "place": "Amsterdam, NL",
@@ -243872,7 +246908,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Olympisch Stadion",
   "lead": "File:OS-Amsterdam.JPG",
-  "coords": null,
+  "coords": [
+   52.34342,
+   4.85419
+  ],
   "hotlink": true,
   "images": [
    {
@@ -243943,7 +246982,7 @@ window.BUILDINGS = [
  },
  {
   "id": "silodam-amsterdam",
-  "n": 2885,
+  "n": 2881,
   "name": "Silodam",
   "by": "MVRDV",
   "place": "Amsterdam, NL",
@@ -243995,7 +247034,7 @@ window.BUILDINGS = [
  },
  {
   "id": "oba-central-library-amsterdam",
-  "n": 2886,
+  "n": 2882,
   "name": "OBA Central Library (Oosterdok)",
   "by": "Jo Coenen",
   "place": "Amsterdam, NL",
@@ -244059,7 +247098,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kamzik-tv-tower-bratislava",
-  "n": 2887,
+  "n": 2883,
   "name": "Kamzík TV Tower",
   "by": "Stanislav Májek, Jakub Tomašák, Juraj Kozák, Milan Jurica, Ján Privitzer",
   "place": "Bratislava, SK",
@@ -244078,7 +247117,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Kamzík TV Tower",
   "lead": "File:Bratislava - Fernsehturm (c).JPG",
-  "coords": null,
+  "coords": [
+   48.1825,
+   17.09444
+  ],
   "hotlink": true,
   "images": [
    {
@@ -244147,7 +247189,7 @@ window.BUILDINGS = [
  },
  {
   "id": "muepa-budapest",
-  "n": 2888,
+  "n": 2884,
   "name": "Müpa Budapest (Palace of Arts)",
   "by": "Zoboki, Demeter and Partners",
   "place": "Budapest, HU",
@@ -244166,7 +247208,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Müpa Budapest",
   "lead": "File:Budapest - Müpa (1).jpg",
-  "coords": null,
+  "coords": [
+   47.46944,
+   19.07167
+  ],
   "hotlink": true,
   "images": [
    {
@@ -244235,7 +247280,7 @@ window.BUILDINGS = [
  },
  {
   "id": "puskas-arena-budapest",
-  "n": 2889,
+  "n": 2885,
   "name": "Puskás Aréna",
   "by": "György Skardelli",
   "place": "Budapest, HU",
@@ -244254,7 +247299,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Puskás Aréna",
   "lead": "File:2022 Puskas Arena Laslovarga (11).jpg",
-  "coords": null,
+  "coords": [
+   47.50303,
+   19.09793
+  ],
   "hotlink": true,
   "images": [
    {
@@ -244323,7 +247371,7 @@ window.BUILDINGS = [
  },
  {
   "id": "laszlo-papp-budapest-sports-arena",
-  "n": 2890,
+  "n": 2886,
   "name": "László Papp Budapest Sports Arena",
   "by": "György Skardelli (KÖZTI)",
   "place": "Budapest, HU",
@@ -244342,7 +247390,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:László Papp Budapest Sports Arena",
   "lead": "File:Budapest, Papp László Sportaréna.jpg",
-  "coords": null,
+  "coords": [
+   47.50194,
+   19.10539
+  ],
   "hotlink": true,
   "images": [
    {
@@ -244387,7 +247438,7 @@ window.BUILDINGS = [
  },
  {
   "id": "gyongyos-synagogue",
-  "n": 2891,
+  "n": 2887,
   "name": "Gyöngyös Synagogue",
   "by": "Lipót Baumhorn",
   "place": "Gyöngyös, HU",
@@ -244406,7 +247457,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Gyöngyös Synagogue",
   "lead": "File:Synagogue. Listed ID -1799. (S). - Vármegye Rd., Gyöngyös, Hungary.JPG",
-  "coords": null,
+  "coords": [
+   47.78359,
+   19.92247
+  ],
   "hotlink": true,
   "images": [
    {
@@ -244487,7 +247541,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tallinn-tv-tower",
-  "n": 2892,
+  "n": 2888,
   "name": "Tallinn TV Tower",
   "by": "David Baziladze, Juri Sinis",
   "place": "Tallinn, EE",
@@ -244506,7 +247560,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Tallinn TV Tower",
   "lead": "File:Tallin TV tower.jpg",
-  "coords": null,
+  "coords": [
+   59.47111,
+   24.8875
+  ],
   "hotlink": true,
   "images": [
    {
@@ -244551,7 +247608,7 @@ window.BUILDINGS = [
  },
  {
   "id": "grand-hotel-prishtina",
-  "n": 2893,
+  "n": 2889,
   "name": "Grand Hotel Prishtina",
   "by": "Bashkim Fehmiu, Dragan Kovačević, Miša Jevremović",
   "place": "Pristina, XK",
@@ -244570,7 +247627,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Grand Hotel, Pristina",
   "lead": "File:1 - Grand Hotel Prishtina.jpg",
-  "coords": null,
+  "coords": [
+   42.66005,
+   21.15949
+  ],
   "hotlink": true,
   "images": [
    {
@@ -244639,7 +247699,7 @@ window.BUILDINGS = [
  },
  {
   "id": "riga-central-market",
-  "n": 2894,
+  "n": 2890,
   "name": "Riga Central Market",
   "by": "Pāvils Dreijmanis, P. Pavlovs",
   "place": "Riga, LV",
@@ -244658,7 +247718,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Central Market hall in Riga",
   "lead": "Spīķeru iela 1.jpg",
-  "coords": null,
+  "coords": [
+   56.944,
+   24.116
+  ],
   "hotlink": true,
   "images": [
    {
@@ -244703,7 +247766,7 @@ window.BUILDINGS = [
  },
  {
   "id": "zetra-olympic-hall-sarajevo",
-  "n": 2895,
+  "n": 2891,
   "name": "Zetra Olympic Hall (Juan Antonio Samaranch Olympic Hall)",
   "by": "Lidumil Alikalfić, Dušan Đapa",
   "place": "Sarajevo, BA",
@@ -244722,7 +247785,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Olympic Hall Juan Antonio Samaranch",
   "lead": "File:Sarajevo Olympic Hall 2.jpg",
-  "coords": null,
+  "coords": [
+   43.87181,
+   18.40956
+  ],
   "hotlink": true,
   "images": [
    {
@@ -244767,7 +247833,7 @@ window.BUILDINGS = [
  },
  {
   "id": "vijecnica-sarajevo",
-  "n": 2896,
+  "n": 2892,
   "name": "Vijećnica (Sarajevo City Hall)",
   "by": "Alexander Wittek, Ćiril Iveković",
   "place": "Sarajevo, BA",
@@ -244786,7 +247852,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Town hall in Sarajevo",
   "lead": "File:20230918 120615 September 2023 in Sarajevo.jpg",
-  "coords": null,
+  "coords": [
+   43.85912,
+   18.43323
+  ],
   "hotlink": true,
   "images": [
    {
@@ -244843,7 +247912,7 @@ window.BUILDINGS = [
  },
  {
   "id": "stari-most-mostar",
-  "n": 2897,
+  "n": 2893,
   "name": "Stari Most (Old Bridge)",
   "by": "Mimar Hayruddin",
   "place": "Mostar, BA",
@@ -244862,7 +247931,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Stari Most",
   "lead": "File:20230919 120231 September 2023 in Bosnia and Herzegovina.jpg",
-  "coords": null,
+  "coords": [
+   43.33728,
+   17.81503
+  ],
   "hotlink": true,
   "images": [
    {
@@ -244943,7 +248015,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kadinjaca-memorial-complex",
-  "n": 2898,
+  "n": 2894,
   "name": "Kadinjača Memorial Complex",
   "by": "Miodrag Živković, Aleksandar Đokić",
   "place": "Kadinjača (Užice), RS",
@@ -244962,7 +248034,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Kadinjača",
   "lead": "File:Inbound1610813265688666632.jpg",
-  "coords": null,
+  "coords": [
+   43.91203,
+   19.74225
+  ],
   "hotlink": true,
   "images": [
    {
@@ -245019,7 +248094,7 @@ window.BUILDINGS = [
  },
  {
   "id": "freedom-monument-riga",
-  "n": 2899,
+  "n": 2895,
   "name": "Freedom Monument",
   "by": "Kārlis Zāle, Ernests Štālbergs",
   "place": "Riga, LV",
@@ -245038,7 +248113,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Freedom monument (Riga)",
   "lead": "File:0873 LVA Riga freedom monument SE.jpg",
-  "coords": null,
+  "coords": [
+   56.95156,
+   24.11322
+  ],
   "hotlink": true,
   "images": [
    {
@@ -245134,7 +248212,7 @@ window.BUILDINGS = [
  },
  {
   "id": "brothers-cemetery-riga",
-  "n": 2900,
+  "n": 2896,
   "name": "Brothers' Cemetery",
   "by": "Kārlis Zāle, Pēteris Feders, Aleksandrs Birzenieks, P. Kundziņš",
   "place": "Riga, LV",
@@ -245153,7 +248231,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Brāļu kapi, Riga",
   "lead": "File:Bralu kapi (11).jpg",
-  "coords": null,
+  "coords": [
+   56.98889,
+   24.14278
+  ],
   "hotlink": true,
   "images": [
    {
@@ -245222,7 +248303,7 @@ window.BUILDINGS = [
  },
  {
   "id": "seimas-palace-vilnius",
-  "n": 2901,
+  "n": 2897,
   "name": "Seimas Palace",
   "by": "Algimantas Nasvytis, Vytautas Nasvytis",
   "place": "Vilnius, LT",
@@ -245241,7 +248322,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Seimas Palace",
   "lead": "File:Building Parliment Lithuania Vilnius.jpg",
-  "coords": null,
+  "coords": [
+   54.69111,
+   25.26194
+  ],
   "hotlink": true,
   "images": [
    {
@@ -245298,7 +248382,7 @@ window.BUILDINGS = [
  },
  {
   "id": "moslavina-monument-podgaric",
-  "n": 2902,
+  "n": 2898,
   "name": "Monument to the Revolution of the People of Moslavina",
   "by": "Dušan Džamonja",
   "place": "Podgarić, HR",
@@ -245317,7 +248401,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Monument to the Revolution, Podgarić",
   "lead": "File:Spomenik ustanka naroda Moslavine.jpg",
-  "coords": null,
+  "coords": [
+   45.64081,
+   16.77786
+  ],
   "hotlink": true,
   "images": [
    {
@@ -245362,7 +248449,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cec-palace-bucharest",
-  "n": 2903,
+  "n": 2899,
   "name": "CEC Palace",
   "by": "Paul Gottereau, Ion Socolescu",
   "place": "Bucharest, RO",
@@ -245381,7 +248468,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:CEC Palace, Bucharest",
   "lead": "File:20140702 Bucureşti 122.jpg",
-  "coords": null,
+  "coords": [
+   44.432,
+   26.0965
+  ],
   "hotlink": true,
   "images": [
    {
@@ -245462,7 +248552,7 @@ window.BUILDINGS = [
  },
  {
   "id": "toblerone-karaburma-belgrade",
-  "n": 2904,
+  "n": 2900,
   "name": "Toblerone Tower (Karaburma)",
   "by": "Risto Šekerinski",
   "place": "Belgrade, RS",
@@ -245481,7 +248571,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Toblerone Tower",
   "lead": "File:20241012 162432820 Toblerone Tower in Belgrade.jpg",
-  "coords": null,
+  "coords": [
+   44.81547,
+   20.49091
+  ],
   "hotlink": true,
   "images": [
    {
@@ -245526,7 +248619,7 @@ window.BUILDINGS = [
  },
  {
   "id": "administrative-palace-satu-mare",
-  "n": 2905,
+  "n": 2901,
   "name": "Administrative Palace, Satu Mare",
   "by": "Nicolae Porumbescu (with Ludovic Gyüre)",
   "place": "Satu Mare, RO",
@@ -245545,7 +248638,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Administrative palace (Satu Mare)",
   "lead": "File:Az új központ - panoramio.jpg",
-  "coords": null,
+  "coords": [
+   47.78884,
+   22.87308
+  ],
   "hotlink": true,
   "images": [
    {
@@ -245602,7 +248698,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-military-circle-bucharest",
-  "n": 2906,
+  "n": 2902,
   "name": "National Military Circle (Cercul Militar Național)",
   "by": "Dimitrie Maimarolu",
   "place": "Bucharest, RO",
@@ -245621,7 +248717,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Cercul Militar Național",
   "lead": "File:2012-09-22 Cercul Militar Național.jpg",
-  "coords": null,
+  "coords": [
+   44.43508,
+   26.09714
+  ],
   "hotlink": true,
   "images": [
    {
@@ -245690,7 +248789,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kaunas-mosque",
-  "n": 2907,
+  "n": 2903,
   "name": "Kaunas Mosque",
   "by": "Vaclovas Michnevičius, Adolfas Netyksas",
   "place": "Kaunas, LT",
@@ -245709,7 +248808,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Kaunas Mosque",
   "lead": "File:2019. Mečetė, Kaunas.JPG",
-  "coords": null,
+  "coords": [
+   54.89417,
+   23.92806
+  ],
   "hotlink": true,
   "images": [
    {
@@ -245778,7 +248880,7 @@ window.BUILDINGS = [
  },
  {
   "id": "constanta-casino",
-  "n": 2908,
+  "n": 2904,
   "name": "Constanța Casino",
   "by": "Daniel Renard",
   "place": "Constanța, RO",
@@ -245797,7 +248899,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Constanța Casino",
   "lead": "File:2019 Cazino CT-II-m-A-02801 02.jpg",
-  "coords": null,
+  "coords": [
+   44.1705,
+   28.6635
+  ],
   "hotlink": true,
   "images": [
    {
@@ -245878,7 +248983,7 @@ window.BUILDINGS = [
  },
  {
   "id": "haludovo-palace-hotel-malinska",
-  "n": 2909,
+  "n": 2905,
   "name": "Haludovo Palace Hotel",
   "by": "Boris Magaš",
   "place": "Malinska, HR",
@@ -245897,7 +249002,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Haludovo Palace Hotel",
   "lead": "File:Haludovo palace hotel from pool 2011-08-12.jpg",
-  "coords": null,
+  "coords": [
+   45.13111,
+   14.52778
+  ],
   "hotlink": true,
   "images": [
    {
@@ -245966,7 +249074,7 @@ window.BUILDINGS = [
  },
  {
   "id": "christs-resurrection-church-kaunas",
-  "n": 2910,
+  "n": 2906,
   "name": "Church of Christ's Resurrection",
   "by": "Karolis Reisonas",
   "place": "Kaunas, LT",
@@ -245985,7 +249093,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Church of Christ's Resurrection, Kaunas",
   "lead": "File:Church of Christ's Resurrection, Kaunas, side view.jpg",
-  "coords": null,
+  "coords": [
+   54.90264,
+   23.91692
+  ],
   "hotlink": true,
   "images": [
    {
@@ -246054,7 +249165,7 @@ window.BUILDINGS = [
  },
  {
   "id": "poljud-stadium-split",
-  "n": 2911,
+  "n": 2907,
   "name": "Poljud Stadium",
   "by": "Boris Magaš",
   "place": "Split, HR",
@@ -246073,7 +249184,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Gradski stadion u Poljudu",
   "lead": "File:Aerial view of Poljud Stadium in 2024.jpg",
-  "coords": null,
+  "coords": [
+   43.51944,
+   16.43167
+  ],
   "hotlink": true,
   "images": [
    {
@@ -246142,7 +249256,7 @@ window.BUILDINGS = [
  },
  {
   "id": "park-monument-bulgarian-soviet-friendship-varna",
-  "n": 2912,
+  "n": 2908,
   "name": "Park-Monument of the Bulgarian-Soviet Friendship",
   "by": "Kamen Goranov (with sculptors Evgeni Barumov, Alyosha Kafedzhiyski)",
   "place": "Varna, BG",
@@ -246161,7 +249275,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Bulgarian-Soviet friendship monument, Varna",
   "lead": "File:Park Pamjatnik - panoramio.jpg",
-  "coords": null,
+  "coords": [
+   43.21894,
+   27.94906
+  ],
   "hotlink": true,
   "images": [
    {
@@ -246230,7 +249347,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sofia-central-station",
-  "n": 2913,
+  "n": 2909,
   "name": "Sofia Central Station",
   "by": "Milko Bechev (Transproekt)",
   "place": "Sofia, BG",
@@ -246249,7 +249366,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Sofia Central Railway Station",
   "lead": "File:Central Railway Station Sofia 2012 PD 36.jpg",
-  "coords": null,
+  "coords": [
+   42.71213,
+   23.32112
+  ],
   "hotlink": true,
   "images": [
    {
@@ -246306,7 +249426,7 @@ window.BUILDINGS = [
  },
  {
   "id": "zagreb-glavni-kolodvor",
-  "n": 2914,
+  "n": 2910,
   "name": "Zagreb Glavni Kolodvor (Main Station)",
   "by": "Ferenc Pfaff",
   "place": "Zagreb, HR",
@@ -246325,7 +249445,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Zagreb Glavni train station",
   "lead": "File:Bahnhof Glavni Kolodvor Zagreb Building Railwaystation Zagreb.jpg",
-  "coords": null,
+  "coords": [
+   45.80444,
+   15.9787
+  ],
   "hotlink": true,
   "images": [
    {
@@ -246384,7 +249507,7 @@ window.BUILDINGS = [
  },
  {
   "id": "telephone-palace-bucharest",
-  "n": 2915,
+  "n": 2911,
   "name": "Telephone Palace (SART building)",
   "by": "Edmond Van Saanen Algi",
   "place": "Bucharest, RO",
@@ -246403,7 +249526,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Palatul Telefoanelor",
   "lead": "File:Bucharest Day 3 - Victoriei (9338447856).jpg",
-  "coords": null,
+  "coords": [
+   44.43629,
+   26.09757
+  ],
   "hotlink": true,
   "images": [
    {
@@ -246472,7 +249598,7 @@ window.BUILDINGS = [
  },
  {
   "id": "house-of-the-free-press-bucharest",
-  "n": 2916,
+  "n": 2912,
   "name": "House of the Free Press (Casa Scînteii)",
   "by": "Horia Maicu",
   "place": "Bucharest, RO",
@@ -246491,7 +249617,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Casa Presei Libere",
   "lead": "File:Bucuresti, Romania. CASA PRESEI LIBERE (Fosta Casa a Scînteii )(B-II-a-A-18802) (2).jpg",
-  "coords": null,
+  "coords": [
+   44.48093,
+   26.07121
+  ],
   "hotlink": true,
   "images": [
    {
@@ -246536,7 +249665,7 @@ window.BUILDINGS = [
  },
  {
   "id": "nebotinik-ljubljana",
-  "n": 2917,
+  "n": 2913,
   "name": "Nebotičnik",
   "by": "Vladimir Šubic",
   "place": "Ljubljana, SI",
@@ -246555,7 +249684,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Nebotičnik",
   "lead": "File:Laibach (13890816600).jpg",
-  "coords": null,
+  "coords": [
+   46.05319,
+   14.50361
+  ],
   "hotlink": true,
   "images": [
    {
@@ -246636,7 +249768,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sofia-synagogue",
-  "n": 2918,
+  "n": 2914,
   "name": "Sofia Synagogue",
   "by": "Friedrich Grünanger",
   "place": "Sofia, BG",
@@ -246655,7 +249787,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Sofia Synagogue",
   "lead": "File:20140614 Sofia 152.jpg",
-  "coords": null,
+  "coords": [
+   42.70028,
+   23.32101
+  ],
   "hotlink": true,
   "images": [
    {
@@ -246736,7 +249871,7 @@ window.BUILDINGS = [
  },
  {
   "id": "riga-radio-and-tv-tower",
-  "n": 2919,
+  "n": 2915,
   "name": "Riga Radio and TV Tower",
   "by": "Kims Nikuradze",
   "place": "Riga, LV",
@@ -246755,7 +249890,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Riga Radio and TV Tower",
   "lead": "File:Daugava River and Riga Radio and Television Tower.jpg",
-  "coords": null,
+  "coords": [
+   56.92389,
+   24.13694
+  ],
   "hotlink": true,
   "images": [
    {
@@ -246788,7 +249926,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palace-of-culture-iasi",
-  "n": 2920,
+  "n": 2916,
   "name": "Palace of Culture, Iași",
   "by": "I. D. Berindei",
   "place": "Iași, RO",
@@ -246807,7 +249945,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Iași Palace of Culture",
   "lead": "File:2020 03 14 Iași Palatul Culturii.jpg",
-  "coords": null,
+  "coords": [
+   47.15739,
+   27.58695
+  ],
   "hotlink": true,
   "images": [
    {
@@ -246888,7 +250029,7 @@ window.BUILDINGS = [
  },
  {
   "id": "zagreb-mosque",
-  "n": 2921,
+  "n": 2917,
   "name": "Zagreb Mosque",
   "by": "Džemal Čelić, Mirza Gološ",
   "place": "Zagreb, HR",
@@ -246907,7 +250048,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Mosque in Zagreb",
   "lead": "File:Džamija, ZG 1335.JPG",
-  "coords": null,
+  "coords": [
+   45.79122,
+   16.01153
+  ],
   "hotlink": true,
   "images": [
    {
@@ -246940,7 +250084,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cibona-tower-zagreb",
-  "n": 2922,
+  "n": 2918,
   "name": "Cibona Tower",
   "by": "Marijan Hržić",
   "place": "Zagreb, HR",
@@ -246959,7 +250103,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Cibona Tower",
   "lead": "File:Cibona Tower 20150912 DSC 2576.JPG",
-  "coords": null,
+  "coords": [
+   45.80306,
+   15.96389
+  ],
   "hotlink": true,
   "images": [
    {
@@ -247040,7 +250187,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mehmed-pasa-sokolovic-bridge-visegrad",
-  "n": 2923,
+  "n": 2919,
   "name": "Mehmed Paša Sokolović Bridge",
   "by": "Mimar Sinan",
   "place": "Višegrad, BA",
@@ -247059,7 +250206,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Mehmed Paša Sokolović Bridge in Višegrad",
   "lead": "File:2011-04-08 14-23-21 Вишеград.jpg",
-  "coords": null,
+  "coords": [
+   43.78248,
+   19.28794
+  ],
   "hotlink": true,
   "images": [
    {
@@ -247128,7 +250278,7 @@ window.BUILDINGS = [
  },
  {
   "id": "croatian-national-theatre-zagreb",
-  "n": 2924,
+  "n": 2920,
   "name": "Croatian National Theatre",
   "by": "Fellner & Helmer",
   "place": "Zagreb, HR",
@@ -247147,7 +250297,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Croatian National Theater in Zagreb",
   "lead": "File:20130609 in Zagreb 08.jpg",
-  "coords": null,
+  "coords": [
+   45.8095,
+   15.97
+  ],
   "hotlink": true,
   "images": [
    {
@@ -247218,7 +250371,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ivan-vazov-national-theatre-sofia",
-  "n": 2925,
+  "n": 2921,
   "name": "Ivan Vazov National Theatre",
   "by": "Fellner & Helmer",
   "place": "Sofia, BG",
@@ -247237,7 +250390,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Ivan Vazov National Theatre",
   "lead": "File:Ivan Vazov National Theater, Sofia.jpg",
-  "coords": null,
+  "coords": [
+   42.69417,
+   23.32656
+  ],
   "hotlink": true,
   "images": [
    {
@@ -247345,7 +250501,7 @@ window.BUILDINGS = [
  },
  {
   "id": "peles-castle-sinaia",
-  "n": 2926,
+  "n": 2922,
   "name": "Peleș Castle",
   "by": "Johannes Schultz",
   "place": "Sinaia, RO",
@@ -247364,7 +250520,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Peleș Castle",
   "lead": "File:\"Castelul Peles\".JPG",
-  "coords": null,
+  "coords": [
+   45.35972,
+   25.54278
+  ],
   "hotlink": true,
   "images": [
    {
@@ -247433,7 +250592,7 @@ window.BUILDINGS = [
  },
  {
   "id": "latvian-academy-of-sciences-riga",
-  "n": 2927,
+  "n": 2923,
   "name": "Latvian Academy of Sciences",
   "by": "Osvalds Tīlmanis, Vaidelotis Apsītis, Kārlis Plūksne",
   "place": "Riga, LV",
@@ -247452,7 +250611,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Latvian Academy of Sciences (building)",
   "lead": "File:Academy of Sciences, Latvia, May 2024.jpg",
-  "coords": null,
+  "coords": [
+   56.94328,
+   24.12181
+  ],
   "hotlink": true,
   "images": [
    {
@@ -247497,7 +250659,7 @@ window.BUILDINGS = [
  },
  {
   "id": "olympic-stadium-wroclaw",
-  "n": 2928,
+  "n": 2924,
   "name": "Olympic Stadium, Wrocław (Schlesierkampfbahn)",
   "by": "Richard Konwiarz",
   "place": "Wrocław, PL",
@@ -247516,7 +250678,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Olympic Stadium in Wrocław",
   "lead": "598713 Wrocław stadion olimpijski, wieża zegarowa 02.JPG",
-  "coords": null,
+  "coords": [
+   51.11944,
+   17.09667
+  ],
   "hotlink": true,
   "images": [
    {
@@ -247549,7 +250714,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cepelia-pavilion-warsaw",
-  "n": 2929,
+  "n": 2925,
   "name": "Cepelia Pavilion",
   "by": "Zygmunt Stępiński, Andrzej Milewski, Aleksander Haweman",
   "place": "Warsaw, PL",
@@ -247568,7 +250733,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Cepelia building in Warsaw",
   "lead": "File:Pawilon Cepelii od strony zachodniej 2021.jpg",
-  "coords": null,
+  "coords": [
+   52.22895,
+   21.01162
+  ],
   "hotlink": true,
   "images": [
    {
@@ -247637,7 +250805,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hungarian-state-opera-house-budapest",
-  "n": 2930,
+  "n": 2926,
   "name": "Hungarian State Opera House",
   "by": "Miklós Ybl",
   "place": "Budapest, HU",
@@ -247656,7 +250824,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Hungarian State Opera House",
   "lead": "File:Hungarian State Opera House Budapest 2026.JPG",
-  "coords": null,
+  "coords": [
+   47.50278,
+   19.05833
+  ],
   "hotlink": true,
   "images": [
    {
@@ -247739,7 +250910,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hotel-international-prague",
-  "n": 2931,
+  "n": 2927,
   "name": "Grand Hotel International Prague",
   "by": "František Jeřábek",
   "place": "Prague, CZ",
@@ -247758,7 +250929,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Hotel International Prague",
   "lead": "File:Dejvice - Hotel Crowne Plaza Prague 2.jpg",
-  "coords": null,
+  "coords": [
+   50.10919,
+   14.39331
+  ],
   "hotlink": true,
   "images": [
    {
@@ -247839,7 +251013,7 @@ window.BUILDINGS = [
  },
  {
   "id": "praha-hlavni-nadrazi",
-  "n": 2932,
+  "n": 2928,
   "name": "Praha hlavní nádraží (Prague Main Station)",
   "by": "Josef Fanta",
   "place": "Prague, CZ",
@@ -247858,7 +251032,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Praha hlavní nádraží",
   "lead": "File:2023 Praha hlavní nádraží 02.jpg",
-  "coords": null,
+  "coords": [
+   50.08306,
+   14.43583
+  ],
   "hotlink": true,
   "images": [
    {
@@ -247927,7 +251104,7 @@ window.BUILDINGS = [
  },
  {
   "id": "avala-tower-belgrade",
-  "n": 2933,
+  "n": 2929,
   "name": "Avala Tower",
   "by": "Uglješa Bogunović, Slobodan Janjić",
   "place": "Belgrade, RS",
@@ -247946,7 +251123,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Avala TV Tower",
   "lead": "File:Avala Tower 2.jpg",
-  "coords": null,
+  "coords": [
+   44.69583,
+   20.51444
+  ],
   "hotlink": true,
   "images": [
    {
@@ -248003,7 +251183,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lords-ark-church-nowa-huta",
-  "n": 2934,
+  "n": 2930,
   "name": "Church of Our Lady Queen of Poland (Lord's Ark)",
   "by": "Wojciech Pietrzyk",
   "place": "Kraków (Nowa Huta), PL",
@@ -248022,7 +251202,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:The Lord's Ark Church of Kraków",
   "lead": "File:--Church of Our Lady the Queen of Poland (Ark of Our Lord),view from N, 1 Obroncow Krzyza street, Nowa Huta, Krakow, Poland.jpg",
-  "coords": null,
+  "coords": [
+   50.085,
+   20.02911
+  ],
   "hotlink": true,
   "images": [
    {
@@ -248103,7 +251286,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-stadium-warsaw",
-  "n": 2935,
+  "n": 2931,
   "name": "National Stadium (PGE Narodowy)",
   "by": "gmp Architects von Gerkan, Marg and Partners with JSK Architects",
   "place": "Warsaw, PL",
@@ -248122,7 +251305,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:National Stadium in Warsaw",
   "lead": "File:Kamionek, Warsaw, Poland - panoramio (8).jpg",
-  "coords": null,
+  "coords": [
+   52.23944,
+   21.04556
+  ],
   "hotlink": true,
   "images": [
    {
@@ -248179,7 +251365,7 @@ window.BUILDINGS = [
  },
  {
   "id": "pearl-bank-apartments",
-  "n": 2936,
+  "n": 2932,
   "name": "Pearl Bank Apartments",
   "by": "Tan Cheng Siong (Archurban Architects Planners)",
   "place": "Singapore, SG",
@@ -248198,7 +251384,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Pearl Bank Apartments",
   "lead": "File:Pearl Bank 2.jpg",
-  "coords": null,
+  "coords": [
+   1.28317,
+   103.84
+  ],
   "hotlink": true,
   "images": [
    {
@@ -248243,7 +251432,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sky-habitat",
-  "n": 2937,
+  "n": 2933,
   "name": "Sky Habitat",
   "by": "Moshe Safdie",
   "place": "Singapore, SG",
@@ -248262,7 +251451,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Sky Habitat",
   "lead": "File:Sky habitat.jpg",
-  "coords": null,
+  "coords": [
+   1.3524,
+   103.8493
+  ],
   "hotlink": true,
   "images": [
    {
@@ -248295,7 +251487,7 @@ window.BUILDINGS = [
  },
  {
   "id": "singapore-flyer",
-  "n": 2938,
+  "n": 2934,
   "name": "Singapore Flyer",
   "by": "Kisho Kurokawa Architects & Associates with DP Architects",
   "place": "Singapore, SG",
@@ -248314,7 +251506,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Singapore Flyer",
   "lead": "File:SG-flyer-01.jpg",
-  "coords": null,
+  "coords": [
+   1.28939,
+   103.86322
+  ],
   "hotlink": true,
   "images": [
    {
@@ -248335,7 +251530,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sultan-salahuddin-abdul-aziz-shah-mosque",
-  "n": 2939,
+  "n": 2935,
   "name": "Sultan Salahuddin Abdul Aziz Shah Mosque (Blue Mosque)",
   "by": "Baharuddin Abu Kassim",
   "place": "Shah Alam, MY",
@@ -248354,7 +251549,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Sultan Salahuddin Abdul Aziz Mosque",
   "lead": "File:Sultan Salahuddin Abdul Aziz Mosque by Fairus Khafiz.jpg",
-  "coords": null,
+  "coords": [
+   3.07861,
+   101.52056
+  ],
   "hotlink": true,
   "images": [
    {
@@ -248399,7 +251597,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palace-of-justice-putrajaya",
-  "n": 2940,
+  "n": 2936,
   "name": "Palace of Justice, Putrajaya",
   "by": "AR Ahmad Rozi A Wahab (aQidea Architect)",
   "place": "Putrajaya, MY",
@@ -248418,7 +251616,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Palace of Justice, Putrajaya",
   "lead": "File:Direct view of the front of Palace of Justice, Putrajaya.jpg",
-  "coords": null,
+  "coords": [
+   2.91705,
+   101.68379
+  ],
   "hotlink": true,
   "images": [
    {
@@ -248487,7 +251688,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tuanku-mizan-zainal-abidin-mosque",
-  "n": 2941,
+  "n": 2937,
   "name": "Tuanku Mizan Zainal Abidin Mosque (Iron Mosque)",
   "by": "Nik Arshad Nik Mohammed",
   "place": "Putrajaya, MY",
@@ -248506,7 +251707,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Tuanku Mizan Zainal Abidin Mosque",
   "lead": "File:MasjidTuankuMizanZainalAbidin.jpg",
-  "coords": null,
+  "coords": [
+   2.91931,
+   101.68092
+  ],
   "hotlink": true,
   "images": [
    {
@@ -248587,7 +251791,7 @@ window.BUILDINGS = [
  },
  {
   "id": "stadium-merdeka",
-  "n": 2942,
+  "n": 2938,
   "name": "Stadium Merdeka",
   "by": "Stanley Edward Jewkes (Public Works Department)",
   "place": "Kuala Lumpur, MY",
@@ -248606,7 +251810,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Stadium Merdeka",
   "lead": "File:Kuala Lumpur Malaysia Stadium-Merdeka-01.jpg",
-  "coords": null,
+  "coords": [
+   3.13909,
+   101.70058
+  ],
   "hotlink": true,
   "images": [
    {
@@ -248663,7 +251870,7 @@ window.BUILDINGS = [
  },
  {
   "id": "menara-telekom",
-  "n": 2943,
+  "n": 2939,
   "name": "Menara Telekom (Telekom Tower)",
   "by": "Hijjas Kasturi Associates",
   "place": "Kuala Lumpur, MY",
@@ -248682,7 +251889,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Telekom Tower",
   "lead": "File:Kuala Lumpur. Telekom Tower. 2019-12-13 17-03-14.jpg",
-  "coords": null,
+  "coords": [
+   3.11583,
+   101.66611
+  ],
   "hotlink": true,
   "images": [
    {
@@ -248727,7 +251937,7 @@ window.BUILDINGS = [
  },
  {
   "id": "crystal-mosque",
-  "n": 2944,
+  "n": 2940,
   "name": "Crystal Mosque (Masjid Kristal)",
   "by": "Sanderson Design Group and AHS Architects",
   "place": "Kuala Terengganu, MY",
@@ -248746,7 +251956,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Crystal Mosque",
   "lead": "File:Crystal Mosque in 2016.jpg",
-  "coords": null,
+  "coords": [
+   5.32228,
+   103.12066
+  ],
   "hotlink": true,
   "images": [
    {
@@ -248827,7 +252040,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sultan-abdul-samad-building",
-  "n": 2945,
+  "n": 2941,
   "name": "Sultan Abdul Samad Building",
   "by": "A. C. Norman, R. A. J. Bidwell and A. B. Hubback",
   "place": "Kuala Lumpur, MY",
@@ -248846,7 +252059,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Sultan Abdul Samad Building",
   "lead": "File:2016 Kuala Lumpur, Budynek Sułtana Abdula Samada (01).jpg",
-  "coords": null,
+  "coords": [
+   3.14861,
+   101.69444
+  ],
   "hotlink": true,
   "images": [
    {
@@ -248941,7 +252157,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hua-lamphong-railway-station",
-  "n": 2946,
+  "n": 2942,
   "name": "Hua Lamphong Railway Station",
   "by": "Mario Tamagno and Annibale Rigotti",
   "place": "Bangkok, TH",
@@ -248960,7 +252176,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Bangkok Railway Station",
   "lead": "File:0005512 - Hua Lamphong Station.jpg",
-  "coords": null,
+  "coords": [
+   13.7389,
+   100.5167
+  ],
   "hotlink": true,
   "images": [
    {
@@ -249029,7 +252248,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ananta-samakhom-throne-hall",
-  "n": 2947,
+  "n": 2943,
   "name": "Ananta Samakhom Throne Hall",
   "by": "Mario Tamagno and Annibale Rigotti",
   "place": "Bangkok, TH",
@@ -249048,7 +252267,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Ananta Samakhom Throne Hall",
   "lead": "File:0017-Ananta Samakhom Throne Hall.jpg",
-  "coords": null,
+  "coords": [
+   13.7716,
+   100.51311
+  ],
   "hotlink": true,
   "images": [
    {
@@ -249119,7 +252341,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sala-chalermkrung-royal-theatre",
-  "n": 2948,
+  "n": 2944,
   "name": "Sala Chalermkrung Royal Theatre",
   "by": "Prince Samaichaloem Kridakorn",
   "place": "Bangkok, TH",
@@ -249138,7 +252360,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Sala Chaloem Krung",
   "lead": "File:0015-Sala Chalermkrung Royal Theatre.jpg",
-  "coords": null,
+  "coords": [
+   13.74667,
+   100.5
+  ],
   "hotlink": true,
   "images": [
    {
@@ -249195,7 +252420,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sappaya-sapasathan",
-  "n": 2949,
+  "n": 2945,
   "name": "Sappaya-Sapasathan (Thai Parliament)",
   "by": "Theerapol Niyom",
   "place": "Bangkok, TH",
@@ -249214,7 +252439,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Sappaya-Sapasathan",
   "lead": "File:Sappaya-Sapasathan (I).jpg",
-  "coords": null,
+  "coords": [
+   13.79581,
+   100.51744
+  ],
   "hotlink": true,
   "images": [
    {
@@ -249259,7 +252487,7 @@ window.BUILDINGS = [
  },
  {
   "id": "democracy-monument-bangkok",
-  "n": 2950,
+  "n": 2946,
   "name": "Democracy Monument",
   "by": "Mom Luang Phum Malakul and Chitrasen Aphaiwong",
   "place": "Bangkok, TH",
@@ -249278,7 +252506,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Democracy Monument (Bangkok)",
   "lead": "File:008-Democracy Monument.jpg",
-  "coords": null,
+  "coords": [
+   13.75667,
+   100.50167
+  ],
   "hotlink": true,
   "images": [
    {
@@ -249347,7 +252578,7 @@ window.BUILDINGS = [
  },
  {
   "id": "baan-dam-museum",
-  "n": 2951,
+  "n": 2947,
   "name": "Baan Dam Museum (Black House)",
   "by": "Thawan Duchanee",
   "place": "Chiang Rai, TH",
@@ -249366,7 +252597,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Black House Museum, Chiang Rai",
   "lead": "File:012 Main Building (9214520250).jpg",
-  "coords": null,
+  "coords": [
+   19.9921,
+   99.8607
+  ],
   "hotlink": true,
   "images": [
    {
@@ -249435,7 +252669,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ho-chi-minh-city-hall",
-  "n": 2952,
+  "n": 2948,
   "name": "Ho Chi Minh City Hall",
   "by": "Fernand Gardès",
   "place": "Ho Chi Minh City, VN",
@@ -249454,7 +252688,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:People's Committee Building of Ho Chi Minh City",
   "lead": "File:20190923 Ho Chi Minh City Hall-1.jpg",
-  "coords": null,
+  "coords": [
+   10.77647,
+   106.70097
+  ],
   "hotlink": true,
   "images": [
    {
@@ -249535,7 +252772,7 @@ window.BUILDINGS = [
  },
  {
   "id": "saigon-central-post-office",
-  "n": 2953,
+  "n": 2949,
   "name": "Saigon Central Post Office",
   "by": "Alfred Foulhoux",
   "place": "Ho Chi Minh City, VN",
@@ -249554,7 +252791,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Saigon Central Post Office",
   "lead": "File:20190923 Saigon Central Post Office-1.jpg",
-  "coords": null,
+  "coords": [
+   10.78,
+   106.7
+  ],
   "hotlink": true,
   "images": [
    {
@@ -249635,7 +252875,7 @@ window.BUILDINGS = [
  },
  {
   "id": "saigon-opera-house",
-  "n": 2954,
+  "n": 2950,
   "name": "Saigon Opera House",
   "by": "Félix Olivier",
   "place": "Ho Chi Minh City, VN",
@@ -249654,7 +252894,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Municipal Theatre of Ho Chi Minh City",
   "lead": "File:Ho Chi Minh City Opera House.jpg",
-  "coords": null,
+  "coords": [
+   10.77639,
+   106.70278
+  ],
   "hotlink": true,
   "images": [
    {
@@ -249711,7 +252954,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hanoi-opera-house",
-  "n": 2955,
+  "n": 2951,
   "name": "Hanoi Opera House",
   "by": "François Lagisquet, Broyer and Victorin Harlay",
   "place": "Hanoi, VN",
@@ -249730,7 +252973,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Hanoi Opera House",
   "lead": "File:Hanoi - Opera House.jpg",
-  "coords": null,
+  "coords": [
+   21.02417,
+   105.85778
+  ],
   "hotlink": true,
   "images": [
    {
@@ -249825,7 +253071,7 @@ window.BUILDINGS = [
  },
  {
   "id": "vietnam-museum-of-ethnology",
-  "n": 2956,
+  "n": 2952,
   "name": "Vietnam Museum of Ethnology",
   "by": "Ha Duc Linh (exhibition building); Véronique Dollfus (interiors)",
   "place": "Hanoi, VN",
@@ -249844,7 +253090,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Vietnam Museum of Ethnology",
   "lead": "File:Exterior view - Vietnam Museum of Ethnology - Hanoi, Vietnam - DSC03432.JPG",
-  "coords": null,
+  "coords": [
+   21.0406,
+   105.799
+  ],
   "hotlink": true,
   "images": [
    {
@@ -249865,7 +253114,7 @@ window.BUILDINGS = [
  },
  {
   "id": "gelora-bung-karno-stadium",
-  "n": 2957,
+  "n": 2953,
   "name": "Gelora Bung Karno Stadium",
   "by": "Friedrich Silaban",
   "place": "Jakarta, ID",
@@ -249884,7 +253133,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Gelora Bung Karno Stadium",
   "lead": "Senja di Gelora Bung Karno.jpg",
-  "coords": null,
+  "coords": [
+   -6.21858,
+   106.80251
+  ],
   "hotlink": true,
   "images": [
    {
@@ -249941,7 +253193,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hotel-indonesia",
-  "n": 2958,
+  "n": 2954,
   "name": "Hotel Indonesia",
   "by": "Abel Sorensen and Wendy Becker",
   "place": "Jakarta, ID",
@@ -249960,7 +253212,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Hotel Indonesia",
   "lead": "File:Sisi belakang Hotel Indonesia - panoramio.jpg",
-  "coords": null,
+  "coords": [
+   -6.19561,
+   106.82226
+  ],
   "hotlink": true,
   "images": [
    {
@@ -249993,7 +253248,7 @@ window.BUILDINGS = [
  },
  {
   "id": "gedung-sate",
-  "n": 2959,
+  "n": 2955,
   "name": "Gedung Sate",
   "by": "J. Gerber",
   "place": "Bandung, ID",
@@ -250012,7 +253267,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Gedung Sate",
   "lead": "File:Gedung Sate Oktober 2024 - Rahmatdenas.jpg",
-  "coords": null,
+  "coords": [
+   -6.90246,
+   107.61873
+  ],
   "hotlink": true,
   "images": [
    {
@@ -250069,7 +253327,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bandung-institute-of-technology",
-  "n": 2960,
+  "n": 2956,
   "name": "Bandung Institute of Technology (Aula Barat and Aula Timur)",
   "by": "Henri Maclaine Pont",
   "place": "Bandung, ID",
@@ -250088,7 +253346,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Bandung Institute of Technology",
   "lead": "File:A2613-ITB-Aula barat.jpg",
-  "coords": null,
+  "coords": [
+   -6.88985,
+   107.60997
+  ],
   "hotlink": true,
   "images": [
    {
@@ -250133,7 +253394,7 @@ window.BUILDINGS = [
  },
  {
   "id": "savoy-homann-hotel",
-  "n": 2961,
+  "n": 2957,
   "name": "Savoy Homann Hotel",
   "by": "Albert Aalbers",
   "place": "Bandung, ID",
@@ -250152,7 +253413,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Hotel Savoy Homann",
   "lead": "File:Bandung - Hotel Savoy Homann (2025) - img 02.jpg",
-  "coords": null,
+  "coords": [
+   -6.92211,
+   107.61036
+  ],
   "hotlink": true,
   "images": [
    {
@@ -250233,7 +253497,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lawang-sewu",
-  "n": 2962,
+  "n": 2958,
   "name": "Lawang Sewu",
   "by": "Cosman Citroen (J.F. Klinkhamer and B.J. Ouëndag)",
   "place": "Semarang, ID",
@@ -250252,7 +253516,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Lawang Sewu",
   "lead": "File:Lawang Sewu in Semarang City.jpg",
-  "coords": null,
+  "coords": [
+   -6.98393,
+   110.41056
+  ],
   "hotlink": true,
   "images": [
    {
@@ -250347,7 +253614,7 @@ window.BUILDINGS = [
  },
  {
   "id": "jakarta-cathedral",
-  "n": 2963,
+  "n": 2959,
   "name": "Jakarta Cathedral",
   "by": "Antonius Dijkmans and Marius Hulswit",
   "place": "Jakarta, ID",
@@ -250366,7 +253633,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Jakarta Cathedral",
   "lead": "File:Cathedral of Jakarta - exterior (2025) - img 14.jpg",
-  "coords": null,
+  "coords": [
+   -6.16925,
+   106.83312
+  ],
   "hotlink": true,
   "images": [
    {
@@ -250423,7 +253693,7 @@ window.BUILDINGS = [
  },
  {
   "id": "manila-central-post-office",
-  "n": 2964,
+  "n": 2960,
   "name": "Manila Central Post Office",
   "by": "Juan M. Arellano, Tomás Mapúa and Ralph Doane",
   "place": "Manila, PH",
@@ -250442,7 +253712,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Manila Central Post Office",
   "lead": "File:-13.52- Manila Central Post Office Building (Stephanie Joy Rosalia) - Flickr.jpg",
-  "coords": null,
+  "coords": [
+   14.5955,
+   120.9791
+  ],
   "hotlink": true,
   "images": [
    {
@@ -250537,7 +253810,7 @@ window.BUILDINGS = [
  },
  {
   "id": "manila-hotel",
-  "n": 2965,
+  "n": 2961,
   "name": "Manila Hotel",
   "by": "William E. Parsons",
   "place": "Manila, PH",
@@ -250556,7 +253829,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Manila Hotel",
   "lead": "File:Manila Hotel (Ermita, Manila)(2017-06-12).jpg",
-  "coords": null,
+  "coords": [
+   14.58333,
+   120.97389
+  ],
   "hotlink": true,
   "images": [
    {
@@ -250601,7 +253877,7 @@ window.BUILDINGS = [
  },
  {
   "id": "manila-city-hall",
-  "n": 2966,
+  "n": 2962,
   "name": "Manila City Hall",
   "by": "Antonio M. Toledo",
   "place": "Manila, PH",
@@ -250620,7 +253896,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Manila City Hall",
   "lead": "File:Manila city hall - front.jpg",
-  "coords": null,
+  "coords": [
+   14.58979,
+   120.98162
+  ],
   "hotlink": true,
   "images": [
    {
@@ -250665,7 +253944,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ayala-museum",
-  "n": 2967,
+  "n": 2963,
   "name": "Ayala Museum",
   "by": "Leandro Y. Locsin Jr.",
   "place": "Makati, PH",
@@ -250684,7 +253963,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Ayala Museum",
   "lead": "File:Ayala Museum, Makati, Feb 2025 (1).jpg",
-  "coords": null,
+  "coords": [
+   14.5536,
+   121.023
+  ],
   "hotlink": true,
   "images": [
    {
@@ -250717,7 +253999,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ust-main-building",
-  "n": 2968,
+  "n": 2964,
   "name": "University of Santo Tomas Main Building",
   "by": "Roque Ruaño",
   "place": "Manila, PH",
@@ -250736,7 +254018,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Main Building (University of Santo Tomas)",
   "lead": "File:UST Main Building in 2025.jpg",
-  "coords": null,
+  "coords": [
+   14.61028,
+   120.98917
+  ],
   "hotlink": true,
   "images": [
    {
@@ -250817,7 +254102,7 @@ window.BUILDINGS = [
  },
  {
   "id": "manila-cathedral",
-  "n": 2969,
+  "n": 2965,
   "name": "Manila Cathedral",
   "by": "Fernando Ocampo",
   "place": "Manila, PH",
@@ -250836,7 +254121,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Manila Cathedral",
   "lead": "File:Manila Cathedral at Intramuros.jpg",
-  "coords": null,
+  "coords": [
+   14.59147,
+   120.97356
+  ],
   "hotlink": true,
   "images": [
    {
@@ -250881,7 +254169,7 @@ window.BUILDINGS = [
  },
  {
   "id": "yangon-city-hall",
-  "n": 2970,
+  "n": 2966,
   "name": "Yangon City Hall",
   "by": "U Tin",
   "place": "Yangon, MM",
@@ -250900,7 +254188,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Yangon City Hall",
   "lead": "File:Impressive View of Yangon City Hall.jpg",
-  "coords": null,
+  "coords": [
+   16.775,
+   96.1597
+  ],
   "hotlink": true,
   "images": [
    {
@@ -250957,7 +254248,7 @@ window.BUILDINGS = [
  },
  {
   "id": "high-court-building-yangon",
-  "n": 2971,
+  "n": 2967,
   "name": "Yangon High Court Building",
   "by": "James Ransome",
   "place": "Yangon, MM",
@@ -250976,7 +254267,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Former Burmese High Court",
   "lead": "File:High Court Burma1.jpg",
-  "coords": null,
+  "coords": [
+   16.77313,
+   96.16093
+  ],
   "hotlink": true,
   "images": [
    {
@@ -251057,7 +254351,7 @@ window.BUILDINGS = [
  },
  {
   "id": "patuxai",
-  "n": 2972,
+  "n": 2968,
   "name": "Patuxai",
   "by": "Tham Sayasithsena",
   "place": "Vientiane, LA",
@@ -251076,7 +254370,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Patuxai",
   "lead": "File:Patuxai1.jpg",
-  "coords": null,
+  "coords": [
+   17.97056,
+   102.61861
+  ],
   "hotlink": true,
   "images": [
    {
@@ -251121,7 +254418,7 @@ window.BUILDINGS = [
  },
  {
   "id": "omar-ali-saifuddien-mosque",
-  "n": 2973,
+  "n": 2969,
   "name": "Omar Ali Saifuddien Mosque",
   "by": "Rudolfo Nolli with Booty Edwards & Partners",
   "place": "Bandar Seri Begawan, BN",
@@ -251140,7 +254437,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Omar Ali Saifuddien Mosque",
   "lead": "File:Brunei.Sultan Omar Ali Saifuddin Mosque (18640417629).jpg",
-  "coords": null,
+  "coords": [
+   4.88958,
+   114.93914
+  ],
   "hotlink": true,
   "images": [
    {
@@ -251221,7 +254521,7 @@ window.BUILDINGS = [
  },
  {
   "id": "singapore-indoor-stadium",
-  "n": 2974,
+  "n": 2970,
   "name": "Singapore Indoor Stadium",
   "by": "Kenzo Tange with Raglan Squire & Partners",
   "place": "Singapore, SG",
@@ -251240,7 +254540,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Singapore Indoor Stadium",
   "lead": "File:Entrance to the Singapore Indoor Stadium.jpg",
-  "coords": null,
+  "coords": [
+   1.30056,
+   103.87444
+  ],
   "hotlink": true,
   "images": [
    {
@@ -251273,7 +254576,7 @@ window.BUILDINGS = [
  },
  {
   "id": "supreme-court-of-singapore",
-  "n": 2975,
+  "n": 2971,
   "name": "Supreme Court of Singapore",
   "by": "Foster + Partners with CPG Corporation",
   "place": "Singapore, SG",
@@ -251292,7 +254595,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Supreme Court of Singapore",
   "lead": "File:Singapore New Supreme Court 01.jpg",
-  "coords": null,
+  "coords": [
+   1.29056,
+   103.85056
+  ],
   "hotlink": true,
   "images": [
    {
@@ -251349,7 +254655,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ipoh-railway-station",
-  "n": 2976,
+  "n": 2972,
   "name": "Ipoh Railway Station",
   "by": "Arthur Benison Hubback",
   "place": "Ipoh, MY",
@@ -251368,7 +254674,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Ipoh Railway Station",
   "lead": "File:Architecture of Ipoh Train Station.jpg",
-  "coords": null,
+  "coords": [
+   4.59722,
+   101.07333
+  ],
   "hotlink": true,
   "images": [
    {
@@ -251413,7 +254722,7 @@ window.BUILDINGS = [
  },
  {
   "id": "jakarta-kota-railway-station",
-  "n": 2977,
+  "n": 2973,
   "name": "Jakarta Kota Station",
   "by": "Frans Johan Louwrens Ghijsels",
   "place": "Jakarta, ID",
@@ -251432,7 +254741,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Jakarta Kota Station",
   "lead": "File:Jakarta Kota Station (2025) - img 01.jpg",
-  "coords": null,
+  "coords": [
+   -6.13758,
+   106.81463
+  ],
   "hotlink": true,
   "images": [
    {
@@ -251477,7 +254789,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kuala-lumpur-railway-station",
-  "n": 2978,
+  "n": 2974,
   "name": "Kuala Lumpur Railway Station",
   "by": "Arthur Benison Hubback",
   "place": "Kuala Lumpur, MY",
@@ -251496,7 +254808,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Kuala Lumpur Railway Station",
   "lead": "File:20190822 Kuala Lumpur railway station-2.jpg",
-  "coords": null,
+  "coords": [
+   3.13944,
+   101.69333
+  ],
   "hotlink": true,
   "images": [
    {
@@ -251565,7 +254880,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cathay-building",
-  "n": 2979,
+  "n": 2975,
   "name": "Cathay Building",
   "by": "Frank W. Brewer (Arbenz and Brewer)",
   "place": "Singapore, SG",
@@ -251584,7 +254899,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:The Cathay",
   "lead": "File:The Cathay, October 2025.jpg",
-  "coords": null,
+  "coords": [
+   1.29931,
+   103.848
+  ],
   "hotlink": true,
   "images": [
    {
@@ -251653,7 +254971,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sultan-mosque-singapore",
-  "n": 2980,
+  "n": 2976,
   "name": "Sultan Mosque",
   "by": "Denis Santry (Swan & Maclaren)",
   "place": "Singapore, SG",
@@ -251672,7 +254990,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Masjid Sultan",
   "lead": "File:2016 Singapur, Kampong Glam, Meczet Sułtana (01).jpg",
-  "coords": null,
+  "coords": [
+   1.30214,
+   103.859
+  ],
   "hotlink": true,
   "images": [
    {
@@ -251753,7 +255074,7 @@ window.BUILDINGS = [
  },
  {
   "id": "wat-rong-khun",
-  "n": 2981,
+  "n": 2977,
   "name": "Wat Rong Khun (White Temple)",
   "by": "Chalermchai Kositpipat",
   "place": "Chiang Rai, TH",
@@ -251772,7 +255093,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Wat Rong Khun, Chiang Rai",
   "lead": "File:Chiang Rai Thailand Wat-Rong-Khun-01.jpg",
-  "coords": null,
+  "coords": [
+   19.82424,
+   99.76329
+  ],
   "hotlink": true,
   "images": [
    {
@@ -251841,7 +255165,7 @@ window.BUILDINGS = [
  },
  {
   "id": "inland-steel-building",
-  "n": 2982,
+  "n": 2978,
   "name": "Inland Steel Building",
   "by": "Bruce Graham & Walter Netsch (Skidmore, Owings & Merrill)",
   "place": "Chicago, US",
@@ -251860,7 +255184,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Inland Steel Building",
   "lead": "File:Inland Steel Building 2007 05 21.jpg",
-  "coords": null,
+  "coords": [
+   41.88083,
+   -87.62861
+  ],
   "hotlink": true,
   "images": [
    {
@@ -251941,7 +255268,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kluczynski-federal-building",
-  "n": 2983,
+  "n": 2979,
   "name": "John C. Kluczynski Federal Building",
   "by": "Ludwig Mies van der Rohe",
   "place": "Chicago, US",
@@ -251960,7 +255287,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Kluczynski Federal Building",
   "lead": "File:Chicago Federal Center.jpg",
-  "coords": null,
+  "coords": [
+   41.8784,
+   -87.6299
+  ],
   "hotlink": true,
   "images": [
    {
@@ -252005,7 +255335,7 @@ window.BUILDINGS = [
  },
  {
   "id": "reliance-building",
-  "n": 2984,
+  "n": 2980,
   "name": "Reliance Building",
   "by": "John Root & Charles B. Atwood",
   "place": "Chicago, US",
@@ -252024,7 +255354,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Reliance Building",
   "lead": "File:Reliance Building in September 2015.jpg",
-  "coords": null,
+  "coords": [
+   41.88278,
+   -87.62778
+  ],
   "hotlink": true,
   "images": [
    {
@@ -252093,7 +255426,7 @@ window.BUILDINGS = [
  },
  {
   "id": "richard-j-daley-center",
-  "n": 2985,
+  "n": 2981,
   "name": "Richard J. Daley Center",
   "by": "Jacques Brownson (C. F. Murphy Associates)",
   "place": "Chicago, US",
@@ -252112,7 +255445,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Richard J. Daley Center",
   "lead": "File:Daley Center Chicago.jpg",
-  "coords": null,
+  "coords": [
+   41.8839,
+   -87.6302
+  ],
   "hotlink": true,
   "images": [
    {
@@ -252181,7 +255517,7 @@ window.BUILDINGS = [
  },
  {
   "id": "rookery-building",
-  "n": 2986,
+  "n": 2982,
   "name": "Rookery Building",
   "by": "Burnham & Root",
   "place": "Chicago, US",
@@ -252200,7 +255536,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Rookery Building",
   "lead": "File:The Rookery, Chicago, IL.jpg",
-  "coords": null,
+  "coords": [
+   41.87908,
+   -87.63211
+  ],
   "hotlink": true,
   "images": [
    {
@@ -252281,7 +255620,7 @@ window.BUILDINGS = [
  },
  {
   "id": "harold-washington-library-center",
-  "n": 2987,
+  "n": 2983,
   "name": "Harold Washington Library Center",
   "by": "Hammond, Beeby and Babka",
   "place": "Chicago, US",
@@ -252300,7 +255639,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Harold Washington Library",
   "lead": "File:Harold Washington Library, Chicago, Illinois (9181548762).jpg",
-  "coords": null,
+  "coords": [
+   41.8763,
+   -87.6282
+  ],
   "hotlink": true,
   "images": [
    {
@@ -252383,7 +255725,7 @@ window.BUILDINGS = [
  },
  {
   "id": "1111-lincoln-road",
-  "n": 2988,
+  "n": 2984,
   "name": "1111 Lincoln Road",
   "by": "Herzog & de Meuron",
   "place": "Miami Beach, US",
@@ -252402,7 +255744,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:1111 Lincoln Road",
   "lead": "File:1111 Lincoln Road at night.jpg",
-  "coords": null,
+  "coords": [
+   25.79073,
+   -80.14104
+  ],
   "hotlink": true,
   "images": [
    {
@@ -252483,7 +255828,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hyatt-regency-atlanta",
-  "n": 2989,
+  "n": 2985,
   "name": "Hyatt Regency Atlanta",
   "by": "John Portman & Associates",
   "place": "Atlanta, US",
@@ -252502,7 +255847,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Atlanta Hyatt Regency",
   "lead": "File:Hyatt-regency-atlanta-side.jpg",
-  "coords": null,
+  "coords": [
+   33.76146,
+   -84.38684
+  ],
   "hotlink": true,
   "images": [
    {
@@ -252583,7 +255931,7 @@ window.BUILDINGS = [
  },
  {
   "id": "harvard-graduate-center",
-  "n": 2990,
+  "n": 2986,
   "name": "Harvard Graduate Center",
   "by": "The Architects Collaborative",
   "place": "Cambridge, US",
@@ -252623,7 +255971,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ingalls-rink",
-  "n": 2991,
+  "n": 2987,
   "name": "David S. Ingalls Rink",
   "by": "Eero Saarinen",
   "place": "New Haven, US",
@@ -252642,7 +255990,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Ingalls Rink",
   "lead": "File:Ingalls Rink Highsmith.jpg",
-  "coords": null,
+  "coords": [
+   41.31655,
+   -72.92504
+  ],
   "hotlink": true,
   "images": [
    {
@@ -252737,7 +256088,7 @@ window.BUILDINGS = [
  },
  {
   "id": "north-christian-church-columbus",
-  "n": 2992,
+  "n": 2988,
   "name": "North Christian Church",
   "by": "Eero Saarinen",
   "place": "Columbus, US",
@@ -252756,7 +256107,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:North Christian Church (Columbus, Indiana)",
   "lead": "File:NorthChristianChurch.jpg",
-  "coords": null,
+  "coords": [
+   39.22972,
+   -85.91611
+  ],
   "hotlink": true,
   "images": [
    {
@@ -252825,7 +256179,7 @@ window.BUILDINGS = [
  },
  {
   "id": "john-deere-world-headquarters",
-  "n": 2993,
+  "n": 2989,
   "name": "John Deere World Headquarters",
   "by": "Eero Saarinen",
   "place": "Moline, US",
@@ -252844,7 +256198,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:John Deere World Headquarters",
   "lead": "File:John Deere World Headquarters 04.jpg",
-  "coords": null,
+  "coords": [
+   41.47667,
+   -90.42639
+  ],
   "hotlink": true,
   "images": [
    {
@@ -252901,7 +256258,7 @@ window.BUILDINGS = [
  },
  {
   "id": "j-s-dorton-arena",
-  "n": 2994,
+  "n": 2990,
   "name": "J. S. Dorton Arena",
   "by": "Maciej Nowicki & William Henley Deitrick",
   "place": "Raleigh, US",
@@ -252920,7 +256277,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Dorton Arena",
   "lead": "File:Dorton Arena West Side.JPG",
-  "coords": null,
+  "coords": [
+   35.79361,
+   -78.71
+  ],
   "hotlink": true,
   "images": [
    {
@@ -252977,7 +256337,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sarasota-high-school",
-  "n": 2995,
+  "n": 2991,
   "name": "Sarasota High School",
   "by": "Paul Rudolph",
   "place": "Sarasota, US",
@@ -252996,7 +256356,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Sarasota High School",
   "lead": "File:Sarasota High School Addition (Paul Rudolph, Architect, FAIA).jpg",
-  "coords": null,
+  "coords": [
+   27.32519,
+   -82.52775
+  ],
   "hotlink": true,
   "images": [
    {
@@ -253053,7 +256416,7 @@ window.BUILDINGS = [
  },
  {
   "id": "wingspread",
-  "n": 2996,
+  "n": 2992,
   "name": "Wingspread (Herbert F. Johnson House)",
   "by": "Frank Lloyd Wright",
   "place": "Wind Point, US",
@@ -253072,7 +256435,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Wingspread",
   "lead": "File:WingspreadFrankLloydWrightKenoshaWisconsin.jpg",
-  "coords": null,
+  "coords": [
+   42.78038,
+   -87.77076
+  ],
   "hotlink": true,
   "images": [
    {
@@ -253141,7 +256507,7 @@ window.BUILDINGS = [
  },
  {
   "id": "graycliff",
-  "n": 2997,
+  "n": 2993,
   "name": "Graycliff",
   "by": "Frank Lloyd Wright",
   "place": "Derby, US",
@@ -253160,7 +256526,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Graycliff",
   "lead": "File:Graycliff.jpg",
-  "coords": null,
+  "coords": [
+   42.71338,
+   -78.9729
+  ],
   "hotlink": true,
   "images": [
    {
@@ -253205,7 +256574,7 @@ window.BUILDINGS = [
  },
  {
   "id": "jacobs-first-house",
-  "n": 2998,
+  "n": 2994,
   "name": "Herbert and Katherine Jacobs First House",
   "by": "Frank Lloyd Wright",
   "place": "Madison, US",
@@ -253224,7 +256593,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Herbert and Katherine Jacobs First House",
   "lead": "File:Jacobs First House - front.jpg",
-  "coords": null,
+  "coords": [
+   43.05861,
+   -89.44167
+  ],
   "hotlink": true,
   "images": [
    {
@@ -253293,7 +256665,7 @@ window.BUILDINGS = [
  },
  {
   "id": "pope-leighey-house",
-  "n": 2999,
+  "n": 2995,
   "name": "Pope–Leighey House",
   "by": "Frank Lloyd Wright",
   "place": "Alexandria, US",
@@ -253312,7 +256684,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Pope-Leighey House",
   "lead": "File:Pope-Leighey House - North east facade - HABS VA,30-FALCH,2-10.jpg",
-  "coords": null,
+  "coords": [
+   38.7194,
+   -77.136
+  ],
   "hotlink": true,
   "images": [
    {
@@ -253393,7 +256768,7 @@ window.BUILDINGS = [
  },
  {
   "id": "phipps-conservatory",
-  "n": 3000,
+  "n": 2996,
   "name": "Phipps Conservatory",
   "by": "Lord & Burnham",
   "place": "Pittsburgh, US",
@@ -253412,7 +256787,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Phipps Conservatory & Botanical Gardens",
   "lead": "File:Phipps conservatory 0.JPG",
-  "coords": null,
+  "coords": [
+   40.4389,
+   -79.9477
+  ],
   "hotlink": true,
   "images": [
    {
@@ -253457,7 +256835,7 @@ window.BUILDINGS = [
  },
  {
   "id": "home-federal-savings-des-moines",
-  "n": 3001,
+  "n": 2997,
   "name": "Home Federal Savings and Loan Building",
   "by": "Ludwig Mies van der Rohe",
   "place": "Des Moines, US",
@@ -253497,7 +256875,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-farmers-bank-owatonna",
-  "n": 3002,
+  "n": 2998,
   "name": "National Farmers' Bank of Owatonna",
   "by": "Louis Sullivan",
   "place": "Owatonna, US",
@@ -253516,7 +256894,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:National Farmer's Bank of Owatonna",
   "lead": "File:Louis H. Sullivan - Farmer's National Bank (A), Owatonna, MN.jpg",
-  "coords": null,
+  "coords": [
+   44.0851,
+   -93.22575
+  ],
   "hotlink": true,
   "images": [
    {
@@ -253585,7 +256966,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bayard-condict-building",
-  "n": 3003,
+  "n": 2999,
   "name": "Bayard–Condict Building",
   "by": "Louis Sullivan",
   "place": "New York, US",
@@ -253604,7 +256985,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Bayard-Condict Building",
   "lead": "File:Louis H. Sullivan - Bayard-Condict Building (A), New York, NY.jpg",
-  "coords": null,
+  "coords": [
+   40.72639,
+   -73.995
+  ],
   "hotlink": true,
   "images": [
    {
@@ -253673,7 +257057,7 @@ window.BUILDINGS = [
  },
  {
   "id": "krause-music-store",
-  "n": 3004,
+  "n": 3000,
   "name": "Krause Music Store",
   "by": "Louis Sullivan (facade)",
   "place": "Chicago, US",
@@ -253692,7 +257076,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Krause Music Store",
   "lead": "File:Krause Music Store - 52529944623.jpg",
-  "coords": null,
+  "coords": [
+   41.96528,
+   -87.68611
+  ],
   "hotlink": true,
   "images": [
    {
@@ -253761,7 +257148,7 @@ window.BUILDINGS = [
  },
  {
   "id": "buffalo-city-court-building",
-  "n": 3005,
+  "n": 3001,
   "name": "Buffalo City Court Building",
   "by": "Pfohl, Roberts and Biggie",
   "place": "Buffalo, US",
@@ -253780,7 +257167,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Buffalo City Court Building",
   "lead": "File:Frank A. Sedita City Court Building, Delaware Avenue and Niagara Square, Buffalo, NY.jpg",
-  "coords": null,
+  "coords": [
+   42.8856,
+   -78.8793
+  ],
   "hotlink": true,
   "images": [
    {
@@ -253837,7 +257227,7 @@ window.BUILDINGS = [
  },
  {
   "id": "george-h-fallon-federal-building",
-  "n": 3006,
+  "n": 3002,
   "name": "George H. Fallon Federal Office Building",
   "by": "Fisher, Nes, Campbell and Associates",
   "place": "Baltimore, US",
@@ -253889,7 +257279,7 @@ window.BUILDINGS = [
  },
  {
   "id": "strom-thurmond-federal-building",
-  "n": 3007,
+  "n": 3003,
   "name": "Strom Thurmond Federal Building and U.S. Courthouse",
   "by": "Marcel Breuer",
   "place": "Columbia, US",
@@ -253908,7 +257298,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Strom Thurmond Federal Building",
   "lead": "File:Strom Thurmond Federal Building and United States Courthouse, Assembly Street and Laurel Street, Columbia, SC - 53395729926.jpg",
-  "coords": null,
+  "coords": [
+   34.0163,
+   -80.9384
+  ],
   "hotlink": true,
   "images": [
    {
@@ -253965,7 +257358,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kocatepe-mosque",
-  "n": 3008,
+  "n": 3004,
   "name": "Kocatepe Mosque",
   "by": "Hüsrev Tayla, M. Fatin Uluengin",
   "place": "Ankara, TR",
@@ -253984,7 +257377,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Kocatepe Mosque",
   "lead": "File:Ankara camii.jpg",
-  "coords": null,
+  "coords": [
+   39.91667,
+   32.86056
+  ],
   "hotlink": true,
   "images": [
    {
@@ -254017,7 +257413,7 @@ window.BUILDINGS = [
  },
  {
   "id": "canakkale-martyrs-memorial",
-  "n": 3009,
+  "n": 3005,
   "name": "Çanakkale Martyrs' Memorial",
   "by": "Doğan Erginbaş, İsmail Utkular, Ertuğrul Barla",
   "place": "Gelibolu, Çanakkale, TR",
@@ -254036,7 +257432,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Çanakkale Martyrs' Memorial",
   "lead": "File:Onderkokturk-canakkale01.jpg",
-  "coords": null,
+  "coords": [
+   40.05016,
+   26.21928
+  ],
   "hotlink": true,
   "images": [
    {
@@ -254093,7 +257492,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ankara-palas",
-  "n": 3010,
+  "n": 3006,
   "name": "Ankara Palas",
   "by": "Vedat Tek, Mimar Kemaleddin",
   "place": "Ankara, TR",
@@ -254112,7 +257511,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Ankara Palas",
   "lead": "File:Ankara Palas (2).jpg",
-  "coords": null,
+  "coords": [
+   39.94064,
+   32.85229
+  ],
   "hotlink": true,
   "images": [
    {
@@ -254169,7 +257571,7 @@ window.BUILDINGS = [
  },
  {
   "id": "istanbul-archaeology-museums",
-  "n": 3011,
+  "n": 3007,
   "name": "Istanbul Archaeology Museums",
   "by": "Alexandre Vallaury",
   "place": "Istanbul, TR",
@@ -254188,7 +257590,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Istanbul Archaeological Museums",
   "lead": "File:Istanbularcheology.jpg",
-  "coords": null,
+  "coords": [
+   41.01167,
+   28.98139
+  ],
   "hotlink": true,
   "images": [
    {
@@ -254245,7 +257650,7 @@ window.BUILDINGS = [
  },
  {
   "id": "haydarpasa-terminal",
-  "n": 3012,
+  "n": 3008,
   "name": "Haydarpaşa Terminal",
   "by": "Otto Ritter, Helmut Conu",
   "place": "Istanbul, TR",
@@ -254264,7 +257669,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Haydarpaşa Terminal",
   "lead": "File:Haydarpaşa Garı.jpg",
-  "coords": null,
+  "coords": [
+   40.99614,
+   29.0186
+  ],
   "hotlink": true,
   "images": [
    {
@@ -254321,7 +257729,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sirkeci-terminal",
-  "n": 3013,
+  "n": 3009,
   "name": "Sirkeci Terminal",
   "by": "August Jasmund",
   "place": "Istanbul, TR",
@@ -254340,7 +257748,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Sirkeci Terminal",
   "lead": "File:Sirkeci Terminal.jpg",
-  "coords": null,
+  "coords": [
+   41.01497,
+   28.97646
+  ],
   "hotlink": true,
   "images": [
    {
@@ -254373,7 +257784,7 @@ window.BUILDINGS = [
  },
  {
   "id": "dolmabahce-palace",
-  "n": 3014,
+  "n": 3010,
   "name": "Dolmabahçe Palace",
   "by": "Garabet Balyan, Nigoğayos Balyan, Evanis Kalfa",
   "place": "Istanbul, TR",
@@ -254392,7 +257803,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Dolmabahçe Palace",
   "lead": "File:Dolmabahce Istanbul Turkey.jpg",
-  "coords": null,
+  "coords": [
+   41.03944,
+   29.00167
+  ],
   "hotlink": true,
   "images": [
    {
@@ -254473,7 +257887,7 @@ window.BUILDINGS = [
  },
  {
   "id": "istanbul-airport",
-  "n": 3015,
+  "n": 3011,
   "name": "Istanbul Airport",
   "by": "Grimshaw Architects, Nordic Office of Architecture, Haptic Architects",
   "place": "Istanbul, TR",
@@ -254492,7 +257906,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Istanbul Airport",
   "lead": "Istanbul Airport, Turkey.jpg",
-  "coords": null,
+  "coords": [
+   41.26083,
+   28.74222
+  ],
   "hotlink": true,
   "images": [
    {
@@ -254561,7 +257978,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sehzade-mosque",
-  "n": 3016,
+  "n": 3012,
   "name": "Şehzade Mosque",
   "by": "Mimar Sinan",
   "place": "Istanbul, TR",
@@ -254580,7 +257997,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Şehzade Mosque",
   "lead": "File:Sehzade camisi.jpg",
-  "coords": null,
+  "coords": [
+   41.01379,
+   28.95717
+  ],
   "hotlink": true,
   "images": [
    {
@@ -254637,7 +258057,7 @@ window.BUILDINGS = [
  },
  {
   "id": "rustem-pasha-mosque",
-  "n": 3017,
+  "n": 3013,
   "name": "Rüstem Pasha Mosque",
   "by": "Mimar Sinan",
   "place": "Istanbul, TR",
@@ -254656,7 +258076,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Rüstem Pasha Mosque",
   "lead": "File:Rüstem Paşa Camii Karaköy vapurundan.jpg",
-  "coords": null,
+  "coords": [
+   41.01759,
+   28.96875
+  ],
   "hotlink": true,
   "images": [
    {
@@ -254703,7 +258126,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mihrimah-sultan-mosque-edirnekapi",
-  "n": 3018,
+  "n": 3014,
   "name": "Mihrimah Sultan Mosque, Edirnekapı",
   "by": "Mimar Sinan",
   "place": "Istanbul, TR",
@@ -254722,7 +258145,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Mihrimah Mosque (Edirnekapı)",
   "lead": "File:Istanbul - Mesquita de Mihrimah.JPG",
-  "coords": null,
+  "coords": [
+   41.02917,
+   28.93583
+  ],
   "hotlink": true,
   "images": [
    {
@@ -254791,7 +258217,7 @@ window.BUILDINGS = [
  },
  {
   "id": "divrigi-great-mosque-and-hospital",
-  "n": 3019,
+  "n": 3015,
   "name": "Divriği Great Mosque and Hospital",
   "by": "Khurramshāh ibn Mughīth al-Khilātī",
   "place": "Divriği, Sivas, TR",
@@ -254810,7 +258236,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Divriği Great Mosque and Hospital",
   "lead": "File:Divriği Ulu Camii ve Darüşşifası 2016-05-26 19.59.14 1791825509.jpg",
-  "coords": null,
+  "coords": [
+   39.37122,
+   38.12158
+  ],
   "hotlink": true,
   "images": [
    {
@@ -254881,7 +258310,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hagia-sophia",
-  "n": 3020,
+  "n": 3016,
   "name": "Hagia Sophia",
   "by": "Isidore of Miletus, Anthemius of Tralles",
   "place": "Istanbul, TR",
@@ -254900,7 +258329,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Hagia Sophia",
   "lead": "File:Hagia Sophia (228968325).jpeg",
-  "coords": null,
+  "coords": [
+   41.00833,
+   28.98
+  ],
   "hotlink": true,
   "images": [
    {
@@ -254981,7 +258413,7 @@ window.BUILDINGS = [
  },
  {
   "id": "blue-mosque",
-  "n": 3021,
+  "n": 3017,
   "name": "Sultan Ahmed Mosque (Blue Mosque)",
   "by": "Sedefkar Mehmed Agha",
   "place": "Istanbul, TR",
@@ -255000,7 +258432,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Sultan Ahmed I Mosque",
   "lead": "File:Blue Mosque (Sultanahmet Mosque).jpg",
-  "coords": null,
+  "coords": [
+   41.00539,
+   28.97682
+  ],
   "hotlink": true,
   "images": [
    {
@@ -255057,7 +258492,7 @@ window.BUILDINGS = [
  },
  {
   "id": "green-mosque-bursa",
-  "n": 3022,
+  "n": 3018,
   "name": "Green Mosque, Bursa",
   "by": "Hacı İvaz Pasha",
   "place": "Bursa, TR",
@@ -255076,7 +258511,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Green Mosque",
   "lead": "File:Bursa Yeşil Camii - Green Mosque (35).jpg",
-  "coords": null,
+  "coords": [
+   40.18219,
+   29.07461
+  ],
   "hotlink": true,
   "images": [
    {
@@ -255157,7 +258595,7 @@ window.BUILDINGS = [
  },
  {
   "id": "grand-mosque-of-bursa",
-  "n": 3023,
+  "n": 3019,
   "name": "Grand Mosque of Bursa",
   "by": "Ali Neccar",
   "place": "Bursa, TR",
@@ -255176,7 +258614,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Grand Mosque of Bursa",
   "lead": "File:71 Bursa la Grande Moschea (Edited).jpg",
-  "coords": null,
+  "coords": [
+   40.18389,
+   29.06194
+  ],
   "hotlink": true,
   "images": [
    {
@@ -255221,7 +258662,7 @@ window.BUILDINGS = [
  },
  {
   "id": "camlica-mosque",
-  "n": 3024,
+  "n": 3020,
   "name": "Çamlıca Mosque",
   "by": "Bahar Mızrak, Hayriye Gül Totu",
   "place": "Istanbul, TR",
@@ -255240,7 +258681,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Çamlıca Mosque",
   "lead": "File:Camlica-2018-06-14.jpg",
-  "coords": null,
+  "coords": [
+   41.0343,
+   29.0704
+  ],
   "hotlink": true,
   "images": [
    {
@@ -255309,7 +258753,7 @@ window.BUILDINGS = [
  },
  {
   "id": "beylerbeyi-palace",
-  "n": 3025,
+  "n": 3021,
   "name": "Beylerbeyi Palace",
   "by": "Sarkis Balyan",
   "place": "Istanbul, TR",
@@ -255328,7 +258772,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Beylerbeyi Palace",
   "lead": "File:Beylerbeyi Palace (cropped).jpg",
-  "coords": null,
+  "coords": [
+   41.0426,
+   29.0399
+  ],
   "hotlink": true,
   "images": [
    {
@@ -255385,7 +258832,7 @@ window.BUILDINGS = [
  },
  {
   "id": "atakule",
-  "n": 3026,
+  "n": 3022,
   "name": "Atakule",
   "by": "Ragıp Buluç",
   "place": "Ankara, TR",
@@ -255404,7 +258851,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Atakule",
   "lead": "File:Botanik Parkı ve Atakule, 2019 01.jpg",
-  "coords": null,
+  "coords": [
+   39.88611,
+   32.85611
+  ],
   "hotlink": true,
   "images": [
    {
@@ -255461,7 +258911,7 @@ window.BUILDINGS = [
  },
  {
   "id": "gok-medrese-sivas",
-  "n": 3027,
+  "n": 3023,
   "name": "Gök Medrese, Sivas",
   "by": "Kaloyan",
   "place": "Sivas, TR",
@@ -255480,7 +258930,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Gök Medrese (Sivas)",
   "lead": "File:Gök Medrese.jpg",
-  "coords": null,
+  "coords": [
+   39.74429,
+   37.01673
+  ],
   "hotlink": true,
   "images": [
    {
@@ -255537,7 +258990,7 @@ window.BUILDINGS = [
  },
  {
   "id": "istanbul-grand-post-office",
-  "n": 3028,
+  "n": 3024,
   "name": "Istanbul Grand Post Office",
   "by": "Vedat Tek",
   "place": "Istanbul, TR",
@@ -255556,7 +259009,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Grand Post Office, Istanbul",
   "lead": "Istanbul Grand Post Office.jpg",
-  "coords": null,
+  "coords": [
+   41.01444,
+   28.97389
+  ],
   "hotlink": true,
   "images": [
    {
@@ -255613,7 +259069,7 @@ window.BUILDINGS = [
  },
  {
   "id": "istanbul-lutfi-kirdar-convention-center",
-  "n": 3029,
+  "n": 3025,
   "name": "Istanbul Lütfi Kırdar Convention and Exhibition Center",
   "by": "Paolo Vietti-Violi, Şinasi Şahingiray, Fazıl Aysu",
   "place": "Istanbul, TR",
@@ -255632,7 +259088,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Istanbul Lütfi Kırdar International Convention and Exhibition Center",
   "lead": "File:Lütfi Kırdar Convention and Exhibition Center.JPG",
-  "coords": null,
+  "coords": [
+   41.0478,
+   28.9894
+  ],
   "hotlink": true,
   "images": [
    {
@@ -255677,7 +259136,7 @@ window.BUILDINGS = [
  },
  {
   "id": "santralistanbul",
-  "n": 3030,
+  "n": 3026,
   "name": "SantralIstanbul",
   "by": "İhsan Bilgin, Nevzat Sayın, Emre Arolat, Han Tümertekin",
   "place": "Istanbul, TR",
@@ -255696,7 +259155,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Santralistanbul",
   "lead": "File:Santral istanbul ext1.JPG",
-  "coords": null,
+  "coords": [
+   41.0665,
+   28.9461
+  ],
   "hotlink": true,
   "images": [
    {
@@ -255753,7 +259215,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cafera-medrese",
-  "n": 3031,
+  "n": 3027,
   "name": "Caferağa Medrese",
   "by": "Mimar Sinan",
   "place": "Istanbul, TR",
@@ -255772,7 +259234,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Caferağa Medresseh",
   "lead": "File:Caferaga medresseh Pano.JPG",
-  "coords": null,
+  "coords": [
+   41.00964,
+   28.97883
+  ],
   "hotlink": true,
   "images": [
    {
@@ -255817,7 +259282,7 @@ window.BUILDINGS = [
  },
  {
   "id": "milad-tower",
-  "n": 3032,
+  "n": 3028,
   "name": "Milad Tower",
   "by": "Mohammad Reza Hafezi",
   "place": "Tehran, IR",
@@ -255836,7 +259301,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Milad Tower",
   "lead": "File:Milad tower2023.jpg",
-  "coords": null,
+  "coords": [
+   35.74461,
+   51.37533
+  ],
   "hotlink": true,
   "images": [
    {
@@ -255857,7 +259325,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tomb-of-ferdowsi",
-  "n": 3033,
+  "n": 3029,
   "name": "Tomb of Ferdowsi",
   "by": "Haj Hossein Lurzadeh; Karim Taherzadeh",
   "place": "Tus, IR",
@@ -255876,7 +259344,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Ferdowsi Mausoleum",
   "lead": "File:Tomb-of-Ferdowsi_آرامگاه-فردوسی_Davoud-Davoudi_1.jpg",
-  "coords": null,
+  "coords": [
+   36.48613,
+   59.51754
+  ],
   "hotlink": true,
   "images": [
    {
@@ -255897,7 +259368,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tomb-of-saadi",
-  "n": 3034,
+  "n": 3030,
   "name": "Tomb of Saadi",
   "by": "Mohsen Foroughi",
   "place": "Shiraz, IR",
@@ -255916,7 +259387,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Mausoleum of Saadi Shirazi",
   "lead": "File:سعدیه_20160629_170530.jpg",
-  "coords": null,
+  "coords": [
+   29.62254,
+   52.58318
+  ],
   "hotlink": true,
   "images": [
    {
@@ -256011,7 +259485,7 @@ window.BUILDINGS = [
  },
  {
   "id": "nasir-al-mulk-mosque",
-  "n": 3035,
+  "n": 3031,
   "name": "Nasir al-Mulk Mosque",
   "by": "Mohammad Hasan-e-Memar",
   "place": "Shiraz, IR",
@@ -256030,7 +259504,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Nasir-ol-Molk Mosque",
   "lead": "File:Nasir_ol_Molk_Mosque_(31233739431).jpg",
-  "coords": null,
+  "coords": [
+   29.60856,
+   52.54847
+  ],
   "hotlink": true,
   "images": [
    {
@@ -256111,7 +259588,7 @@ window.BUILDINGS = [
  },
  {
   "id": "golestan-palace",
-  "n": 3036,
+  "n": 3032,
   "name": "Golestan Palace",
   "by": "Haji Abolhassan Mimar Navai",
   "place": "Tehran, IR",
@@ -256130,7 +259607,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Golestan Palace",
   "lead": "File:Palais_du_Golestan,_Téhéran_(5).jpg",
-  "coords": null,
+  "coords": [
+   35.67972,
+   51.42028
+  ],
   "hotlink": true,
   "images": [
    {
@@ -256251,7 +259731,7 @@ window.BUILDINGS = [
  },
  {
   "id": "republican-palace-baghdad",
-  "n": 3037,
+  "n": 3033,
   "name": "Republican Palace, Baghdad",
   "by": "J. Brian Cooper",
   "place": "Baghdad, IQ",
@@ -256270,7 +259750,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Presidential Palace, Baghdad",
   "lead": "File:Republican_Palace,_Baghdad,_Iraq.jpg",
-  "coords": null,
+  "coords": [
+   33.30417,
+   44.40861
+  ],
   "hotlink": true,
   "images": [
    {
@@ -256339,7 +259822,7 @@ window.BUILDINGS = [
  },
  {
   "id": "baghdad-central-station",
-  "n": 3038,
+  "n": 3034,
   "name": "Baghdad Central Station",
   "by": "J. M. Wilson",
   "place": "Baghdad, IQ",
@@ -256358,7 +259841,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Baghdad railway station",
   "lead": "File:مبنى_محطة_القطار_العالمية_.jpg",
-  "coords": null,
+  "coords": [
+   33.32361,
+   44.38028
+  ],
   "hotlink": true,
   "images": [
    {
@@ -256391,7 +259877,7 @@ window.BUILDINGS = [
  },
  {
   "id": "atarim-square",
-  "n": 3039,
+  "n": 3035,
   "name": "Atarim Square",
   "by": "Yaakov Rechter",
   "place": "Tel Aviv, IL",
@@ -256410,7 +259896,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Atarim Square",
   "lead": "File:PikiWiki Israel 45059 Atarim square.JPG",
-  "coords": null,
+  "coords": [
+   32.08556,
+   34.76944
+  ],
   "hotlink": true,
   "images": [
    {
@@ -256467,7 +259956,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hecht-synagogue-jerusalem",
-  "n": 3040,
+  "n": 3036,
   "name": "Hecht Synagogue",
   "by": "Ram Karmi",
   "place": "Jerusalem, IL",
@@ -256486,7 +259975,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:The Hecht synagogue in the Hebrew University",
   "lead": "File:Mount Skopus BW 4.jpg",
-  "coords": null,
+  "coords": [
+   31.79192,
+   35.24229
+  ],
   "hotlink": true,
   "images": [
    {
@@ -256555,7 +260047,7 @@ window.BUILDINGS = [
  },
  {
   "id": "metzudat-zeev",
-  "n": 3041,
+  "n": 3037,
   "name": "Metzudat Ze'ev (Beit Jabotinsky)",
   "by": "Mordechai Ben-Horin",
   "place": "Tel Aviv, IL",
@@ -256574,7 +260066,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Metzudat Ze'ev",
   "lead": "File:Metzudat Ze'ev.jpg",
-  "coords": null,
+  "coords": [
+   32.07293,
+   34.77496
+  ],
   "hotlink": true,
   "images": [
    {
@@ -256631,7 +260126,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mivtachim-sanitarium",
-  "n": 3042,
+  "n": 3038,
   "name": "Mivtachim Sanitarium (ELMA Arts Complex and Hotel)",
   "by": "Yaakov Rechter",
   "place": "Zikhron Ya'akov, IL",
@@ -256707,7 +260202,7 @@ window.BUILDINGS = [
  },
  {
   "id": "yachin-house-tel-aviv",
-  "n": 3043,
+  "n": 3039,
   "name": "Yachin House",
   "by": "Arieh Sharon and Benjamin Idelson",
   "place": "Tel Aviv, IL",
@@ -256747,7 +260242,7 @@ window.BUILDINGS = [
  },
  {
   "id": "habima-theatre",
-  "n": 3044,
+  "n": 3040,
   "name": "Habima Theatre",
   "by": "Ram Karmi (redesign)",
   "place": "Tel Aviv, IL",
@@ -256766,7 +260261,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Habima National Theatre",
   "lead": "File:Habima Theatre (8099263575).jpg",
-  "coords": null,
+  "coords": [
+   32.07269,
+   34.779
+  ],
   "hotlink": true,
   "images": [
    {
@@ -256799,7 +260297,7 @@ window.BUILDINGS = [
  },
  {
   "id": "heichal-hatarbut-tel-aviv",
-  "n": 3045,
+  "n": 3041,
   "name": "Heichal HaTarbut (Charles Bronfman Auditorium)",
   "by": "Dov Karmi, Ze'ev Rechter and Yaakov Rechter",
   "place": "Tel Aviv, IL",
@@ -256818,7 +260316,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Charles Bronfman Auditorium",
   "lead": "File:Charles Bronfman Auditorium at Habima Square (2).jpg",
-  "coords": null,
+  "coords": [
+   32.0736,
+   34.78
+  ],
   "hotlink": true,
   "images": [
    {
@@ -256863,7 +260364,7 @@ window.BUILDINGS = [
  },
  {
   "id": "great-synagogue-tel-aviv",
-  "n": 3046,
+  "n": 3042,
   "name": "Great Synagogue",
   "by": "Yehuda Magidovitch",
   "place": "Tel Aviv, IL",
@@ -256882,7 +260383,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Great Synagogue of Tel Aviv",
   "lead": "File:109567 tel aviv - the great synagogue PikiWiki Israel.png",
-  "coords": null,
+  "coords": [
+   32.06444,
+   34.77222
+  ],
   "hotlink": true,
   "images": [
    {
@@ -256977,7 +260481,7 @@ window.BUILDINGS = [
  },
  {
   "id": "chords-bridge-jerusalem",
-  "n": 3047,
+  "n": 3043,
   "name": "Chords Bridge",
   "by": "Santiago Calatrava",
   "place": "Jerusalem, IL",
@@ -256996,7 +260500,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Jerusalem Chords Bridge",
   "lead": "File:Jerusalem Chords Bridge 5.JPG",
-  "coords": null,
+  "coords": [
+   31.78899,
+   35.20011
+  ],
   "hotlink": true,
   "images": [
    {
@@ -257041,7 +260548,7 @@ window.BUILDINGS = [
  },
  {
   "id": "shrine-of-the-bab",
-  "n": 3048,
+  "n": 3044,
   "name": "Shrine of the Báb",
   "by": "William Sutherland Maxwell",
   "place": "Haifa, IL",
@@ -257060,7 +260567,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Shrine of the Báb",
   "lead": "File:Shrine Bab North West.jpg",
-  "coords": null,
+  "coords": [
+   32.81444,
+   34.98722
+  ],
   "hotlink": true,
   "images": [
    {
@@ -257155,7 +260665,7 @@ window.BUILDINGS = [
  },
  {
   "id": "church-of-all-nations",
-  "n": 3049,
+  "n": 3045,
   "name": "Church of All Nations",
   "by": "Antonio Barluzzi",
   "place": "Jerusalem, IL",
@@ -257174,7 +260684,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Church of All Nations (Jerusalem)",
   "lead": "File:Jerusalem Church of all nations BW 7.jpg",
-  "coords": null,
+  "coords": [
+   31.77923,
+   35.23963
+  ],
   "hotlink": true,
   "images": [
    {
@@ -257243,7 +260756,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ben-gurion-airport-terminal-3",
-  "n": 3050,
+  "n": 3046,
   "name": "Ben Gurion Airport Terminal 3",
   "by": "Skidmore, Owings & Merrill",
   "place": "Lod, IL",
@@ -257262,7 +260775,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Ben Gurion International Airport",
   "lead": "File:Ben-gurion-airport-terminal--september-2012.jpg",
-  "coords": null,
+  "coords": [
+   32.00944,
+   34.88278
+  ],
   "hotlink": true,
   "images": [
    {
@@ -257321,7 +260837,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sursock-museum",
-  "n": 3051,
+  "n": 3047,
   "name": "Sursock Museum",
   "by": "Jean-Michel Wilmotte and Jacques Abou Khaled (extension)",
   "place": "Beirut, LB",
@@ -257340,7 +260856,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Sursock Museum",
   "lead": "File:Sursock house.jpg",
-  "coords": null,
+  "coords": [
+   33.89294,
+   35.51623
+  ],
   "hotlink": true,
   "images": [
    {
@@ -257361,7 +260880,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mohammad-al-amin-mosque",
-  "n": 3052,
+  "n": 3048,
   "name": "Mohammad Al-Amin Mosque",
   "by": "Azmi Fakhoury",
   "place": "Beirut, LB",
@@ -257380,7 +260899,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Mohammad Al-Amin Mosque",
   "lead": "File:Mohamad al amin mosque beyrouth - panoramio.jpg",
-  "coords": null,
+  "coords": [
+   33.89497,
+   35.50637
+  ],
   "hotlink": true,
   "images": [
    {
@@ -257437,7 +260959,7 @@ window.BUILDINGS = [
  },
  {
   "id": "beit-beirut",
-  "n": 3053,
+  "n": 3049,
   "name": "Beit Beirut (Barakat Building)",
   "by": "Youssef Aftimus; Fouad Kozah (upper floors)",
   "place": "Beirut, LB",
@@ -257456,7 +260978,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Beit Beirut",
   "lead": "File:Beit Beirut 2019.jpg",
-  "coords": null,
+  "coords": [
+   33.88696,
+   35.5084
+  ],
   "hotlink": true,
   "images": [
    {
@@ -257500,96 +261025,8 @@ window.BUILDINGS = [
   "gv": 3
  },
  {
-  "id": "cinema-opera-beirut",
-  "n": 3054,
-  "name": "Cinema Opera",
-  "by": "Bahjat Abdelnour",
-  "place": "Beirut, LB",
-  "year": "1944",
-  "y": 1944,
-  "type": "Culture & sport",
-  "movement": "Art Deco",
-  "region": "Middle East",
-  "era": "1900–1945",
-  "concepts": [
-   "Facade as skin",
-   "Detail",
-   "Light & shadow"
-  ],
-  "study": "Art Deco cinema inaugurated in 1944; walls have horizontal dentils and successive recesses.",
-  "qid": null,
-  "commons": "Category:Cinéma Opéra",
-  "lead": "Cinéma Opéra - Reims (FR51) - 2024-01-27 - 1.jpg",
-  "coords": null,
-  "hotlink": true,
-  "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Cin%C3%A9ma_Op%C3%A9ra_-_Reims_%28FR51%29_-_2024-01-27_-_1.jpg/1280px-Cin%C3%A9ma_Op%C3%A9ra_-_Reims_%28FR51%29_-_2024-01-27_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/cinema-opera-beirut/thumbs/1.webp",
-    "w": 1280,
-    "h": 1344,
-    "kind": "Exterior",
-    "caption": "Exterior · Cinéma Opéra, Reims",
-    "credit": "Chabe01",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Cin%C3%A9ma_Op%C3%A9ra_-_Reims_(FR51)_-_2024-01-27_-_1.jpg",
-    "file": "File:Cinéma Opéra - Reims (FR51) - 2024-01-27 - 1.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/2026-05-10_18-46-37_-_Reims_-_Cin%C3%A9ma_Op%C3%A9ra.jpg/1280px-2026-05-10_18-46-37_-_Reims_-_Cin%C3%A9ma_Op%C3%A9ra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/cinema-opera-beirut/thumbs/0.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Détail de la façade du cinéma Opéra, à Reims",
-    "credit": "Baidax",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:2026-05-10_18-46-37_-_Reims_-_Cin%C3%A9ma_Op%C3%A9ra.jpg",
-    "file": "File:2026-05-10 18-46-37 - Reims - Cinéma Opéra.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Reims_-_Le_cin%C3%A9ma_Op%C3%A9ra_A.jpg/1280px-Reims_-_Le_cin%C3%A9ma_Op%C3%A9ra_A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/cinema-opera-beirut/thumbs/2.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Reims - Le cinéma Opéra",
-    "credit": "Renhour48",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Reims_-_Le_cin%C3%A9ma_Op%C3%A9ra_A.jpg",
-    "file": "File:Reims - Le cinéma Opéra A.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Reims_-_Le_cin%C3%A9ma_Op%C3%A9ra_c.jpg/1280px-Reims_-_Le_cin%C3%A9ma_Op%C3%A9ra_c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/cinema-opera-beirut/thumbs/3.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Reims - Le cinéma Opéra",
-    "credit": "Renhour48",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Reims_-_Le_cin%C3%A9ma_Op%C3%A9ra_c.jpg",
-    "file": "File:Reims - Le cinéma Opéra c.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Reims_-_cin%C3%A9ma-op%C3%A9ra_%2805%29.JPG/1280px-Reims_-_cin%C3%A9ma-op%C3%A9ra_%2805%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/cinema-opera-beirut/thumbs/4.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Detail",
-    "caption": "Detail · Cinema-opera of Reims (Marne, France)",
-    "credit": "Fab5669",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Reims_-_cin%C3%A9ma-op%C3%A9ra_(05).JPG",
-    "file": "File:Reims - cinéma-opéra (05).JPG"
-   }
-  ],
-  "has": [],
-  "gv": 3
- },
- {
   "id": "royal-tank-museum-amman",
-  "n": 3055,
+  "n": 3050,
   "name": "Royal Tank Museum",
   "by": "Zaid Daoud",
   "place": "Amman, JO",
@@ -257608,7 +261045,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Royal Tank Museum",
   "lead": "File:Royal Tank Museum 20.jpg",
-  "coords": null,
+  "coords": [
+   31.90861,
+   35.92444
+  ],
   "hotlink": true,
   "images": [
    {
@@ -257641,7 +261081,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hayarkon-96-tel-aviv",
-  "n": 3056,
+  "n": 3051,
   "name": "HaYarkon 96",
   "by": "Pinchas Bieżoński",
   "place": "Tel Aviv, IL",
@@ -257660,7 +261100,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:HaYarkon 96",
   "lead": "File:HaYarkon 96.jpg",
-  "coords": null,
+  "coords": [
+   32.07876,
+   34.76779
+  ],
   "hotlink": true,
   "images": [
    {
@@ -257717,7 +261160,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-institutions-house-jerusalem",
-  "n": 3057,
+  "n": 3052,
   "name": "Jewish National Institutions House",
   "by": "Yohanan Ratner",
   "place": "Jerusalem, IL",
@@ -257736,7 +261179,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:National Institutions House (Jerusalem)",
   "lead": "File:TheJewishNationalInstitutionsHouseJerusalemMay062023 02.jpg",
-  "coords": null,
+  "coords": [
+   31.77675,
+   35.21608
+  ],
   "hotlink": true,
   "images": [
    {
@@ -257793,7 +261239,7 @@ window.BUILDINGS = [
  },
  {
   "id": "jerusalem-great-synagogue",
-  "n": 3058,
+  "n": 3053,
   "name": "Jerusalem Great Synagogue",
   "by": "Alexander Friedman",
   "place": "Jerusalem, IL",
@@ -257812,7 +261258,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Great Synagogue (Jerusalem)",
   "lead": "File:Jerusalem Great Synagogue.jpg",
-  "coords": null,
+  "coords": [
+   31.77579,
+   35.21662
+  ],
   "hotlink": true,
   "images": [
    {
@@ -257881,7 +261330,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hechal-yehuda-synagogue",
-  "n": 3059,
+  "n": 3054,
   "name": "Hechal Yehuda Synagogue",
   "by": "Yitzhak Toledano",
   "place": "Tel Aviv, IL",
@@ -257900,7 +261349,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Hechal Yehuda Synagogue",
   "lead": "File:PikiWiki Israel 7107 salonikis synagogue in tel aviv.jpg",
-  "coords": null,
+  "coords": [
+   32.08673,
+   34.78338
+  ],
   "hotlink": true,
   "images": [
    {
@@ -257983,7 +261435,7 @@ window.BUILDINGS = [
  },
  {
   "id": "yitzhak-rabin-center",
-  "n": 3060,
+  "n": 3055,
   "name": "Yitzhak Rabin Center",
   "by": "Moshe Safdie",
   "place": "Tel Aviv, IL",
@@ -258002,7 +261454,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Rabin Center",
   "lead": "File:מרכז יצחק רבין מכיוון החניה מדרום.jpg",
-  "coords": null,
+  "coords": [
+   32.10028,
+   34.80444
+  ],
   "hotlink": true,
   "images": [
    {
@@ -258061,7 +261516,7 @@ window.BUILDINGS = [
  },
  {
   "id": "jerusalem-theatre",
-  "n": 3061,
+  "n": 3056,
   "name": "Jerusalem Theatre",
   "by": "Michael Nadler, Shulamit Nadler and Shmuel Bixson",
   "place": "Jerusalem, IL",
@@ -258080,7 +261535,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:The Jerusalem Center for the Performing Arts",
   "lead": "File:The Jerusalem Center for the Performing Arts.jpg",
-  "coords": null,
+  "coords": [
+   31.76891,
+   35.21564
+  ],
   "hotlink": true,
   "images": [
    {
@@ -258137,7 +261595,7 @@ window.BUILDINGS = [
  },
  {
   "id": "jumeirah-mosque",
-  "n": 3062,
+  "n": 3057,
   "name": "Jumeirah Mosque",
   "by": "Abd al-Muʿizz Husayn, Muhammad al-Mahdi Hegazy",
   "place": "Dubai, AE",
@@ -258156,7 +261614,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Jumeirah Mosque",
   "lead": "File:Jumeirah Mosque Front View.jpg",
-  "coords": null,
+  "coords": [
+   25.23397,
+   55.2655
+  ],
   "hotlink": true,
   "images": [
    {
@@ -258201,7 +261662,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kaust-campus",
-  "n": 3063,
+  "n": 3058,
   "name": "King Abdullah University of Science and Technology (KAUST) campus",
   "by": "HOK",
   "place": "Thuwal, SA",
@@ -258220,7 +261681,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "King Abdullah University of Science and Technology",
   "lead": "File:KAUST academic building and beacon.jpg",
-  "coords": null,
+  "coords": [
+   22.30972,
+   39.10528
+  ],
   "hotlink": true,
   "images": [
    {
@@ -258265,7 +261729,7 @@ window.BUILDINGS = [
  },
  {
   "id": "carnegie-mellon-university-in-qatar",
-  "n": 3064,
+  "n": 3059,
   "name": "Carnegie Mellon University in Qatar",
   "by": "Legorreta + Legorreta",
   "place": "Doha, QA",
@@ -258284,7 +261748,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Carnegie Mellon University in Qatar",
   "lead": "File:Backyard of Carnegie Mellon University in Qatar.jpg",
-  "coords": null,
+  "coords": [
+   25.31639,
+   51.43889
+  ],
   "hotlink": true,
   "images": [
    {
@@ -258329,7 +261796,7 @@ window.BUILDINGS = [
  },
  {
   "id": "king-faisal-mosque-sharjah",
-  "n": 3065,
+  "n": 3060,
   "name": "King Faisal Mosque, Sharjah",
   "by": "Abdul-Rahman Abdul-Hafidh Al-Junaidi",
   "place": "Sharjah, AE",
@@ -258348,7 +261815,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "King Faisal Mosque Sharjah",
   "lead": "File:King Faisal Mosque Front View.jpg",
-  "coords": null,
+  "coords": [
+   25.34944,
+   55.3875
+  ],
   "hotlink": true,
   "images": [
    {
@@ -258393,7 +261863,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bab-al-bahrain",
-  "n": 3066,
+  "n": 3061,
   "name": "Bab Al Bahrain",
   "by": "Charles Belgrave",
   "place": "Manama, BH",
@@ -258445,7 +261915,7 @@ window.BUILDINGS = [
  },
  {
   "id": "deira-clocktower",
-  "n": 3067,
+  "n": 3062,
   "name": "Deira Clocktower",
   "by": "Otto Bullard, Ziki Homsi",
   "place": "Dubai, AE",
@@ -258464,7 +261934,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "The clock tower (Dubai)",
   "lead": "File:Deira clock tower.jpg",
-  "coords": null,
+  "coords": [
+   25.25861,
+   55.32639
+  ],
   "hotlink": true,
   "images": [
    {
@@ -258497,7 +261970,7 @@ window.BUILDINGS = [
  },
  {
   "id": "riyadh-tv-tower",
-  "n": 3068,
+  "n": 3063,
   "name": "Riyadh TV Tower",
   "by": "Maurice Novarina, Patrici Novarina-Adete",
   "place": "Riyadh, SA",
@@ -258516,7 +261989,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Riyadh TV Tower",
   "lead": "Riyadh TV Tower at the Saudi Broadcasting Authority Headquarters (2026).jpg",
-  "coords": null,
+  "coords": [
+   24.6433,
+   46.6958
+  ],
   "hotlink": true,
   "images": [
    {
@@ -258549,7 +262025,7 @@ window.BUILDINGS = [
  },
  {
   "id": "government-house-yerevan",
-  "n": 3069,
+  "n": 3064,
   "name": "Government House, Yerevan",
   "by": "Alexander Tamanian, Gevorg Tamanian",
   "place": "Yerevan, AM",
@@ -258568,7 +262044,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Government House of Armenia",
   "lead": "File:Yerevan square by Rita W.jpg",
-  "coords": null,
+  "coords": [
+   40.1771,
+   44.5139
+  ],
   "hotlink": true,
   "images": [
    {
@@ -258601,7 +262080,7 @@ window.BUILDINGS = [
  },
  {
   "id": "yerevan-opera-theatre",
-  "n": 3070,
+  "n": 3065,
   "name": "Yerevan Opera Theatre",
   "by": "Alexander Tamanian",
   "place": "Yerevan, AM",
@@ -258641,7 +262120,7 @@ window.BUILDINGS = [
  },
  {
   "id": "gyumri-railway-station",
-  "n": 3071,
+  "n": 3066,
   "name": "Gyumri railway station",
   "by": "Rafik Yeghoyan",
   "place": "Gyumri, AM",
@@ -258681,7 +262160,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tbilisi-sports-palace",
-  "n": 3072,
+  "n": 3067,
   "name": "Tbilisi Sports Palace",
   "by": "Vladimir Aleksi-Meskhishvili, Yuri Kasradze, Temo Japaridze",
   "place": "Tbilisi, GE",
@@ -258700,7 +262179,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Tbilisi Sports Palace",
   "lead": "File:Sports Palace in Tbilisi - panoramio.jpg",
-  "coords": null,
+  "coords": [
+   41.72,
+   44.78
+  ],
   "hotlink": true,
   "images": [
    {
@@ -258721,7 +262203,7 @@ window.BUILDINGS = [
  },
  {
   "id": "svetitskhoveli-cathedral",
-  "n": 3073,
+  "n": 3068,
   "name": "Svetitskhoveli Cathedral",
   "by": "Arsukidze",
   "place": "Mtskheta, GE",
@@ -258761,7 +262243,7 @@ window.BUILDINGS = [
  },
  {
   "id": "government-house-baku",
-  "n": 3074,
+  "n": 3069,
   "name": "Government House, Baku",
   "by": "Lev Rudnev, Vladimir Munts",
   "place": "Baku, AZ",
@@ -258780,7 +262262,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Government House of Azerbaijan",
   "lead": "File:Hilton Hotel and Government House, Baku.jpg",
-  "coords": null,
+  "coords": [
+   40.37389,
+   49.8525
+  ],
   "hotlink": true,
   "images": [
    {
@@ -258801,7 +262286,7 @@ window.BUILDINGS = [
  },
  {
   "id": "alphabetic-tower",
-  "n": 3075,
+  "n": 3070,
   "name": "Alphabetic Tower",
   "by": "CMD Ingenieros (Alberto Domingo, Carlos Lazaro)",
   "place": "Batumi, GE",
@@ -258820,7 +262305,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Alphabetic Tower",
   "lead": "File:Alphabet Tower, Batumi.jpg",
-  "coords": null,
+  "coords": [
+   41.6559,
+   41.6394
+  ],
   "hotlink": true,
   "images": [
    {
@@ -258841,7 +262329,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-library-of-armenia",
-  "n": 3076,
+  "n": 3071,
   "name": "National Library of Armenia",
   "by": "Alexander Tamanian",
   "place": "Yerevan, AM",
@@ -258860,7 +262348,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "National Library of Armenia",
   "lead": "File:Ազգային գրադարանի գլխավոր մասնաշենքը.jpg",
-  "coords": null,
+  "coords": [
+   40.19,
+   44.52333
+  ],
   "hotlink": true,
   "images": [
    {
@@ -258881,7 +262372,7 @@ window.BUILDINGS = [
  },
  {
   "id": "heydar-aliyev-palace",
-  "n": 3077,
+  "n": 3072,
   "name": "Heydar Aliyev Palace",
   "by": "Alish Lemberanskiy",
   "place": "Baku, AZ",
@@ -258900,7 +262391,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Heydar Aliyev Palace",
   "lead": "File:Heydər Əliyev sarayı - panoramio.jpg",
-  "coords": null,
+  "coords": [
+   40.37779,
+   49.84161
+  ],
   "hotlink": true,
   "images": [
    {
@@ -258921,7 +262415,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palace-of-happiness-baku",
-  "n": 3078,
+  "n": 3073,
   "name": "Palace of Happiness",
   "by": "Jozef Ploszko",
   "place": "Baku, AZ",
@@ -258940,7 +262434,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Palace of Happiness",
   "lead": "File:Palace of Happines (Mukhtarov street).jpg",
-  "coords": null,
+  "coords": [
+   40.36855,
+   49.83166
+  ],
   "hotlink": true,
   "images": [
    {
@@ -258961,7 +262458,7 @@ window.BUILDINGS = [
  },
  {
   "id": "writers-house-of-georgia",
-  "n": 3079,
+  "n": 3074,
   "name": "Writers' House of Georgia",
   "by": "Karl Zaar",
   "place": "Tbilisi, GE",
@@ -258980,7 +262477,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Writers' House of Georgia",
   "lead": "File:Writer's House of Georgia.jpg",
-  "coords": null,
+  "coords": [
+   41.69024,
+   44.79972
+  ],
   "hotlink": true,
   "images": [
    {
@@ -259001,7 +262501,7 @@ window.BUILDINGS = [
  },
  {
   "id": "moskva-cinema-yerevan",
-  "n": 3080,
+  "n": 3075,
   "name": "Moscow Cinema",
   "by": "Tiran Yerkanyan, Gevorg Kochar",
   "place": "Yerevan, AM",
@@ -259020,7 +262520,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Moskva Cinema",
   "lead": "File:Moscow cinema in Yerevan.jpg",
-  "coords": null,
+  "coords": [
+   40.18184,
+   44.51726
+  ],
   "hotlink": true,
   "images": [
    {
@@ -259041,7 +262544,7 @@ window.BUILDINGS = [
  },
  {
   "id": "zarya-vostoka-building",
-  "n": 3081,
+  "n": 3076,
   "name": "Zarya Vostoka building",
   "by": "David Chisliev",
   "place": "Tbilisi, GE",
@@ -259060,7 +262563,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Shota Rustaveli Avenue, Tbilisi",
   "lead": "File:Zarya Vostoka building.jpg",
-  "coords": null,
+  "coords": [
+   41.7023,
+   44.7933
+  ],
   "hotlink": true,
   "images": [
    {
@@ -259081,7 +262587,7 @@ window.BUILDINGS = [
  },
  {
   "id": "georgian-parliament-building-tbilisi",
-  "n": 3082,
+  "n": 3077,
   "name": "Parliament of Georgia (Rustaveli Avenue)",
   "by": "Viktor Kokorin, Giorgi Lezhava",
   "place": "Tbilisi, GE",
@@ -259100,7 +262606,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Tbilisi Parliament Building",
   "lead": "File:Parliament building. Rustaveli Avenue, Tbilisi. Georgia's Independence Day celebrations 26.05.2017.jpg",
-  "coords": null,
+  "coords": [
+   41.69688,
+   44.79838
+  ],
   "hotlink": true,
   "images": [
    {
@@ -259121,7 +262630,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tbilisi-city-assembly-building",
-  "n": 3083,
+  "n": 3078,
   "name": "Tbilisi City Assembly Building",
   "by": "Paul Stern",
   "place": "Tbilisi, GE",
@@ -259140,7 +262649,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Tbilisi city assembly building",
   "lead": "File:Tbscityhall.jpg",
-  "coords": null,
+  "coords": [
+   41.69271,
+   44.80154
+  ],
   "hotlink": true,
   "images": [
    {
@@ -259161,7 +262673,7 @@ window.BUILDINGS = [
  },
  {
   "id": "baku-opera-and-ballet-theatre",
-  "n": 3084,
+  "n": 3079,
   "name": "Azerbaijan State Academic Opera and Ballet Theatre",
   "by": "Nikolai Bayev",
   "place": "Baku, AZ",
@@ -259180,7 +262692,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Azerbaijan State Academic Opera and Ballet Theater",
   "lead": "File:Azerbaijan State Academic Opera and Ballet Theatre main façade, 2015.jpg",
-  "coords": null,
+  "coords": [
+   40.3747,
+   49.8454
+  ],
   "hotlink": true,
   "images": [
    {
@@ -259201,7 +262716,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ismailiyya-palace",
-  "n": 3085,
+  "n": 3080,
   "name": "Ismailiyya Palace",
   "by": "Jozef Ploszko",
   "place": "Baku, AZ",
@@ -259220,7 +262735,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "İsmailiyye palace",
   "lead": "File:Ismailiyye palace main façade, Baku, 2015.jpg",
-  "coords": null,
+  "coords": [
+   40.36857,
+   49.83368
+  ],
   "hotlink": true,
   "images": [
    {
@@ -259241,7 +262759,7 @@ window.BUILDINGS = [
  },
  {
   "id": "martinelli-building",
-  "n": 3086,
+  "n": 3081,
   "name": "Martinelli Building",
   "by": "Vilmos (William) Fillinger",
   "place": "São Paulo, BR",
@@ -259260,7 +262778,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Edifício Martinelli",
   "lead": "File:Building in São Paulo 06.jpg",
-  "coords": null,
+  "coords": [
+   -23.5456,
+   -46.6352
+  ],
   "hotlink": true,
   "images": [
    {
@@ -259317,7 +262838,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mineirao-stadium",
-  "n": 3087,
+  "n": 3082,
   "name": "Mineirão",
   "by": "Eduardo Mendes Guimarães Júnior, Caspar Garreto",
   "place": "Belo Horizonte, BR",
@@ -259336,7 +262857,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Mineirão",
   "lead": "Minas Arena (Mineirão) - panoramio.jpg",
-  "coords": null,
+  "coords": [
+   -19.86583,
+   -43.97083
+  ],
   "hotlink": true,
   "images": [
    {
@@ -259381,7 +262905,7 @@ window.BUILDINGS = [
  },
  {
   "id": "maracana-stadium",
-  "n": 3088,
+  "n": 3083,
   "name": "Maracanã Stadium",
   "by": "Waldir Ramos, Raphael Galvão, Miguel Feldman, Oscar Valdetaro, Pedro Paulo B. Bastos, Orlando Azevedo, Antônio Dias Carneiro",
   "place": "Rio de Janeiro, BR",
@@ -259400,7 +262924,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Estádio do Maracanã",
   "lead": "File:Fachada Estádio do Maracanã.jpg",
-  "coords": null,
+  "coords": [
+   -22.91222,
+   -43.23028
+  ],
   "hotlink": true,
   "images": [
    {
@@ -259457,7 +262984,7 @@ window.BUILDINGS = [
  },
  {
   "id": "estadio-nacional-mane-garrincha",
-  "n": 3089,
+  "n": 3084,
   "name": "Estádio Nacional Mané Garrincha",
   "by": "Ícaro de Castro Mello",
   "place": "Brasília, BR",
@@ -259476,7 +263003,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Estádio Nacional de Brasília",
   "lead": "File:Estádio Nacional de Brasília Mané Garrincha - Brasília 01.jpg",
-  "coords": null,
+  "coords": [
+   -15.7835,
+   -47.89916
+  ],
   "hotlink": true,
   "images": [
    {
@@ -259557,7 +263087,7 @@ window.BUILDINGS = [
  },
  {
   "id": "teatro-amazonas",
-  "n": 3090,
+  "n": 3085,
   "name": "Teatro Amazonas",
   "by": "Celestial Sacardim",
   "place": "Manaus, BR",
@@ -259576,7 +263106,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Teatro Amazonas",
   "lead": "File:AnaClaudiaJatahy Teatro Amazonas Manaus AM (41107560852).jpg",
-  "coords": null,
+  "coords": [
+   -3.13028,
+   -60.02333
+  ],
   "hotlink": true,
   "images": [
    {
@@ -259657,7 +263190,7 @@ window.BUILDINGS = [
  },
  {
   "id": "estacao-julio-prestes",
-  "n": 3091,
+  "n": 3086,
   "name": "Júlio Prestes Station",
   "by": "Cristiano Stockler das Neves, Samuel das Neves",
   "place": "São Paulo, BR",
@@ -259676,7 +263209,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Estação Júlio Prestes",
   "lead": "File:At Estação Júlio Prestes 2018 190.jpg",
-  "coords": null,
+  "coords": [
+   -23.5348,
+   -46.63959
+  ],
   "hotlink": true,
   "images": [
    {
@@ -259709,7 +263245,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cathedral-of-maringa",
-  "n": 3092,
+  "n": 3087,
   "name": "Cathedral of Maringá",
   "by": "José Augusto Bellucci",
   "place": "Maringá, BR",
@@ -259728,7 +263264,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Cathedral of Maringá",
   "lead": "File:Maringa Cathedral 11 2012 4628.jpg",
-  "coords": null,
+  "coords": [
+   -23.42629,
+   -51.93821
+  ],
   "hotlink": true,
   "images": [
    {
@@ -259773,7 +263312,7 @@ window.BUILDINGS = [
  },
  {
   "id": "centro-cultural-sao-paulo",
-  "n": 3093,
+  "n": 3088,
   "name": "Centro Cultural São Paulo",
   "by": "Eurico Prado Lopes, Luiz Benedito de Castro Telles",
   "place": "São Paulo, BR",
@@ -259792,7 +263331,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Centro Cultural São Paulo",
   "lead": "File:CCSP 001.jpg",
-  "coords": null,
+  "coords": [
+   -23.5708,
+   -46.6403
+  ],
   "hotlink": true,
   "images": [
    {
@@ -259861,7 +263403,7 @@ window.BUILDINGS = [
  },
  {
   "id": "petrobras-headquarters-edise",
-  "n": 3094,
+  "n": 3089,
   "name": "Petrobras Headquarters (Edise)",
   "by": "Roberto Luís Gandolfi",
   "place": "Rio de Janeiro, BR",
@@ -259880,7 +263422,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Petrobras headquarter building",
   "lead": "File:Edifício da Petrobras (3194760383).jpg",
-  "coords": null,
+  "coords": [
+   -22.9097,
+   -43.1793
+  ],
   "hotlink": true,
   "images": [
    {
@@ -259937,7 +263482,7 @@ window.BUILDINGS = [
  },
  {
   "id": "teatro-vila-velha",
-  "n": 3095,
+  "n": 3090,
   "name": "Teatro Vila Velha",
   "by": "Silvio Robatto",
   "place": "Salvador, BR",
@@ -259956,7 +263501,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Teatro Vila Velha",
   "lead": "File:Teatro Vila Velha Salvador Bahia 2018-0128.jpg",
-  "coords": null,
+  "coords": [
+   -12.98557,
+   -38.52177
+  ],
   "hotlink": true,
   "images": [
    {
@@ -259989,7 +263537,7 @@ window.BUILDINGS = [
  },
  {
   "id": "centro-de-exposicoes-centro-administrativo-da-bahia",
-  "n": 3096,
+  "n": 3091,
   "name": "Centro de Exposições do Centro Administrativo da Bahia",
   "by": "João Filgueiras Lima (Lelé)",
   "place": "Salvador, BR",
@@ -260008,7 +263556,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Centro de Exposições do Centro Administrativo da Bahia",
   "lead": "File:Centro de exposições do centro administrativo da bahia (49035703483).jpg",
-  "coords": null,
+  "coords": [
+   -12.94806,
+   -38.4275
+  ],
   "hotlink": true,
   "images": [
    {
@@ -260041,7 +263592,7 @@ window.BUILDINGS = [
  },
  {
   "id": "monument-to-the-dead-of-world-war-ii",
-  "n": 3097,
+  "n": 3092,
   "name": "Monument to the Dead of World War II",
   "by": "Marcos Konder Netto, Hélio Ribas Marinho",
   "place": "Rio de Janeiro, BR",
@@ -260060,7 +263611,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Monumento Nacional aos Mortos da Segunda Guerra Mundial",
   "lead": "File:Monumento Nacional aos Mortos da Segunda Guerra Mundial, Rio de Janeiro.jpg",
-  "coords": null,
+  "coords": [
+   -22.91667,
+   -43.17361
+  ],
   "hotlink": true,
   "images": [
    {
@@ -260141,7 +263695,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mercado-municipal-de-sao-paulo",
-  "n": 3098,
+  "n": 3093,
   "name": "Municipal Market of São Paulo",
   "by": "Francisco Ramos de Azevedo, Felisberto Ranzini",
   "place": "São Paulo, BR",
@@ -260160,7 +263714,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Mercado Municipal de São Paulo",
   "lead": "Mercado Municipal de São Paulo - interno.jpg",
-  "coords": null,
+  "coords": [
+   -23.54167,
+   -46.62917
+  ],
   "hotlink": true,
   "images": [
    {
@@ -260217,7 +263774,7 @@ window.BUILDINGS = [
  },
  {
   "id": "matarazzo-building-sao-paulo",
-  "n": 3099,
+  "n": 3094,
   "name": "Matarazzo Building (São Paulo City Hall)",
   "by": "Marcello Piacentini",
   "place": "São Paulo, BR",
@@ -260236,7 +263793,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Edifício Matarazzo",
   "lead": "File:Edifício Matarazzo 2026.jpg",
-  "coords": null,
+  "coords": [
+   -23.54758,
+   -46.63744
+  ],
   "hotlink": true,
   "images": [
    {
@@ -260257,7 +263817,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palace-of-justice-sao-paulo",
-  "n": 3100,
+  "n": 3095,
   "name": "Palace of Justice of São Paulo",
   "by": "Francisco Ramos de Azevedo, Ricardo Severo, Arnaldo Villares",
   "place": "São Paulo, BR",
@@ -260309,7 +263869,7 @@ window.BUILDINGS = [
  },
  {
   "id": "anhembi-sambadrome",
-  "n": 3101,
+  "n": 3096,
   "name": "Anhembi Sambadrome",
   "by": "Oscar Niemeyer",
   "place": "São Paulo, BR",
@@ -260328,7 +263888,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Sambódromo do Anhembi",
   "lead": "File:Sambódromo do Anhembi 01.jpg",
-  "coords": null,
+  "coords": [
+   -23.51639,
+   -46.64639
+  ],
   "hotlink": true,
   "images": [
    {
@@ -260361,7 +263924,7 @@ window.BUILDINGS = [
  },
  {
   "id": "brasilia-planetarium",
-  "n": 3102,
+  "n": 3097,
   "name": "Brasília Planetarium",
   "by": "Sérgio Bernardes",
   "place": "Brasília, BR",
@@ -260380,7 +263943,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Planetário de Brasília",
   "lead": "File:Planetariobsb.jpg",
-  "coords": null,
+  "coords": [
+   -15.79423,
+   -47.88217
+  ],
   "hotlink": true,
   "images": [
    {
@@ -260437,7 +264003,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ulysses-guimaraes-convention-center",
-  "n": 3103,
+  "n": 3098,
   "name": "Ulysses Guimarães Convention Center",
   "by": "Sérgio Bernardes",
   "place": "Brasília, BR",
@@ -260456,7 +264022,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Centro de Convenções Ulysses Guimarães",
   "lead": "File:Centro de Convenções Ulysses Guimarães - Brasília 01.jpg",
-  "coords": null,
+  "coords": [
+   -15.78826,
+   -47.90068
+  ],
   "hotlink": true,
   "images": [
    {
@@ -260501,7 +264070,7 @@ window.BUILDINGS = [
  },
  {
   "id": "nilson-nelson-gymnasium",
-  "n": 3104,
+  "n": 3099,
   "name": "Nilson Nelson Gymnasium",
   "by": "Cláudio Cianciarullo, Ícaro de Castro Mello, Eduardo de Castro Mello",
   "place": "Brasília, BR",
@@ -260520,7 +264089,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Ginásio Nilson Nelson",
   "lead": "File:Brasília - Estádios Mané Garrincha e Nilson Nelson.jpg",
-  "coords": null,
+  "coords": [
+   -15.78306,
+   -47.90306
+  ],
   "hotlink": true,
   "images": [
    {
@@ -260577,7 +264149,7 @@ window.BUILDINGS = [
  },
  {
   "id": "estadio-do-pacaembu",
-  "n": 3105,
+  "n": 3100,
   "name": "Pacaembu Stadium",
   "by": "Escritório Técnico Ramos de Azevedo - Severo e Villares",
   "place": "São Paulo, BR",
@@ -260596,7 +264168,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Estádio do Pacaembu",
   "lead": "File:Entrada do Estádio do Pacaembu.jpg",
-  "coords": null,
+  "coords": [
+   -23.54864,
+   -46.66511
+  ],
   "hotlink": true,
   "images": [
    {
@@ -260665,7 +264240,7 @@ window.BUILDINGS = [
  },
  {
   "id": "arena-da-amazonia",
-  "n": 3106,
+  "n": 3101,
   "name": "Arena da Amazônia",
   "by": "Gerkan, Marg and Partners (gmp)",
   "place": "Manaus, BR",
@@ -260684,7 +264259,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Arena Amazônia",
   "lead": "File:Arena da Amazônia (Aerial View).jpg",
-  "coords": null,
+  "coords": [
+   -3.08306,
+   -60.02806
+  ],
   "hotlink": true,
   "images": [
    {
@@ -260741,7 +264319,7 @@ window.BUILDINGS = [
  },
  {
   "id": "theatro-municipal-de-sao-paulo",
-  "n": 3107,
+  "n": 3102,
   "name": "Theatro Municipal de São Paulo",
   "by": "Ramos de Azevedo, Cláudio Rossi, Domiziano Rossi",
   "place": "São Paulo, BR",
@@ -260760,7 +264338,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Theatro Municipal de São Paulo",
   "lead": "File:Theatro Municipal (São Paulo) 01.jpg",
-  "coords": null,
+  "coords": [
+   -23.54528,
+   -46.63861
+  ],
   "hotlink": true,
   "images": [
    {
@@ -260781,7 +264362,7 @@ window.BUILDINGS = [
  },
  {
   "id": "theatro-municipal-do-rio-de-janeiro",
-  "n": 3108,
+  "n": 3103,
   "name": "Theatro Municipal do Rio de Janeiro",
   "by": "Francisco de Oliveira Passos",
   "place": "Rio de Janeiro, BR",
@@ -260800,7 +264381,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Theatro Municipal do Rio de Janeiro",
   "lead": "File:Theatro Municipal do Rio de Janeiro, fachada.jpg",
-  "coords": null,
+  "coords": [
+   -22.90899,
+   -43.17667
+  ],
   "hotlink": true,
   "images": [
    {
@@ -260833,7 +264417,7 @@ window.BUILDINGS = [
  },
  {
   "id": "theatro-da-paz",
-  "n": 3109,
+  "n": 3104,
   "name": "Theatro da Paz",
   "by": "José Tibúrcio Pereira Magalhães",
   "place": "Belém, BR",
@@ -260852,7 +264436,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Theatro da Paz",
   "lead": "File:Belem-TeatroPaz1.jpg",
-  "coords": null,
+  "coords": [
+   -1.45278,
+   -48.49361
+  ],
   "hotlink": true,
   "images": [
    {
@@ -260897,7 +264484,7 @@ window.BUILDINGS = [
  },
  {
   "id": "arena-fonte-nova",
-  "n": 3110,
+  "n": 3105,
   "name": "Arena Fonte Nova",
   "by": "Marc Duwe, Claas Schulitz",
   "place": "Salvador, BR",
@@ -260916,7 +264503,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Arena Fonte Nova",
   "lead": "File:EstadioForteNova.jpg",
-  "coords": null,
+  "coords": [
+   -12.97882,
+   -38.50425
+  ],
   "hotlink": true,
   "images": [
    {
@@ -260985,7 +264575,7 @@ window.BUILDINGS = [
  },
  {
   "id": "estacao-da-luz",
-  "n": 3111,
+  "n": 3106,
   "name": "Estação da Luz",
   "by": "Charles Henry Driver",
   "place": "São Paulo, BR",
@@ -261004,7 +264594,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Estação da Luz",
   "lead": "File:Entrance - Luz - Train Station.jpg",
-  "coords": null,
+  "coords": [
+   -23.53509,
+   -46.63528
+  ],
   "hotlink": true,
   "images": [
    {
@@ -261049,7 +264642,7 @@ window.BUILDINGS = [
  },
  {
   "id": "paco-imperial",
-  "n": 3112,
+  "n": 3107,
   "name": "Paço Imperial",
   "by": "José Fernandes Pinto Alpoim",
   "place": "Rio de Janeiro, BR",
@@ -261068,7 +264661,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Paço Imperial",
   "lead": "File:Vista da fachada lateral do Paço Imperial.jpg",
-  "coords": null,
+  "coords": [
+   -22.90361,
+   -43.17417
+  ],
   "hotlink": true,
   "images": [
    {
@@ -261125,7 +264721,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sao-bento-monastery-rio",
-  "n": 3113,
+  "n": 3108,
   "name": "São Bento Monastery",
   "by": "Francisco Frias de Mesquita, José Fernandes Pinto Alpoim",
   "place": "Rio de Janeiro, BR",
@@ -261144,7 +264740,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Mosteiro de São Bento (Rio de Janeiro)",
   "lead": "File:Fachada Mosteiro de São Bento.jpg",
-  "coords": null,
+  "coords": [
+   -22.89703,
+   -43.17805
+  ],
   "hotlink": true,
   "images": [
    {
@@ -261213,7 +264812,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-library-of-brazil",
-  "n": 3114,
+  "n": 3109,
   "name": "National Library of Brazil",
   "by": "Sousa Aguiar",
   "place": "Rio de Janeiro, BR",
@@ -261232,7 +264831,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Biblioteca Nacional do Brasil",
   "lead": "File:Fachada Biblioteca Nacional.jpg",
-  "coords": null,
+  "coords": [
+   -22.90972,
+   -43.1755
+  ],
   "hotlink": true,
   "images": [
    {
@@ -261301,7 +264903,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palacio-de-aguas-corrientes",
-  "n": 3115,
+  "n": 3110,
   "name": "Palacio de Aguas Corrientes",
   "by": "Olaf Boye",
   "place": "Buenos Aires, AR",
@@ -261320,7 +264922,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Palacio de Aguas Corrientes, Buenos Aires",
   "lead": "File:Aguas Corrientes-full-HDR.jpg",
-  "coords": null,
+  "coords": [
+   -34.60056,
+   -58.395
+  ],
   "hotlink": true,
   "images": [
    {
@@ -261391,7 +264996,7 @@ window.BUILDINGS = [
  },
  {
   "id": "monumento-a-la-bandera-rosario",
-  "n": 3116,
+  "n": 3111,
   "name": "National Flag Memorial",
   "by": "Alejandro Bustillo, Ángel Guido",
   "place": "Rosario, AR",
@@ -261410,7 +265015,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:National Flag Memorial",
   "lead": "File:Día soleado con banderas en el monumento de Rosario.JPG",
-  "coords": null,
+  "coords": [
+   -32.9479,
+   -60.62975
+  ],
   "hotlink": true,
   "images": [
    {
@@ -261443,7 +265051,7 @@ window.BUILDINGS = [
  },
  {
   "id": "usina-del-arte",
-  "n": 3117,
+  "n": 3112,
   "name": "Usina del Arte",
   "by": "Giovanni Chiogna",
   "place": "Buenos Aires, AR",
@@ -261462,7 +265070,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Usina del Arte",
   "lead": "File:Usina del Arte 01.JPG",
-  "coords": null,
+  "coords": [
+   -34.62877,
+   -58.3571
+  ],
   "hotlink": true,
   "images": [
    {
@@ -261531,7 +265142,7 @@ window.BUILDINGS = [
  },
  {
   "id": "antel-tower-montevideo",
-  "n": 3118,
+  "n": 3113,
   "name": "Torre de las Telecomunicaciones (Antel Tower)",
   "by": "Carlos Ott",
   "place": "Montevideo, UY",
@@ -261550,7 +265161,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Torre de las Comunicaciones",
   "lead": "File:2016 Montevideo Torre de las Telecomunicaciones.jpg",
-  "coords": null,
+  "coords": [
+   -34.89194,
+   -56.19472
+  ],
   "hotlink": true,
   "images": [
    {
@@ -261619,7 +265233,7 @@ window.BUILDINGS = [
  },
  {
   "id": "laguna-garzon-bridge",
-  "n": 3119,
+  "n": 3114,
   "name": "Laguna Garzón Bridge",
   "by": "Rafael Viñoly",
   "place": "Laguna Garzón, UY",
@@ -261638,7 +265252,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Laguna Garzon Bridge",
   "lead": "File:Sky WEfest 003.jpg",
-  "coords": null,
+  "coords": [
+   -34.8024,
+   -54.5721
+  ],
   "hotlink": true,
   "images": [
    {
@@ -261671,7 +265288,7 @@ window.BUILDINGS = [
  },
  {
   "id": "carrasco-airport-terminal",
-  "n": 3120,
+  "n": 3115,
   "name": "Carrasco International Airport",
   "by": "Rafael Viñoly",
   "place": "Montevideo, UY",
@@ -261690,7 +265307,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Carrasco International Airport",
   "lead": "Montevideo Airport 2017 001.jpg",
-  "coords": null,
+  "coords": [
+   -34.83833,
+   -56.03083
+  ],
   "hotlink": true,
   "images": [
    {
@@ -261735,7 +265355,7 @@ window.BUILDINGS = [
  },
  {
   "id": "casapueblo",
-  "n": 3121,
+  "n": 3116,
   "name": "Casapueblo",
   "by": "Carlos Páez Vilaró",
   "place": "Punta Ballena, UY",
@@ -261754,7 +265374,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Casapueblo",
   "lead": "File:Casa Pueblo, Punta Ballena.JPG",
-  "coords": null,
+  "coords": [
+   -34.90887,
+   -55.04491
+  ],
   "hotlink": true,
   "images": [
    {
@@ -261811,7 +265434,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palacio-legislativo-montevideo",
-  "n": 3122,
+  "n": 3117,
   "name": "Palacio Legislativo",
   "by": "Vittorio Meano, Gaetano Moretti",
   "place": "Montevideo, UY",
@@ -261830,7 +265453,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Palacio Legislativo, Uruguay",
   "lead": "File:2016 Fachada del Palacio Legislativo de Montevideo.jpg",
-  "coords": null,
+  "coords": [
+   -34.89107,
+   -56.18726
+  ],
   "hotlink": true,
   "images": [
    {
@@ -261911,7 +265537,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palacio-lapido",
-  "n": 3123,
+  "n": 3118,
   "name": "Edificio Lapido (Palacio Lapido)",
   "by": "Juan Aubriot",
   "place": "Montevideo, UY",
@@ -261930,7 +265556,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Palacio Lapido",
   "lead": "File:2016 Palacio de la Tribuna Popular o Edificio Lapido en Montevideo.jpg",
-  "coords": null,
+  "coords": [
+   -34.90639,
+   -56.19611
+  ],
   "hotlink": true,
   "images": [
    {
@@ -261987,7 +265616,7 @@ window.BUILDINGS = [
  },
  {
   "id": "teatro-solis",
-  "n": 3124,
+  "n": 3119,
   "name": "Teatro Solís",
   "by": "Carlo Zucchi, Francisco Xavier Garmendia, Víctor Rabú",
   "place": "Montevideo, UY",
@@ -262006,7 +265635,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Teatro Solís (Montevideo)",
   "lead": "File:2016 fachada del Teatro Solís de Montevideo.jpg",
-  "coords": null,
+  "coords": [
+   -34.90786,
+   -56.20103
+  ],
   "hotlink": true,
   "images": [
    {
@@ -262078,7 +265710,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palacio-de-lopez-asuncion",
-  "n": 3125,
+  "n": 3120,
   "name": "Palacio de los López",
   "by": "Alonso Taylor",
   "place": "Asunción, PY",
@@ -262097,7 +265729,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Palacio de los López",
   "lead": "File:Palacio de los Lopez, Asunción PAR(1).jpg",
-  "coords": null,
+  "coords": [
+   -25.27764,
+   -57.63757
+  ],
   "hotlink": true,
   "images": [
    {
@@ -262142,7 +265777,7 @@ window.BUILDINGS = [
  },
  {
   "id": "panteon-nacional-de-los-heroes",
-  "n": 3126,
+  "n": 3121,
   "name": "Panteón Nacional de los Héroes",
   "by": "Alejandro Ravizza",
   "place": "Asunción, PY",
@@ -262161,7 +265796,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Panteón Nacional de los Héroes",
   "lead": "File:ASUNCION PANTEON NACIONAL DE LOS HÉROES.jpg",
-  "coords": null,
+  "coords": [
+   -25.28223,
+   -57.63518
+  ],
   "hotlink": true,
   "images": [
    {
@@ -262230,7 +265868,7 @@ window.BUILDINGS = [
  },
  {
   "id": "torre-monumental",
-  "n": 3127,
+  "n": 3122,
   "name": "Torre Monumental",
   "by": "Ambrose Poynter",
   "place": "Buenos Aires, AR",
@@ -262249,7 +265887,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Torre Monumental, Buenos Aires",
   "lead": "File:IVN Torre Monumental.jpg",
-  "coords": null,
+  "coords": [
+   -34.59296,
+   -58.37319
+  ],
   "hotlink": true,
   "images": [
    {
@@ -262318,7 +265959,7 @@ window.BUILDINGS = [
  },
  {
   "id": "estadio-monumental-buenos-aires",
-  "n": 3128,
+  "n": 3123,
   "name": "Estadio Monumental",
   "by": "José Aslan, Héctor Ezcurra",
   "place": "Buenos Aires, AR",
@@ -262337,7 +265978,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Estadio Monumental (Buenos Aires)",
   "lead": "File:Cancha de River desde Río de la Plata 01.JPG",
-  "coords": null,
+  "coords": [
+   -34.54528,
+   -58.44972
+  ],
   "hotlink": true,
   "images": [
    {
@@ -262382,7 +266026,7 @@ window.BUILDINGS = [
  },
  {
   "id": "edificio-comega",
-  "n": 3129,
+  "n": 3124,
   "name": "Edificio Comega",
   "by": "Alfred Joselevich, Enrique Douillet",
   "place": "Buenos Aires, AR",
@@ -262401,7 +266045,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Comega building",
   "lead": "File:Edificio COMEGA.jpg",
-  "coords": null,
+  "coords": [
+   -34.60325,
+   -58.37061
+  ],
   "hotlink": true,
   "images": [
    {
@@ -262446,7 +266093,7 @@ window.BUILDINGS = [
  },
  {
   "id": "retiro-bus-station",
-  "n": 3130,
+  "n": 3125,
   "name": "Retiro Bus Station",
   "by": "Fernando Serra, Jorge Valera, Raúl Petrucci",
   "place": "Buenos Aires, AR",
@@ -262465,7 +266112,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Retiro bus station, Buenos Aires",
   "lead": "File:Acceso a la Terminal de Omnibus de Retiro, Avenida Antártida Argentina.jpg",
-  "coords": null,
+  "coords": [
+   -34.58722,
+   -58.37444
+  ],
   "hotlink": true,
   "images": [
    {
@@ -262534,7 +266184,7 @@ window.BUILDINGS = [
  },
  {
   "id": "edificio-libertador",
-  "n": 3131,
+  "n": 3126,
   "name": "Edificio Libertador",
   "by": "Carlos Pibernat, Enrique Lopardo, Néstor Pastrana, Héctor Campini",
   "place": "Buenos Aires, AR",
@@ -262553,7 +266203,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Edificio Libertador",
   "lead": "File:Edificio Libertador 2023.jpg",
-  "coords": null,
+  "coords": [
+   -34.60972,
+   -58.36778
+  ],
   "hotlink": true,
   "images": [
    {
@@ -262598,7 +266251,7 @@ window.BUILDINGS = [
  },
  {
   "id": "catedral-de-la-plata",
-  "n": 3132,
+  "n": 3127,
   "name": "La Plata Cathedral",
   "by": "Pedro Benoit, Ernesto Meyer, Emilio Coutaret",
   "place": "La Plata, AR",
@@ -262617,7 +266270,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Catedral de La Plata (Argentina)",
   "lead": "File:Apóstol Pórtico de entrada Catedral La Plata.JPG",
-  "coords": null,
+  "coords": [
+   -34.92288,
+   -57.95632
+  ],
   "hotlink": true,
   "images": [
    {
@@ -262686,7 +266342,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palacio-municipal-montevideo",
-  "n": 3133,
+  "n": 3128,
   "name": "Palacio Municipal de Montevideo (Intendencia)",
   "by": "Mauricio Cravotto",
   "place": "Montevideo, UY",
@@ -262705,7 +266361,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Palacio Municipal de Montevideo",
   "lead": "File:2016 edificio de la Intendencia de Montevideo.jpg",
-  "coords": null,
+  "coords": [
+   -34.90639,
+   -56.18611
+  ],
   "hotlink": true,
   "images": [
    {
@@ -262750,7 +266409,7 @@ window.BUILDINGS = [
  },
  {
   "id": "torre-espacial-buenos-aires",
-  "n": 3134,
+  "n": 3129,
   "name": "Torre Espacial",
   "by": "Peter Totter, Wilhelm Dietrich, Peter Wader",
   "place": "Buenos Aires, AR",
@@ -262769,7 +266428,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Torre Espacial",
   "lead": "File:Firme y de pie.jpg",
-  "coords": null,
+  "coords": [
+   -34.67287,
+   -58.44959
+  ],
   "hotlink": true,
   "images": [
    {
@@ -262814,7 +266476,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palacio-de-justicia-buenos-aires",
-  "n": 3135,
+  "n": 3130,
   "name": "Palacio de Justicia (Palacio de Tribunales)",
   "by": "Norbert Maillart",
   "place": "Buenos Aires, AR",
@@ -262833,7 +266495,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Palacio de Tribunales, Buenos Aires",
   "lead": "File:J34 573 Plaza Lavalle, Palacio de Justicia.jpg",
-  "coords": null,
+  "coords": [
+   -34.60217,
+   -58.38575
+  ],
   "hotlink": true,
   "images": [
    {
@@ -262890,7 +266555,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palacio-municipal-buenos-aires",
-  "n": 3136,
+  "n": 3131,
   "name": "Palacio Municipal de Buenos Aires",
   "by": "Juan Antonio Buschiazzo",
   "place": "Buenos Aires, AR",
@@ -262909,7 +266574,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Palacio Municipal de Buenos Aires",
   "lead": "File:Buenos Aires City Hall Summer afternoon.jpg",
-  "coords": null,
+  "coords": [
+   -34.60806,
+   -58.37389
+  ],
   "hotlink": true,
   "images": [
    {
@@ -262966,7 +266634,7 @@ window.BUILDINGS = [
  },
  {
   "id": "centro-cultural-kirchner",
-  "n": 3137,
+  "n": 3132,
   "name": "Centro Cultural Kirchner",
   "by": "Norbert Maillart; conversion by Enrique, Federico and Nicolás Bares",
   "place": "Buenos Aires, AR",
@@ -262985,7 +266653,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Palacio Libertad (Buenos Aires)",
   "lead": "File:Centro Cultural Kirchner Facade.jpg",
-  "coords": null,
+  "coords": [
+   -34.60333,
+   -58.36944
+  ],
   "hotlink": true,
   "images": [
    {
@@ -263068,7 +266739,7 @@ window.BUILDINGS = [
  },
  {
   "id": "centro-cultural-general-san-martin",
-  "n": 3138,
+  "n": 3133,
   "name": "Centro Cultural General San Martín",
   "by": "Mario Roberto Álvarez",
   "place": "Buenos Aires, AR",
@@ -263087,7 +266758,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Centro Cultural General San Martín",
   "lead": "File:Centro Cultural General San Martín.jpg",
-  "coords": null,
+  "coords": [
+   -34.60511,
+   -58.38833
+  ],
   "hotlink": true,
   "images": [
    {
@@ -263156,7 +266830,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hotel-casino-carrasco",
-  "n": 3139,
+  "n": 3134,
   "name": "Hotel Carrasco",
   "by": "Gastón Mallet, Jacques Dunant",
   "place": "Montevideo, UY",
@@ -263175,7 +266849,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Hotel Carrasco",
   "lead": "File:Renovado hotel y casino carrasco.JPG",
-  "coords": null,
+  "coords": [
+   -34.8905,
+   -56.0554
+  ],
   "hotlink": true,
   "images": [
    {
@@ -263256,7 +266933,7 @@ window.BUILDINGS = [
  },
  {
   "id": "museo-de-la-memoria-y-los-derechos-humanos",
-  "n": 3140,
+  "n": 3135,
   "name": "Museo de la Memoria y los Derechos Humanos",
   "by": "Estudio América",
   "place": "Santiago, CL",
@@ -263275,7 +266952,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Museo de la Memoria y los Derechos Humanos",
   "lead": "File:Museo de la Memoria y los Derechos Humanos.jpg",
-  "coords": null,
+  "coords": [
+   -33.43984,
+   -70.67937
+  ],
   "hotlink": true,
   "images": [
    {
@@ -263320,7 +267000,7 @@ window.BUILDINGS = [
  },
  {
   "id": "teatro-del-lago",
-  "n": 3141,
+  "n": 3136,
   "name": "Teatro del Lago",
   "by": "Gerardo Köster, Gustavo Greene (Amercanda)",
   "place": "Frutillar, CL",
@@ -263339,7 +267019,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Teatro del Lago",
   "lead": "File:Frutillar -Teatro del Lago exterior f01.jpg",
-  "coords": null,
+  "coords": [
+   -41.1395,
+   -73.0254
+  ],
   "hotlink": true,
   "images": [
    {
@@ -263434,7 +267117,7 @@ window.BUILDINGS = [
  },
  {
   "id": "estacion-mapocho",
-  "n": 3142,
+  "n": 3137,
   "name": "Estación Mapocho",
   "by": "Emilio Jecquier",
   "place": "Santiago, CL",
@@ -263453,7 +267136,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Centro Cultural Estación Mapocho",
   "lead": "File:2017 Santiago de Chile - Estación Mapocho y río Mapocho desde la avenida Santa María.jpg",
-  "coords": null,
+  "coords": [
+   -33.43217,
+   -70.6546
+  ],
   "hotlink": true,
   "images": [
    {
@@ -263510,7 +267196,7 @@ window.BUILDINGS = [
  },
  {
   "id": "teatro-municipal-de-santiago",
-  "n": 3143,
+  "n": 3138,
   "name": "Teatro Municipal de Santiago",
   "by": "Claudio Brunet des Baines, Lucien Hénault",
   "place": "Santiago, CL",
@@ -263529,7 +267215,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Teatro Municipal de Santiago",
   "lead": "File:2017 Santiago de Chile - Teatro Municipal de Santiago.jpg",
-  "coords": null,
+  "coords": [
+   -33.44083,
+   -70.6475
+  ],
   "hotlink": true,
   "images": [
    {
@@ -263610,7 +267299,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palacio-de-la-moneda",
-  "n": 3144,
+  "n": 3139,
   "name": "Palacio de La Moneda",
   "by": "Joaquín Toesca",
   "place": "Santiago, CL",
@@ -263629,7 +267318,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Palacio de La Moneda",
   "lead": "File:Chile-02538 - La Moneda Presidential Palace (49033041206).jpg",
-  "coords": null,
+  "coords": [
+   -33.44302,
+   -70.65387
+  ],
   "hotlink": true,
   "images": [
    {
@@ -263698,7 +267390,7 @@ window.BUILDINGS = [
  },
  {
   "id": "museo-nacional-de-bellas-artes-santiago",
-  "n": 3145,
+  "n": 3140,
   "name": "Museo Nacional de Bellas Artes",
   "by": "Émile Jéquier",
   "place": "Santiago, CL",
@@ -263717,7 +267409,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Museo Nacional de Bellas Artes, Chile",
   "lead": "File:Chilean National Museum of Fine Arts 2023.jpg",
-  "coords": null,
+  "coords": [
+   -33.43532,
+   -70.64357
+  ],
   "hotlink": true,
   "images": [
    {
@@ -263786,7 +267481,7 @@ window.BUILDINGS = [
  },
  {
   "id": "centro-cultural-la-moneda",
-  "n": 3146,
+  "n": 3141,
   "name": "Centro Cultural Palacio de La Moneda",
   "by": "Cristián Undurraga, Ana Luisa Devés",
   "place": "Santiago, CL",
@@ -263805,7 +267500,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Centro Cultural La Moneda",
   "lead": "File:Centro Cultural La Moneda 1.jpg",
-  "coords": null,
+  "coords": [
+   -33.44389,
+   -70.65361
+  ],
   "hotlink": true,
   "images": [
    {
@@ -263838,7 +267536,7 @@ window.BUILDINGS = [
  },
  {
   "id": "basilica-del-salvador",
-  "n": 3147,
+  "n": 3142,
   "name": "Basílica del Salvador",
   "by": "Teodoro Burchard",
   "place": "Santiago, CL",
@@ -263857,7 +267555,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Basílica del Salvador",
   "lead": "File:Fachada Basilica del Salvador.jpg",
-  "coords": null,
+  "coords": [
+   -33.4413,
+   -70.6618
+  ],
   "hotlink": true,
   "images": [
    {
@@ -263938,7 +267639,7 @@ window.BUILDINGS = [
  },
  {
   "id": "basilica-del-voto-nacional",
-  "n": 3148,
+  "n": 3143,
   "name": "Basílica del Voto Nacional",
   "by": "Emilio Tarlier",
   "place": "Quito, EC",
@@ -263957,7 +267658,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Basílica del Voto Nacional",
   "lead": "File:Basilica del Voto Nacional.jpg",
-  "coords": null,
+  "coords": [
+   -0.215,
+   -78.50739
+  ],
   "hotlink": true,
   "images": [
    {
@@ -264028,7 +267732,7 @@ window.BUILDINGS = [
  },
  {
   "id": "catedral-de-temuco",
-  "n": 3149,
+  "n": 3144,
   "name": "Catedral de San José de Temuco",
   "by": "Gerardo Rendel",
   "place": "Temuco, CL",
@@ -264047,7 +267751,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Catedral de San José, Temuco",
   "lead": "File:Catedral de Temuco.jpg",
-  "coords": null,
+  "coords": [
+   -38.73914,
+   -72.59036
+  ],
   "hotlink": true,
   "images": [
    {
@@ -264080,7 +267787,7 @@ window.BUILDINGS = [
  },
  {
   "id": "catedral-de-chillan",
-  "n": 3150,
+  "n": 3145,
   "name": "Catedral de Chillán",
   "by": "Hernán Larraín Errázuriz",
   "place": "Chillán, CL",
@@ -264099,7 +267806,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Catedral de Chillán",
   "lead": "File:Catedral de Chillán - tarde.JPG",
-  "coords": null,
+  "coords": [
+   -36.60688,
+   -72.1021
+  ],
   "hotlink": true,
   "images": [
    {
@@ -264168,7 +267878,7 @@ window.BUILDINGS = [
  },
  {
   "id": "catedral-de-talca",
-  "n": 3151,
+  "n": 3146,
   "name": "Catedral de San Agustín de Talca",
   "by": "Ramón Venegas",
   "place": "Talca, CL",
@@ -264187,7 +267897,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Catedral de San Agustín, Talca",
   "lead": "File:Catedral de San Agustín, Talca, 2018-02-14.jpg",
-  "coords": null,
+  "coords": [
+   -35.42613,
+   -71.66701
+  ],
   "hotlink": true,
   "images": [
    {
@@ -264268,7 +267981,7 @@ window.BUILDINGS = [
  },
  {
   "id": "edificio-atlas-lima",
-  "n": 3152,
+  "n": 3147,
   "name": "Edificio Atlas",
   "by": "Walter Weberhofer, José Álvarez Calderón",
   "place": "Lima, PE",
@@ -264287,7 +268000,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Edificio Atlas, Lima",
   "lead": "File:Edificio Atlas en Lima 01.jpg",
-  "coords": null,
+  "coords": [
+   -12.04695,
+   -77.03473
+  ],
   "hotlink": true,
   "images": [
    {
@@ -264320,7 +268036,7 @@ window.BUILDINGS = [
  },
  {
   "id": "museo-de-arte-de-lima",
-  "n": 3153,
+  "n": 3148,
   "name": "Museo de Arte de Lima (Palacio de la Exposición)",
   "by": "Antonio Leonardi",
   "place": "Lima, PE",
@@ -264339,7 +268055,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Museo de Arte de Lima",
   "lead": "File:Fachada del Museo de Arte de Lima - Por Nina Gavancho.jpg",
-  "coords": null,
+  "coords": [
+   -12.06045,
+   -77.03697
+  ],
   "hotlink": true,
   "images": [
    {
@@ -264396,7 +268115,7 @@ window.BUILDINGS = [
  },
  {
   "id": "catedral-del-cusco",
-  "n": 3154,
+  "n": 3149,
   "name": "Cusco Cathedral",
   "by": "Juan Miguel de Veramendi, Juan Correa, Miguel Gutiérrez Sencio, Francisco Becerra",
   "place": "Cusco, PE",
@@ -264415,7 +268134,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Cathedral of Cusco",
   "lead": "File:Cusco Cathedral 1.jpg",
-  "coords": null,
+  "coords": [
+   -13.5163,
+   -71.9781
+  ],
   "hotlink": true,
   "images": [
    {
@@ -264472,7 +268194,7 @@ window.BUILDINGS = [
  },
  {
   "id": "catedral-metropolitana-de-quito",
-  "n": 3155,
+  "n": 3150,
   "name": "Catedral Metropolitana de Quito",
   "by": "Antonio García",
   "place": "Quito, EC",
@@ -264491,7 +268213,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Catedral Metropolitana (Quito)",
   "lead": "File:(Catedral Metropolitana, Quito) exterior. pic. a1a.jpg",
-  "coords": null,
+  "coords": [
+   -0.22028,
+   -78.51417
+  ],
   "hotlink": true,
   "images": [
    {
@@ -264560,7 +268285,7 @@ window.BUILDINGS = [
  },
  {
   "id": "parque-explora",
-  "n": 3156,
+  "n": 3151,
   "name": "Parque Explora",
   "by": "Alejandro Echeverri",
   "place": "Medellín, CO",
@@ -264579,7 +268304,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Parque Explora",
   "lead": "File:Parque Explora (Medellín, Colombia).JPG",
-  "coords": null,
+  "coords": [
+   6.27056,
+   -75.56556
+  ],
   "hotlink": true,
   "images": [
    {
@@ -264648,7 +268376,7 @@ window.BUILDINGS = [
  },
  {
   "id": "salt-cathedral-of-zipaquira",
-  "n": 3157,
+  "n": 3152,
   "name": "Salt Cathedral of Zipaquirá",
   "by": "Roswell Garavito Pearl",
   "place": "Zipaquirá, CO",
@@ -264667,7 +268395,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Catedral de Sal",
   "lead": "File:Catedral de Sal 01.jpg",
-  "coords": null,
+  "coords": [
+   5.01876,
+   -74.0093
+  ],
   "hotlink": true,
   "images": [
    {
@@ -264700,7 +268431,7 @@ window.BUILDINGS = [
  },
  {
   "id": "coltejer-building",
-  "n": 3158,
+  "n": 3153,
   "name": "Coltejer Building",
   "by": "Raúl Fajardo, Aníbal Saldarriaga, Germán Samper, Jorge Manjarres",
   "place": "Medellín, CO",
@@ -264719,7 +268450,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Edificio Coltejer",
   "lead": "File:2018 Torre Coltejer en contrapicado.jpg",
-  "coords": null,
+  "coords": [
+   6.25014,
+   -75.56607
+  ],
   "hotlink": true,
   "images": [
    {
@@ -264776,7 +268510,7 @@ window.BUILDINGS = [
  },
  {
   "id": "rafael-uribe-uribe-palace-of-culture",
-  "n": 3159,
+  "n": 3154,
   "name": "Rafael Uribe Uribe Palace of Culture",
   "by": "Agustín Goovaerts",
   "place": "Medellín, CO",
@@ -264795,7 +268529,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Palacio de la Cultura, Medellín",
   "lead": "File:Palacio de la Cultura Rafael Uribe Uribe 1.jpg",
-  "coords": null,
+  "coords": [
+   6.25183,
+   -75.56768
+  ],
   "hotlink": true,
   "images": [
    {
@@ -264852,7 +268589,7 @@ window.BUILDINGS = [
  },
  {
   "id": "san-javier-library-park",
-  "n": 3160,
+  "n": 3155,
   "name": "San Javier Library Park",
   "by": "Javier Vera",
   "place": "Medellín, CO",
@@ -264871,7 +268608,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Biblioteca San Javier",
   "lead": "File:Biblioteca San Javier-fachada Occidental-Medellin.JPG",
-  "coords": null,
+  "coords": [
+   6.25449,
+   -75.61339
+  ],
   "hotlink": true,
   "images": [
    {
@@ -264928,7 +268668,7 @@ window.BUILDINGS = [
  },
  {
   "id": "belen-library-park",
-  "n": 3161,
+  "n": 3156,
   "name": "Belén Library Park",
   "by": "Hiroshi Naito",
   "place": "Medellín, CO",
@@ -264947,7 +268687,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Biblioteca Belén",
   "lead": "File:Biblioteca Belen(1)-Medellin.jpg",
-  "coords": null,
+  "coords": [
+   6.22385,
+   -75.59835
+  ],
   "hotlink": true,
   "images": [
    {
@@ -264992,7 +268735,7 @@ window.BUILDINGS = [
  },
  {
   "id": "leon-de-greiff-library-park",
-  "n": 3162,
+  "n": 3157,
   "name": "León de Greiff Library Park",
   "by": "Giancarlo Mazzanti",
   "place": "Medellín, CO",
@@ -265044,7 +268787,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-capitol-of-colombia",
-  "n": 3163,
+  "n": 3158,
   "name": "National Capitol of Colombia",
   "by": "Thomas Reed",
   "place": "Bogotá, CO",
@@ -265063,7 +268806,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Capitolio Nacional de Colombia",
   "lead": "File:Capitolio Nacional Bogotá.jpg",
-  "coords": null,
+  "coords": [
+   4.5975,
+   -74.07639
+  ],
   "hotlink": true,
   "images": [
    {
@@ -265120,7 +268866,7 @@ window.BUILDINGS = [
  },
  {
   "id": "castillo-san-felipe-de-barajas",
-  "n": 3164,
+  "n": 3159,
   "name": "Castillo San Felipe de Barajas",
   "by": "Antonio de Arévalo",
   "place": "Cartagena, CO",
@@ -265139,7 +268885,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Castillo de San Felipe de Barajas",
   "lead": "Castillo de San Felipe de Barajas 10.jpg",
-  "coords": null,
+  "coords": [
+   10.42222,
+   -75.53806
+  ],
   "hotlink": true,
   "images": [
    {
@@ -265247,7 +268996,7 @@ window.BUILDINGS = [
  },
  {
   "id": "primatial-cathedral-of-bogota",
-  "n": 3165,
+  "n": 3160,
   "name": "Primatial Cathedral of Bogotá",
   "by": "Domingo de Petrés",
   "place": "Bogotá, CO",
@@ -265266,7 +269015,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Primate Cathedral of Bogota",
   "lead": "File:2021 Bogotá - Catedral Primada de Colombia.jpg",
-  "coords": null,
+  "coords": [
+   4.59795,
+   -74.07524
+  ],
   "hotlink": true,
   "images": [
    {
@@ -265374,7 +269126,7 @@ window.BUILDINGS = [
  },
  {
   "id": "puente-de-occidente",
-  "n": 3166,
+  "n": 3161,
   "name": "Puente de Occidente",
   "by": "José María Villa",
   "place": "Santa Fe de Antioquia, CO",
@@ -265393,7 +269145,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Puente de Occidente",
   "lead": "File:Puente de occidente (3148205468).jpg",
-  "coords": null,
+  "coords": [
+   6.57781,
+   -75.7983
+  ],
   "hotlink": true,
   "images": [
    {
@@ -265438,7 +269193,7 @@ window.BUILDINGS = [
  },
  {
   "id": "casa-de-narino",
-  "n": 3167,
+  "n": 3162,
   "name": "Casa de Nariño",
   "by": "Gastón Lelarge and Julián Lombana",
   "place": "Bogotá, CO",
@@ -265457,7 +269212,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Casa de Nariño",
   "lead": "File:Casa de Nariño.jpg",
-  "coords": null,
+  "coords": [
+   4.59556,
+   -74.0775
+  ],
   "hotlink": true,
   "images": [
    {
@@ -265526,7 +269284,7 @@ window.BUILDINGS = [
  },
  {
   "id": "monserrate-sanctuary",
-  "n": 3168,
+  "n": 3163,
   "name": "Monserrate Sanctuary",
   "by": "Domingo de Petrés",
   "place": "Bogotá, CO",
@@ -265545,7 +269303,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Basílica Santuario del Señor Caído de Monserrate",
   "lead": "File:2019 Bogotá - Iglesia de Monserrate.jpg",
-  "coords": null,
+  "coords": [
+   4.60518,
+   -74.05544
+  ],
   "hotlink": true,
   "images": [
    {
@@ -265614,7 +269375,7 @@ window.BUILDINGS = [
  },
  {
   "id": "poliedro-de-caracas",
-  "n": 3169,
+  "n": 3164,
   "name": "Poliedro de Caracas",
   "by": "Thomas C. Howard (Synergetics)",
   "place": "Caracas, VE",
@@ -265633,7 +269394,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Poliedro de Caracas",
   "lead": "File:Poliedro de Caracas, La Rinconada, Coche, Caracas, Venezuela octubre 2024 (2).jpg",
-  "coords": null,
+  "coords": [
+   10.43375,
+   -66.93842
+  ],
   "hotlink": true,
   "images": [
    {
@@ -265678,7 +269442,7 @@ window.BUILDINGS = [
  },
  {
   "id": "central-library-ucv",
-  "n": 3170,
+  "n": 3165,
   "name": "Central Library, Central University of Venezuela",
   "by": "Carlos Raúl Villanueva",
   "place": "Caracas, VE",
@@ -265742,7 +269506,7 @@ window.BUILDINGS = [
  },
  {
   "id": "clock-tower-ucv",
-  "n": 3171,
+  "n": 3166,
   "name": "Clock Tower, Central University of Venezuela",
   "by": "Carlos Raúl Villanueva with Juan Otaola Paván",
   "place": "Caracas, VE",
@@ -265806,7 +269570,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-library-of-venezuela",
-  "n": 3172,
+  "n": 3167,
   "name": "National Library of Venezuela",
   "by": "Tomás Sanabria",
   "place": "Caracas, VE",
@@ -265825,7 +269589,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:National Library of Venezuela",
   "lead": "File:National Library of Venezuela building 1.jpg",
-  "coords": null,
+  "coords": [
+   10.512,
+   -66.9124
+  ],
   "hotlink": true,
   "images": [
    {
@@ -265858,7 +269625,7 @@ window.BUILDINGS = [
  },
  {
   "id": "torre-de-david",
-  "n": 3173,
+  "n": 3168,
   "name": "Torre de David (Centro Financiero Confinanzas)",
   "by": "Enrique Gómez and Associates",
   "place": "Caracas, VE",
@@ -265877,7 +269644,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Centro Financiero Confinanzas",
   "lead": "File:Torre de David - Centro Financiero Confinanzas.jpg",
-  "coords": null,
+  "coords": [
+   10.50528,
+   -66.89889
+  ],
   "hotlink": true,
   "images": [
    {
@@ -265934,7 +269704,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palacio-federal-legislativo",
-  "n": 3174,
+  "n": 3169,
   "name": "Palacio Federal Legislativo",
   "by": "Luciano Urdaneta Vargas and Juan Hurtado Manrique",
   "place": "Caracas, VE",
@@ -265953,7 +269723,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Palacio Federal Legislativo, Venezuela",
   "lead": "File:Palacio Federal Legislativo de Venezuela.JPG",
-  "coords": null,
+  "coords": [
+   10.50554,
+   -66.91583
+  ],
   "hotlink": true,
   "images": [
    {
@@ -266010,7 +269783,7 @@ window.BUILDINGS = [
  },
  {
   "id": "general-rafael-urdaneta-bridge",
-  "n": 3175,
+  "n": 3170,
   "name": "General Rafael Urdaneta Bridge",
   "by": "Riccardo Morandi",
   "place": "Maracaibo, VE",
@@ -266029,7 +269802,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Puente Sobre el Lago de Maracaibo",
   "lead": "File:Rafael Urdaneta Bridge 3.jpg",
-  "coords": null,
+  "coords": [
+   10.57427,
+   -71.57604
+  ],
   "hotlink": true,
   "images": [
    {
@@ -266098,7 +269874,7 @@ window.BUILDINGS = [
  },
  {
   "id": "state-trading-corporation-building",
-  "n": 3176,
+  "n": 3171,
   "name": "State Trading Corporation Building",
   "by": "Raj Rewal",
   "place": "New Delhi, IN",
@@ -266115,7 +269891,6 @@ window.BUILDINGS = [
   ],
   "study": "Vierendeel trusses and Mughal-inspired polychrome sandstone cladding; Metabolist influence.",
   "qid": null,
-  "commons": "Category:Empire State Building",
   "lead": "File:State Trading Corporation building, New Delhi.jpg",
   "coords": null,
   "hotlink": true,
@@ -266138,7 +269913,7 @@ window.BUILDINGS = [
  },
  {
   "id": "supreme-court-of-india",
-  "n": 3177,
+  "n": 3172,
   "name": "Supreme Court of India",
   "by": "Ganesh Bhikaji Deolalikar",
   "place": "New Delhi, IN",
@@ -266157,7 +269932,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Supreme Court of India",
   "lead": "File:Supreme Court of India - Retouched.jpg",
-  "coords": null,
+  "coords": [
+   28.6225,
+   77.23944
+  ],
   "hotlink": true,
   "images": [
    {
@@ -266190,7 +269968,7 @@ window.BUILDINGS = [
  },
  {
   "id": "jawaharlal-nehru-stadium-delhi",
-  "n": 3178,
+  "n": 3173,
   "name": "Jawaharlal Nehru Stadium",
   "by": "Gerkan, Marg and Partners (2010 redesign); roof by Schlaich Bergermann Partner",
   "place": "New Delhi, IN",
@@ -266209,7 +269987,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Jawaharlal Nehru Stadium, Delhi",
   "lead": "File:Jawaharlal Nehru Stadium Delhi outside view, July 2016.jpg",
-  "coords": null,
+  "coords": [
+   28.58287,
+   77.23438
+  ],
   "hotlink": true,
   "images": [
    {
@@ -266278,7 +270059,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bharat-mandapam",
-  "n": 3179,
+  "n": 3174,
   "name": "Bharat Mandapam",
   "by": "Arcop Associates with Aedas",
   "place": "New Delhi, IN",
@@ -266297,7 +270078,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Bharat Mandapam",
   "lead": "File:Bharat Mandapam view from East.jpg",
-  "coords": null,
+  "coords": [
+   28.61681,
+   77.24336
+  ],
   "hotlink": true,
   "images": [
    {
@@ -266342,7 +270126,7 @@ window.BUILDINGS = [
  },
  {
   "id": "virasat-e-khalsa",
-  "n": 3180,
+  "n": 3175,
   "name": "Virasat-e-Khalsa",
   "by": "Moshe Safdie",
   "place": "Anandpur Sahib, IN",
@@ -266361,7 +270145,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Virasat-e-Khalsa",
   "lead": "File:The Virasat-e-Khalsa (Anandpur Sahib).jpg",
-  "coords": null,
+  "coords": [
+   31.2329,
+   76.5075
+  ],
   "hotlink": true,
   "images": [
    {
@@ -266442,7 +270229,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ac-joshi-library-panjab-university",
-  "n": 3181,
+  "n": 3176,
   "name": "A. C. Joshi Library, Panjab University",
   "by": "Pierre Jeanneret",
   "place": "Chandigarh, IN",
@@ -266461,7 +270248,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Panjab University",
   "lead": "File:The Central Library, Panjab University, Chandigarh.jpg",
-  "coords": null,
+  "coords": [
+   30.758,
+   76.76821
+  ],
   "hotlink": true,
   "images": [
    {
@@ -266494,7 +270284,7 @@ window.BUILDINGS = [
  },
  {
   "id": "yashobhoomi",
-  "n": 3182,
+  "n": 3177,
   "name": "Yashobhoomi (India International Convention and Expo Centre)",
   "by": "C P Kukreja Architects, IDOM and ARCOP Associates",
   "place": "New Delhi, IN",
@@ -266513,7 +270303,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Yashobhoomi",
   "lead": "File:Yashobhoomi – India International Convention and Expo Centre, Delhi.jpg",
-  "coords": null,
+  "coords": [
+   28.92667,
+   77.06667
+  ],
   "hotlink": true,
   "images": [
    {
@@ -266558,7 +270351,7 @@ window.BUILDINGS = [
  },
  {
   "id": "raj-mandir-cinema",
-  "n": 3183,
+  "n": 3178,
   "name": "Raj Mandir Cinema",
   "by": "W. M. Namjoshi",
   "place": "Jaipur, IN",
@@ -266577,7 +270370,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Raj Mandir Cinema",
   "lead": "File:Raj Mandir Cinema, Jaipur 01.jpg",
-  "coords": null,
+  "coords": [
+   26.9155,
+   75.81016
+  ],
   "hotlink": true,
   "images": [
    {
@@ -266634,7 +270430,7 @@ window.BUILDINGS = [
  },
  {
   "id": "swaminarayan-akshardham-delhi",
-  "n": 3184,
+  "n": 3179,
   "name": "Swaminarayan Akshardham",
   "by": "BAPS Swaminarayan Sanstha with Virendra Trivedi",
   "place": "New Delhi, IN",
@@ -266653,7 +270449,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Swaminarayan Akshardham (Delhi)",
   "lead": "File:Akshardham temple, Delhi.jpg",
-  "coords": null,
+  "coords": [
+   28.6125,
+   77.2773
+  ],
   "hotlink": true,
   "images": [
    {
@@ -266710,7 +270509,7 @@ window.BUILDINGS = [
  },
  {
   "id": "humayuns-tomb",
-  "n": 3185,
+  "n": 3180,
   "name": "Humayun's Tomb",
   "by": "Mirak Mirza Ghiyas and Sayyid Muhammad",
   "place": "New Delhi, IN",
@@ -266729,7 +270528,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Humayun's Tomb, Delhi",
   "lead": "File:Humayun's Tomb, buildings in Delhi 10.jpg",
-  "coords": null,
+  "coords": [
+   28.59326,
+   77.2506
+  ],
   "hotlink": true,
   "images": [
    {
@@ -266762,7 +270564,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hawa-mahal",
-  "n": 3186,
+  "n": 3181,
   "name": "Hawa Mahal",
   "by": "Lal Chand Ustad",
   "place": "Jaipur, IN",
@@ -266781,7 +270583,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Hawa Mahal",
   "lead": "File:East facade of the Hawa Mahal, Jaipur.jpg",
-  "coords": null,
+  "coords": [
+   26.924,
+   75.82672
+  ],
   "hotlink": true,
   "images": [
    {
@@ -266850,7 +270655,7 @@ window.BUILDINGS = [
  },
  {
   "id": "amer-fort",
-  "n": 3187,
+  "n": 3182,
   "name": "Amer Fort",
   "by": "Man Singh I",
   "place": "Jaipur, IN",
@@ -266869,7 +270674,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Amber Fort",
   "lead": "File:Jaipur - Amber Fort.jpg",
-  "coords": null,
+  "coords": [
+   26.9859,
+   75.8507
+  ],
   "hotlink": true,
   "images": [
    {
@@ -266914,7 +270722,7 @@ window.BUILDINGS = [
  },
  {
   "id": "iskcon-temple-delhi",
-  "n": 3188,
+  "n": 3183,
   "name": "ISKCON Temple (Glory of India)",
   "by": "Achyut Kanvinde",
   "place": "New Delhi, IN",
@@ -266933,7 +270741,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:ISKCON Temple, New Delhi",
   "lead": "File:ISKCON temple, Delhi.jpg",
-  "coords": null,
+  "coords": [
+   28.55806,
+   77.24333
+  ],
   "hotlink": true,
   "images": [
    {
@@ -266978,7 +270789,7 @@ window.BUILDINGS = [
  },
  {
   "id": "st-peter-and-st-pauls-church-parumala",
-  "n": 3189,
+  "n": 3184,
   "name": "St. Peter and St. Paul's Church, Parumala",
   "by": "Charles Correa",
   "place": "Parumala, IN",
@@ -266997,7 +270808,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Parumala Church",
   "lead": "File:Parumala Church.jpg",
-  "coords": null,
+  "coords": [
+   9.3247,
+   76.5369
+  ],
   "hotlink": true,
   "images": [
    {
@@ -267054,7 +270868,7 @@ window.BUILDINGS = [
  },
  {
   "id": "chowdiah-memorial-hall",
-  "n": 3190,
+  "n": 3185,
   "name": "Chowdiah Memorial Hall",
   "by": "S. N. Murthy",
   "place": "Bengaluru, IN",
@@ -267094,7 +270908,7 @@ window.BUILDINGS = [
  },
  {
   "id": "telangana-secretariat",
-  "n": 3191,
+  "n": 3186,
   "name": "Dr. B.R. Ambedkar Telangana State Secretariat",
   "by": "Ponni Concessao and Oscar Concessao (OCI Architects)",
   "place": "Hyderabad, IN",
@@ -267113,7 +270927,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Telangana Secretariat",
   "lead": "File:Dr. B.R. Ambedkar Telangana State Secretariat complex in Hyderabad.jpg",
-  "coords": null,
+  "coords": [
+   17.45,
+   78.5
+  ],
   "hotlink": true,
   "images": [
    {
@@ -267134,7 +270951,7 @@ window.BUILDINGS = [
  },
  {
   "id": "jehangir-art-gallery",
-  "n": 3192,
+  "n": 3187,
   "name": "Jehangir Art Gallery",
   "by": "Durga Bajpai",
   "place": "Mumbai, IN",
@@ -267153,7 +270970,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Jehangir Art Gallery",
   "lead": "File:JAG From Outside.jpg",
-  "coords": null,
+  "coords": [
+   18.92746,
+   72.8317
+  ],
   "hotlink": true,
   "images": [
    {
@@ -267210,7 +271030,7 @@ window.BUILDINGS = [
  },
  {
   "id": "valluvar-kottam",
-  "n": 3193,
+  "n": 3188,
   "name": "Valluvar Kottam",
   "by": "V. Ganapati Sthapati",
   "place": "Chennai, IN",
@@ -267229,7 +271049,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Valluvar Kottam",
   "lead": "File:Valluvar Kottam Chariot.jpg",
-  "coords": null,
+  "coords": [
+   13.05444,
+   80.24167
+  ],
   "hotlink": true,
   "images": [
    {
@@ -267286,7 +271109,7 @@ window.BUILDINGS = [
  },
  {
   "id": "antilia-mumbai",
-  "n": 3194,
+  "n": 3189,
   "name": "Antilia",
   "by": "Perkins & Will",
   "place": "Mumbai, IN",
@@ -267305,7 +271128,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Antilia",
   "lead": "File:Antilia.JPG",
-  "coords": null,
+  "coords": [
+   18.96833,
+   72.80972
+  ],
   "hotlink": true,
   "images": [
    {
@@ -267386,7 +271212,7 @@ window.BUILDINGS = [
  },
  {
   "id": "chhatrapati-shivaji-maharaj-terminus",
-  "n": 3195,
+  "n": 3190,
   "name": "Chhatrapati Shivaji Maharaj Terminus (Victoria Terminus)",
   "by": "Frederick William Stevens (from an initial design by Axel Haig)",
   "place": "Mumbai, IN",
@@ -267405,7 +271231,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Chhatrapati Shivaji Maharaj Terminus",
   "lead": "File:Chhatrapati shivaji terminus, esterno 01.jpg",
-  "coords": null,
+  "coords": [
+   18.9398,
+   72.8355
+  ],
   "hotlink": true,
   "images": [
    {
@@ -267488,7 +271317,7 @@ window.BUILDINGS = [
  },
  {
   "id": "victoria-memorial-kolkata",
-  "n": 3196,
+  "n": 3191,
   "name": "Victoria Memorial",
   "by": "William Emerson",
   "place": "Kolkata, IN",
@@ -267507,7 +271336,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Victoria Memorial, Kolkata",
   "lead": "File:Kolkata Victoria Memorial South side.JPG",
-  "coords": null,
+  "coords": [
+   22.5449,
+   88.3425
+  ],
   "hotlink": true,
   "images": [
    {
@@ -267552,7 +271384,7 @@ window.BUILDINGS = [
  },
  {
   "id": "vidhana-soudha",
-  "n": 3197,
+  "n": 3192,
   "name": "Vidhana Soudha",
   "by": "B. R. Manickam",
   "place": "Bengaluru, IN",
@@ -267571,7 +271403,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Vidhana Soudha",
   "lead": "File:Vidhana Soudha (Bengaluru) - View of the central dome and front portico with the motto inscription.jpg",
-  "coords": null,
+  "coords": [
+   12.97969,
+   77.59066
+  ],
   "hotlink": true,
   "images": [
    {
@@ -267642,7 +271477,7 @@ window.BUILDINGS = [
  },
  {
   "id": "nehru-centre-mumbai",
-  "n": 3198,
+  "n": 3193,
   "name": "Nehru Centre",
   "by": "I. M. Kadri",
   "place": "Mumbai, IN",
@@ -267718,7 +271553,7 @@ window.BUILDINGS = [
  },
  {
   "id": "gateway-of-india",
-  "n": 3199,
+  "n": 3194,
   "name": "Gateway of India",
   "by": "George Wittet",
   "place": "Mumbai, IN",
@@ -267737,7 +271572,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Gateway of India",
   "lead": "File:Gateway of india a.jpg",
-  "coords": null,
+  "coords": [
+   18.92184,
+   72.8347
+  ],
   "hotlink": true,
   "images": [
    {
@@ -267818,7 +271656,7 @@ window.BUILDINGS = [
  },
  {
   "id": "anna-centenary-library",
-  "n": 3200,
+  "n": 3195,
   "name": "Anna Centenary Library",
   "by": "C. N. Raghavendran",
   "place": "Chennai, IN",
@@ -267837,7 +271675,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Anna Centenary Library",
   "lead": "File:Anna Centenary Library Exterior.jpg",
-  "coords": null,
+  "coords": [
+   13.0175,
+   80.2391
+  ],
   "hotlink": true,
   "images": [
    {
@@ -267882,7 +271723,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ravindra-bharathi",
-  "n": 3201,
+  "n": 3196,
   "name": "Ravindra Bharathi",
   "by": "Mohammed Fayazuddin",
   "place": "Hyderabad, IN",
@@ -267901,7 +271742,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Ravindra Bharathi",
   "lead": "File:Ravindra Bharathi Auditorium, Lakdikapool.jpg",
-  "coords": null,
+  "coords": [
+   17.4034,
+   78.46692
+  ],
   "hotlink": true,
   "images": [
    {
@@ -267982,7 +271826,7 @@ window.BUILDINGS = [
  },
  {
   "id": "swaminarayan-akshardham-gandhinagar",
-  "n": 3202,
+  "n": 3197,
   "name": "Swaminarayan Akshardham, Gandhinagar",
   "by": "Chandrakant Sompura",
   "place": "Gandhinagar, IN",
@@ -268001,7 +271845,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Akshardham, Gandhinagar",
   "lead": "File:Akshardham Gandhinagar Gujarat.jpg",
-  "coords": null,
+  "coords": [
+   23.22917,
+   72.67417
+  ],
   "hotlink": true,
   "images": [
    {
@@ -268022,7 +271869,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sidi-saiyyed-mosque",
-  "n": 3203,
+  "n": 3198,
   "name": "Sidi Saiyyed Mosque",
   "by": "Shaikh Sa'id Al-Habshi Sultani (Sidi Sa'id), builder",
   "place": "Ahmedabad, IN",
@@ -268041,7 +271888,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Sidi Saiyyed Mosque",
   "lead": "File:Sidi Saiyyed Mosque, Ahmedabad.jpg",
-  "coords": null,
+  "coords": [
+   23.02694,
+   72.58111
+  ],
   "hotlink": true,
   "images": [
    {
@@ -268122,7 +271972,7 @@ window.BUILDINGS = [
  },
  {
   "id": "biswa-bangla-gate",
-  "n": 3204,
+  "n": 3199,
   "name": "Biswa Bangla Gate (Kolkata Gate)",
   "by": "Vector Designs",
   "place": "Kolkata, IN",
@@ -268162,7 +272012,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mahindra-united-world-college-of-india",
-  "n": 3205,
+  "n": 3200,
   "name": "Mahindra United World College of India",
   "by": "Christopher Benninger",
   "place": "Pune, IN",
@@ -268181,7 +272031,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:UWC Mahindra College",
   "lead": "File:UWCMC, Towards the Academic Quad.jpg",
-  "coords": null,
+  "coords": [
+   18.54139,
+   73.58583
+  ],
   "hotlink": true,
   "images": [
    {
@@ -268214,7 +272067,7 @@ window.BUILDINGS = [
  },
  {
   "id": "nandan-kolkata",
-  "n": 3206,
+  "n": 3201,
   "name": "Nandan",
   "by": "Bikash Naskar",
   "place": "Kolkata, IN",
@@ -268233,7 +272086,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Nandan (Kolkata)",
   "lead": "File:Nandan - Kolkata 2011-01-09 0153.JPG",
-  "coords": null,
+  "coords": [
+   22.5421,
+   88.3455
+  ],
   "hotlink": true,
   "images": [
    {
@@ -268278,7 +272134,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ranga-shankara-bengaluru",
-  "n": 3207,
+  "n": 3202,
   "name": "Ranga Shankara",
   "by": "Sharukh Mistry",
   "place": "Bengaluru, IN",
@@ -268297,7 +272153,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Ranga Shankara",
   "lead": "File:Ranga Shankara, Bangalore (2024) 01.jpg",
-  "coords": null,
+  "coords": [
+   12.91151,
+   77.58705
+  ],
   "hotlink": true,
   "images": [
    {
@@ -268330,7 +272189,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bandaranaike-memorial-international-conference-hall",
-  "n": 3208,
+  "n": 3203,
   "name": "Bandaranaike Memorial International Conference Hall",
   "by": "Dai Nianci",
   "place": "Colombo, LK",
@@ -268349,7 +272208,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Bandaranaike Memorial International Conference Hall",
   "lead": "File:20160122 Sri Lanka 3645 Colombo sRGB (25144304823).jpg",
-  "coords": null,
+  "coords": [
+   6.90167,
+   79.87278
+  ],
   "hotlink": true,
   "images": [
    {
@@ -268382,7 +272244,7 @@ window.BUILDINGS = [
  },
  {
   "id": "nelum-pokuna-mahinda-rajapaksa-theatre",
-  "n": 3209,
+  "n": 3204,
   "name": "Nelum Pokuna Mahinda Rajapaksa Theatre",
   "by": "Kahawita De Silva & Associates",
   "place": "Colombo, LK",
@@ -268401,7 +272263,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Nelum Pokuna Performing Arts Theatre",
   "lead": "File:04 Colombo (42) Gledališče Nelum Pokuna Mahinda Rajapaksa.jpg",
-  "coords": null,
+  "coords": [
+   6.91083,
+   79.86333
+  ],
   "hotlink": true,
   "images": [
    {
@@ -268446,7 +272311,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sunethra-bandaranaike-house",
-  "n": 3210,
+  "n": 3205,
   "name": "Sunethra Bandaranaike House",
   "by": "Geoffrey Bawa",
   "place": "Horagolla, LK",
@@ -268486,7 +272351,7 @@ window.BUILDINGS = [
  },
  {
   "id": "martyred-intellectuals-memorial-mirpur",
-  "n": 3211,
+  "n": 3206,
   "name": "Martyred Intellectuals Memorial",
   "by": "Farid Uddin Ahmed and Md Jami-al-Shafi",
   "place": "Dhaka, BD",
@@ -268505,7 +272370,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Martyred Intellectuals Memorial, Rayer Bazaar",
   "lead": "File:Martyred Intellectuals Memorial Wide View.jpg",
-  "coords": null,
+  "coords": [
+   23.75085,
+   90.35715
+  ],
   "hotlink": true,
   "images": [
    {
@@ -268586,7 +272454,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mausoleum-of-three-leaders-dhaka",
-  "n": 3212,
+  "n": 3207,
   "name": "Mausoleum of Three Leaders",
   "by": "Masud Ahmad and S. A. Zahiruddin",
   "place": "Dhaka, BD",
@@ -268605,7 +272473,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Mausoleum of three leaders",
   "lead": "File:Mausoleum of Three Leaders 2.jpg",
-  "coords": null,
+  "coords": [
+   23.72889,
+   90.39972
+  ],
   "hotlink": true,
   "images": [
    {
@@ -268674,7 +272545,7 @@ window.BUILDINGS = [
  },
  {
   "id": "narayanhiti-palace-museum",
-  "n": 3213,
+  "n": 3208,
   "name": "Narayanhiti Palace Museum",
   "by": "Benjamin Polk",
   "place": "Kathmandu, NP",
@@ -268693,7 +272564,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Narayanhity Royal Palace",
   "lead": "File:Narayanhiti Palace Museum.jpg",
-  "coords": null,
+  "coords": [
+   27.71556,
+   85.32
+  ],
   "hotlink": true,
   "images": [
    {
@@ -268738,7 +272612,7 @@ window.BUILDINGS = [
  },
  {
   "id": "singha-durbar",
-  "n": 3214,
+  "n": 3209,
   "name": "Singha Durbar",
   "by": "Kumar Narsingh Rana and Kishor Narsingh Rana",
   "place": "Kathmandu, NP",
@@ -268757,7 +272631,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Singha Durbar, Kathmandu",
   "lead": "File:Shingha Durbar.jpg",
-  "coords": null,
+  "coords": [
+   27.69827,
+   85.32525
+  ],
   "hotlink": true,
   "images": [
    {
@@ -268802,7 +272679,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sigiriya",
-  "n": 3215,
+  "n": 3210,
   "name": "Sigiriya",
   "by": "King Kashyapa",
   "place": "Sigiriya, LK",
@@ -268821,7 +272698,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Sigiriya",
   "lead": "File:Sigiriya rock from a distance.jpg",
-  "coords": null,
+  "coords": [
+   7.95694,
+   80.75972
+  ],
   "hotlink": true,
   "images": [
    {
@@ -268878,7 +272758,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sixty-dome-mosque",
-  "n": 3216,
+  "n": 3211,
   "name": "Sixty Dome Mosque",
   "by": "Khan Jahan Ali",
   "place": "Bagerhat, BD",
@@ -268897,7 +272777,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Sixty Dome Mosque",
   "lead": "File:Sixty Dome Mosque Bagerhat Bangladesh.jpg",
-  "coords": null,
+  "coords": [
+   22.6745,
+   89.74182
+  ],
   "hotlink": true,
   "images": [
    {
@@ -268966,7 +272849,7 @@ window.BUILDINGS = [
  },
  {
   "id": "somapura-mahavihara",
-  "n": 3217,
+  "n": 3212,
   "name": "Somapura Mahavihara",
   "by": "King Dharmapala (Pala dynasty)",
   "place": "Paharpur, BD",
@@ -268985,7 +272868,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Somapura Mahavihara",
   "lead": "File:Paharpur Buddhist Bihar.jpg",
-  "coords": null,
+  "coords": [
+   25.03111,
+   88.97694
+  ],
   "hotlink": true,
   "images": [
    {
@@ -269030,7 +272916,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lankatilaka-vihara",
-  "n": 3218,
+  "n": 3213,
   "name": "Lankatilaka Vihara",
   "by": "Sathapati Rayar",
   "place": "Kandy, LK",
@@ -269049,7 +272935,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Lankathilaka Viharaya",
   "lead": "File:Lankathilaka Vhihara - Le temple.JPG",
-  "coords": null,
+  "coords": [
+   7.23388,
+   80.5647
+  ],
   "hotlink": true,
   "images": [
    {
@@ -269106,7 +272995,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hatirjheel",
-  "n": 3219,
+  "n": 3214,
   "name": "Hatirjheel",
   "by": "Iqbal Habib (VITTI Sthapati Brindo)",
   "place": "Dhaka, BD",
@@ -269125,7 +273014,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Hatirjheel",
   "lead": "File:Hatirjheel 2nd-bridge.jpg",
-  "coords": null,
+  "coords": [
+   23.7627,
+   90.4104
+  ],
   "hotlink": true,
   "images": [
    {
@@ -269158,7 +273050,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bangabandhu-novo-theatre",
-  "n": 3220,
+  "n": 3215,
   "name": "Bangabandhu Sheikh Mujibur Rahman Novo Theatre",
   "by": "Ali Imam",
   "place": "Dhaka, BD",
@@ -269177,7 +273069,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Novo Theatre, Dhaka",
   "lead": "File:Bangabandhu Sheikh Mujibur Rahman Novo Theatre (02).jpg",
-  "coords": null,
+  "coords": [
+   23.76382,
+   90.38708
+  ],
   "hotlink": true,
   "images": [
    {
@@ -269258,7 +273153,7 @@ window.BUILDINGS = [
  },
  {
   "id": "supreme-court-of-pakistan",
-  "n": 3221,
+  "n": 3216,
   "name": "Supreme Court of Pakistan Building",
   "by": "Kenzo Tange",
   "place": "Islamabad, PK",
@@ -269277,7 +273172,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Supreme Court of Pakistan Building",
   "lead": "File:Supreme Court of Pakistan, Islamabad by Usman Ghani.jpg",
-  "coords": null,
+  "coords": [
+   33.7257,
+   73.1002
+  ],
   "hotlink": true,
   "images": [
    {
@@ -269334,7 +273232,7 @@ window.BUILDINGS = [
  },
  {
   "id": "aiwan-e-sadr",
-  "n": 3222,
+  "n": 3217,
   "name": "Aiwan-e-Sadr (Presidential Palace)",
   "by": "Edward Durell Stone",
   "place": "Islamabad, PK",
@@ -269353,7 +273251,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Aiwan-e-Sadr",
   "lead": "File:Aiwan e Sadr Aerial Shot.jpg",
-  "coords": null,
+  "coords": [
+   33.7322,
+   73.0983
+  ],
   "hotlink": true,
   "images": [
    {
@@ -269410,7 +273311,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-art-gallery-islamabad",
-  "n": 3223,
+  "n": 3218,
   "name": "Pakistan National Art Gallery",
   "by": "Suhail Abbasi and Naeem Pasha (Suhail & Pasha)",
   "place": "Islamabad, PK",
@@ -269429,7 +273330,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:National Art Gallery, Islamabad",
   "lead": "File:Front Door-National Art Gallery Islamabad.JPG",
-  "coords": null,
+  "coords": [
+   33.7305,
+   73.091
+  ],
   "hotlink": true,
   "images": [
    {
@@ -269462,7 +273366,7 @@ window.BUILDINGS = [
  },
  {
   "id": "islamic-summit-minar",
-  "n": 3224,
+  "n": 3219,
   "name": "Islamic Summit Minar",
   "by": "Vedat Dalokay",
   "place": "Lahore, PK",
@@ -269481,7 +273385,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Summit Minar",
   "lead": "File:Islamic Summit Minar Charing Cross.jpg",
-  "coords": null,
+  "coords": [
+   31.5603,
+   74.3251
+  ],
   "hotlink": true,
   "images": [
    {
@@ -269550,7 +273457,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lahore-expo-centre",
-  "n": 3225,
+  "n": 3220,
   "name": "Lahore Expo Centre",
   "by": "NESPAK with Nayyar Ali Dada & Associates",
   "place": "Lahore, PK",
@@ -269590,7 +273497,7 @@ window.BUILDINGS = [
  },
  {
   "id": "karachi-metropolitan-corporation-building",
-  "n": 3226,
+  "n": 3221,
   "name": "Karachi Metropolitan Corporation Building",
   "by": "James S. C. Wynnes",
   "place": "Karachi, PK",
@@ -269609,7 +273516,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Karachi Metropolitan Corporation building",
   "lead": "File:Karachi Municipal Corporation (KMC) Head Office at M.A Jinnah Road - Photo By Aliraza Khatri.jpg",
-  "coords": null,
+  "coords": [
+   24.86,
+   67.01
+  ],
   "hotlink": true,
   "images": [
    {
@@ -269678,7 +273588,7 @@ window.BUILDINGS = [
  },
  {
   "id": "karachi-chamber-of-commerce-building",
-  "n": 3227,
+  "n": 3222,
   "name": "Karachi Chamber of Commerce and Industry Building",
   "by": "Ahmed Hussain Agha",
   "place": "Karachi, PK",
@@ -269754,7 +273664,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mohatta-palace",
-  "n": 3228,
+  "n": 3223,
   "name": "Mohatta Palace",
   "by": "Ahmed Hussain Agha",
   "place": "Karachi, PK",
@@ -269773,7 +273683,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Mohatta Palace, Karachi",
   "lead": "File:Mohatta Palace as viewed from the front.jpg",
-  "coords": null,
+  "coords": [
+   24.86,
+   67.01
+  ],
   "hotlink": true,
   "images": [
    {
@@ -269842,7 +273755,7 @@ window.BUILDINGS = [
  },
  {
   "id": "frere-hall",
-  "n": 3229,
+  "n": 3224,
   "name": "Frere Hall",
   "by": "Henry Saint Clair Wilkins",
   "place": "Karachi, PK",
@@ -269861,7 +273774,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Frere Hall",
   "lead": "File:Frere hall karachi 3.jpg",
-  "coords": null,
+  "coords": [
+   24.8475,
+   67.03278
+  ],
   "hotlink": true,
   "images": [
    {
@@ -269932,7 +273848,7 @@ window.BUILDINGS = [
  },
  {
   "id": "empress-market",
-  "n": 3230,
+  "n": 3225,
   "name": "Empress Market",
   "by": "James Strachan",
   "place": "Karachi, PK",
@@ -269951,7 +273867,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Empress Market, Karachi",
   "lead": "File:Empress Market Saddar Karachi.jpg",
-  "coords": null,
+  "coords": [
+   24.8625,
+   67.02944
+  ],
   "hotlink": true,
   "images": [
    {
@@ -270020,7 +273939,7 @@ window.BUILDINGS = [
  },
  {
   "id": "wazir-khan-mosque",
-  "n": 3231,
+  "n": 3226,
   "name": "Wazir Khan Mosque",
   "by": "Wazir Khan (patron), with artisans from Chiniot",
   "place": "Lahore, PK",
@@ -270039,7 +273958,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Wazir Khan Mosque",
   "lead": "File:Masjid Wazir Khan of Lahore.jpg",
-  "coords": null,
+  "coords": [
+   31.58306,
+   74.32333
+  ],
   "hotlink": true,
   "images": [
    {
@@ -270135,7 +274057,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tomb-of-shah-rukn-e-alam",
-  "n": 3232,
+  "n": 3227,
   "name": "Tomb of Shah Rukn-e-Alam",
   "by": "Ghiyath al-Din Tughluq (builder)",
   "place": "Multan, PK",
@@ -270154,7 +274076,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Tomb of Shah Rukn-e-Alam",
   "lead": "File:Tomb of Shah Rukn e Alam, Multan.jpg",
-  "coords": null,
+  "coords": [
+   30.1989,
+   71.4714
+  ],
   "hotlink": true,
   "images": [
    {
@@ -270237,7 +274162,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lahore-museum",
-  "n": 3233,
+  "n": 3228,
   "name": "Lahore Museum",
   "by": "Bhai Ram Singh and John Lockwood Kipling",
   "place": "Lahore, PK",
@@ -270256,7 +274181,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Lahore Museum",
   "lead": "File:Lahore Museum building, Lahore.jpg",
-  "coords": null,
+  "coords": [
+   31.56823,
+   74.30817
+  ],
   "hotlink": true,
   "images": [
    {
@@ -270339,7 +274267,7 @@ window.BUILDINGS = [
  },
  {
   "id": "karachi-port-trust-building",
-  "n": 3234,
+  "n": 3229,
   "name": "Karachi Port Trust Building",
   "by": "George Wittet",
   "place": "Karachi, PK",
@@ -270358,7 +274286,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Karachi Port Trust building",
   "lead": "File:Karachi Port Trust Building.jpg",
-  "coords": null,
+  "coords": [
+   24.84738,
+   66.99327
+  ],
   "hotlink": true,
   "images": [
    {
@@ -270415,7 +274346,7 @@ window.BUILDINGS = [
  },
  {
   "id": "grand-jamia-mosque-bahria-town-lahore",
-  "n": 3235,
+  "n": 3230,
   "name": "Grand Jamia Mosque, Bahria Town",
   "by": "Nayyar Ali Dada",
   "place": "Lahore, PK",
@@ -270432,7 +274363,6 @@ window.BUILDINGS = [
   ],
   "study": "Four 165 ft minarets and a central dome among about 20 smaller domes; exterior clad in Multani tiles.",
   "qid": null,
-  "commons": "Category:Grand Jamia Mosque, Karachi",
   "lead": "File:Grand Mosque Bahria Town , Pakistan.jpg",
   "coords": null,
   "hotlink": true,
@@ -270455,7 +274385,7 @@ window.BUILDINGS = [
  },
  {
   "id": "wapda-house-lahore",
-  "n": 3236,
+  "n": 3231,
   "name": "WAPDA House",
   "by": "Edward Durell Stone",
   "place": "Lahore, PK",
@@ -270495,7 +274425,7 @@ window.BUILDINGS = [
  },
  {
   "id": "black-star-square-accra",
-  "n": 3237,
+  "n": 3232,
   "name": "Black Star Square",
   "by": "Theo Lawson",
   "place": "Accra, GH",
@@ -270514,7 +274444,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Independence Square (Ghana)",
   "lead": "Black Star Square, Ghana.jpg",
-  "coords": null,
+  "coords": [
+   5.5476,
+   -0.1926
+  ],
   "hotlink": true,
   "images": [
    {
@@ -270571,7 +274504,7 @@ window.BUILDINGS = [
  },
  {
   "id": "african-renaissance-monument-dakar",
-  "n": 3238,
+  "n": 3233,
   "name": "African Renaissance Monument",
   "by": "Pierre Goudiaby Atepa",
   "place": "Dakar, SN",
@@ -270590,7 +274523,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:African Renaissance Monument",
   "lead": "File:Monument renaissance.jpg",
-  "coords": null,
+  "coords": [
+   14.72222,
+   -17.495
+  ],
   "hotlink": true,
   "images": [
    {
@@ -270635,7 +274571,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cathedral-church-of-christ-lagos",
-  "n": 3239,
+  "n": 3234,
   "name": "Cathedral Church of Christ",
   "by": "Bagan Benjamin",
   "place": "Lagos, NG",
@@ -270654,7 +274590,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Christ Church Cathedral, Lagos",
   "lead": "File:Front view of Cathedral Church of Christ.jpg",
-  "coords": null,
+  "coords": [
+   6.4508,
+   3.3902
+  ],
   "hotlink": true,
   "images": [
    {
@@ -270723,7 +274662,7 @@ window.BUILDINGS = [
  },
  {
   "id": "nyayo-house",
-  "n": 3240,
+  "n": 3235,
   "name": "Nyayo House",
   "by": "Ngotho Architects, Ministry of Public Works",
   "place": "Nairobi, KE",
@@ -270742,7 +274681,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Nyayo House",
   "lead": "Nyayo House in Kenya.jpg",
-  "coords": null,
+  "coords": [
+   -1.28694,
+   36.81806
+  ],
   "hotlink": true,
   "images": [
    {
@@ -270775,7 +274717,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tintenpalast-windhoek",
-  "n": 3241,
+  "n": 3236,
   "name": "Tintenpalast (Parliament Building)",
   "by": "Gottlieb Redecker",
   "place": "Windhoek, NA",
@@ -270794,7 +274736,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Tintenpalast",
   "lead": "File:Windhuk Tintenpalast.jpg",
-  "coords": null,
+  "coords": [
+   -22.5666,
+   17.08935
+  ],
   "hotlink": true,
   "images": [
    {
@@ -270875,7 +274820,7 @@ window.BUILDINGS = [
  },
  {
   "id": "christuskirche-windhoek",
-  "n": 3242,
+  "n": 3237,
   "name": "Christuskirche",
   "by": "Gottlieb Redecker",
   "place": "Windhoek, NA",
@@ -270894,7 +274839,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Christuskirche Windhoek",
   "lead": "Iglesia de Cristo, Windhoek, Namibia, 2018-08-04, DD 02.jpg",
-  "coords": null,
+  "coords": [
+   -22.56778,
+   17.08722
+  ],
   "hotlink": true,
   "images": [
    {
@@ -270975,7 +274923,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bahai-house-of-worship-kampala",
-  "n": 3243,
+  "n": 3238,
   "name": "Bahá'í House of Worship, Kampala",
   "by": "Charles Mason Remey",
   "place": "Kampala, UG",
@@ -270994,7 +274942,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Bahá'í House of Worship in Kampala",
   "lead": "File:Bahai temple of Uganda.jpg",
-  "coords": null,
+  "coords": [
+   0.36439,
+   32.58839
+  ],
   "hotlink": true,
   "images": [
    {
@@ -271075,7 +275026,7 @@ window.BUILDINGS = [
  },
  {
   "id": "maputo-central-railway-station",
-  "n": 3244,
+  "n": 3239,
   "name": "Maputo Central Railway Station",
   "by": "Mario Veiga, Alfredo Augusto Lisboa de Lima (plans); José Ferreira da Costa (dome)",
   "place": "Maputo, MZ",
@@ -271094,7 +275045,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Maputo train station",
   "lead": "The train station, Maputo.jpg",
-  "coords": null,
+  "coords": [
+   -25.971,
+   32.5644
+  ],
   "hotlink": true,
   "images": [
    {
@@ -271163,7 +275117,7 @@ window.BUILDINGS = [
  },
  {
   "id": "casa-de-ferro-maputo",
-  "n": 3245,
+  "n": 3240,
   "name": "Casa de Ferro (Iron House)",
   "by": "Joseph Danly",
   "place": "Maputo, MZ",
@@ -271182,7 +275136,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Casa de Ferro",
   "lead": "File:Casa de Ferro (40661105322).jpg",
-  "coords": null,
+  "coords": [
+   -25.97049,
+   32.57289
+  ],
   "hotlink": true,
   "images": [
    {
@@ -271239,7 +275196,7 @@ window.BUILDINGS = [
  },
  {
   "id": "maputo-city-hall",
-  "n": 3246,
+  "n": 3241,
   "name": "Maputo City Hall (Conselho Municipal)",
   "by": "Carlos César dos Santos",
   "place": "Maputo, MZ",
@@ -271258,7 +275215,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Conselho Municipal de Maputo",
   "lead": "File:Conselho Municipal de Maputo frente.jpg",
-  "coords": null,
+  "coords": [
+   -25.96817,
+   32.5738
+  ],
   "hotlink": true,
   "images": [
    {
@@ -271303,7 +275263,7 @@ window.BUILDINGS = [
  },
  {
   "id": "maputo-cathedral",
-  "n": 3247,
+  "n": 3242,
   "name": "Maputo Cathedral",
   "by": "Marcial Simões de Freitas e Costa",
   "place": "Maputo, MZ",
@@ -271322,7 +275282,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Sé Catedral de Maputo",
   "lead": "File:Catedral de Maputo Front View.jpg",
-  "coords": null,
+  "coords": [
+   -25.969,
+   32.575
+  ],
   "hotlink": true,
   "images": [
    {
@@ -271403,7 +275366,7 @@ window.BUILDINGS = [
  },
  {
   "id": "christ-church-cathedral-zanzibar",
-  "n": 3248,
+  "n": 3243,
   "name": "Christ Church Cathedral",
   "by": "Edward Steere (design contributor)",
   "place": "Zanzibar, TZ",
@@ -271422,7 +275385,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Christ Church, Zanzibar",
   "lead": "File:Anglican cathedral in Stone Town, Zanzibar.jpg",
-  "coords": null,
+  "coords": [
+   -6.16293,
+   39.19252
+  ],
   "hotlink": true,
   "images": [
    {
@@ -271467,7 +275433,7 @@ window.BUILDINGS = [
  },
  {
   "id": "alte-feste-windhoek",
-  "n": 3249,
+  "n": 3244,
   "name": "Alte Feste",
   "by": "Curt von François",
   "place": "Windhoek, NA",
@@ -271486,7 +275452,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Alte Feste",
   "lead": "Alte Feste Windhoek (Aussenansicht).jpg",
-  "coords": null,
+  "coords": [
+   -22.56933,
+   17.08836
+  ],
   "hotlink": true,
   "images": [
    {
@@ -271507,7 +275476,7 @@ window.BUILDINGS = [
  },
  {
   "id": "st-george-cathedral-addis-ababa",
-  "n": 3250,
+  "n": 3245,
   "name": "St. George's Cathedral",
   "by": "Sebastiano Castagna",
   "place": "Addis Ababa, ET",
@@ -271526,7 +275495,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:St. George's Cathedral in Addis Ababa",
   "lead": "File:Addis abeba, cattedrale di san giorgio, esterno 01.jpg",
-  "coords": null,
+  "coords": [
+   9.03669,
+   38.75142
+  ],
   "hotlink": true,
   "images": [
    {
@@ -271583,7 +275555,7 @@ window.BUILDINGS = [
  },
  {
   "id": "munyonyo-martyrs-shrine",
-  "n": 3251,
+  "n": 3246,
   "name": "Munyonyo Martyrs' Shrine",
   "by": "Robert Sseremba",
   "place": "Kampala, UG",
@@ -271602,7 +275574,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Munyonyo Martyrs Shrine",
   "lead": "About 10ft Munyonyo Martyrdom.jpg",
-  "coords": null,
+  "coords": [
+   0.23725,
+   32.61728
+  ],
   "hotlink": true,
   "images": [
    {
@@ -271647,7 +275622,7 @@ window.BUILDINGS = [
  },
  {
   "id": "grande-poste-d-alger",
-  "n": 3252,
+  "n": 3247,
   "name": "Grande Poste d'Alger",
   "by": "Jules Voinot, Marius Toudoire",
   "place": "Algiers, DZ",
@@ -271666,7 +275641,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Grande Poste d'Alger",
   "lead": "La Grande Poste d'Alger.jpg",
-  "coords": null,
+  "coords": [
+   36.77306,
+   3.05944
+  ],
   "hotlink": true,
   "images": [
    {
@@ -271747,7 +275725,7 @@ window.BUILDINGS = [
  },
  {
   "id": "notre-dame-d-afrique-algiers",
-  "n": 3253,
+  "n": 3248,
   "name": "Notre-Dame d'Afrique",
   "by": "Jean-Eugène Fromageau",
   "place": "Algiers, DZ",
@@ -271766,7 +275744,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Notre Dame d'Afrique",
   "lead": "Basilique Notre Dame d'Afrique كنيسة السيدة الافريقية (51972148806).jpg",
-  "coords": null,
+  "coords": [
+   36.80111,
+   3.0425
+  ],
   "hotlink": true,
   "images": [
    {
@@ -271847,7 +275828,7 @@ window.BUILDINGS = [
  },
  {
   "id": "acropolium-of-carthage",
-  "n": 3254,
+  "n": 3249,
   "name": "Acropolium of Carthage (Cathedral of Saint Louis)",
   "by": "Joseph Pougnet",
   "place": "Carthage, TN",
@@ -271866,7 +275847,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Cathedral Saint-Louis of Carthage",
   "lead": "Acropolium.jpg",
-  "coords": null,
+  "coords": [
+   36.85378,
+   10.32336
+  ],
   "hotlink": true,
   "images": [
    {
@@ -271947,7 +275931,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hotel-du-lac-tunis",
-  "n": 3255,
+  "n": 3250,
   "name": "Hôtel du Lac",
   "by": "Raffaele Contigiani",
   "place": "Tunis, TN",
@@ -271966,7 +275950,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Hôtel du Lac, Tunis",
   "lead": "File:Hotel du Lac in Tunis.jpg",
-  "coords": null,
+  "coords": [
+   36.80186,
+   10.18731
+  ],
   "hotlink": true,
   "images": [
    {
@@ -272023,7 +276010,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bourguiba-mausoleum-monastir",
-  "n": 3256,
+  "n": 3251,
   "name": "Bourguiba Mausoleum",
   "by": "Olivier-Clément Cacoub",
   "place": "Monastir, TN",
@@ -272042,7 +276029,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Bourguiba Mausoleum",
   "lead": "File:Monastir, Bourguiba-Mausoleum.jpg",
-  "coords": null,
+  "coords": [
+   35.7777,
+   10.8285
+  ],
   "hotlink": true,
   "images": [
    {
@@ -272087,7 +276077,7 @@ window.BUILDINGS = [
  },
  {
   "id": "prince-moulay-abdellah-stadium",
-  "n": 3257,
+  "n": 3252,
   "name": "Prince Moulay Abdellah Stadium",
   "by": "Orange Atelier, Populous",
   "place": "Rabat, MA",
@@ -272106,7 +276096,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Prince Moulay Abdellah Stadium",
   "lead": "Moulay Abdellah Stadium - interior.jpg",
-  "coords": null,
+  "coords": [
+   33.95986,
+   -6.88911
+  ],
   "hotlink": true,
   "images": [
    {
@@ -272151,7 +276144,7 @@ window.BUILDINGS = [
  },
  {
   "id": "baron-empain-palace",
-  "n": 3258,
+  "n": 3253,
   "name": "Baron Empain Palace",
   "by": "Alexandre Marcel",
   "place": "Cairo (Heliopolis), EG",
@@ -272170,7 +276163,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Baron Empain Palace",
   "lead": "Baron Empain Palace in Heliopolis.jpg",
-  "coords": null,
+  "coords": [
+   30.08667,
+   31.33028
+  ],
   "hotlink": true,
   "images": [
    {
@@ -272239,7 +276235,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mausoleum-of-aga-khan-aswan",
-  "n": 3259,
+  "n": 3254,
   "name": "Mausoleum of Aga Khan III",
   "by": "Farid Shafi'e",
   "place": "Aswan, EG",
@@ -272258,7 +276254,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Mausoleum of Aga Khan",
   "lead": "Aswan Aga Khan Mausoleum R03.jpg",
-  "coords": null,
+  "coords": [
+   24.08833,
+   32.87889
+  ],
   "hotlink": true,
   "images": [
    {
@@ -272315,7 +276314,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mogamma-cairo",
-  "n": 3260,
+  "n": 3255,
   "name": "Mogamma",
   "by": "Mohamed Kamal Ismail",
   "place": "Cairo, EG",
@@ -272334,7 +276333,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Mogamma",
   "lead": "The Mogamma Cairo in May 2015.JPG",
-  "coords": null,
+  "coords": [
+   30.0431,
+   31.235
+  ],
   "hotlink": true,
   "images": [
    {
@@ -272391,7 +276393,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cairo-international-stadium",
-  "n": 3261,
+  "n": 3256,
   "name": "Cairo International Stadium",
   "by": "Werner March",
   "place": "Cairo (Nasr City), EG",
@@ -272410,7 +276412,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Cairo International Stadium",
   "lead": "Panorma Cairo Stadium.jpg",
-  "coords": null,
+  "coords": [
+   30.06911,
+   31.31233
+  ],
   "hotlink": true,
   "images": [
    {
@@ -272443,7 +276448,7 @@ window.BUILDINGS = [
  },
  {
   "id": "egyptian-museum-cairo",
-  "n": 3262,
+  "n": 3257,
   "name": "Egyptian Museum",
   "by": "Marcel Dourgnon",
   "place": "Cairo, EG",
@@ -272462,7 +276467,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Main facade of Egyptian Museum, Cairo",
   "lead": "1897 bis 1902 wurde das Ägyptische Museum in Kairo gebaut. 01.jpg",
-  "coords": null,
+  "coords": [
+   30.04778,
+   31.23333
+  ],
   "hotlink": true,
   "images": [
    {
@@ -272543,7 +276551,7 @@ window.BUILDINGS = [
  },
  {
   "id": "al-rifai-mosque-cairo",
-  "n": 3263,
+  "n": 3258,
   "name": "Al-Rifa'i Mosque",
   "by": "Hussein Fahmi Pasha, Max Herz",
   "place": "Cairo, EG",
@@ -272562,7 +276570,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Al-Rifa'i Mosque",
   "lead": "Kairo Rifai Moschee BW 1.jpg",
-  "coords": null,
+  "coords": [
+   30.03278,
+   31.25667
+  ],
   "hotlink": true,
   "images": [
    {
@@ -272657,7 +276668,7 @@ window.BUILDINGS = [
  },
  {
   "id": "abu-al-abbas-al-mursi-mosque",
-  "n": 3264,
+  "n": 3259,
   "name": "Abu al-Abbas al-Mursi Mosque",
   "by": "Mario Rossi",
   "place": "Alexandria, EG",
@@ -272745,7 +276756,7 @@ window.BUILDINGS = [
  },
  {
   "id": "abdeen-palace-cairo",
-  "n": 3265,
+  "n": 3260,
   "name": "Abdeen Palace",
   "by": "Léon Rousseau",
   "place": "Cairo, EG",
@@ -272764,7 +276775,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Abdeen Palace",
   "lead": "ركن الشاي بقصر عابدين.jpg",
-  "coords": null,
+  "coords": [
+   30.0417,
+   31.2483
+  ],
   "hotlink": true,
   "images": [
    {
@@ -272845,7 +276859,7 @@ window.BUILDINGS = [
  },
  {
   "id": "fnb-stadium-soccer-city",
-  "n": 3266,
+  "n": 3261,
   "name": "FNB Stadium (Soccer City)",
   "by": "Boogertman & Partners, HOK Sport",
   "place": "Johannesburg, ZA",
@@ -272864,7 +276878,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Soccer City",
   "lead": "Johannesburg- Part II - Johannesburg4245.jpg",
-  "coords": null,
+  "coords": [
+   -26.23481,
+   27.98238
+  ],
   "hotlink": true,
   "images": [
    {
@@ -272897,7 +276914,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cape-town-stadium",
-  "n": 3267,
+  "n": 3262,
   "name": "Cape Town Stadium",
   "by": "gmp Architects with Louis Karol Architects and Point Architects",
   "place": "Cape Town, ZA",
@@ -272916,7 +276933,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Cape Town Stadium",
   "lead": "Cape Town Stadium, Cape Town, South Africa (Unsplash).jpg",
-  "coords": null,
+  "coords": [
+   -33.90346,
+   18.41115
+  ],
   "hotlink": true,
   "images": [
    {
@@ -272985,7 +277005,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cape-town-city-hall",
-  "n": 3268,
+  "n": 3263,
   "name": "Cape Town City Hall",
   "by": "Henry Austin Reid and Frederick George Green",
   "place": "Cape Town, ZA",
@@ -273004,7 +277024,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Cape Town City Hall",
   "lead": "File:Cape Town City Hall 2014.jpg",
-  "coords": null,
+  "coords": [
+   -33.92528,
+   18.42389
+  ],
   "hotlink": true,
   "images": [
    {
@@ -273061,7 +277084,7 @@ window.BUILDINGS = [
  },
  {
   "id": "durban-city-hall",
-  "n": 3269,
+  "n": 3264,
   "name": "Durban City Hall",
   "by": "Stanley G. Hudson",
   "place": "Durban, ZA",
@@ -273080,7 +277103,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Durban Town Hall",
   "lead": "Durban City Centre.jpg",
-  "coords": null,
+  "coords": [
+   -29.8585,
+   31.0265
+  ],
   "hotlink": true,
   "images": [
    {
@@ -273113,7 +277139,7 @@ window.BUILDINGS = [
  },
  {
   "id": "johannesburg-city-hall",
-  "n": 3270,
+  "n": 3265,
   "name": "Johannesburg City Hall",
   "by": "Hawkey & McKinley",
   "place": "Johannesburg, ZA",
@@ -273132,7 +277158,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:City Hall, Johannesburg",
   "lead": "File:Johannesburg City Hall outside 01.jpg",
-  "coords": null,
+  "coords": [
+   -26.2044,
+   28.0417
+  ],
   "hotlink": true,
   "images": [
    {
@@ -273189,7 +277218,7 @@ window.BUILDINGS = [
  },
  {
   "id": "nelson-mandela-bay-stadium",
-  "n": 3271,
+  "n": 3266,
   "name": "Nelson Mandela Bay Stadium",
   "by": "Architectural Design Associates, Dominic Bonnesse Architects",
   "place": "Gqeberha, ZA",
@@ -273208,7 +277237,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Nelson Mandela Bay Stadium",
   "lead": "File:Western side of the Nelson Mandela Bay Stadium February 2025.jpg",
-  "coords": null,
+  "coords": [
+   -33.93778,
+   25.59889
+  ],
   "hotlink": true,
   "images": [
    {
@@ -273253,7 +277285,7 @@ window.BUILDINGS = [
  },
  {
   "id": "nelson-mandela-bridge-johannesburg",
-  "n": 3272,
+  "n": 3267,
   "name": "Nelson Mandela Bridge",
   "by": "Dissing+Weitling",
   "place": "Johannesburg, ZA",
@@ -273272,7 +277304,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Nelson Mandela Bridge",
   "lead": "File:South Africa-Johannesburg-Nelson Mandela Bridge001.jpg",
-  "coords": null,
+  "coords": [
+   -26.1967,
+   28.0342
+  ],
   "hotlink": true,
   "images": [
    {
@@ -273341,7 +277376,7 @@ window.BUILDINGS = [
  },
  {
   "id": "johannesburg-art-gallery",
-  "n": 3273,
+  "n": 3268,
   "name": "Johannesburg Art Gallery",
   "by": "Edwin Lutyens, Robert Howden",
   "place": "Johannesburg, ZA",
@@ -273360,7 +277395,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Johannesburg Art Gallery",
   "lead": "9 2 228 0069-Art Gallery2-Johannesburg-s.jpg",
-  "coords": null,
+  "coords": [
+   -26.197,
+   28.0471
+  ],
   "hotlink": true,
   "images": [
    {
@@ -273429,7 +277467,7 @@ window.BUILDINGS = [
  },
  {
   "id": "rand-club-johannesburg",
-  "n": 3274,
+  "n": 3269,
   "name": "Rand Club",
   "by": "Leck & Emley",
   "place": "Johannesburg, ZA",
@@ -273448,7 +277486,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Rand Club, Johannesburg",
   "lead": "File:00000-Rand Club-Johannesburg-s.jpg",
-  "coords": null,
+  "coords": [
+   -26.2061,
+   28.0413
+  ],
   "hotlink": true,
   "images": [
    {
@@ -273481,7 +277522,7 @@ window.BUILDINGS = [
  },
  {
   "id": "pretoria-railway-station",
-  "n": 3275,
+  "n": 3270,
   "name": "Pretoria Railway Station",
   "by": "Herbert Baker",
   "place": "Pretoria, ZA",
@@ -273500,7 +277541,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Pretoria railway station",
   "lead": "Bf.Pretoria.jpg",
-  "coords": null,
+  "coords": [
+   -25.75806,
+   28.18917
+  ],
   "hotlink": true,
   "images": [
    {
@@ -273533,7 +277577,7 @@ window.BUILDINGS = [
  },
  {
   "id": "buyeo-national-museum",
-  "n": 3276,
+  "n": 3271,
   "name": "Buyeo National Museum",
   "by": "Kim Swoo-geun",
   "place": "Buyeo, KR",
@@ -273552,7 +277596,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Buyeo National Museum",
   "lead": "File:Buyeo National Museum (20160719 1).png",
-  "coords": null,
+  "coords": [
+   36.27636,
+   126.91884
+  ],
   "hotlink": true,
   "images": [
    {
@@ -273573,7 +277620,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-science-museum-daejeon",
-  "n": 3277,
+  "n": 3272,
   "name": "National Science Museum, Daejeon",
   "by": "Kim Swoo-geun",
   "place": "Daejeon, KR",
@@ -273592,7 +277639,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:National Science Museum, South Korea",
   "lead": "National Science Museum 2019.jpg",
-  "coords": null,
+  "coords": [
+   36.37615,
+   127.37507
+  ],
   "hotlink": true,
   "images": [
    {
@@ -273637,7 +277687,7 @@ window.BUILDINGS = [
  },
  {
   "id": "japan-ukiyo-e-museum",
-  "n": 3278,
+  "n": 3273,
   "name": "Japan Ukiyo-e Museum",
   "by": "Kazuo Shinohara",
   "place": "Matsumoto, JP",
@@ -273656,7 +277706,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Japan Ukiyo-e Museum",
   "lead": "File:Japan Ukiyoe Museum.JPG",
-  "coords": null,
+  "coords": [
+   36.2303,
+   137.93508
+  ],
   "hotlink": true,
   "images": [
    {
@@ -273701,7 +277754,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ehime-prefectural-science-museum",
-  "n": 3279,
+  "n": 3274,
   "name": "Ehime Prefectural Science Museum",
   "by": "Kisho Kurokawa",
   "place": "Niihama, JP",
@@ -273720,7 +277773,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Ehime Prefectural Science Museum",
   "lead": "File:Ehime Prefectural Science Museum 01.jpg",
-  "coords": null,
+  "coords": [
+   33.91008,
+   133.24488
+  ],
   "hotlink": true,
   "images": [
    {
@@ -273765,7 +277821,7 @@ window.BUILDINGS = [
  },
  {
   "id": "yamaguchi-center-for-arts-and-media",
-  "n": 3280,
+  "n": 3275,
   "name": "Yamaguchi Center for Arts and Media (YCAM)",
   "by": "Arata Isozaki",
   "place": "Yamaguchi, JP",
@@ -273784,7 +277840,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Yamaguchi Center for Arts and Media",
   "lead": "File:Yamaguchi Center for Arts and Media ac (2).jpg",
-  "coords": null,
+  "coords": [
+   34.16961,
+   131.46728
+  ],
   "hotlink": true,
   "images": [
    {
@@ -273853,7 +277912,7 @@ window.BUILDINGS = [
  },
  {
   "id": "iwasaki-art-museum-ibusuki",
-  "n": 3281,
+  "n": 3276,
   "name": "Iwasaki Art Museum",
   "by": "Fumihiko Maki",
   "place": "Ibusuki, JP",
@@ -273872,7 +277931,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Iwasaki Art Museum",
   "lead": "File:Iwasaki Museum, Ibusuki (2771495212).jpg",
-  "coords": null,
+  "coords": [
+   31.22187,
+   130.65445
+  ],
   "hotlink": true,
   "images": [
    {
@@ -273917,7 +277979,7 @@ window.BUILDINGS = [
  },
  {
   "id": "miyagi-museum-of-art",
-  "n": 3282,
+  "n": 3277,
   "name": "Miyagi Museum of Art",
   "by": "Kunio Maekawa",
   "place": "Sendai, JP",
@@ -273936,7 +277998,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:The Miyagi Museum of Art",
   "lead": "The miyagi museum of art02s3872.jpg",
-  "coords": null,
+  "coords": [
+   38.26406,
+   140.85492
+  ],
   "hotlink": true,
   "images": [
    {
@@ -273969,7 +278034,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-bunraku-theatre",
-  "n": 3283,
+  "n": 3278,
   "name": "National Bunraku Theatre",
   "by": "Kisho Kurokawa",
   "place": "Osaka, JP",
@@ -273988,7 +278053,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:National Bunraku Theatre",
   "lead": "File:National Bunraku Theatre in 201408.JPG",
-  "coords": null,
+  "coords": [
+   34.6675,
+   135.50861
+  ],
   "hotlink": true,
   "images": [
    {
@@ -274033,7 +278101,7 @@ window.BUILDINGS = [
  },
  {
   "id": "osaka-international-convention-center",
-  "n": 3284,
+  "n": 3279,
   "name": "Osaka International Convention Center (Grand Cube Osaka)",
   "by": "Kisho Kurokawa",
   "place": "Osaka, JP",
@@ -274052,7 +278120,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Osaka International Convention Center",
   "lead": "File:Grand Cube Osaka 20080106-001.jpg",
-  "coords": null,
+  "coords": [
+   34.6894,
+   135.486
+  ],
   "hotlink": true,
   "images": [
    {
@@ -274097,7 +278168,7 @@ window.BUILDINGS = [
  },
  {
   "id": "fukushima-prefectural-museum-of-art",
-  "n": 3285,
+  "n": 3280,
   "name": "Fukushima Prefectural Museum of Art",
   "by": "Masato Otaka",
   "place": "Fukushima, JP",
@@ -274116,7 +278187,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Fukushima Prefectural Museum of Art",
   "lead": "File:Fukushima Prefectural Museum of Art ac.jpg",
-  "coords": null,
+  "coords": [
+   37.76792,
+   140.45653
+  ],
   "hotlink": true,
   "images": [
    {
@@ -274173,7 +278247,7 @@ window.BUILDINGS = [
  },
  {
   "id": "gunma-prefectural-museum-of-history",
-  "n": 3286,
+  "n": 3281,
   "name": "Gunma Prefectural Museum of History",
   "by": "Masato Otaka",
   "place": "Takasaki, JP",
@@ -274192,7 +278266,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Gunma Prefectural Museum of History",
   "lead": "File:261010 Gunma Prefectural Museum of History Takasaki Japan01s3.jpg",
-  "coords": null,
+  "coords": [
+   36.29851,
+   139.07948
+  ],
   "hotlink": true,
   "images": [
    {
@@ -274225,7 +278302,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-showa-memorial-museum",
-  "n": 3287,
+  "n": 3282,
   "name": "National Showa Memorial Museum",
   "by": "Kiyonori Kikutake",
   "place": "Tokyo, JP",
@@ -274244,7 +278321,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:National Showa Memorial Museum",
   "lead": "File:National Showa Memorial Museum - 2024 Feb 16 various 13 09 01 939000.jpeg",
-  "coords": null,
+  "coords": [
+   35.69503,
+   139.75072
+  ],
   "hotlink": true,
   "images": [
    {
@@ -274313,7 +278393,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hirosaki-city-museum",
-  "n": 3288,
+  "n": 3283,
   "name": "Hirosaki City Museum",
   "by": "Kunio Maekawa",
   "place": "Hirosaki, JP",
@@ -274332,7 +278412,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Hirosaki City Museum",
   "lead": "File:191207 Hirosaki City Museum Hirosaki Aomori pref Japan01s.jpg",
-  "coords": null,
+  "coords": [
+   40.60533,
+   140.46256
+  ],
   "hotlink": true,
   "images": [
    {
@@ -274377,7 +278460,7 @@ window.BUILDINGS = [
  },
  {
   "id": "yamaguchi-prefectural-museum",
-  "n": 3289,
+  "n": 3284,
   "name": "Yamaguchi Prefectural Museum",
   "by": "Junzo Sakakura",
   "place": "Yamaguchi, JP",
@@ -274396,7 +278479,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Yamaguchi Prefectural Yamaguchi Museum",
   "lead": "File:140720 Yamaguchi Museum Yamaguchi Japan01s39.jpg",
-  "coords": null,
+  "coords": [
+   34.1825,
+   131.473
+  ],
   "hotlink": true,
   "images": [
    {
@@ -274429,7 +278515,7 @@ window.BUILDINGS = [
  },
  {
   "id": "irie-taikichi-memorial-museum-of-photography",
-  "n": 3290,
+  "n": 3285,
   "name": "Irie Taikichi Memorial Museum of Photography",
   "by": "Kisho Kurokawa",
   "place": "Nara, JP",
@@ -274448,7 +278534,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Irie Taikichi Memorial Museum of Photography Nara City",
   "lead": "File:Irie Taikichi Memorial Museum.jpg",
-  "coords": null,
+  "coords": [
+   34.67558,
+   135.84542
+  ],
   "hotlink": true,
   "images": [
    {
@@ -274481,7 +278570,7 @@ window.BUILDINGS = [
  },
  {
   "id": "memorial-cathedral-for-world-peace",
-  "n": 3291,
+  "n": 3286,
   "name": "Memorial Cathedral for World Peace",
   "by": "Togo Murano",
   "place": "Hiroshima, JP",
@@ -274500,7 +278589,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Memorial Cathedral for World Peace",
   "lead": "Hiroshima World Peace Memorial Cathedral.jpg",
-  "coords": null,
+  "coords": [
+   34.39564,
+   132.46778
+  ],
   "hotlink": true,
   "images": [
    {
@@ -274545,7 +278637,7 @@ window.BUILDINGS = [
  },
  {
   "id": "yokohama-city-hall-1959",
-  "n": 3292,
+  "n": 3287,
   "name": "Yokohama City Hall (1959 building)",
   "by": "Togo Murano",
   "place": "Yokohama, JP",
@@ -274597,7 +278689,7 @@ window.BUILDINGS = [
  },
  {
   "id": "yamanashi-prefectural-museum-of-art",
-  "n": 3293,
+  "n": 3288,
   "name": "Yamanashi Prefectural Museum of Art",
   "by": "Kunio Maekawa",
   "place": "Kofu, JP",
@@ -274616,7 +278708,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Yamanashi Prefectural Art Museum",
   "lead": "File:Art museums in Yamanashi prefecture 20231028a6.jpg",
-  "coords": null,
+  "coords": [
+   35.66039,
+   138.53733
+  ],
   "hotlink": true,
   "images": [
    {
@@ -274649,7 +278744,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hashima-city-hall",
-  "n": 3294,
+  "n": 3289,
   "name": "Hashima City Hall (1959)",
   "by": "Junzo Sakakura",
   "place": "Hashima, JP",
@@ -274713,7 +278808,7 @@ window.BUILDINGS = [
  },
  {
   "id": "okayama-prefectural-office",
-  "n": 3295,
+  "n": 3290,
   "name": "Okayama Prefectural Government Office Main Building",
   "by": "Kunio Maekawa",
   "place": "Okayama, JP",
@@ -274732,7 +278827,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Okayama Prefectural Government Office Main Building",
   "lead": "File:Okayama Prefectural government.JPG",
-  "coords": null,
+  "coords": [
+   34.66161,
+   133.93472
+  ],
   "hotlink": true,
   "images": [
    {
@@ -274765,7 +278863,7 @@ window.BUILDINGS = [
  },
  {
   "id": "yokohama-silk-center",
-  "n": 3296,
+  "n": 3291,
   "name": "Yokohama Silk Center",
   "by": "Junzo Sakakura",
   "place": "Yokohama, JP",
@@ -274784,7 +278882,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Yokohama Silk Center",
   "lead": "File:Yokohama August 2014 34.JPG",
-  "coords": null,
+  "coords": [
+   35.44722,
+   139.64511
+  ],
   "hotlink": true,
   "images": [
    {
@@ -274829,7 +278930,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kure-city-hall",
-  "n": 3297,
+  "n": 3292,
   "name": "Kure City Hall and Municipal Auditorium",
   "by": "Junzo Sakakura",
   "place": "Kure, JP",
@@ -274881,7 +278982,7 @@ window.BUILDINGS = [
  },
  {
   "id": "shoji-ueda-museum-of-photography",
-  "n": 3298,
+  "n": 3293,
   "name": "Shoji Ueda Museum of Photography",
   "by": "Shin Takamatsu",
   "place": "Hoki, JP",
@@ -274900,7 +279001,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Shoji Ueda Museum of Photography",
   "lead": "File:Shoji Ueda Museum of Photography05bs4592.jpg",
-  "coords": null,
+  "coords": [
+   35.38986,
+   133.43583
+  ],
   "hotlink": true,
   "images": [
    {
@@ -274945,7 +279049,7 @@ window.BUILDINGS = [
  },
  {
   "id": "nima-sand-museum",
-  "n": 3299,
+  "n": 3294,
   "name": "Nima Sand Museum",
   "by": "Shin Takamatsu",
   "place": "Oda, JP",
@@ -274964,7 +279068,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Nima Sand Museum",
   "lead": "File:Nima Sandmuseum.jpg",
-  "coords": null,
+  "coords": [
+   35.14639,
+   132.40472
+  ],
   "hotlink": true,
   "images": [
    {
@@ -275009,7 +279116,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-theatre-okinawa",
-  "n": 3300,
+  "n": 3295,
   "name": "National Theatre Okinawa",
   "by": "Shin Takamatsu",
   "place": "Urasoe, JP",
@@ -275028,7 +279135,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:National Theatre Okinawa",
   "lead": "File:National Theater Okinawa.jpg",
-  "coords": null,
+  "coords": [
+   26.24639,
+   127.68861
+  ],
   "hotlink": true,
   "images": [
    {
@@ -275049,7 +279159,7 @@ window.BUILDINGS = [
  },
  {
   "id": "iida-city-museum",
-  "n": 3301,
+  "n": 3296,
   "name": "Iida City Museum",
   "by": "Hiroshi Hara",
   "place": "Iida, JP",
@@ -275068,7 +279178,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Iida City Museum",
   "lead": "File:Iida City Museum exterior ac (3).jpg",
-  "coords": null,
+  "coords": [
+   35.51204,
+   137.83021
+  ],
   "hotlink": true,
   "images": [
    {
@@ -275125,7 +279238,7 @@ window.BUILDINGS = [
  },
  {
   "id": "miyagi-prefectural-library",
-  "n": 3302,
+  "n": 3297,
   "name": "Miyagi Prefectural Library",
   "by": "Hiroshi Hara",
   "place": "Sendai, JP",
@@ -275144,7 +279257,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Miyagi Prefectural Library",
   "lead": "File:Miyagi Prefectural Library ac.jpg",
-  "coords": null,
+  "coords": [
+   38.34603,
+   140.83861
+  ],
   "hotlink": true,
   "images": [
    {
@@ -275213,7 +279329,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hiroshi-senju-museum-karuizawa",
-  "n": 3303,
+  "n": 3298,
   "name": "Hiroshi Senju Museum Karuizawa",
   "by": "Ryue Nishizawa",
   "place": "Karuizawa, JP",
@@ -275265,7 +279381,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tokyo-metropolitan-theatre",
-  "n": 3304,
+  "n": 3299,
   "name": "Tokyo Metropolitan Theatre",
   "by": "Yoshinobu Ashihara",
   "place": "Tokyo, JP",
@@ -275284,7 +279400,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Tokyo Metropolitan Theatre",
   "lead": "File:Wongwt 東京藝術劇場 (17076815207).jpg",
-  "coords": null,
+  "coords": [
+   35.7297,
+   139.708
+  ],
   "hotlink": true,
   "images": [
    {
@@ -275365,7 +279484,7 @@ window.BUILDINGS = [
  },
  {
   "id": "okayama-symphony-hall",
-  "n": 3305,
+  "n": 3300,
   "name": "Okayama Symphony Hall",
   "by": "Yoshinobu Ashihara",
   "place": "Okayama, JP",
@@ -275384,7 +279503,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Okayama Symphony Hall",
   "lead": "File:Okayama symphony hall01s3s3300.jpg",
-  "coords": null,
+  "coords": [
+   34.66528,
+   133.92972
+  ],
   "hotlink": true,
   "images": [
    {
@@ -275429,7 +279551,7 @@ window.BUILDINGS = [
  },
  {
   "id": "echigo-matsunoyama-museum-of-natural-science",
-  "n": 3306,
+  "n": 3301,
   "name": "Echigo-Matsunoyama Museum of Natural Science (Kyororo)",
   "by": "Tezuka Architects",
   "place": "Tokamachi, JP",
@@ -275448,7 +279570,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Echigo-Matsunoyama Museum of Natural Science",
   "lead": "File:越後松之山森の学校 キョロロ1.jpg",
-  "coords": null,
+  "coords": [
+   37.09972,
+   138.61722
+  ],
   "hotlink": true,
   "images": [
    {
@@ -275469,7 +279594,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kanazawa-umimirai-library",
-  "n": 3307,
+  "n": 3302,
   "name": "Kanazawa Umimirai Library",
   "by": "Kazumi Kudo and Hiroshi Horiba",
   "place": "Kanazawa, JP",
@@ -275488,7 +279613,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Kanazawa Umimirai Library",
   "lead": "File:Kanazawa Umimirai Library exterior ac (2).jpg",
-  "coords": null,
+  "coords": [
+   36.59433,
+   136.60428
+  ],
   "hotlink": true,
   "images": [
    {
@@ -275533,7 +279661,7 @@ window.BUILDINGS = [
  },
  {
   "id": "waseda-international-house-of-literature",
-  "n": 3308,
+  "n": 3303,
   "name": "Waseda International House of Literature (Haruki Murakami Library)",
   "by": "Kengo Kuma",
   "place": "Tokyo, JP",
@@ -275552,7 +279680,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Waseda International House of Literature",
   "lead": "File:The Waseda International House of Literature.jpg",
-  "coords": null,
+  "coords": [
+   35.70978,
+   139.71989
+  ],
   "hotlink": true,
   "images": [
    {
@@ -275597,7 +279728,7 @@ window.BUILDINGS = [
  },
  {
   "id": "okinawa-prefecture-government-building",
-  "n": 3309,
+  "n": 3304,
   "name": "Okinawa Prefecture Government Building",
   "by": "Kisho Kurokawa",
   "place": "Naha, JP",
@@ -275616,7 +279747,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Okinawa Prefectural Government Headquarters",
   "lead": "File:Naha Okinawa Japan Okinawa-Prefectural-Government-Headquarters-01.jpg",
-  "coords": null,
+  "coords": [
+   26.2124,
+   127.681
+  ],
   "hotlink": true,
   "images": [
    {
@@ -275673,7 +279807,7 @@ window.BUILDINGS = [
  },
  {
   "id": "aichi-international-arena",
-  "n": 3310,
+  "n": 3305,
   "name": "Aichi International Arena (IG Arena)",
   "by": "Kengo Kuma",
   "place": "Nagoya, JP",
@@ -275692,7 +279826,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Aichi International Arena",
   "lead": "File:Aichi International Arena and Entrance 4 of Meijō Kōen Station - 2.jpg",
-  "coords": null,
+  "coords": [
+   35.19,
+   136.9027
+  ],
   "hotlink": true,
   "images": [
    {
@@ -275749,7 +279886,7 @@ window.BUILDINGS = [
  },
  {
   "id": "yufuin-station",
-  "n": 3311,
+  "n": 3306,
   "name": "Yufuin Station",
   "by": "Arata Isozaki",
   "place": "Yufu, JP",
@@ -275768,7 +279905,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Yufuin Station",
   "lead": "File:Yufuin Station exterior 2022-09-10.jpg",
-  "coords": null,
+  "coords": [
+   33.2624,
+   131.355
+  ],
   "hotlink": true,
   "images": [
    {
@@ -275813,7 +279953,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hibiya-public-hall",
-  "n": 3312,
+  "n": 3307,
   "name": "Hibiya Public Hall",
   "by": "Koichi Sato",
   "place": "Tokyo, JP",
@@ -275832,7 +279972,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Hibiya Public Hall",
   "lead": "File:日比谷公会堂.jpg",
-  "coords": null,
+  "coords": [
+   35.67169,
+   139.75567
+  ],
   "hotlink": true,
   "images": [
    {
@@ -275877,7 +280020,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sacred-heart-cathedral-yokohama",
-  "n": 3313,
+  "n": 3308,
   "name": "Sacred Heart Cathedral (Yamate Catholic Church), Yokohama",
   "by": "Jan Josef Svagr",
   "place": "Yokohama, JP",
@@ -275941,7 +280084,7 @@ window.BUILDINGS = [
  },
  {
   "id": "seoul-anglican-cathedral",
-  "n": 3314,
+  "n": 3309,
   "name": "Seoul Anglican Cathedral",
   "by": "Arthur Stansfield Dixon",
   "place": "Seoul, KR",
@@ -275960,7 +280103,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Seoul Anglican Cathedral",
   "lead": "File:Seoul Anglican Cathedral in 2026 (3).jpg",
-  "coords": null,
+  "coords": [
+   37.56694,
+   126.97611
+  ],
   "hotlink": true,
   "images": [
    {
@@ -276029,7 +280175,7 @@ window.BUILDINGS = [
  },
  {
   "id": "casals-hall-ochanomizu",
-  "n": 3315,
+  "n": 3310,
   "name": "Casals Hall (Ochanomizu Square)",
   "by": "Arata Isozaki",
   "place": "Tokyo, JP",
@@ -276048,7 +280194,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Category:Otyanomizu_Square",
   "lead": "File:Nihon University Casals Hall 2009.jpg",
-  "coords": null,
+  "coords": [
+   35.69722,
+   139.7625
+  ],
   "hotlink": true,
   "images": [
    {
@@ -276129,7 +280278,7 @@ window.BUILDINGS = [
  },
  {
   "id": "baldwin-hills-village",
-  "n": 3316,
+  "n": 3311,
   "name": "Baldwin Hills Village (Village Green)",
   "by": "Reginald D. Johnson; Wilson, Merrill & Alexander; Clarence S. Stein",
   "place": "Los Angeles, US",
@@ -276148,7 +280297,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Village Green (Los Angeles)",
   "lead": "File:View of the Village Green.JPG",
-  "coords": null,
+  "coords": [
+   34.01972,
+   -118.36083
+  ],
   "hotlink": true,
   "images": [
    {
@@ -276181,7 +280333,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bagno-pubblico-bellinzona",
-  "n": 3317,
+  "n": 3312,
   "name": "Bagno Pubblico, Bellinzona",
   "by": "Aurelio Galfetti, Flora Ruchat-Roncati and Ivo Trümpy",
   "place": "Bellinzona, CH",
@@ -276200,7 +280352,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Bagno Pubblico, Bellinzona",
   "lead": "Bagno Pubblico (Bellinzona) II.jpg",
-  "coords": null,
+  "coords": [
+   46.19849,
+   9.01742
+  ],
   "hotlink": true,
   "images": [
    {
@@ -276245,7 +280400,7 @@ window.BUILDINGS = [
  },
  {
   "id": "aluminaire-house",
-  "n": 3318,
+  "n": 3313,
   "name": "Aluminaire House",
   "by": "A. Lawrence Kocher and Albert Frey",
   "place": "Palm Springs, US",
@@ -276285,7 +280440,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ankara-ethnography-museum",
-  "n": 3319,
+  "n": 3314,
   "name": "Ankara Ethnography Museum",
   "by": "Arif Hikmet Koyunoğlu",
   "place": "Ankara, TR",
@@ -276304,7 +280459,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Ethnography Museum of Ankara",
   "lead": "File:Ethnography Museum of Ankara.jpg",
-  "coords": null,
+  "coords": [
+   39.93267,
+   32.85489
+  ],
   "hotlink": true,
   "images": [
    {
@@ -276325,7 +280483,7 @@ window.BUILDINGS = [
  },
  {
   "id": "catedral-de-lima",
-  "n": 3320,
+  "n": 3315,
   "name": "Cathedral Basilica of Lima",
   "by": "Francisco Becerra, Juan Martínez de Arrona, Juan Rher, Matías Maestro",
   "place": "Lima, PE",
@@ -276344,7 +280502,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Cathedral of Lima",
   "lead": "File:Catedral de Lima durante la noche de Jueves Santo.jpg",
-  "coords": null,
+  "coords": [
+   -12.04647,
+   -77.03004
+  ],
   "hotlink": true,
   "images": [
    {
@@ -276365,7 +280526,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ambedkar-memorial-park-lucknow",
-  "n": 3321,
+  "n": 3316,
   "name": "Dr. Bhimrao Ambedkar Memorial Park",
   "by": "Hafeez Contractor",
   "place": "Lucknow, IN",
@@ -276384,7 +280545,10 @@ window.BUILDINGS = [
   "qid": null,
   "commons": "Ambedkar Memorial Park",
   "lead": "Evening look of BR Ambedkar Memorial Park.jpg",
-  "coords": null,
+  "coords": [
+   26.84793,
+   80.97597
+  ],
   "hotlink": true,
   "images": [
    {

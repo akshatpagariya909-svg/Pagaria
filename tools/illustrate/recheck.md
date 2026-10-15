@@ -179,3 +179,8 @@ From the illustration rounds (Oct 2026): Commons has free photos, but the one th
 | Elementary School, Fagnano Olona | Aldo Rossi | Fagnano Olona, IT |
 | Notre-Dame-de-Lourdes, Casablanca | Achille Dangleterre, Gaston Zimmer | Casablanca, MA |
 | Grande Arche | Johan Otto von Spreckelsen | Puteaux, FR |
+| Niagara Falls Public Library | Paul Rudolph | Niagara Falls, US |
+| National Institute of Immunology | Raj Rewal | New Delhi, IN |
+| Cinema Opera | Bahjat Abdelnour | Beirut, LB |
+| Merck Headquarters Building | Kevin Roche John Dinkeloo and Associates | Whitehouse Station, US |
+| Halifax Central Library | Schmidt Hammer Lassen with Fowler Bauld & Mitchell | Halifax, CA |

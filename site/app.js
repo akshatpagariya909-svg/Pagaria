@@ -213,6 +213,7 @@
     $('more').hidden = f.next >= f.list.length;
   }
   function render(toTop) {
+    document.dispatchEvent(new CustomEvent('da:render')); // the map (map.js) follows the same search and filters
     let list = shuffled(visible(), rng(state.seed));
     if (lastTop.size) list = list.filter(b => !lastTop.has(keyOf(b))).concat(list.filter(b => lastTop.has(keyOf(b))));
     const C = columnCount();
@@ -966,7 +967,7 @@
 
   /* ---------- start ---------- */
   window.DA = { ALL, get BOOKS() { return BOOKS; }, withBooks, state, GROUPS, matches, esc, fold, countryName, project, world: WORLD,
-    coin, medalHtml, laureate: name => laureateOf(null, name),
+    coin, medalHtml, laureate: name => laureateOf(null, name), open: id => openAny(id),
     apply: () => render(false), close: () => { toggleFilters(false); window.scrollTo({ top: 0, behavior: 'smooth' }); } };
   render(false);
   if (RETURNING) { // back where we were: deal enough of the wall to reach the old scroll position

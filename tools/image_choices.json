@@ -5005,12 +5005,15 @@
   ]
  },
  "institute-of-foreign-languages": {
-  "add": [
-   "File:Institute of Foreign Languages.jpg"
-  ],
   "skip": [
    "File:Свидетельство РФ об аккредитации ГОУ ВПО ГИИЯ - приложение.jpg",
    "File:Свидетельство РФ об аккредитации ГОУ ВПО ГИИЯ.jpg"
+  ],
+  "pick": [
+   [
+    "File:Institute of Foreign Languages.jpg",
+    "Exterior"
+   ]
   ]
  },
  "jeevan-bharati-building": {
@@ -5073,9 +5076,16 @@
   ]
  },
  "mestizo-restaurant": {
-  "add": [
+  "skip": [
    "File:Portland, Oregon, U.S., December 2024 - 61.jpg",
-   "File:Restaurante Mestizo en Parque BIcentenario.jpg"
+   "File:Mestizo (restaurant), Portland, Oregon, 2025 - 02.jpg",
+   "File:Mestizo (restaurant), Portland, Oregon, 2025 - 03.jpg"
+  ],
+  "pick": [
+   [
+    "File:Restaurante Mestizo en Parque BIcentenario.jpg",
+    "Exterior"
+   ]
   ]
  },
  "michenzani-blocks": {
@@ -5760,8 +5770,16 @@
   ]
  },
  "casa-gaspar": {
-  "add": [
-   "File:Casa gaspar exterior.jpg"
+  "skip": [
+   "File:Vista geral da fachada principal da casa.jpg",
+   "File:Vista parcial da fachada principal da casa.jpg",
+   "File:Muro exterior e escadaria de acesso no jardim.jpg"
+  ],
+  "pick": [
+   [
+    "File:Casa gaspar exterior.jpg",
+    "Exterior"
+   ]
   ]
  },
  "casa-de-blas": {
@@ -5774,8 +5792,17 @@
   ]
  },
  "das-gelbe-haus-flims": {
-  "add": [
-   "File:Olgiati, Brutarchitekt.jpg"
+  "skip": [
+   "File:Rather Straße 49a, Düsseldorf, 2001 (04).jpg",
+   "File:Gelbes Haus, Rather Straße 49e, Düsseldorf-Derendorf (01).jpg",
+   "File:Gelbes Haus, Rather Straße 49e, Düsseldorf-Derendorf (02).jpg",
+   "File:Rather Straße 49a, Düsseldorf, 2001 (10).jpg"
+  ],
+  "pick": [
+   [
+    "File:Olgiati, Brutarchitekt.jpg",
+    "Exterior"
+   ]
   ]
  },
  "villa-schreiner": {
@@ -6109,8 +6136,18 @@
   ]
  },
  "blue-building-athens": {
-  "add": [
-   "File:\"Blue condominium\" in Athens.jpg"
+  "skip": [
+   "File:Blue Condominium 002.jpg",
+   "File:Blue Condominium 003.jpg",
+   "File:New York - panoramio (109).jpg",
+   "File:Blue Condominium Tower Detail.jpg",
+   "File:Blue Condominium Tower Neighborhood.jpg"
+  ],
+  "pick": [
+   [
+    "File:\"Blue condominium\" in Athens.jpg",
+    "Exterior"
+   ]
   ]
  },
  "lycabettus-theatre": {
@@ -6144,8 +6181,18 @@
   ]
  },
  "sky-house": {
-  "add": [
-   "File:Sky house, Bukyo.jpg"
+  "skip": [
+   "File:Moscow, Konny Lane - Sky House back buildings May 2025 02.jpg",
+   "File:Moscow, Mytnaya 40 - Sky House May 2025 09.jpg",
+   "File:Moscow, Mytnaya 40 - Sky House May 2025 07.jpg",
+   "File:Moscow, Mytnaya Street, Sky House buildings 1417 (16858909546).jpg",
+   "File:Moscow, Mytnaya Street, Sky House buildings 1418 (16883812331).jpg"
+  ],
+  "pick": [
+   [
+    "File:Sky house, Bukyo.jpg",
+    "Exterior"
+   ]
   ]
  },
  "tower-of-winds": {
@@ -6193,8 +6240,16 @@
   ]
  },
  "stone-museum": {
-  "add": [
-   "File:Stone Plaza.jpg"
+  "skip": [
+   "File:Alcalá de Henares (RPS 24-09-2026) refugio antiaéreo de la plaza de Cervantes, estancia sur.png",
+   "File:Alcalá de Henares (RPS 24-09-2026) refugio antiaéreo de la plaza de Cervantes, entrada sur.png",
+   "File:Refugio antiaéreo de la plaza de Cervantes de Alcalá de Henares (RPS 18-09-2026) plano de la sección longitudinal en 1938.png"
+  ],
+  "pick": [
+   [
+    "File:Stone Plaza.jpg",
+    "Context"
+   ]
   ]
  },
  "curtain-wall-house": {
@@ -7073,13 +7128,24 @@
   ]
  },
  "robotics-institute-saint-petersburg": {
-  "add": [
-   "File:CRDI Robotics and Technical Cybernetics tower 2016-06 1465320080.jpg",
-   "File:Здание ЦНИИ РТК (робототехники) в Санкт-Петербурге, Россия 2H1A3360WI.jpg",
-   "File:Санкт-Петербург, ЦНИИ РТК с Тихорецкого.jpg"
-  ],
   "skip": [
-   "File:Description Hydronaut H03 DeepLab A.jpg"
+   "File:Description Hydronaut H03 DeepLab A.jpg",
+   "File:German Technical University in Prague - Classroom of physics.png",
+   "File:Hydronaut H03 DeepLab Moon Habitat EVA.jpg"
+  ],
+  "pick": [
+   [
+    "File:CRDI Robotics and Technical Cybernetics tower 2016-06 1465320080.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Здание ЦНИИ РТК (робототехники) в Санкт-Петербурге, Россия 2H1A3360WI.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Санкт-Петербург, ЦНИИ РТК с Тихорецкого.jpg",
+    "Exterior"
+   ]
   ]
  },
  "druzhba-sanatorium-kurpaty": {
@@ -9618,9 +9684,6 @@
   ]
  },
  "emerson-college-los-angeles": {
-  "add": [
-   "File:Emerson College Los Angeles.png"
-  ],
   "skip": [
    "File:Paramount (36369).jpg",
    "File:Mask at the Majestic Theatre (Boston, MA).jpg",
@@ -9628,6 +9691,12 @@
    "File:Cutler Majestic Theatre - Emerson College (54954490099).jpg",
    "File:2009 Emerson Majestic Theatre Boston 3599607642.jpg",
    "File:Little Building Boston typical floor plan.png"
+  ],
+  "pick": [
+   [
+    "File:Emerson College Los Angeles.png",
+    "Context"
+   ]
   ]
  },
  "vulcania": {
@@ -19589,9 +19658,6 @@
   ]
  },
  "state-trading-corporation-building": {
-  "add": [
-   "File:State Trading Corporation building, New Delhi.jpg"
-  ],
   "skip": [
    "File:Empire State Building (49534607248).jpg",
    "File:Empire State Building (New York) (45240606631).jpg",
@@ -19600,6 +19666,12 @@
    "File:Empire State Building LED live election results Obama Romney Spire Close-up (8162616388).jpg",
    "File:Empire State Building plan.jpg",
    "File:Glenn O. Coleman - Dirigible Over New York - Google Art Project.jpg"
+  ],
+  "pick": [
+   [
+    "File:State Trading Corporation building, New Delhi.jpg",
+    "Exterior"
+   ]
   ]
  },
  "vigyan-bhawan": {
@@ -20127,13 +20199,16 @@
   ]
  },
  "grand-jamia-mosque-bahria-town-lahore": {
-  "add": [
-   "File:Grand Mosque Bahria Town , Pakistan.jpg"
-  ],
   "skip": [
    "File:Bahria Town Karachi Grand Mosque 1.jpg",
    "File:Bahria Town Karachi Grand Mosque 2.jpg",
    "File:Grand Masjid construction Bahria Town Karachi.JPG"
+  ],
+  "pick": [
+   [
+    "File:Grand Mosque Bahria Town , Pakistan.jpg",
+    "Exterior"
+   ]
   ]
  },
  "wapda-house-lahore": {
