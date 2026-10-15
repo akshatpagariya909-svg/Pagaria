@@ -228,7 +228,6 @@
     if (atTable) drawTable();
     $('empty').hidden = list.length > 0;
     const total = items().length, noun = state.mode === 'books' ? 'books' : 'buildings';
-    $('allLink').dataset.tip = 'A huge, growing collection of buildings';
     $('count').textContent = list.length === total ? `${total.toLocaleString('en')} ${noun}` : `${list.length.toLocaleString('en')} of ${total.toLocaleString('en')}`;
     const nf = GROUPS.reduce((s, g) => s + state.filters[g.key].size, 0) + (state.decades ? 1 : 0);
     $('filterCount').textContent = nf ? String(nf) : '';
@@ -905,7 +904,6 @@
     $('modeBooks').setAttribute('aria-pressed', books);
     $('q').placeholder = books ? 'Search a book, author or subject…' : 'Search a building, architect, city or idea…';
     $('filterBtn').hidden = books;
-    $('allLink').hidden = books;
     $('feed').setAttribute('aria-label', books ? 'Books' : 'Buildings');
     toggleFilters(false);
     if (!quiet) render(true);
