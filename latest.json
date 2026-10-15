@@ -1,18 +1,58 @@
 {
- "fetched_at": "2026-10-15T07:10:07+00:00",
+ "fetched_at": "2026-10-15T12:43:03+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 17,
+ "visits_30d": 37,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 9,
+     "count": 22,
      "path_id": 112020267,
      "path": "/",
      "event": false,
      "title": "Find Great Architecture \u00b7 a wall of great buildings for architecture students",
-     "max": 2
+     "max": 5
+    },
+    {
+     "count": 7,
+     "path_id": 112020274,
+     "path": "/play",
+     "event": false,
+     "title": "Daily five \u00b7 Guess the building? \u00b7 Find Great Architecture",
+     "max": 4
+    },
+    {
+     "count": 1,
+     "path_id": 112138138,
+     "path": "/buildings/teatro-colon",
+     "event": false,
+     "title": "Teatro Colon \u2014 Francesco Tamburini, Vittorio Meano, 1908: photos for a case study \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112137656,
+     "path": "/buildings/robotics-institute-saint-petersburg",
+     "event": false,
+     "title": "Central Research Institute of Robotics and Technical Cybernetics \u2014 Stanislav Savin, Boris Artyushin, 1987: photos for a case study \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112105979,
+     "path": "/buildings/haystack-mountain-school-of-crafts",
+     "event": false,
+     "title": "Haystack Mountain School of Crafts \u2014 Edward Larrabee Barnes, 1961: photos for a case study \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112104098,
+     "path": "/buildings/casa-ogorman-1929",
+     "event": false,
+     "title": "Casa O'Gorman 1929 (Cecil O'Gorman House) \u2014 Juan O'Gorman, 1929: photos for a case study \u00b7 Find Great Architecture",
+     "max": 1
     },
     {
      "count": 1,
@@ -45,35 +85,39 @@
      "event": false,
      "title": "Villa Tugendhat \u2014 Mies van der Rohe, 1930: photos, plans & sections for a case study \u00b7 Find Great Architecture",
      "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112020274,
-     "path": "/play",
-     "event": false,
-     "title": "Daily five \u00b7 Guess the building? \u00b7 Find Great Architecture",
-     "max": 1
     }
    ],
-   "total": 14,
+   "total": 37,
    "more": false
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 8,
+     "count": 12,
      "ref_scheme": "o"
     },
     {
      "id": "Google",
      "name": "Google",
-     "count": 4,
+     "count": 5,
      "ref_scheme": "g"
+    },
+    {
+     "id": "YouTube",
+     "name": "YouTube",
+     "count": 4,
+     "ref_scheme": "c"
     },
     {
      "id": "ig",
      "name": "ig",
+     "count": 4,
+     "ref_scheme": "c"
+    },
+    {
+     "id": "youtube`",
+     "name": "youtube`",
      "count": 3,
      "ref_scheme": "c"
     }
@@ -85,12 +129,17 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 8
+     "count": 26
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 6
+     "count": 10
+    },
+    {
+     "id": "Firefox",
+     "name": "Firefox",
+     "count": 1
     }
    ],
    "more": false
@@ -98,24 +147,24 @@
   "systems": {
    "stats": [
     {
+     "id": "Windows",
+     "name": "Windows",
+     "count": 15
+    },
+    {
      "id": "macOS",
      "name": "macOS",
-     "count": 6
+     "count": 10
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 5
+     "count": 8
     },
     {
      "id": "Linux",
      "name": "Linux",
      "count": 3
-    },
-    {
-     "id": "Windows",
-     "name": "Windows",
-     "count": 2
     },
     {
      "id": "Android",
@@ -130,16 +179,21 @@
     {
      "id": "IN",
      "name": "India",
-     "count": 7
+     "count": 19
     },
     {
      "id": "US",
      "name": "United States",
-     "count": 6
+     "count": 12
     },
     {
      "id": "DE",
      "name": "Germany",
+     "count": 2
+    },
+    {
+     "id": "CA",
+     "name": "Canada",
      "count": 1
     },
     {
@@ -165,17 +219,17 @@
     {
      "id": "phone",
      "name": "",
-     "count": 6
+     "count": 10
     },
     {
      "id": "tablet",
      "name": "",
-     "count": 1
+     "count": 3
     },
     {
      "id": "desktop",
      "name": "",
-     "count": 10
+     "count": 24
     },
     {
      "id": "desktophd",
@@ -195,14 +249,11 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 17
+     "count": 37
     }
    ],
    "more": false
   }
  },
- "kept_from_earlier": [
-  "pages",
-  "browsers"
- ]
+ "kept_from_earlier": []
 }
