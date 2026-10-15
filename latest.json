@@ -1,8 +1,8 @@
 {
- "fetched_at": "2026-10-14T20:34:35+00:00",
+ "fetched_at": "2026-10-15T07:10:07+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 14,
+ "visits_30d": 17,
  "sections": {
   "pages": {
    "hits": [
@@ -66,16 +66,16 @@
      "ref_scheme": "o"
     },
     {
+     "id": "Google",
+     "name": "Google",
+     "count": 4,
+     "ref_scheme": "g"
+    },
+    {
      "id": "ig",
      "name": "ig",
      "count": 3,
      "ref_scheme": "c"
-    },
-    {
-     "id": "Google",
-     "name": "Google",
-     "count": 2,
-     "ref_scheme": "g"
     }
    ],
    "more": false
@@ -98,14 +98,14 @@
   "systems": {
    "stats": [
     {
+     "id": "macOS",
+     "name": "macOS",
+     "count": 6
+    },
+    {
      "id": "iOS",
      "name": "iOS",
      "count": 5
-    },
-    {
-     "id": "macOS",
-     "name": "macOS",
-     "count": 4
     },
     {
      "id": "Linux",
@@ -113,13 +113,13 @@
      "count": 3
     },
     {
-     "id": "Android",
-     "name": "Android",
-     "count": 1
-    },
-    {
      "id": "Windows",
      "name": "Windows",
+     "count": 2
+    },
+    {
+     "id": "Android",
+     "name": "Android",
      "count": 1
     }
    ],
@@ -130,12 +130,12 @@
     {
      "id": "IN",
      "name": "India",
-     "count": 6
+     "count": 7
     },
     {
      "id": "US",
      "name": "United States",
-     "count": 4
+     "count": 6
     },
     {
      "id": "DE",
@@ -175,7 +175,7 @@
     {
      "id": "desktop",
      "name": "",
-     "count": 7
+     "count": 10
     },
     {
      "id": "desktophd",
@@ -195,10 +195,14 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 14
+     "count": 17
     }
    ],
    "more": false
   }
- }
+ },
+ "kept_from_earlier": [
+  "pages",
+  "browsers"
+ ]
 }
