@@ -1,1 +1,1 @@
-python -u tools/fetch_coords.py --limit 80
+python -u tools/fetch_coords.py

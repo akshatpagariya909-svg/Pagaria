@@ -32,7 +32,7 @@ SPARQL = 'https://query.wikidata.org/sparql'
 EARTH = 'http://www.wikidata.org/entity/Q2'
 Q_CATEGORY = 'Q4167836'  # Wikimedia category
 # Items in these places carry the parent country in P17.
-COUNTRY_ALIASES = {'HK': {'HK', 'CN'}, 'MO': {'MO', 'CN'}}
+COUNTRY_ALIASES = {'HK': {'HK', 'CN'}, 'MO': {'MO', 'CN'}, 'PR': {'PR', 'US'}, 'GU': {'GU', 'US'}, 'VI': {'VI', 'US'}}
 NOISE = set('architects architect architecture architekten arquitectos partners associates assoc studio atelier office design group '
             'and the of de la le van von der den het inc ltd llp llc sa sl spa gmbh co company'.split())
 
@@ -324,7 +324,8 @@ def match_commons(todo, wd, found, notes):
             continue
         q, e = pick
         found[b['id']] = {'qid': q, 'coords': coords_of(e), 'how': 'commons', 'country_ok': country_ok(b, wd, e),
-                          'label': e.get('labels', {}).get('en', {}).get('value', '')}
+                          'label': e.get('labels', {}).get('en', {}).get('value', ''),
+                          'name_ok': name_ok(b, [e.get('labels', {}).get('en', {}).get('value', '')])}
 
 
 def match_qid(todo, wd, found):
@@ -334,7 +335,8 @@ def match_qid(todo, wd, found):
         e = ents.get(b['qid'])
         if e and coords_of(e):
             found[b['id']] = {'qid': b['qid'], 'coords': coords_of(e), 'how': 'qid', 'country_ok': country_ok(b, wd, e),
-                              'label': e.get('labels', {}).get('en', {}).get('value', '')}
+                              'label': e.get('labels', {}).get('en', {}).get('value', ''),
+                              'name_ok': name_ok(b, [e.get('labels', {}).get('en', {}).get('value', '')])}
 
 
 # ---------- phase 3: search ----------
@@ -374,7 +376,7 @@ def search_one(b, wd, notes):
         if len(good) == 1 or (good and same_spot([coords_of(e) for q, e, w in good])):
             q, e, why = good[0]
             return {'qid': q, 'coords': coords_of(e), 'how': 'search', 'country_ok': True,
-                    'label': e.get('labels', {}).get('en', {}).get('value', ''), 'why': why}
+                    'label': e.get('labels', {}).get('en', {}).get('value', ''), 'name_ok': True, 'why': why}
         if len(good) > 1:
             notes.setdefault('ambiguous', []).append(f'{b["id"]} (search "{v}": {", ".join(q for q, e, w in good)})')
             return None
@@ -400,6 +402,7 @@ def write_outputs(all_b, todo, found, notes, done_all):
              f'- Still missing: {len(missing)}',
              f'- Country mismatches (Wikidata country differs from the building\'s): {len(bad)}',
              f'- Country unknown on Wikidata (country_ok null): {unknown}',
+             f'- Label shares no distinctive word with the building name (name_ok false; check these by eye): {sum(1 for f in found.values() if f.get("name_ok") is False)}',
              f'- Skipped as ambiguous: {len(notes.get("ambiguous", []))}', '']
     lines += ['## Country mismatches', '']
     lines += [f'- `{i}` {by_id[i]["name"]} ({by_id[i]["place"]}) -> {f["qid"]} "{f["label"]}" {f["coords"]} via {f["how"]}' for i, f in sorted(bad)] or ['None.']
