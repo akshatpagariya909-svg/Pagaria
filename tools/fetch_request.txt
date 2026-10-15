@@ -1,2 +1,2 @@
---only asia-culture-center,baldwin-hills-village,burntwood-school,bagno-pubblico-bellinzona,belgian-comic-strip-center-brussels,aluminaire-house,alley-theatre,ankara-ethnography-museum,catedral-de-lima,ambedkar-memorial-park-lucknow,al-irsyad-mosque,al-janoub-stadium --minutes 60
-Photos for the first photo-rescue round (12 buildings).
+--only grande-arche,park-guell,szechenyi-thermal-bath,art-institute-of-chicago-modern-wing,notre-dame-de-lourdes-casablanca,fondazione-prada,scuola-fagnano-olona,330-north-wabash,cleo-rogers-memorial-library
+Photos for the Design chat flags (15 Oct): new main photos picked on Commons, to be checked by eye.
