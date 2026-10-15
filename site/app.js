@@ -906,9 +906,10 @@
   $('emptyClear').addEventListener('click', clearAll);
   $('home').addEventListener('click', e => { e.preventDefault(); toggleFilters(false); setMode('buildings', true); clearAll(); });
 
-  // The dock stays on top of everything. On the plain wall it offers Shuffle; anywhere else (an opened building,
-  // a filtered or searched wall) Shuffle becomes Home. Surprise me works everywhere, even over an opened building.
-  const atHome = () => sheet.hidden && !state.q && !state.shelf && !state.decades && GROUPS.every(g => !state.filters[g.key].size);
+  // The dock stays on top of everything. On the plain buildings wall it offers Shuffle; anywhere else (the books wall,
+  // an opened building, a filtered or searched wall) Shuffle becomes Home, which goes back to the buildings wall.
+  // Surprise me works everywhere, even over an opened building.
+  const atHome = () => state.mode === 'buildings' && sheet.hidden && !state.q && !state.shelf && !state.decades && GROUPS.every(g => !state.filters[g.key].size);
   function updateDock() {
     const home = atHome();
     $('shuffle').hidden = !home;
@@ -921,7 +922,7 @@
   $('shuffle').addEventListener('click', () => { newSeed(); render(true); });
   $('goHome').addEventListener('click', () => {
     if (!sheet.hidden) closeBuilding();
-    toggleFilters(false); clearAll();
+    toggleFilters(false); setMode('buildings', true); clearAll();
   });
   function surprise() {
     const list = visible();
