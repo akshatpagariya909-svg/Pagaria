@@ -201,3 +201,4 @@ tbilisi-circus  # round 7-8 recheck 15 Oct: only a road with the building hidden
 rhodes-memorial  # round 7-8 recheck 15 Oct: only the view down its steps, not the memorial
 oita-stadium-big-eye  # round 7-8 recheck 15 Oct: only one small far photo
 san-francesco-al-fopponino  # gallery scan 15 Oct: no photo at all
+athens-olympic-stadium-roof  # Design chat flags 15 Oct: photos show a satellite view and other venues (velodrome, pool, arena); Commons has only event photos of the stadium

@@ -1174,12 +1174,9 @@
  },
  "neue-nationalgalerie": {
   "pick": [
+   "File:Berlin-Neue Nationalgalerie-06-Ludwig Mies van der Rohe-2016-gje.jpg",
    [
     "File:Neue Nationalgalerie-msu-2023-0I9A-8466-.jpg",
-    "Exterior"
-   ],
-   [
-    "File:Berlin-Neue Nationalgalerie-06-Ludwig Mies van der Rohe-2016-gje.jpg",
     "Exterior"
    ],
    [
@@ -1202,6 +1199,9 @@
     "File:Neue Nationalgalerie und Baugrube Museum des 20. Jahrhunderts Berlin-1798.jpg",
     "Context"
    ]
+  ],
+  "skip": [
+   "File:Die Neue Nationalgalerie - Flickr - abbilder.jpg"
   ]
  },
  "fallingwater": {
@@ -3387,6 +3387,44 @@
   "skip": [
    "File:Tallest buildings in Paris - comparison graph.png",
    "File:Escalinata del Gran Arco de La Défense, París (26666432935).jpg"
+  ],
+  "pick": [
+   [
+    "File:North facade of the Grande Arche de la Défense - 20050906.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Grande Arche 5 July 2013.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Grande Arche @ La Défense @ Paris (34339627574).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Grande Arche @ La Défense @ Paris (34375029043).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Grande Arche @ La Défense @ Paris (35053634601).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Grande Arche - panoramio (2682).jpg",
+    "Exterior"
+   ],
+   [
+    "File:P1020440 (10249567594).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Grande Arche (36429257922).jpg",
+    "Detail"
+   ],
+   [
+    "File:Paris 1988 - Modell Grande Arche.jpg",
+    "Model"
+   ]
   ]
  },
  "fundacio-joan-miro": {
@@ -3451,7 +3489,9 @@
  },
  "turning-torso": {
   "skip": [
-   "File:Turning Torso model.JPG"
+   "File:Turning Torso model.JPG",
+   "File:Malmö (S), Sekundarschule ProCivitas und Turning Torso -- 2017 -- 1662.jpg",
+   "File:Saabfabriken1 malmö.jpg"
   ]
  },
  "city-hall-london": {
@@ -3835,7 +3875,11 @@
   "skip": [
    "File:Hirshhorn Museum DC 2007 025.jpg",
    "File:Groß St. Martin, Zwerggalerie, Zeichnung von Oscar Bluemner.jpg",
-   "File:Jeffrey Gibson at Hirshhorn 2024.jpg"
+   "File:Jeffrey Gibson at Hirshhorn 2024.jpg",
+   "File:Hirshhorn Library Art+Feminism DC2020 0943.jpg"
+  ],
+  "add": [
+   "File:Hirshhorn Museum (53830787787).jpg"
   ]
  },
  "eiffel-tower": {
@@ -4042,6 +4086,44 @@
   "skip": [
    "File:Saint Francis Xavier High School, Wilmette, Illinois, Perspective Sketch, 1923, Barry Byrne; Alfonso Iannelli, Art Institute of Chicago, Chicago, Illinois (29548729178).jpg",
    "File:Narcissa Niblack Thorne - E-10 English Dining Room of the Georgian Period.jpg"
+  ],
+  "pick": [
+   [
+    "File:Art Institute of Chicago modern wing 01.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Art Institute of Chicago modern wing 02.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Art Institute of Chicago modern wing 03.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Art Institute of Chicago modern wing 04.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Art Institute of Chicago modern wing 05.jpg",
+    "Exterior"
+   ],
+   [
+    "File:20080602 Art Institute of Chicago Modern Wing From Lurie Garden.JPG",
+    "Exterior"
+   ],
+   [
+    "File:Art Institute of Chicago Modern Wing.jpg",
+    "Exterior"
+   ],
+   [
+    "File:The Art Institute of Chicago, The Modern Wing.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Modern Wing - Art Institute of Chicago - panoramio.jpg",
+    "Exterior"
+   ]
   ]
  },
  "san-francisco-museum-of-modern-art": {
@@ -4129,7 +4211,11 @@
   "skip": [
    "File:Museum of World War II Natick Massachusetts 2015. Third Reich Memorabilia collectables 03 Hitler's 1936 sketch of Nazi Eagle (Reichsadler) at Party Celebration Square (Parteitaggelände) Nuremberg.jpg",
    "File:Adolf Hitler Nuremberg 1930s.jpg",
-   "File:Fuck Nazis - Anarchist Graffito on Doorway of Albert Speer-Designed Complex at Nazi Party Rally Grounds - Nuremberg-Nurnberg - Germany.jpg"
+   "File:Fuck Nazis - Anarchist Graffito on Doorway of Albert Speer-Designed Complex at Nazi Party Rally Grounds - Nuremberg-Nurnberg - Germany.jpg",
+   "File:D-5-64-000-2367 Zeppelinstraße, Treppenanlage Nürnberg 20241220 0001.jpg",
+   "File:D-5-64-000-2367 Zeppelinstraße, Treppenanlage Nürnberg 20241220 0002.jpg",
+   "File:Tent Reichsparteitagsgelaende 1710-2169.jpg",
+   "File:Bundesarchiv Bild 183-2008-0118-501, Modell des Reichsparteitagsgeländes.jpg"
   ]
  },
  "nantes-courthouse": {
@@ -4184,6 +4270,7 @@
    "File:Gipsmodelle Wiener Historismus Hofburg-Keller 2015 Cicero Karl Sterrer.jpg"
   ],
   "add": [
+   "File:Parliament Building in Vienna, Austria-open day - oblique left full PNr°1017.jpg",
    "File:Parliament Building in Vienna, Austria-open day - front left close PNr°1015.jpg"
   ]
  },
@@ -4769,6 +4856,13 @@
  "centre-for-earth-architecture": {
   "add": [
    "File:Kere centre earth architecture mopti.JPG"
+  ],
+  "skip": [
+   "File:Shaolin Pagoda Forest 2019 (48840492093).jpg",
+   "File:Stele for Monk Who Died in 2006 (48840708001).jpg",
+   "File:Left part of Taishi Que, 2015-09-25.JPG",
+   "File:Eagle boxing sifu gustavo milazzo inside shaolin temple 2017.jpg",
+   "File:Pagoda Closeup (48840383418).jpg"
   ]
  },
  "chengqi-lou-fujian-tulou": {
@@ -6085,10 +6179,23 @@
  },
  "scuola-fagnano-olona": {
   "category": "Category:Aldo Rossi",
-  "add": [
-   "File:Schule in Fagnano Olona.1.jpg",
-   "File:Schule in Fagnano Olona.2.jpg",
-   "File:Schule in Fagnano Olona.3.jpg"
+  "pick": [
+   [
+    "File:Schule in Fagnano Olona.2.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Schule in Fagnano Olona.4.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Schule in Fagnano Olona.1.jpg",
+    "Interior"
+   ],
+   [
+    "File:Schule in Fagnano Olona.3.jpg",
+    "Interior"
+   ]
   ]
  },
  "casa-papanice": {
@@ -6159,6 +6266,13 @@
  "curtain-wall-house": {
   "add": [
    "File:Curtain Wall House2.jpg"
+  ],
+  "skip": [
+   "File:Flint Tower, August 2014.JPG",
+   "File:Tower of London 4.jpg",
+   "File:Tower of London and The Shard.jpg",
+   "File:West End of the Inner Curtain Wall along Water Lane in the Tower of London (01).jpg",
+   "File:London, Tower of London, Beauchamp Tower, Laterne -- 2016 -- 4667.jpg"
   ]
  },
  "gifu-kitagata-apartment": {
@@ -8243,9 +8357,43 @@
  },
  "notre-dame-de-lourdes-casablanca": {
   "category": "Category:Notre-Dame-de-Lourdes (Casablanca)",
-  "add": [
-   "File:Our lady of lourdes church casablanca - 334220774.jpg",
-   "File:Vaulted concrete ceiling, Notre Dame of Lourdes Church (Casablanca).jpg"
+  "pick": [
+   [
+    "File:Our lady of lourdes church casablanca (2).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Our lady of lourdes church casablanca (3).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Our lady of lourdes church casablanca (4).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Our lady of lourdes church casablanca (5).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Vaulted concrete ceiling, Notre Dame of Lourdes Church (Casablanca).jpg",
+    "Interior"
+   ],
+   [
+    "File:Our lady of lourdes church casablanca (1).jpg",
+    "Interior"
+   ],
+   [
+    "File:Casablanca Notre-Dame-de-Lourde (2).jpg",
+    "Interior"
+   ],
+   [
+    "File:Stained glass, Notre Dame of Lourdes Church (Casablanca).jpg",
+    "Detail"
+   ],
+   [
+    "File:Our lady of lourdes church casablanca - 334220774.jpg",
+    "Exterior"
+   ]
   ]
  },
  "national-theatre-of-ghana": {
@@ -8408,9 +8556,13 @@
  "ecole-de-plein-air-suresnes": {
   "category": "Category:École de plein air de Suresnes",
   "add": [
-   "File:École de plein air de Suresnes 1.jpg",
    "File:Suresnes - Ecole de plein air 01.jpg",
+   "File:École de plein air de Suresnes 1.jpg",
    "File:Suresnes - Ecole de plein air 05.jpg",
+   "File:2011-10-15 Ecole de plein air du Mont Valerien.jpg"
+  ],
+  "skip": [
+   "File:École de plein air de Suresnes 2.jpg",
    "File:2011-10-15 Ecole de plein air du Mont Valerien.jpg"
   ]
  },
@@ -9578,7 +9730,11 @@
   ],
   "skip": [
    "File:Paramount (36369).jpg",
-   "File:Mask at the Majestic Theatre (Boston, MA).jpg"
+   "File:Mask at the Majestic Theatre (Boston, MA).jpg",
+   "File:Emerson College (54954550195).jpg",
+   "File:Cutler Majestic Theatre - Emerson College (54954490099).jpg",
+   "File:2009 Emerson Majestic Theatre Boston 3599607642.jpg",
+   "File:Little Building Boston typical floor plan.png"
   ]
  },
  "vulcania": {
@@ -11893,6 +12049,9 @@
    "File:Akademie der künste berlin.JPG",
    "File:Akademie der Künste - panoramio.jpg",
    "File:Berlin Akademie der Kuenste.jpg"
+  ],
+  "skip": [
+   "File:Berlin Hotel Adlon dk0999.jpg"
   ]
  },
  "bmw-headquarters": {
@@ -11948,6 +12107,10 @@
    "File:20130704 bonn023.JPG",
    "File:Kunstmuseum Bonn (1).jpg",
    "File:20070404 bonn kunstmuseum02.jpg"
+  ],
+  "skip": [
+   "File:Bonn Kunstmuseum by Niederkasseler - panoramio.jpg",
+   "File:Kunstmuseum Bonn, Innenhof in der Nacht, Friedrich-Ebert-Allee 2, 53113 Bonn.jpg"
   ]
  },
  "marco-polo-tower": {
@@ -13279,12 +13442,16 @@
  "palais-de-tokyo": {
   "category": "Category:Palais de Tokyo",
   "add": [
-   "File:Palais de Tokyo et sa fontaine au printemps.jpg",
    "File:Palais de Tokyo @ Paris (31028565970).jpg",
+   "File:Palais de Tokyo et sa fontaine au printemps.jpg",
    "File:Palais de Tokyo and Passerelle Debilly, Paris 6 March 2015.jpg"
   ],
   "skip": [
-   "File:Palais de Tokyo and Passerelle Debilly, Paris 6 March 2015.jpg"
+   "File:Palais de Tokyo and Passerelle Debilly, Paris 6 March 2015.jpg",
+   "File:Palais de Tokyo et sa fontaine au printemps.jpg",
+   "File:La Elle 2024, Renée Levi.jpg",
+   "File:\"Untitled\" (Chemo), Felix Gonzalez-Torres, Palais de Tokyo.jpg",
+   "File:Carte blanche à Anne Imhof au Palais de Tokyo (Paris) (51289648360).jpg"
   ]
  },
  "palais-de-chaillot": {
@@ -14516,9 +14683,14 @@
  "royal-liver-building": {
   "category": "Category:Royal Liver Building",
   "add": [
+   "File:Liverbird building 02.jpg",
    "File:2013- The Royal Liver Building, Liverpool, England, UK ( Ank Kumar ) 01.jpg",
    "File:Liver building from across river with ship in foreground.jpg",
    "File:Iconic Royal Liver Building.JPG"
+  ],
+  "skip": [
+   "File:2013- The Royal Liver Building, Liverpool, England, UK ( Ank Kumar ) 01.jpg",
+   "File:Memorial to the Heroes of the Engine Room 1.jpg"
   ]
  },
  "the-iron-bridge": {
@@ -14894,7 +15066,8 @@
    "File:2009-07-21 Tower Bridge, London.jpg"
   ],
   "skip": [
-   "File:Model Workers - geograph.org.uk - 2940482.jpg"
+   "File:Model Workers - geograph.org.uk - 2940482.jpg",
+   "File:City of London Buildings and Tower Bridge.jpg"
   ]
  },
  "wolfson-college-oxford": {
@@ -15082,11 +15255,46 @@
   ]
  },
  "cleo-rogers-memorial-library": {
-  "add": [
-   "File:Cleo Rogers Memorial Library and Moore Sculpture.jpeg"
-  ],
   "skip": [
    "File:ROGERS MEMORIAL LIBRARY, WITH OLD IRWIN FAMILY HOME IN BACKGROUND - NARA - 546488.jpg"
+  ],
+  "pick": [
+   [
+    "File:Cleo Rogers Memorial Library - March 2013 - Jeff Hart.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Cleo Rogers Memorial Library.jpeg",
+    "Exterior"
+   ],
+   [
+    "File:Cleo Rogers Memorial Library 1969 by IM Pei and Arch by Henry Moore Columbus IN.jpg",
+    "Exterior"
+   ],
+   [
+    "File:CLEO ROGERS MEMORIAL LIBRARY - NARA - 546470.jpg",
+    "Exterior"
+   ],
+   [
+    "File:CLEO ROGERS MEMORIAL LIBRARY - NARA - 546478.jpg",
+    "Exterior"
+   ],
+   [
+    "File:CLEO ROGERS MEMORIAL LIBRARY - NARA - 546504.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Cleo Rogers Memorial Library Addition.jpeg",
+    "Exterior"
+   ],
+   [
+    "File:The Library at Columbus, Indiana.jpg",
+    "Interior"
+   ],
+   [
+    "File:ROGERS MEMORIAL LIBRARY - NARA - 546547.jpg",
+    "Interior"
+   ]
   ]
  },
  "converse-memorial-library": {
@@ -18022,11 +18230,13 @@
  "istanbul-grand-post-office": {
   "category": "Category:Grand Post Office, Istanbul",
   "add": [
+   "File:Istanbul Grand Post Office.jpg",
    "File:GrandPostOfficeIstanbul01.JPG",
    "File:Grand Post Office, Istanbul in 2024 6472.jpg"
   ],
   "skip": [
-   "File:Main Post Office, Istanbul.jpg"
+   "File:Main Post Office, Istanbul.jpg",
+   "File:GrandPostOfficeIstanbul01.JPG"
   ]
  },
  "istanbul-lutfi-kirdar-convention-center": {
@@ -21485,7 +21695,11 @@
  },
  "torres-del-parque": {
   "skip": [
-   "File:Museo Nal-E. Garay-Torres del Parque.JPG"
+   "File:Museo Nal-E. Garay-Torres del Parque.JPG",
+   "File:Plaza de toros de Bogotá - Cerca.jpg"
+  ],
+  "add": [
+   "File:CONJUNTO TORRES DEL PARQUE.JPG"
   ]
  },
  "virgilio-barco-library": {
@@ -21699,7 +21913,10 @@
  "estonian-national-museum": {
   "skip": [
    "File:Estonian national museum- artifact .jpg",
-   "File:Estonian National Museum outdoor runway.jpg"
+   "File:Estonian National Museum outdoor runway.jpg",
+   "File:Desk in the Estonian National Museum.jpg",
+   "File:Estonian National Museum, Tartu (54198003928).jpg",
+   "File:Panorama from an exhibition room on everyday items in the Estonian National Museum.jpg"
   ],
   "add": [
    "File:Estonian National Museum, Tartu (54198171685).jpg"
@@ -21814,7 +22031,12 @@
  },
  "tehran-museum-of-contemporary-art": {
   "skip": [
-   "File:Students Sketching at Tehran Museum of Contemporary Art (24842661727).jpg"
+   "File:Students Sketching at Tehran Museum of Contemporary Art (24842661727).jpg",
+   "File:Musée d'art contemporain de Téhéran (1).jpg",
+   "File:Visitors at Tehran Museum of Contemporary Art (25839577818).jpg"
+  ],
+  "add": [
+   "File:Musée d'art contemporain de Téhéran (2).jpg"
   ]
  },
  "montjuic-communications-tower": {
@@ -22699,7 +22921,9 @@
  "zizkov-television-tower": {
   "skip": [
    "File:TV TOWER PRAHA - panoramio.jpg",
-   "File:TV TOWER PRAHA ŽIŽKOV - panoramio.jpg"
+   "File:TV TOWER PRAHA ŽIŽKOV - panoramio.jpg",
+   "File:Dome and Tower of St. Nicholas Church - Malá Strana, Prague, Czech Republic - May 17, 2019.jpg",
+   "File:Žižkov, plocha u vysílače.jpg"
   ]
  },
  "museum-of-fine-arts-tournai": {
@@ -23068,6 +23292,36 @@
  "330-north-wabash": {
   "skip": [
    "File:IBM Building Lobby (6409411579).jpg"
+  ],
+  "pick": [
+   [
+    "File:330 North Wabash Chicago 2021.jpg",
+    "Exterior"
+   ],
+   [
+    "File:IBM Building seen from the Chicago River.jpg",
+    "Exterior"
+   ],
+   [
+    "File:IBM Building (7372612012).jpg",
+    "Exterior"
+   ],
+   [
+    "File:2004-09-02 1580x2800 chicago IBM building.jpg",
+    "Exterior"
+   ],
+   [
+    "File:IBM Plaza 2015.JPG",
+    "Exterior"
+   ],
+   [
+    "File:Chicago 2007-26a.jpg",
+    "Context"
+   ],
+   [
+    "File:Perkins + Will 14 (6409437621).jpg",
+    "Interior"
+   ]
   ]
  },
  "martin-luther-king-jr-memorial-library": {
@@ -23302,6 +23556,40 @@
  "szechenyi-thermal-bath": {
   "skip": [
    "File:Budapest, Széchenyi fürdő, 11.jpg"
+  ],
+  "pick": [
+   [
+    "File:Széchenyi Gyógyfürdő épülete (1220. számú műemlék).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Széchenyi Gyógyfürdő from across Kós Károly sétány, 2013 Budapest (360) (13227954654).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Exterior of the Széchenyi Bath (NW part), Budapešť 0115.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Thermal Bath named after István Széchenyi, planned by György Czigler, 1913. Mid part. - Budapest.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Széchenyi thermal bath, north entry, 2013 Budapest (368) (13227889514).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Szechenyi Spa Baths (42056218785).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Budapest, Széchenyi fürdő, 10.jpg",
+    "Interior"
+   ],
+   [
+    "File:Budapest Széchenyi Baths R04.jpg",
+    "Interior"
+   ]
   ]
  },
  "tea-tenerife-espacio-de-las-artes": {
@@ -23311,7 +23599,8 @@
  },
  "bellesguard": {
   "skip": [
-   "File:Torre Bellesguard (23).jpg"
+   "File:Torre Bellesguard (23).jpg",
+   "File:Barcelona - Carrer de Benedetti - View East on the Auditorium of La Universitat Abat Oliba CEU 1925 by Bernardí Martorell - Torre de Bellesguard & Casa Figueras 1900-09 by Antoni Gaudí.jpg"
   ]
  },
  "de-young-museum": {
@@ -23370,7 +23659,8 @@
  },
  "mikhailovsky-palace-russian-museum": {
   "skip": [
-   "File:Russian Museum Collection Hammond Slides 03.jpg"
+   "File:Russian Museum Collection Hammond Slides 03.jpg",
+   "File:Spb 06-2012 Palace Embankment various 01.jpg"
   ]
  },
  "state-historical-museum": {
@@ -23877,7 +24167,11 @@
  },
  "academy-of-arts-hanseatenweg": {
   "skip": [
-   "File:Henry Moore, Liegende (1956), Berlin-Hansaviertel, Hanseatenweg.jpg"
+   "File:Henry Moore, Liegende (1956), Berlin-Hansaviertel, Hanseatenweg.jpg",
+   "File:AdK Berlin Hanseatenweg, 1.jpg"
+  ],
+  "add": [
+   "File:Akademie der Künste Hanseatenweg (DSC00596).jpg"
   ]
  },
  "tagblatt-turm": {
@@ -24531,6 +24825,128 @@
  "wainwright-building": {
   "add": [
    "File:Wainwright Building - 2012.JPG"
+  ]
+ },
+ "focsa-building": {
+  "add": [
+   "File:Edificio Focsa (38633336004).jpg"
+  ],
+  "skip": [
+   "File:Edificio Focsa (34658877115).jpg"
+  ]
+ },
+ "30-st-mary-axe": {
+  "skip": [
+   "File:30 St Mary Axe - The Gherkin from Leadenhall St - Nov 2006.jpg"
+  ]
+ },
+ "orquideorama-medellin-botanical-garden": {
+  "skip": [
+   "File:Jardin Botanico de Medellin-Edificio Cientifico-Interior.JPG",
+   "File:Jardin Botanico de Medellin-Edificio Cientifico-Interior2.JPG",
+   "File:Planta abrazadora.jpg"
+  ]
+ },
+ "ids-center": {
+  "skip": [
+   "File:IDS Center and Wells Fargo Center - Downtown Minneapolis Skyscrapers (53076885497).jpg",
+   "File:Kris Lindahl Real Estate - Guaranteed Offer - Real Estate Plane Banner over Downtown Minneapolis (48956168251).jpg",
+   "File:Bank Of America (50905689156).jpg",
+   "File:Mpls Foundation-20180531.jpg"
+  ]
+ },
+ "mcgraw-hill-building": {
+  "skip": [
+   "File:W 42 St Oct 2024 01.jpg",
+   "File:W 42 St Oct 2024 02.jpg"
+  ]
+ },
+ "palmolive-building": {
+  "skip": [
+   "File:John Hancock Center and surrounding buildings (10138470785).jpg",
+   "File:John Hancock Center, Falling Death Of Lorraine Kowalski (14181910767).jpg",
+   "File:Chicago Avenue Water Tower (Palmolive building in rear) (74252).jpg"
+  ]
+ },
+ "rainier-tower": {
+  "skip": [
+   "File:Seattle sunset (21252774103).jpg"
+  ]
+ },
+ "park-guell": {
+  "pick": [
+   [
+    "File:Casa del Guarda, Parc Güell, Barcelona.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Barcelona - Parc Güell - View ESE on Main square (Parc Güell), Sala hipòstila (Parc Güell) & Escola (Parc Güell).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Barcelona - Parc Güell - Main stairs - View SSE towards smaller entrance building.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Barcelona - Parc Güell - View NE towards Main stairs (Parc Güell), Tower of the Smaller entrance building (Parc Güell) & Larger entrance building (Parc Güell).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Barcelona - Parc Güell - View SSE towards Viaducte Güell (Parc Güell).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Barcelona Parc Güell 16.jpg",
+    "Detail"
+   ],
+   [
+    "File:Barcelona Parc Güell 17.jpg",
+    "Detail"
+   ],
+   [
+    "File:Barcelona - Parc Güell - View SE on Dog Head Gargoyles.jpg",
+    "Detail"
+   ]
+  ]
+ },
+ "fondazione-prada": {
+  "pick": [
+   [
+    "File:Milano - Fondazione Prada - Esterno.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Milano - Fondazione Prada - Torre.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Torre and Dposito of Fondazione Prada in Milan.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Milano - Fondazione Prada - Facciata.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Fondazione PRADA, Via Ripamonti - Largo Isarco area, Golden Tower Rem Koolhass design.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Fondazione prada, milano, cortile 01.JPG",
+    "Exterior"
+   ],
+   [
+    "File:Milano - Fondazione Prada.jpg",
+    "Detail"
+   ],
+   [
+    "File:Antiseptic, Fondazione Prada, Milan.jpg",
+    "Interior"
+   ],
+   [
+    "File:Looking inside to elevator (Unsplash).jpg",
+    "Interior"
+   ]
   ]
  }
 }
