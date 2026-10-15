@@ -18021,54 +18021,6 @@ window.BUILDINGS = [
     "file": "File:08 Fondation Maeght.JPG"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Fond_Maeght_St_Paul_de_Vence.jpg/1280px-Fond_Maeght_St_Paul_de_Vence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/fondation-maeght/thumbs/1.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Stylish art patrons at Fondation Maeght",
-    "credit": "Jon Rosenoer",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Fond_Maeght_St_Paul_de_Vence.jpg",
-    "file": "File:Fond Maeght St Paul de Vence.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Monxa_Sert%2C_Penrose%2C_Calder%2C_Maria_Llu%C3%AFsa_Borr%C3%A0s_i_Prats.jpg/1280px-Monxa_Sert%2C_Penrose%2C_Calder%2C_Maria_Llu%C3%AFsa_Borr%C3%A0s_i_Prats.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/fondation-maeght/thumbs/2.webp",
-    "w": 1233,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Josepclopesbosc",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Monxa_Sert,_Penrose,_Calder,_Maria_Llu%C3%AFsa_Borr%C3%A0s_i_Prats.jpg",
-    "file": "File:Monxa Sert, Penrose, Calder, Maria Lluïsa Borràs i Prats.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Andr%C3%A9_derain%2C_femme_aux_l%C3%A8vres_%C3%A9paisses%2C_s.d.%2C_%28coll._maeght%2C_san_francisco%29.jpg/1280px-Andr%C3%A9_derain%2C_femme_aux_l%C3%A8vres_%C3%A9paisses%2C_s.d.%2C_%28coll._maeght%2C_san_francisco%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/fondation-maeght/thumbs/3.webp",
-    "w": 838,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Works by André Derain, Media uploaded for Public Domain Day 2025",
-    "credit": "Francesco Bini \n \nSculpture: André Derain",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Andr%C3%A9_derain,_femme_aux_l%C3%A8vres_%C3%A9paisses,_s.d.,_(coll._maeght,_san_francisco).jpg",
-    "file": "File:André derain, femme aux lèvres épaisses, s.d., (coll. maeght, san francisco).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Fernand_l%C3%A9ger%2C_autoritratto%2C_1906_%28coll._maeght%2C_parigi%29.jpg/1280px-Fernand_l%C3%A9ger%2C_autoritratto%2C_1906_%28coll._maeght%2C_parigi%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/fondation-maeght/thumbs/4.webp",
-    "w": 1240,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Fernand Léger",
-    "credit": "Fernand Léger",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Fernand_l%C3%A9ger,_autoritratto,_1906_(coll._maeght,_parigi).jpg",
-    "file": "File:Fernand léger, autoritratto, 1906 (coll. maeght, parigi).jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/06_Fondation_Maeght.JPG/1280px-06_Fondation_Maeght.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/fondation-maeght/thumbs/5.webp",
     "w": 1050,
@@ -22141,7 +22093,7 @@ window.BUILDINGS = [
     "h": 892,
     "kind": "Exterior",
     "caption": "Exterior · 55th Turin Auto Show",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:1974_Turin_Auto_Show.jpg",
     "file": "File:1974 Turin Auto Show.jpg"
@@ -25992,13 +25944,25 @@ window.BUILDINGS = [
   "study": "Office slab on tall pilotis, with adjustable brise-soleil on the sun facade and tile murals at ground level.",
   "qid": "Q2598551",
   "commons": "Category:Edifício Gustavo Capanema",
-  "lead": null,
+  "lead": "Gustavo Capanema Palace, Rio de Janeiro, Brazil (main entrance, 2004).jpg",
   "coords": [
    -22.9092,
    -43.17382778
   ],
   "hotlink": true,
   "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Gustavo_Capanema_Palace%2C_Rio_de_Janeiro%2C_Brazil_%28main_entrance%2C_2004%29.jpg/1280px-Gustavo_Capanema_Palace%2C_Rio_de_Janeiro%2C_Brazil_%28main_entrance%2C_2004%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gustavo-capanema-palace/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Detail",
+    "caption": "Detail · Pilotis do Edifício Gustavo Capanema, Rio de Janeiro, Oscar Niemeyer, 1936",
+    "credit": "Marcos Leite Almeida",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Gustavo_Capanema_Palace,_Rio_de_Janeiro,_Brazil_(main_entrance,_2004).jpg",
+    "file": "File:Gustavo Capanema Palace, Rio de Janeiro, Brazil (main entrance, 2004).jpg"
+   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Portico_do_Palacio_Gustavo_Capanema_com_painel_de_azulejos_do_C%C3%A2ndido_Portinary.jpg/1280px-Portico_do_Palacio_Gustavo_Capanema_com_painel_de_azulejos_do_C%C3%A2ndido_Portinary.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/gustavo-capanema-palace/thumbs/0.webp",
@@ -26058,18 +26022,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Edif%C3%ADcio_Gustavo_Capanema_(10478651286).jpg",
     "file": "File:Edifício Gustavo Capanema (10478651286).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Gustavo_Capanema_Palace%2C_Rio_de_Janeiro%2C_Brazil_%28main_entrance%2C_2004%29.jpg/1280px-Gustavo_Capanema_Palace%2C_Rio_de_Janeiro%2C_Brazil_%28main_entrance%2C_2004%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/gustavo-capanema-palace/thumbs/5.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Detail",
-    "caption": "Detail · Pilotis do Edifício Gustavo Capanema, Rio de Janeiro, Oscar Niemeyer, 1936",
-    "credit": "Marcos Leite Almeida",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Gustavo_Capanema_Palace,_Rio_de_Janeiro,_Brazil_(main_entrance,_2004).jpg",
-    "file": "File:Gustavo Capanema Palace, Rio de Janeiro, Brazil (main entrance, 2004).jpg"
    }
   ],
   "has": [],
@@ -27847,7 +27799,7 @@ window.BUILDINGS = [
     "h": 779,
     "kind": "Model",
     "caption": "Model · Eero Saarinen with a model of the Gateway Arch",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Eero_Saarinen_with_a_model_of_the_Gateway_Arch.jpg",
     "file": "File:Eero Saarinen with a model of the Gateway Arch.jpg"
@@ -31976,7 +31928,7 @@ window.BUILDINGS = [
     "h": 688,
     "kind": "Drawing",
     "caption": "Drawing · Plan of the Borobudur",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:COLLECTIE_TROPENMUSEUM_Plattegrond_van_de_Borobudur_TMnr_10015639.jpg",
     "file": "File:COLLECTIE TROPENMUSEUM Plattegrond van de Borobudur TMnr 10015639.jpg"
@@ -38075,7 +38027,7 @@ window.BUILDINGS = [
     "h": 807,
     "kind": "Exterior",
     "caption": "Exterior · Bildet er hentet fra Nasjonalbibliotekets bildesamling Domkirkeodden,Hedmarksmuseet, Hamar, Hedmark",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:1002_Oplandenes_Folkemuseum,_Hamar._Skaastadloftet_-_no-nb_digifoto_20150730_00155_bldsa_PK25895.jpg",
     "file": "File:1002 Oplandenes Folkemuseum, Hamar. Skaastadloftet - no-nb digifoto 20150730 00155 bldsa PK25895.jpg"
@@ -38123,7 +38075,7 @@ window.BUILDINGS = [
     "h": 871,
     "kind": "Interior",
     "caption": "Interior · Bildet er hentet fra Nasjonalbibliotekets bildesamling Domkirkeodden,Hedmarksmuseet, Hamar, Hedmark",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:1008_Oplandenes_Folkemuseum,_Hamar._Bolstadsalen_-_no-nb_digifoto_20150730_00162_bldsa_PK25922.jpg",
     "file": "File:1008 Oplandenes Folkemuseum, Hamar. Bolstadsalen - no-nb digifoto 20150730 00162 bldsa PK25922.jpg"
@@ -38135,7 +38087,7 @@ window.BUILDINGS = [
     "h": 858,
     "kind": "Interior",
     "caption": "Interior · Bildet er hentet fra Nasjonalbibliotekets bildesamling Domkirkeodden,Hedmarksmuseet, Hamar, Hedmark",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:1015_Empire-rummet_i_Bolstadbygningen._Oplandenes_Folkemuseum,_Hamar_-_no-nb_digifoto_20150730_00147_bldsa_PK25887.jpg",
     "file": "File:1015 Empire-rummet i Bolstadbygningen. Oplandenes Folkemuseum, Hamar - no-nb digifoto 20150730 00147 bldsa PK25887.jpg"
@@ -40136,7 +40088,7 @@ window.BUILDINGS = [
     "h": 915,
     "kind": "Exterior",
     "caption": "Exterior",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Atat%C3%BCrk_vatanda%C5%9Flar%C4%B1_dinlerken.jpg",
     "file": "File:Atatürk vatandaşları dinlerken.jpg"
@@ -40148,7 +40100,7 @@ window.BUILDINGS = [
     "h": 800,
     "kind": "Detail",
     "caption": "Detail",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Ataturk_Dolmabahce_TDK_meeting_1933_restored.jpg",
     "file": "File:Ataturk Dolmabahce TDK meeting 1933 restored.jpg"
@@ -58999,7 +58951,7 @@ window.BUILDINGS = [
     "h": 1268,
     "kind": "Exterior",
     "caption": "Exterior",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "CC BY 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Ostankino_Tower_(1964-12-11).jpg",
     "file": "File:Ostankino Tower (1964-12-11).jpg"
@@ -63911,7 +63863,7 @@ window.BUILDINGS = [
     "h": 755,
     "kind": "Exterior",
     "caption": "Exterior · Eröffnung der Stadtbahn in Wien, Ansichtskarte 1898",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Er%C3%B6ffnung-Stadtbahn-Wien-1898.jpg",
     "file": "File:Eröffnung-Stadtbahn-Wien-1898.jpg"
@@ -72261,7 +72213,7 @@ window.BUILDINGS = [
     "h": 1400,
     "kind": "Interior",
     "caption": "Interior",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Maci_Bo%C5%BEaja_Ka%C5%82a%C5%BEanskaja._%D0%9C%D0%B0%D1%86%D1%96_%D0%91%D0%BE%D0%B6%D0%B0%D1%8F_%D0%9A%D0%B0%D0%BB%D0%B0%D0%B6%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_(1890).jpg",
     "file": "File:Maci Božaja Kałažanskaja. Маці Божая Калажанская (1890).jpg"
@@ -80791,7 +80743,7 @@ window.BUILDINGS = [
     "h": 1042,
     "kind": "Exterior",
     "caption": "Exterior · Olímpico de la UCV, Caracas, 1950s",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Se-inaugura-el-estadio-olimpico-de-la-ciudad-universitaria-de-caracas-6.jpg",
     "file": "File:Se-inaugura-el-estadio-olimpico-de-la-ciudad-universitaria-de-caracas-6.jpg"
@@ -84790,7 +84742,7 @@ window.BUILDINGS = [
     "h": 960,
     "kind": "Exterior",
     "caption": "Exterior",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "CC BY-SA 2.5",
     "source": "https://commons.wikimedia.org/wiki/File:Florya_Beach.jpg",
     "file": "File:Florya Beach.jpg"
@@ -95579,7 +95531,7 @@ window.BUILDINGS = [
     "h": 1400,
     "kind": "Interior",
     "caption": "Interior",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Ascension_de_la_tour_Eiffel_par_les_escaliers.jpg",
     "file": "File:Ascension de la tour Eiffel par les escaliers.jpg"
@@ -97741,7 +97693,7 @@ window.BUILDINGS = [
     "h": 976,
     "kind": "Exterior",
     "caption": "Exterior · Soreq Nuclear Research Center in Israel designed by Philip Johnson",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Soreq_Nuclear_Research_Exterior.jpg",
     "file": "File:Soreq Nuclear Research Exterior.jpg"
@@ -97753,7 +97705,7 @@ window.BUILDINGS = [
     "h": 979,
     "kind": "Interior",
     "caption": "Interior · Soreq Nuclear Research Center in Israel designed by Philip Johnson",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Soreq_Nuclear_Research_Interior.jpg",
     "file": "File:Soreq Nuclear Research Interior.jpg"
@@ -99854,7 +99806,7 @@ window.BUILDINGS = [
     "h": 826,
     "kind": "Interior",
     "caption": "Interior · NBC -- world's largest broadcasting studio in Rockefller Center, circa 1930s",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:RPPC_National_Broadcasting_Co,_Radio_City,_New_York_Interior_of_the_world%27s_largest_broadcasting_studio,_one_of_NBC%27s_16_studios_Located_in_RCA_Bldg_Rockefeller_Center_NYC_A.jpg",
     "file": "File:RPPC National Broadcasting Co, Radio City, New York Interior of the world's largest broadcasting studio, one of NBC's 16 studios Located in RCA Bldg Rockefeller Center NYC A.jpg"
@@ -103584,7 +103536,7 @@ window.BUILDINGS = [
     "h": 1400,
     "kind": "Drawing",
     "caption": "Drawing",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Hofoper_Planskizze_Rauchfang_1894.jpg",
     "file": "File:Hofoper Planskizze Rauchfang 1894.jpg"
@@ -108271,7 +108223,7 @@ window.BUILDINGS = [
     "h": 1039,
     "kind": "Plan",
     "caption": "Plan · Grundriss des Bundeshauses, mittlerer Teil, zweites Stockwerk",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Bundeshaus_1902_oben.png",
     "file": "File:Bundeshaus 1902 oben.png"
@@ -108504,7 +108456,7 @@ window.BUILDINGS = [
     "h": 723,
     "kind": "Plan",
     "caption": "Plan · Grundriss des Haus der Kunst in München",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Haus_der_kunst_floor_plan.png",
     "file": "File:Haus der kunst floor plan.png"
@@ -109902,7 +109854,7 @@ window.BUILDINGS = [
     "h": 911,
     "kind": "Interior",
     "caption": "Interior · Aerial view of the tip of Manhattan, New York, United States ca",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Manhattan_1931.jpg",
     "file": "File:Manhattan 1931.jpg"
@@ -113029,7 +112981,7 @@ window.BUILDINGS = [
     "h": 1014,
     "kind": "Interior",
     "caption": "Interior · Title: Sculpture Hall in the Palace of Fine Arts at the 1904 World's Fair",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Sculpture_Hall_in_the_Palace_of_Fine_Arts_at_the_1904_World%27s_Fair.jpg",
     "file": "File:Sculpture Hall in the Palace of Fine Arts at the 1904 World's Fair.jpg"
@@ -114097,7 +114049,7 @@ window.BUILDINGS = [
     "h": 1239,
     "kind": "Exterior",
     "caption": "Exterior · Balkrishna Doshi and Le Corbusier at Le Corbusier's Shodhan House, Ahmedabad, India",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Le_Corbusier_Balkrishna_Doshi_Shodhan_House.jpg",
     "file": "File:Le Corbusier Balkrishna Doshi Shodhan House.jpg"
@@ -117734,40 +117686,16 @@ window.BUILDINGS = [
     "file": "File:Maison louis carré sud est.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Bazoches-sur-Guyonne_-_Maison_Louis_Carr%C3%A9_%2832224947747%29.jpg/1280px-Bazoches-sur-Guyonne_-_Maison_Louis_Carr%C3%A9_%2832224947747%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/maison-louis-carre/thumbs/1.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Fred Romero  from Paris, France",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Bazoches-sur-Guyonne_-_Maison_Louis_Carr%C3%A9_(32224947747).jpg",
-    "file": "File:Bazoches-sur-Guyonne - Maison Louis Carré (32224947747).jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Bazoches-sur-Guyonne_-_Maison_Louis_Carr%C3%A9_%2832224952317%29.jpg/1280px-Bazoches-sur-Guyonne_-_Maison_Louis_Carr%C3%A9_%2832224952317%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/maison-louis-carre/thumbs/2.webp",
     "w": 1280,
     "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior",
+    "kind": "Interior",
+    "caption": "Interior",
     "credit": "Fred Romero  from Paris, France",
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Bazoches-sur-Guyonne_-_Maison_Louis_Carr%C3%A9_(32224952317).jpg",
     "file": "File:Bazoches-sur-Guyonne - Maison Louis Carré (32224952317).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Alvar_ja_Elissa_Aalto_Maison_Carr%C3%A9n_olohuoneessa_%281959%29.jpg/1280px-Alvar_ja_Elissa_Aalto_Maison_Carr%C3%A9n_olohuoneessa_%281959%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/maison-louis-carre/thumbs/3.webp",
-    "w": 1280,
-    "h": 972,
-    "kind": "Exterior",
-    "caption": "Exterior · Alvar ja Elissa Aalto Maison Carrén olohuoneessa (1959)",
-    "credit": "Christian Leclerc",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Alvar_ja_Elissa_Aalto_Maison_Carr%C3%A9n_olohuoneessa_(1959).jpg",
-    "file": "File:Alvar ja Elissa Aalto Maison Carrén olohuoneessa (1959).jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/LouisCarre10.JPG/1280px-LouisCarre10.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -120128,7 +120056,7 @@ window.BUILDINGS = [
     "h": 952,
     "kind": "Context",
     "caption": "Context",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Former_House_of_the_Black_Madonna.png",
     "file": "File:Former House of the Black Madonna.png"
@@ -121062,7 +120990,7 @@ window.BUILDINGS = [
     "h": 1028,
     "kind": "Interior",
     "caption": "Interior · Programme for the world premiere of the Symphony No",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Anton_Bruckner_Symphonie_Nr_9_Programmheft_UA_11-02-1903_S.18-19.jpg",
     "file": "File:Anton Bruckner Symphonie Nr 9 Programmheft UA 11-02-1903 S.18-19.jpg"
@@ -122398,7 +122326,7 @@ window.BUILDINGS = [
     "h": 1400,
     "kind": "Interior",
     "caption": "Interior",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Adolf_Hitler_Nuremberg_1930s.jpg",
     "file": "File:Adolf Hitler Nuremberg 1930s.jpg"
@@ -122422,7 +122350,7 @@ window.BUILDINGS = [
     "h": 536,
     "kind": "Model",
     "caption": "Model",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "CC BY-SA 3.0 de",
     "source": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-2008-0118-501,_Modell_des_Reichsparteitagsgel%C3%A4ndes.jpg",
     "file": "File:Bundesarchiv Bild 183-2008-0118-501, Modell des Reichsparteitagsgeländes.jpg"
@@ -130333,7 +130261,7 @@ window.BUILDINGS = [
     "h": 839,
     "kind": "Interior",
     "caption": "Interior",
-    "credit": "Unknown author Unknown author  or not provided",
+    "credit": "Unknown author  or not provided",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Photograph_of_President_Gerald_Ford,_Chief_Justice_Warren_Burger,_and_John_Paul_Stevens_at_the_U.S._Supreme_Court_Building_for_the_Swearing-in_of_Stevens_as_an_Associate_Justice_-_NARA_-_6926435.jpg",
     "file": "File:Photograph of President Gerald Ford, Chief Justice Warren Burger, and John Paul Stevens at the U.S. Supreme Court Building for the Swearing-in of Stevens as an Associate Justice - NARA - 6926435.jpg"
@@ -131293,7 +131221,7 @@ window.BUILDINGS = [
     "h": 911,
     "kind": "Interior",
     "caption": "Interior · Aerial view of the tip of Manhattan, New York, United States ca",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Manhattan_1931.jpg",
     "file": "File:Manhattan 1931.jpg"
@@ -140896,7 +140824,7 @@ window.BUILDINGS = [
     "h": 1400,
     "kind": "Exterior",
     "caption": "Exterior · Café De Unie , fotograaf onbekend",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Cafe_De_Unie.jpg",
     "file": "File:Cafe De Unie.jpg"
@@ -142549,7 +142477,7 @@ window.BUILDINGS = [
     "h": 809,
     "kind": "Section",
     "caption": "Section · München, Schnittansicht des Königlichen Residenztheaters (Cuvilliés-Theater)",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Cuvillies_schnitt.jpg",
     "file": "File:Cuvillies schnitt.jpg"
@@ -145418,42 +145346,6 @@ window.BUILDINGS = [
     "license": "CC BY 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Entrada_al_auditorio_del_Centro_Cultural_de_Cali,_despu%C3%A9s_del_terremoto_2026.jpg",
     "file": "File:Entrada al auditorio del Centro Cultural de Cali, después del terremoto 2026.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/La_Formiko_01.jpg/1280px-La_Formiko_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/centro-cultural-de-cali/thumbs/3.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · La Hormiga, obra de Julián Cerón Bolaños expuesta en el Centro Cultural de Cali",
-    "credit": "Sahaquiel9102",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:La_Formiko_01.jpg",
-    "file": "File:La Formiko 01.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Rue_de_l%27art%2C_Cali_21.jpg/1280px-Rue_de_l%27art%2C_Cali_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/centro-cultural-de-cali/thumbs/4.webp",
-    "w": 1280,
-    "h": 720,
-    "kind": "Interior",
-    "caption": "Interior · Calle del Arte, Cali 2017",
-    "credit": "Remux",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Rue_de_l%27art,_Cali_21.jpg",
-    "file": "File:Rue de l'art, Cali 21.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Rue_de_l%27art%2C_Cali_22.jpg/1280px-Rue_de_l%27art%2C_Cali_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/centro-cultural-de-cali/thumbs/5.webp",
-    "w": 1280,
-    "h": 720,
-    "kind": "Interior",
-    "caption": "Interior · Calle del Arte, Cali 2017",
-    "credit": "Remux",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Rue_de_l%27art,_Cali_22.jpg",
-    "file": "File:Rue de l'art, Cali 22.jpg"
    }
   ],
   "has": [],
@@ -151087,7 +150979,7 @@ window.BUILDINGS = [
     "h": 938,
     "kind": "Exterior",
     "caption": "Exterior · Cinema Impero in Asmara",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Cinema_Impero_in_Asmara.jpg",
     "file": "File:Cinema Impero in Asmara.jpg"
@@ -157206,7 +157098,7 @@ window.BUILDINGS = [
     "h": 1057,
     "kind": "Exterior",
     "caption": "Exterior · Tombstone of Hasa, daughter of Musa, son of Salam Object No",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:%D8%B4%D8%A7%D9%87%D8%AF_%D9%82%D8%A8%D8%B1_%D9%84%D8%AD%D8%B3%D8%A9_%D8%A8%D9%86%D8%AA_%D9%85%D9%88%D8%B3%D9%89_%D8%A8%D9%86_%D8%B3%D9%84%D8%A7%D9%85.png",
     "file": "File:شاهد قبر لحسة بنت موسى بن سلام.png"
@@ -160054,7 +159946,7 @@ window.BUILDINGS = [
     "h": 1400,
     "kind": "Exterior",
     "caption": "Exterior",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Wallpaper_with_space_stations_and_rockets_-_Google_Art_Project.jpg",
     "file": "File:Wallpaper with space stations and rockets - Google Art Project.jpg"
@@ -160090,7 +159982,7 @@ window.BUILDINGS = [
     "h": 1400,
     "kind": "Detail",
     "caption": "Detail · Illustration of The Brick Moon , a short story written by Edward Everett Hale ",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:The_Brick_Moon_from_NASA_archive.jpg",
     "file": "File:The Brick Moon from NASA archive.jpg"
@@ -164361,7 +164253,7 @@ window.BUILDINGS = [
     "h": 834,
     "kind": "Model",
     "caption": "Model · A model of a Sevan Writers' House, 1932, side view",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:A_model_of_a_Sevan_Writers%27_House,_1932,_side_view.png",
     "file": "File:A model of a Sevan Writers' House, 1932, side view.png"
@@ -169997,7 +169889,7 @@ window.BUILDINGS = [
     "h": 1321,
     "kind": "Interior",
     "caption": "Interior",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:1970%E2%80%9371_AC_Fiorentina_-_Franco_Superchi.jpg",
     "file": "File:1970–71 AC Fiorentina - Franco Superchi.jpg"
@@ -171877,7 +171769,7 @@ window.BUILDINGS = [
     "h": 691,
     "kind": "Exterior",
     "caption": "Exterior",
-    "credit": "Unknown author Unknown author , screenshot  Author:",
+    "credit": "Unknown author , screenshot  Author:",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Dramma_della_gelosia_(1970)_-_Hercules_Cortes,_Monica_Vitti.jpg",
     "file": "File:Dramma della gelosia (1970) - Hercules Cortes, Monica Vitti.jpg"
@@ -179993,7 +179885,7 @@ window.BUILDINGS = [
     "h": 738,
     "kind": "Interior",
     "caption": "Interior · German Technical University in Prague - Classroom of physics",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:German_Technical_University_in_Prague_-_Classroom_of_physics.png",
     "file": "File:German Technical University in Prague - Classroom of physics.png"
@@ -198302,7 +198194,7 @@ window.BUILDINGS = [
     "h": 820,
     "kind": "Exterior",
     "caption": "Exterior · Drancy, cité de La Muette, premiers gratte-ciels de la Région Parisienne",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Drancy.Premiers_gratte-ciels_de_la_r%C3%A9gion_parisienne.jpg",
     "file": "File:Drancy.Premiers gratte-ciels de la région parisienne.jpg"
@@ -202867,7 +202759,7 @@ window.BUILDINGS = [
     "h": 784,
     "kind": "Model",
     "caption": "Model",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Hotel_Tryp_Habana_Libre_Fulgencio_Batista_frente_a_la_maqueta_del_hotel_%E2%80%9CHabana_Hilton%E2%80%9D.jpg",
     "file": "File:Hotel Tryp Habana Libre Fulgencio Batista frente a la maqueta del hotel “Habana Hilton”.jpg"
@@ -218023,7 +217915,7 @@ window.BUILDINGS = [
     "h": 999,
     "kind": "Context",
     "caption": "Context · Kuvassa keskeisenä näkyy entisen Teknillisen korkeakoulun päärakennus osoitteessa Otakaari 1",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "CC BY 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Teknillisen_korkeakoulun_p%C3%A4%C3%A4rakennus,_ilmakuva_vuodelta_1998.jpg",
     "file": "File:Teknillisen korkeakoulun päärakennus, ilmakuva vuodelta 1998.jpg"
@@ -218123,7 +218015,7 @@ window.BUILDINGS = [
     "h": 1400,
     "kind": "Interior",
     "caption": "Interior · Akateeminen kirjakauppa",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "CC BY 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Akateeminen_kirjakauppa_-_N137170_-_hkm.HKMS000005-000001l6.jpg",
     "file": "File:Akateeminen kirjakauppa - N137170 - hkm.HKMS000005-000001l6.jpg"
@@ -219925,7 +219817,7 @@ window.BUILDINGS = [
     "h": 805,
     "kind": "Exterior",
     "caption": "Exterior · Olympic stadium of Helsinki in 1938",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Olympic_stadium_of_Helsinki_in_1930%27s.jpg",
     "file": "File:Olympic stadium of Helsinki in 1930's.jpg"
@@ -240155,7 +240047,7 @@ window.BUILDINGS = [
     "h": 844,
     "kind": "Exterior",
     "caption": "Exterior · Tytuł : Wrocław - Dom Handlowy Renoma",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Breslau_-_Tauentzienplatz_-_Wertheim._1930-1939_(75262690).jpg",
     "file": "File:Breslau - Tauentzienplatz - Wertheim. 1930-1939 (75262690).jpg"
@@ -240331,7 +240223,7 @@ window.BUILDINGS = [
     "h": 1400,
     "kind": "Exterior",
     "caption": "Exterior · Bank of the Czechoslovak Legions in Prague, from the book Modern and contemporary Czech Art",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Bank_of_the_Czechoslovak_Legions_in_Prague.jpg",
     "file": "File:Bank of the Czechoslovak Legions in Prague.jpg"
@@ -264353,7 +264245,7 @@ window.BUILDINGS = [
     "h": 1024,
     "kind": "Drawing",
     "caption": "Drawing",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Proposed_Victoria_Square_Toronto.JPG",
     "file": "File:Proposed Victoria Square Toronto.JPG"
@@ -267359,7 +267251,7 @@ window.BUILDINGS = [
     "h": 894,
     "kind": "Interior",
     "caption": "Interior · Beschrijving Tuschinski Theater, Reguliersbreestraat 26-28",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Stadsarchief_Amsterdam,_Afb_ANWH00231000001.jpg",
     "file": "File:Stadsarchief Amsterdam, Afb ANWH00231000001.jpg"
@@ -267371,7 +267263,7 @@ window.BUILDINGS = [
     "h": 943,
     "kind": "Interior",
     "caption": "Interior · Beschrijving Tuschinski Theater, Reguliersbreestraat 26-28",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Stadsarchief_Amsterdam,_Afb_ANWH00232000001.jpg",
     "file": "File:Stadsarchief Amsterdam, Afb ANWH00232000001.jpg"
@@ -271619,7 +271511,7 @@ window.BUILDINGS = [
     "h": 642,
     "kind": "Plan",
     "caption": "Plan · Budapest State Opera",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Meyers_b15_s0624a.jpg",
     "file": "File:Meyers b15 s0624a.jpg"
@@ -277215,7 +277107,7 @@ window.BUILDINGS = [
     "h": 868,
     "kind": "Exterior",
     "caption": "Exterior",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Pope-Leighey_House_-_North_east_facade_-_HABS_VA,30-FALCH,2-10.jpg",
     "file": "File:Pope-Leighey House - North east facade - HABS VA,30-FALCH,2-10.jpg"
@@ -280283,7 +280175,7 @@ window.BUILDINGS = [
     "h": 1400,
     "kind": "Plan",
     "caption": "Plan",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:%D9%BE%D8%B1%DA%AF%D8%B1%D8%A7%D9%85_%D8%AA%D8%A7%D8%AC%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C_%D8%A7%D8%B9%D9%84%DB%8C%D8%AD%D8%B6%D8%B1%D8%AA_%D9%87%D9%85%D8%A7%DB%8C%D9%88%D9%86_%D8%B4%D8%A7%D9%87%D9%86%D8%B4%D8%A7%D9%87%DB%8C_09.jpg",
     "file": "File:پرگرام تاجگذاری اعلیحضرت همایون شاهنشاهی 09.jpg"
@@ -282211,7 +282103,7 @@ window.BUILDINGS = [
     "h": 960,
     "kind": "Exterior",
     "caption": "Exterior",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "CC BY 2.5",
     "source": "https://commons.wikimedia.org/wiki/File:121003_yitzhak_rabin_center_-_display_PikiWiki_Israel.jpg",
     "file": "File:121003 yitzhak rabin center - display PikiWiki Israel.jpg"
@@ -282223,7 +282115,7 @@ window.BUILDINGS = [
     "h": 960,
     "kind": "Exterior",
     "caption": "Exterior",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "CC BY 2.5",
     "source": "https://commons.wikimedia.org/wiki/File:121009_the_yitzhak_rabin_center_-_a_unique_building_PikiWiki_Israel.jpg",
     "file": "File:121009 the yitzhak rabin center - a unique building PikiWiki Israel.jpg"
@@ -282725,7 +282617,7 @@ window.BUILDINGS = [
     "h": 1400,
     "kind": "Exterior",
     "caption": "Exterior · Riyadh TV Tower at the Saudi Broadcasting Authority Headquarters (2026)",
-    "credit": "Unknown author Unknown author",
+    "credit": "Unknown author",
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Riyadh_TV_Tower_at_the_Saudi_Broadcasting_Authority_Headquarters_(2026).jpg",
     "file": "File:Riyadh TV Tower at the Saudi Broadcasting Authority Headquarters (2026).jpg"

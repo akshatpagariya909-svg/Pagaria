@@ -19748,5 +19748,31 @@
   "add": [
    "File:Al Janoub.jpg"
   ]
+ },
+ "gustavo-capanema-palace": {
+  "add": [
+   "File:Gustavo Capanema Palace, Rio de Janeiro, Brazil (main entrance, 2004).jpg"
+  ]
+ },
+ "fondation-maeght": {
+  "skip": [
+   "File:Fond Maeght St Paul de Vence.jpg",
+   "File:Monxa Sert, Penrose, Calder, Maria Lluïsa Borràs i Prats.jpg",
+   "File:André derain, femme aux lèvres épaisses, s.d., (coll. maeght, san francisco).jpg",
+   "File:Fernand léger, autoritratto, 1906 (coll. maeght, parigi).jpg"
+  ]
+ },
+ "maison-louis-carre": {
+  "skip": [
+   "File:Bazoches-sur-Guyonne - Maison Louis Carré (32224947747).jpg",
+   "File:Alvar ja Elissa Aalto Maison Carrén olohuoneessa (1959).jpg"
+  ]
+ },
+ "centro-cultural-de-cali": {
+  "skip": [
+   "File:La Formiko 01.jpg",
+   "File:Rue de l'art, Cali 21.jpg",
+   "File:Rue de l'art, Cali 22.jpg"
+  ]
  }
 }

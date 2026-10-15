@@ -28,7 +28,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Frank_Lloyd_Wright_LC-USZ62-36384.jpg/250px-Frank_Lloyd_Wright_LC-USZ62-36384.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Frank_Lloyd_Wright_LC-USZ62-36384.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q61071": {
    "name": "Walter Gropius",
@@ -49,7 +49,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Alvar_Aalto1.jpg/250px-Alvar_Aalto1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Alvar_Aalto1.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q380404": {
    "name": "Ray Eames",
@@ -101,7 +101,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/George-Nakashima-UW-Graduate-1929.png/250px-George-Nakashima-UW-Graduate-1929.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:George-Nakashima-UW-Graduate-1929.png",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q210134": {
    "name": "Louis Kahn",
@@ -138,7 +138,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Lina_Bo_Bardi.jpg/250px-Lina_Bo_Bardi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Lina_Bo_Bardi.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q655293": {
    "name": "Ernő Goldfinger"
@@ -476,7 +476,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Hans_Scharoun.jpg/250px-Hans_Scharoun.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Hans_Scharoun.jpg",
    "license": "CC BY-SA 3.0 de",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q723669": {
    "name": "Enric Miralles"
@@ -505,7 +505,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/I.M._Pei.JPG/250px-I.M._Pei.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:I.M._Pei.JPG",
    "license": "Public domain",
-   "credit": "original work: Unknown authorUnknown author\nderivative work: Yekrats"
+   "credit": "original work: Unknown author\nderivative work: Yekrats"
   },
   "Q5590225": {
    "name": "John Burgee",
@@ -587,7 +587,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Kevin_Roche_Pritzker_portrait_1982.jpg/250px-Kevin_Roche_Pritzker_portrait_1982.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Kevin_Roche_Pritzker_portrait_1982.jpg",
    "license": "CC BY-SA 4.0",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q355946": {
    "name": "Dan Kiley",
@@ -601,14 +601,14 @@ window.ARCHITECTS = {
    "thumb": "https://upload.wikimedia.org/wikipedia/commons/8/82/Reima_Pietil%C3%A4.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "source": "https://commons.wikimedia.org/wiki/File:Reima_Pietil%C3%A4.PNG",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q3417698": {
    "name": "Raili Pietilä",
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Annukka_%26_Raili_Pietil%C3%A4.jpg/250px-Annukka_%26_Raili_Pietil%C3%A4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Annukka_%26_Raili_Pietil%C3%A4.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q76730": {
    "name": "Erich Mendelsohn",
@@ -666,7 +666,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Josef-Hoffmann.jpg/250px-Josef-Hoffmann.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Josef-Hoffmann.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q76729": {
    "name": "Bruno Taut",
@@ -697,7 +697,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Karel_Lhota_%281894-1947%29.jpg/250px-Karel_Lhota_%281894-1947%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Karel_Lhota_(1894-1947).jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q707020": {
    "name": "David Chipperfield",
@@ -742,7 +742,7 @@ window.ARCHITECTS = {
    "thumb": "https://upload.wikimedia.org/wikipedia/commons/a/af/Melnikov.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "source": "https://commons.wikimedia.org/wiki/File:Melnikov.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q1000203": {
    "name": "Robert Mallet-Stevens",
@@ -763,7 +763,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Gunnar_Asplund_1940.jpg/250px-Gunnar_Asplund_1940.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Gunnar_Asplund_1940.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q380449": {
    "name": "Balkrishna Doshi",
@@ -784,7 +784,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Moisei_Ginzburg.jpg/250px-Moisei_Ginzburg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Moisei_Ginzburg.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q84312": {
    "name": "Richard Neutra",
@@ -798,7 +798,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Otto_Wagner_%281841%E2%80%931918%29.jpg/250px-Otto_Wagner_%281841%E2%80%931918%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Otto_Wagner_(1841%E2%80%931918).jpg",
    "license": "Public domain",
-   "credit": "=Unknown authorUnknown author (The photographer is unknown and not mentioned in "
+   "credit": "=Unknown author (The photographer is unknown and not mentioned in "
   },
   "Q78626": {
    "name": "Rudolph Schindler",
@@ -815,7 +815,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Pier_Luigi_Nervi.jpg/250px-Pier_Luigi_Nervi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Pier_Luigi_Nervi.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q76726": {
    "name": "Peter Behrens",
@@ -878,7 +878,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Portret_van_de_Nederlandse_architect_Hendrik_Petrus_Berlage_%281856-1934%29%2C_SFA001013139.jpg/250px-Portret_van_de_Nederlandse_architect_Hendrik_Petrus_Berlage_%281856-1934%29%2C_SFA001013139.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Portret_van_de_Nederlandse_architect_Hendrik_Petrus_Berlage_(1856-1934),_SFA001013139.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q67034": {
    "name": "Max Berg",
@@ -892,7 +892,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/DomenechiMontaner1915.jpg/250px-DomenechiMontaner1915.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:DomenechiMontaner1915.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q1769830": {
    "name": "Ron Herron"
@@ -935,7 +935,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Vladimir_Grigoryevich_Shukhov_1891.jpg/250px-Vladimir_Grigoryevich_Shukhov_1891.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Vladimir_Grigoryevich_Shukhov_1891.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q1682502": {
    "name": "Alberto Kalach",
@@ -1034,7 +1034,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Lucio_Costa.jpg/250px-Lucio_Costa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Lucio_Costa.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q312855": {
    "name": "Paulo Mendes da Rocha",
@@ -1062,7 +1062,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Amancio_Williams.jpg/250px-Amancio_Williams.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Amancio_Williams.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q5873363": {
    "name": "Gabriel Guarda"
@@ -1092,7 +1092,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/William_Van_Alen_%281883%E2%80%931954%29.png/250px-William_Van_Alen_%281883%E2%80%931954%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:William_Van_Alen_(1883%E2%80%931954).png",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q62570": {
    "name": "Bruce Graham"
@@ -1119,7 +1119,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/John_Dinkeloo_by_Richard_Knight.jpg/250px-John_Dinkeloo_by_Richard_Knight.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:John_Dinkeloo_by_Richard_Knight.jpg",
    "license": "CC BY-SA 4.0",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q57588": {
    "name": "Marcel Breuer",
@@ -1302,14 +1302,14 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Oizacentenario.jpg/250px-Oizacentenario.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Oizacentenario.jpg",
    "license": "CC0",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q458653": {
    "name": "Giuseppe Terragni",
    "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Giuseppe_Terragni.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "source": "https://commons.wikimedia.org/wiki/File:Giuseppe_Terragni.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q16527082": {
    "name": "Annibale Vitellozzi"
@@ -1343,7 +1343,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Hans_Hollein%2C_Architect%2C_Designer.jpg/250px-Hans_Hollein%2C_Architect%2C_Designer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Hans_Hollein,_Architect,_Designer.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q1812135": {
    "name": "Leendert van der Vlugt",
@@ -1439,14 +1439,14 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Architect_Golosov_Ilya_Alexandrovich.jpg/250px-Architect_Golosov_Ilya_Alexandrovich.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Architect_Golosov_Ilya_Alexandrovich.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q2641514": {
    "name": "Alexey Dushkin",
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Dushkin_A.N.jpg/250px-Dushkin_A.N.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Dushkin_A.N.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q6280989": {
    "name": "Joseph Allen Stein"
@@ -1632,7 +1632,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Arne_Jacobsen_photo.jpg/250px-Arne_Jacobsen_photo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Arne_Jacobsen_photo.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q129938": {
    "name": "Kunio Maekawa"
@@ -1642,7 +1642,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Peter_Celsing_1967a.jpg/250px-Peter_Celsing_1967a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Peter_Celsing_1967a.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q1713226": {
    "name": "Jun Aoki"
@@ -1669,7 +1669,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Ignazio_Gardella_seconda_met%C3%A0_anni_Cinquanta.jpg/250px-Ignazio_Gardella_seconda_met%C3%A0_anni_Cinquanta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Ignazio_Gardella_seconda_met%C3%A0_anni_Cinquanta.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q5589": {
    "name": "Henri Matisse",
@@ -1788,7 +1788,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Magnus_Poulsson.jpg/250px-Magnus_Poulsson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Magnus_Poulsson.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q316422": {
    "name": "Hector Guimard",
@@ -1839,7 +1839,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Nikitin_N.V.jpg/250px-Nikitin_N.V.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Nikitin_N.V.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q119339": {
    "name": "Vedat Dalokay"
@@ -1881,7 +1881,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Eug%C3%A8ne_Freyssinet_uniforme_%C3%A9cole_polytechnique.jpg/250px-Eug%C3%A8ne_Freyssinet_uniforme_%C3%A9cole_polytechnique.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Freyssinet_uniforme_%C3%A9cole_polytechnique.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q6571373": {
    "name": "Andrija Mutnjaković",
@@ -1895,7 +1895,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Nikola_Dobrovi%C4%87.jpg/250px-Nikola_Dobrovi%C4%87.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Nikola_Dobrovi%C4%87.jpg",
    "license": "CC BY-SA 3.0",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q13425862": {
    "name": "George Chakhava"
@@ -1967,7 +1967,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Louis_Kalff.jpg/250px-Louis_Kalff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Louis_Kalff.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q13749217": {
    "name": "Leo de Bever",
@@ -2004,7 +2004,7 @@ window.ARCHITECTS = {
    "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/3b/AldoRossi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "source": "https://commons.wikimedia.org/wiki/File:AldoRossi.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q45011": {
    "name": "Aarno Ruusuvuori",
@@ -2018,14 +2018,14 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/%D0%A9%D1%83%D1%81%D0%B5%D0%B2_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87.png/250px-%D0%A9%D1%83%D1%81%D0%B5%D0%B2_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:%D0%A9%D1%83%D1%81%D0%B5%D0%B2_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87.png",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q4416653": {
    "name": "Sergei Savvich Serafimov",
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/%D0%A1._%D0%A1._%D0%A1%D0%B5%D1%80%D0%B0%D1%84%D0%B8%D0%BC%D0%BE%D0%B2.jpg/250px-%D0%A1._%D0%A1._%D0%A1%D0%B5%D1%80%D0%B0%D1%84%D0%B8%D0%BC%D0%BE%D0%B2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:%D0%A1._%D0%A1._%D0%A1%D0%B5%D1%80%D0%B0%D1%84%D0%B8%D0%BC%D0%BE%D0%B2.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q1036920": {
    "name": "John Pawson"
@@ -2104,7 +2104,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Diego_Rivera_-_Google_Art_Project_%28cropped%29.jpg/250px-Diego_Rivera_-_Google_Art_Project_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Diego_Rivera_-_Google_Art_Project_(cropped).jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q125147941": {
    "name": "Cristián Fernández Eyzaguirre"
@@ -2130,7 +2130,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Sune_Lindstr%C3%B6m.jpg/250px-Sune_Lindstr%C3%B6m.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Sune_Lindstr%C3%B6m.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q64487": {
    "name": "Mathias Goeritz",
@@ -2236,7 +2236,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Eliel_Saarinen.jpg/250px-Eliel_Saarinen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Eliel_Saarinen.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q1554720": {
    "name": "Gunnar Birkerts",
@@ -2250,14 +2250,14 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Album_representant%C5%AF_v%C5%A1ech_obor%C5%AF_ve%C5%99ejn%C3%A9ho_%C5%BEivota_%C4%8Deskoslovensk%C3%A9ho_-_1927_-_Old%C5%99ich_Tyl.png/250px-Album_representant%C5%AF_v%C5%A1ech_obor%C5%AF_ve%C5%99ejn%C3%A9ho_%C5%BEivota_%C4%8Deskoslovensk%C3%A9ho_-_1927_-_Old%C5%99ich_Tyl.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Album_representant%C5%AF_v%C5%A1ech_obor%C5%AF_ve%C5%99ejn%C3%A9ho_%C5%BEivota_%C4%8Deskoslovensk%C3%A9ho_-_1927_-_Old%C5%99ich_Tyl.png",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q50223896": {
    "name": "Josef Fuchs",
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Josef_Fuchs_%281894-1979%29.jpg/250px-Josef_Fuchs_%281894-1979%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Josef_Fuchs_(1894-1979).jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q314886": {
    "name": "Jože Plečnik",
@@ -2322,7 +2322,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Neumann_Danciger_Haifa.jpg/250px-Neumann_Danciger_Haifa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Neumann_Danciger_Haifa.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q231371": {
    "name": "Zvi Hecker",
@@ -2346,7 +2346,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Mohamed_Makiya_in_the_1960s_%28cropped%29.jpg/250px-Mohamed_Makiya_in_the_1960s_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Mohamed_Makiya_in_the_1960s_(cropped).jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "manual:Marian Konieczny": {
    "name": "Marian Konieczny",
@@ -2375,7 +2375,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Arch._Luigi_Moretti_%281906-1973%29.jpg/250px-Arch._Luigi_Moretti_%281906-1973%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Arch._Luigi_Moretti_(1906-1973).jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q6408718": {
    "name": "Kim Herforth Nielsen"
@@ -2439,14 +2439,14 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87_%D0%A7%D0%B5%D1%87%D1%83%D0%BB%D0%B8%D0%BD.jpg/250px-%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87_%D0%A7%D0%B5%D1%87%D1%83%D0%BB%D0%B8%D0%BD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87_%D0%A7%D0%B5%D1%87%D1%83%D0%BB%D0%B8%D0%BD.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q2911126": {
    "name": "Giovanni Muzio",
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Giovanni_Muzio.jpg/250px-Giovanni_Muzio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Giovanni_Muzio.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q436649": {
    "name": "John Andrews"
@@ -2507,7 +2507,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Bengt_Lindroos_%281949%29.jpg/250px-Bengt_Lindroos_%281949%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Bengt_Lindroos_(1949).jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q19975649": {
    "name": "Slavko Brezoski",
@@ -2578,7 +2578,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Yitzhak_Pearlstein%2C_Arie_Dudai%2C_Menachem_Cohen_and_another_man_planning_the_city_of_Ashdod%2C_1957.jpg/250px-Yitzhak_Pearlstein%2C_Arie_Dudai%2C_Menachem_Cohen_and_another_man_planning_the_city_of_Ashdod%2C_1957.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Yitzhak_Pearlstein,_Arie_Dudai,_Menachem_Cohen_and_another_man_planning_the_city_of_Ashdod,_1957.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q6094368": {
    "name": "Hüsrev Tayla"
@@ -2735,14 +2735,14 @@ window.ARCHITECTS = {
    "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Francesco_Tamburini.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "source": "https://commons.wikimedia.org/wiki/File:Francesco_Tamburini.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q2637149": {
    "name": "Vittorio Meano",
    "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Vittoriomeano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "source": "https://commons.wikimedia.org/wiki/File:Vittoriomeano.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q351644": {
    "name": "Adamo Boari",
@@ -2850,7 +2850,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Charles_Prosper_Wolff_Schoemaker.jpg/250px-Charles_Prosper_Wolff_Schoemaker.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Charles_Prosper_Wolff_Schoemaker.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q26712362": {
    "name": "Lim Chong Keat"
@@ -2877,7 +2877,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Robert_Fellowes_Chisholm_in_WT_Pike_London_%2823f%29.jpg/250px-Robert_Fellowes_Chisholm_in_WT_Pike_London_%2823f%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Robert_Fellowes_Chisholm_in_WT_Pike_London_(23f).jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author from studio of Elliott & Fry"
+   "credit": "Unknown author from studio of Elliott & Fry"
   },
   "Q8006874": {
    "name": "William Henry Clayton",
@@ -2938,7 +2938,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Dora_Gad_1966_%28cropped%29.jpg/250px-Dora_Gad_1966_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Dora_Gad_1966_(cropped).jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q5294242": {
    "name": "Donald Deskey"
@@ -2974,7 +2974,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Kevin_Roche_and_John_Dinkeloo_1967.tif/lossy-page1-250px-Kevin_Roche_and_John_Dinkeloo_1967.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Kevin_Roche_and_John_Dinkeloo_1967.tif",
    "license": "CC BY-SA 4.0",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q339830": {
    "name": "Alfred Waterhouse",
@@ -2988,7 +2988,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/August_Stueler.jpg/250px-August_Stueler.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:August_Stueler.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q3378439": {
    "name": "Francis Fowke",
@@ -3016,7 +3016,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Mr._Raymond_M._Hood.jpg/250px-Mr._Raymond_M._Hood.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Mr._Raymond_M._Hood.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q2143077": {
    "name": "Alessandro Antonelli",
@@ -3104,7 +3104,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Katayama-Tokuma.jpg/250px-Katayama-Tokuma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Katayama-Tokuma.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "manual:HOK": {
    "name": "HOK",
@@ -3142,28 +3142,28 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Karl-von-Hasenauer-1880.jpg/250px-Karl-von-Hasenauer-1880.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Karl-von-Hasenauer-1880.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q70102": {
    "name": "Bruno Schmitz",
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Bruno_Schmitz.jpg/250px-Bruno_Schmitz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Bruno_Schmitz.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q45399": {
    "name": "Georg von Hauberrisser",
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Hauberrisser_um1900.jpg/250px-Hauberrisser_um1900.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Hauberrisser_um1900.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q6247385": {
    "name": "John McArthur, Jr.",
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/John_McArthur_Jr.jpg/250px-John_McArthur_Jr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:John_McArthur_Jr.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q3440261": {
    "name": "Roland Simounet"
@@ -3244,7 +3244,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Charles_Leroy.jpg/250px-Charles_Leroy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Charles_Leroy.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q3130450": {
    "name": "Henri-Paul Nénot",
@@ -3265,7 +3265,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Cziegler_Gy%C5%91z%C5%91.jpg/250px-Cziegler_Gy%C5%91z%C5%91.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Cziegler_Gy%C5%91z%C5%91.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q5477935": {
    "name": "Stefan Behnisch"
@@ -3303,7 +3303,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/McKim%2C_Mead_and_White.jpg/250px-McKim%2C_Mead_and_White.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:McKim,_Mead_and_White.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q657848": {
    "name": "Charles Follen McKim",
@@ -3401,7 +3401,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Hans_Emil_Meyer_OB.F06496c_cropped.jpg/250px-Hans_Emil_Meyer_OB.F06496c_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Hans_Emil_Meyer_OB.F06496c_cropped.jpg",
    "license": "CC BY-SA 4.0",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q1583161": {
    "name": "Hans Wittwer",
@@ -3429,7 +3429,7 @@ window.ARCHITECTS = {
    "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/56/Curzio_Malaparte.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "source": "https://commons.wikimedia.org/wiki/File:Curzio_Malaparte.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q11526580": {
    "name": "Takamitsu Azuma"
@@ -3452,7 +3452,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Aino-Aalto.jpg/250px-Aino-Aalto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Aino-Aalto.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q110141344": {
    "name": "Magdalena Hänska"
@@ -3496,14 +3496,14 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Bengt_Edman.jpg/250px-Bengt_Edman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Bengt_Edman.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q5810478": {
    "name": "Lennart Holm",
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Lennart_Holm.jpg/250px-Lennart_Holm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Lennart_Holm.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q1041868": {
    "name": "Carlo Aymonino"
@@ -3583,7 +3583,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Johan_siren.jpg/250px-Johan_siren.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Johan_siren.jpg",
    "license": "CC BY 4.0",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q15463168": {
    "name": "John Mead Howells",
@@ -3671,7 +3671,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/P%C3%A1rtos_Gyula.jpg/250px-P%C3%A1rtos_Gyula.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:P%C3%A1rtos_Gyula.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q740717": {
    "name": "Joseph Poelaert",
@@ -3711,7 +3711,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Sakakura_Junzo_1957.jpg/250px-Sakakura_Junzo_1957.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Sakakura_Junzo_1957.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q3297694": {
    "name": "Junzō Yoshimura"
@@ -3734,7 +3734,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Josef_Kaiser_Architekt.jpg/250px-Josef_Kaiser_Architekt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Josef_Kaiser_Architekt.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q76846": {
    "name": "Meinhard von Gerkan"
@@ -3764,7 +3764,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Arthur_Brown_Jr._in_his_50s.png/250px-Arthur_Brown_Jr._in_his_50s.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Arthur_Brown_Jr._in_his_50s.png",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q706666": {
    "name": "Albert Kahn"
@@ -3821,7 +3821,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Eidlitz_portrait.jpg/250px-Eidlitz_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Eidlitz_portrait.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "manual:H. H. Richardson": {
    "name": "H. H. Richardson",
@@ -3835,7 +3835,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Isaac_Gale_Perry_%281822%E2%80%931904%29.png/250px-Isaac_Gale_Perry_%281822%E2%80%931904%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Isaac_Gale_Perry_(1822%E2%80%931904).png",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q1598991": {
    "name": "Heinrich Straumer"
@@ -3851,7 +3851,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Joseph_Miller_Huston_%281866%E2%80%931940%29.png/250px-Joseph_Miller_Huston_%281866%E2%80%931940%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Joseph_Miller_Huston_(1866%E2%80%931940).png",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q71886": {
    "name": "Ludwig Hoffmann",
@@ -3865,7 +3865,7 @@ window.ARCHITECTS = {
    "thumb": "https://upload.wikimedia.org/wikipedia/commons/8/83/FrancescBerenguerMestres.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "source": "https://commons.wikimedia.org/wiki/File:FrancescBerenguerMestres.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q113257": {
    "name": "Wilhelm Holzbauer",
@@ -4067,7 +4067,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Nasreddin_Murat-Khan.jpg/250px-Nasreddin_Murat-Khan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Nasreddin_Murat-Khan.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q23619103": {
    "name": "Abdulhusein M. Thariani"
@@ -4368,7 +4368,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Kochar_G.B.jpg/250px-Kochar_G.B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Kochar_G.B.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q56152442": {
    "name": "Alireza Taghaboni",
@@ -4454,7 +4454,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Pietro_Lingeri_architetto.jpg/250px-Pietro_Lingeri_architetto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Pietro_Lingeri_architetto.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author\n\nThe original uploader was Alienautic at Italian Wi"
+   "credit": "Unknown author\n\nThe original uploader was Alienautic at Italian Wi"
   },
   "Q3293431": {
    "name": "Mario Fiorentino"
@@ -4477,7 +4477,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Helg_Albini_1964.jpg/250px-Helg_Albini_1964.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Helg_Albini_1964.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q3956197": {
    "name": "Sergio Musmeci"
@@ -4565,7 +4565,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Mohamed_Makiya_in_the_1960s_%28cropped%29.jpg/250px-Mohamed_Makiya_in_the_1960s_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Mohamed_Makiya_in_the_1960s_(cropped).jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q2848816": {
    "name": "André Wogenscky",
@@ -4602,7 +4602,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Kolli_N.D._2.jpg/250px-Kolli_N.D._2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Kolli_N.D._2.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q16399987": {
    "name": "Spartak Khachikyan"
@@ -4975,14 +4975,14 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Dragi%C5%A1a_Bra%C5%A1ovan.jpg/250px-Dragi%C5%A1a_Bra%C5%A1ovan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Dragi%C5%A1a_Bra%C5%A1ovan.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q3305647": {
    "name": "Erik Bryggman",
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Erik_Bryggman1.jpg/250px-Erik_Bryggman1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Erik_Bryggman1.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q1777577": {
    "name": "Arne Korsmo",
@@ -5053,7 +5053,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Eileen_Gray.jpg/250px-Eileen_Gray.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Eileen_Gray.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q1543673": {
    "name": "Jean Badovici"
@@ -5066,7 +5066,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/%C3%81lvaro_Vital_Brazil_%281946%29.jpg/250px-%C3%81lvaro_Vital_Brazil_%281946%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:%C3%81lvaro_Vital_Brazil_(1946).jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q102265573": {
    "name": "Adhemar Marinho"
@@ -5289,7 +5289,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Ragnar_%C3%96stberg_1934a.jpg/250px-Ragnar_%C3%96stberg_1934a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Ragnar_%C3%96stberg_1934a.jpg",
    "license": "CC BY-SA 4.0",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q85984781": {
    "name": "Samuli Miettinen"
@@ -5306,7 +5306,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Yrjo-Lindegren.jpg/250px-Yrjo-Lindegren.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Yrjo-Lindegren.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q5895272": {
    "name": "Toivo Jäntti"
@@ -5316,7 +5316,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Markelius_1954.jpg/250px-Markelius_1954.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Markelius_1954.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q20645747": {
    "name": "Anssi Lassila"
@@ -5329,14 +5329,14 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Eriksson%2C_Nils_Einar.jpg/250px-Eriksson%2C_Nils_Einar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Eriksson,_Nils_Einar.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q984344": {
    "name": "Kay Fisker",
    "thumb": "https://upload.wikimedia.org/wikipedia/commons/6/62/Kat_Fisker_photo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "source": "https://commons.wikimedia.org/wiki/File:Kat_Fisker_photo.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q3380367": {
    "name": "Dorte Mandrup",
@@ -5370,7 +5370,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Dahong_Wang_at_Paris_1937.jpg/250px-Dahong_Wang_at_Paris_1937.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Dahong_Wang_at_Paris_1937.jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q55696695": {
    "name": "José Lei"
@@ -5469,7 +5469,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Roland_Rainer_%28vor_1936%29.jpg/250px-Roland_Rainer_%28vor_1936%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Roland_Rainer_(vor_1936).jpg",
    "license": "Public domain",
-   "credit": "Unknown authorUnknown author"
+   "credit": "Unknown author"
   },
   "Q433471": {
    "name": "Vito Acconci",

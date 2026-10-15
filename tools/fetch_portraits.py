@@ -146,7 +146,8 @@ def search_person(name):
 
 
 def strip(s):
-    return html.unescape(re.sub(r'<[^>]+>', '', s or '')).strip()
+    s = re.sub(r'<(\w+)[^>]*display:\s*none[^>]*>.*?</\1>', '', s or '', flags=re.S)  # Commons repeats "Unknown author" in a hidden span
+    return re.sub(r'\s+', ' ', html.unescape(re.sub(r'<[^>]+>', ' ', s))).strip()
 
 
 def main():
