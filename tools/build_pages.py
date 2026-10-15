@@ -409,7 +409,8 @@ def og_image(items):
 def icons():
     """The tab and home-screen icon: a black A (for Architecture) with the red full stop, on white (v19)."""
     from PIL import Image, ImageDraw, ImageFont
-    for size, name in [(32, 'favicon.png'), (180, 'apple-touch-icon.png'), (512, 'icon-512.png')]:
+    # Google shows a site's icon in results only if it is a multiple of 48 px (48, 96, 144, 192...), so those sizes and an .ico too.
+    for size, name in [(32, 'favicon.png'), (48, 'favicon-48.png'), (96, 'favicon-96.png'), (180, 'apple-touch-icon.png'), (192, 'favicon-192.png'), (512, 'icon-512.png')]:
         S = size * 4
         im = Image.new('RGB', (S, S), (255, 255, 255))
         d = ImageDraw.Draw(im)
@@ -421,6 +422,7 @@ def icons():
         d.text((x, y), 'A', font=f, fill=INK, anchor='ls')
         d.text((x + fw, y), '.', font=f, fill=RED, anchor='ls')
         im.resize((size, size), Image.LANCZOS).save(SITE / name)
+    Image.open(SITE / 'icon-512.png').save(SITE / 'favicon.ico', sizes=[(16, 16), (32, 32), (48, 48)])
 
 
 def fingerprint(path):
