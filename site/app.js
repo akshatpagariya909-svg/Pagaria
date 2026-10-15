@@ -755,12 +755,12 @@
       `<div class="feat-top"><span class="k">Today’s featured · ${i + 1} of ${five.length}</span>` +
       `<span class="feat-nav">${arrow(-1, 'Previous featured book', 'M15 5l-7 7 7 7')}${arrow(1, 'Next featured book', 'M9 5l7 7-7 7')}</span></div>` +
       `<div class="feat-body"><button type="button" class="feat-main" data-book="${esc(k.id)}" data-list="feat">` +
-      `${coverOnly(k)}<span class="line ${lineSize(ln.line)}">${esc(ln.line)}</span>` +
+      `${coverOnly(k)}<span class="line ${lineSize(ln.line)}">“${esc(ln.line)}”</span>` +
       `<span class="foot"><b>${esc(k.title)}</b><span class="m">${esc([k.by, k.year, k.shelf].join(' · '))}</span>` +
       (k.why ? `<span class="why">${esc(k.why)}</span>` : '') + `<span class="go">Open the book →</span></span></button>` +
       `<div class="also"><span class="k">Also on the table today</span><div class="also-row">` +
       five.map((x, j) => j === i ? '' : `<button type="button" data-pick="${j}" aria-label="${esc(x.title)}, ${esc(x.by)}">${coverOnly(x)}<b>${esc(x.title)}</b></button>`).join('') +
-      `</div><span class="hint">Five books a day, picked for their first line. Tap one to put it on top.</span></div></div>`;
+      `</div></div></div>`;
   }
   function drawCats() {
     table.lists = CATEGORIES.map(c => {
