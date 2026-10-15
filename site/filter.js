@@ -164,10 +164,10 @@
       .sort((a, b) => fold(surname(a)).localeCompare(fold(surname(b))));
     const cards = list.map(n => {
       const face = faceOf(n), k = c.get(n) || 0, w = DA.laureate && DA.laureate(n);
-      // Pritzker winners carry the same gold medal as on the opened building, on the portrait's top-right corner
-      const medal = w ? `<span class="fp-medal" title="Pritzker Prize ${w.year}">${DA.coin('fpm' + w.year + n.length)}</span>` : '';
-      return `<button type="button" class="fp-face${k || F.arch.has(n) ? '' : ' none'}" aria-pressed="${F.arch.has(n)}" data-k="arch" data-v="${esc(n)}"${w ? ` aria-label="${esc(n)}, Pritzker Prize ${w.year}"` : ''}>` +
-        `<span class="fp-pic">${face ? `<img src="${esc(face)}" alt="" loading="lazy">` : `<span class="fp-ini">${esc(initials(n))}</span>`}${medal}</span>` + `<b>${esc(n)}</b><small>${plural(k)}</small></button>`;
+      const card = `<button type="button" class="fp-face${k || F.arch.has(n) ? '' : ' none'}" aria-pressed="${F.arch.has(n)}" data-k="arch" data-v="${esc(n)}">` +
+        `<span class="fp-pic">${face ? `<img src="${esc(face)}" alt="" loading="lazy">` : `<span class="fp-ini">${esc(initials(n))}</span>`}</span>` + `<b>${esc(n)}</b><small>${plural(k)}</small></button>`;
+      // Pritzker winners carry the very same medal as the opened building: same drawing, same card, same behaviour
+      return w && DA.medalHtml ? `<div class="fp-fw by-row">${card}${DA.medalHtml(w, n, k)}</div>` : card;
     }).join('');
     return `<div class="fp-letters">${bar}</div><p class="fp-note">${list.length} under ${ui.letter}, sorted by surname. Portraits are black and white; initials until a free photo is found.</p><div class="fp-faces">${cards}</div>`;
   }
@@ -251,6 +251,7 @@
     const t = e.target.closest('button, path.fp-reg');
     if (!t) return;
     if (t.dataset.close != null) { DA.close(); return; }
+    if (t.dataset.arch) { F.arch.add(t.dataset.arch); changed(); return; } // "See all … buildings" in a medal's card
     if (t.dataset.show != null) { DA.close(); return; }
     if (t.dataset.clear != null) { Object.values(F).forEach(s => s.clear()); state.decades = null; clearSearch(); changed(); return; }
     if (t.dataset.tab) { ui.tab = t.dataset.tab; refresh(true); panel.querySelector('.fp-body').scrollTop = 0; return; }

@@ -172,9 +172,11 @@ body.filtering { overflow: hidden; }
 .fp-letter { width: 36px; height: 36px; justify-content: center; }
 .fp-faces { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 12px; }
 .fp-face { all: unset; box-sizing: border-box; cursor: pointer; display: flex; flex-direction: column; gap: 6px; padding: 8px; border: 1px solid var(--hair); border-radius: var(--r); background: #fff; transition: color .15s ease, border-color .15s ease; }
-.fp-pic { position: relative; display: block; }
-.fp-medal { position: absolute; top: -7px; right: -7px; width: 24px; height: 24px; pointer-events: none; }
-.fp-medal svg { width: 100%; height: 100%; display: block; }
+/* Pritzker winners in the Architect tab: the shared medal (same card and behaviour as the opened building), on the portrait's top-right corner */
+.fp-fw.by-row { position: relative; --coin: 24px; --hit: 40px; }
+.fp-fw > .fp-face { width: 100%; height: 100%; }
+.fp-fw .medal { left: auto; bottom: auto; top: -6px; right: -6px; }
+.fp-fw .medal-card { left: auto; right: 0; top: 34px; }
 .fp-face img, .fp-ini { width: 100%; aspect-ratio: 4 / 5; object-fit: cover; object-position: 50% 20%; filter: grayscale(1); display: block; background: var(--slot); }
 .fp-ini { display: grid; place-items: center; font: 600 26px var(--mono); color: var(--ink); filter: none; }
 .fp-face b { font-size: 14px; line-height: 1.2; }
@@ -508,7 +510,7 @@ button.by-link:focus-visible { outline: 3px solid var(--red); outline-offset: 3p
 .bcap { display: flex; flex-direction: column; gap: 3px; min-width: 0; }
 .bcap b { font-size: 14px; font-weight: 700; line-height: 1.2; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; transition: color .15s ease; }
 .bt:hover .bcap b { color: var(--red); }
-.bcap .by { font: 400 11px var(--mono); letter-spacing: .02em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.bcap .by { font: 400 12px var(--sans); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .bcap .r2 { font: 400 11px var(--mono); letter-spacing: .02em; color: var(--graphite); }
 /* No cover yet: the title set in the site's own type */
 .standin { position: absolute; inset: 0; padding: 12% 10%; display: flex; flex-direction: column; justify-content: flex-end; gap: 8px; background: var(--paper); color: var(--ink); }
@@ -633,29 +635,28 @@ body.ideas-away .ideas { transform: translateY(calc(-100% - 12px)); opacity: 0; 
 .feat-main .cv { grid-area: cv; width: 160px; height: 232px; box-shadow: 0 14px 30px rgba(0,0,0,.25); }
 .feat-main .cv .standin { padding: 14px; gap: 6px; }
 .feat-main .cv .standin .tt { font: 800 22px/.95 var(--display); text-transform: uppercase; }
-.feat .line { grid-area: line; align-self: start; font-family: var(--display); font-weight: 900; line-height: .9; text-transform: uppercase; letter-spacing: .01em; overflow-wrap: break-word; }
-.feat .line.l1 { font-size: clamp(48px, 5.6vw, 84px); }
-.feat .line.l2 { font-size: clamp(38px, 4.4vw, 66px); }
-.feat .line.l3 { font-size: clamp(30px, 3.4vw, 50px); }
-.feat .line.l4 { font-size: clamp(26px, 2.7vw, 40px); }
+.feat .line { grid-area: line; align-self: start; font-family: var(--sans); font-style: italic; font-weight: 400; line-height: 1.12; letter-spacing: -.01em; overflow-wrap: break-word; text-indent: -.42em; } /* the opening quote hangs in the margin */
+.feat .line.l1 { font-size: clamp(40px, 4.6vw, 64px); }
+.feat .line.l2 { font-size: clamp(32px, 3.6vw, 50px); }
+.feat .line.l3 { font-size: clamp(26px, 2.8vw, 38px); }
+.feat .line.l4 { font-size: clamp(22px, 2.2vw, 30px); }
 .feat .foot { grid-area: foot; align-self: end; display: flex; flex-direction: column; gap: 6px; }
 .feat .foot b { font-size: 20px; line-height: 1.2; transition: color .15s ease; }
-.feat .foot .m { font: 500 13px var(--mono); letter-spacing: .02em; }
+.feat .foot .m { font: 400 14px var(--sans); }
 .feat .foot .why { font-size: 15px; line-height: 1.4; max-width: 640px; }
 .feat .foot .go { font: 600 13px var(--mono); letter-spacing: .04em; margin-top: 4px; }
 .feat-main:hover .foot b, .feat-main:hover .go { color: var(--red); }
 .feat.dark .feat-main:hover .foot b, .feat.dark .feat-main:hover .go { color: #fff; text-decoration: underline; }
 .feat-main:hover .cv { box-shadow: 0 14px 30px rgba(0,0,0,.25), inset 0 -3px 0 var(--red); }
-.also { display: flex; flex-direction: column; gap: 10px; padding-left: 24px; border-left: 1px solid currentColor; min-height: 232px; }
+.also { display: flex; flex-direction: column; justify-content: center; gap: 10px; padding-left: 24px; border-left: 1px solid currentColor; min-height: 232px; }
 .also-row { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 10px; }
 .also-row button { display: flex; flex-direction: column; gap: 5px; min-width: 0; }
 .also-row .cv { width: 100%; aspect-ratio: 12 / 17; box-shadow: 0 6px 14px rgba(0,0,0,.18); }
 .also-row .cv .standin { padding: 6px; gap: 2px; }
 .also-row .cv .standin .tt { font: 800 11px/.95 var(--display); text-transform: uppercase; }
 .also-row .cv .standin .au { display: none; }
-.also-row b { font: 600 11px/1.2 var(--mono); display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.also-row b { font: 400 12px/1.25 var(--sans); display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
 .also-row button:hover b { text-decoration: underline; }
-.also .hint { margin-top: auto; font: 500 12px/1.4 var(--mono); letter-spacing: .02em; color: inherit; }
 
 .cats { border-top: 1px solid var(--ink); }
 .cat { border-bottom: 1px solid var(--hair); }
@@ -679,7 +680,7 @@ body.ideas-away .ideas { transform: translateY(calc(-100% - 12px)); opacity: 0; 
 .cat-row .cv .standin .tt { font-size: clamp(12px, 1.05vw, 16px); }
 .cat-row .cv .standin .au { font-size: 9px; }
 .cat-row b { font-size: 12px; line-height: 1.2; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; transition: color .15s ease; }
-.cat-row small { margin-top: -3px; font: 500 11px var(--mono); color: var(--graphite); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.cat-row small { margin-top: -2px; font: 400 12px/1.25 var(--sans); color: var(--graphite); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .cat-row button:hover b { color: var(--red); }
 .cat-row button:hover .cv { box-shadow: inset 0 -3px 0 var(--red); }
 .cat-arr { position: absolute; top: 4px; bottom: 18px; width: 72px; display: grid; place-items: center; }
@@ -706,16 +707,15 @@ body.ideas-away .ideas { transform: translateY(calc(-100% - 12px)); opacity: 0; 
   .feat-main .cv { width: 96px; height: 140px; }
   .feat-main .cv .standin { padding: 10px; }
   .feat-main .cv .standin .tt { font-size: 15px; }
-  .feat .line.l1 { font-size: 40px; }
-  .feat .line.l2 { font-size: 30px; }
-  .feat .line.l3 { font-size: 24px; }
-  .feat .line.l4 { font-size: 20px; }
+  .feat .line.l1 { font-size: 32px; }
+  .feat .line.l2 { font-size: 25px; }
+  .feat .line.l3 { font-size: 21px; }
+  .feat .line.l4 { font-size: 18px; }
   .feat .foot { gap: 4px; }
   .feat .foot b { font-size: 15px; }
   .feat .foot .m { font-size: 12px; }
   .feat .foot .why { font-size: 13px; }
   .also { padding: 10px 0 0; border-left: 0; border-top: 1px solid currentColor; min-height: 0; gap: 8px; }
-  .also .hint { display: none; }
   .also-row { gap: 8px; }
   .cat-h { gap: 10px; min-height: 48px; padding: 4px 0; }
   .cat-h .cn { flex: 1; width: auto; font-size: 22px; }

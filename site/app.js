@@ -673,26 +673,34 @@
   }
   $('byline').addEventListener('click', e => { const t = e.target.closest('button[data-arch]'); if (t) showOnWall(t.dataset.arch); });
   // The Pritzker medal: tap (or Enter) opens and closes its card; on a computer pointing at it opens it too.
+  // Every medal on the page (opened building or book, the filter's architect cards) shares this: the same card,
+  // opened by a tap or Enter, and on a computer by pointing at it. A card is kept inside the screen.
   function medalOpen(m, open) {
     const card = m && document.getElementById(m.getAttribute('aria-controls'));
     if (!card) return;
+    if (open) document.querySelectorAll('.medal[aria-expanded="true"]').forEach(o => { if (o !== m) medalOpen(o, false); });
     m.setAttribute('aria-expanded', open);
     card.hidden = !open;
+    card.style.transform = '';
+    if (open) {
+      const r = card.getBoundingClientRect(), dx = Math.min(0, innerWidth - 8 - r.right) + Math.max(0, 8 - r.left);
+      if (dx) card.style.transform = `translateX(${dx}px)`;
+    }
   }
   let medalTimer = 0;
-  $('byline').addEventListener('click', e => {
-    const m = e.target.closest('.medal');
+  document.addEventListener('click', e => {
+    const m = e.target.closest('.by-row .medal');
     if (m) medalOpen(m, m.getAttribute('aria-expanded') !== 'true');
   });
-  $('byline').addEventListener('pointerover', e => {
+  document.addEventListener('pointerover', e => {
     const m = e.target.closest('.medal, .medal-card'), row = m && m.closest('.by-row');
-    if (!m || e.pointerType !== 'mouse') return;
+    if (!m || !row || e.pointerType !== 'mouse') return;
     clearTimeout(medalTimer);
     medalOpen(row.querySelector('.medal'), true);
   });
-  $('byline').addEventListener('pointerout', e => {
+  document.addEventListener('pointerout', e => {
     const m = e.target.closest('.medal, .medal-card'), row = m && m.closest('.by-row');
-    if (!m || e.pointerType !== 'mouse' || (e.relatedTarget && e.relatedTarget.closest && e.relatedTarget.closest('.medal, .medal-card') && row.contains(e.relatedTarget))) return;
+    if (!m || !row || e.pointerType !== 'mouse' || (e.relatedTarget && e.relatedTarget.closest && e.relatedTarget.closest('.medal, .medal-card') && row.contains(e.relatedTarget))) return;
     medalTimer = setTimeout(() => medalOpen(row.querySelector('.medal'), false), 200);
   });
   document.addEventListener('click', e => { if (!e.target.closest('.by-row')) document.querySelectorAll('.medal[aria-expanded="true"]').forEach(m => medalOpen(m, false)); });
@@ -747,12 +755,12 @@
       `<div class="feat-top"><span class="k">Today’s featured · ${i + 1} of ${five.length}</span>` +
       `<span class="feat-nav">${arrow(-1, 'Previous featured book', 'M15 5l-7 7 7 7')}${arrow(1, 'Next featured book', 'M9 5l7 7-7 7')}</span></div>` +
       `<div class="feat-body"><button type="button" class="feat-main" data-book="${esc(k.id)}" data-list="feat">` +
-      `${coverOnly(k)}<span class="line ${lineSize(ln.line)}">${esc(ln.line)}</span>` +
+      `${coverOnly(k)}<span class="line ${lineSize(ln.line)}">“${esc(ln.line)}”</span>` +
       `<span class="foot"><b>${esc(k.title)}</b><span class="m">${esc([k.by, k.year, k.shelf].join(' · '))}</span>` +
       (k.why ? `<span class="why">${esc(k.why)}</span>` : '') + `<span class="go">Open the book →</span></span></button>` +
       `<div class="also"><span class="k">Also on the table today</span><div class="also-row">` +
       five.map((x, j) => j === i ? '' : `<button type="button" data-pick="${j}" aria-label="${esc(x.title)}, ${esc(x.by)}">${coverOnly(x)}<b>${esc(x.title)}</b></button>`).join('') +
-      `</div><span class="hint">Five books a day, picked for their first line. Tap one to put it on top.</span></div></div>`;
+      `</div></div></div>`;
   }
   function drawCats() {
     table.lists = CATEGORIES.map(c => {
@@ -925,7 +933,7 @@
 
   /* ---------- start ---------- */
   window.DA = { ALL, get BOOKS() { return BOOKS; }, withBooks, state, GROUPS, matches, esc, fold, countryName, project, world: WORLD,
-    coin, laureate: name => laureateOf(null, name),
+    coin, medalHtml, laureate: name => laureateOf(null, name),
     apply: () => render(false), close: () => { toggleFilters(false); window.scrollTo({ top: 0, behavior: 'smooth' }); } };
   render(false);
   if (RETURNING) { // back where we were: deal enough of the wall to reach the old scroll position
