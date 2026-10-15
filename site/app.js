@@ -213,6 +213,7 @@
     $('more').hidden = f.next >= f.list.length;
   }
   function render(toTop) {
+    document.dispatchEvent(new CustomEvent('da:render')); // the map (map.js) follows the same search and filters
     let list = shuffled(visible(), rng(state.seed));
     if (lastTop.size) list = list.filter(b => !lastTop.has(keyOf(b))).concat(list.filter(b => lastTop.has(keyOf(b))));
     const C = columnCount();

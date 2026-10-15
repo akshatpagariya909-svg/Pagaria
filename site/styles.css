@@ -753,14 +753,15 @@ body:not(.mapped) .dock #mapBack { display: none !important; }
 body.mapped .dock #mapBack { display: flex !important; }
 body.mapped { overflow: hidden; }
 .globe[hidden], .globe [hidden] { display: none !important; }
-.globe { position: fixed; inset: 0; z-index: 45; background: var(--ground); transform: translateY(100%); transition: transform .32s cubic-bezier(.2,.8,.2,1); }
+.globe { position: fixed; inset: 0; z-index: 18; /* under the top bar and ideas row (map.js sets its top) */ background: var(--ground); transform: translateY(100%); transition: transform .32s cubic-bezier(.2,.8,.2,1); }
 .globe.in { transform: none; }
 .globe canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block; touch-action: none; cursor: grab; }
 .globe canvas.drag { cursor: grabbing; }
+.g-none { position: absolute; z-index: 2; left: 50%; top: 40%; transform: translateX(-50%); width: min(320px, calc(100vw - 32px)); text-align: center; font: 500 15px/1.4 var(--sans); color: var(--graphite); background: rgba(255,255,255,.9); padding: 12px 16px; border-radius: var(--r); }
 .g-help, .g-here { position: absolute; z-index: 2; left: 50%; transform: translateX(-50%); pointer-events: none; white-space: nowrap; }
-.g-help { top: calc(16px + env(safe-area-inset-top, 0px)); font: 500 13px var(--mono); letter-spacing: .06em; text-transform: uppercase; color: var(--graphite); background: rgba(255,255,255,.85); padding: 5px 10px; border-radius: var(--r); transition: opacity .4s ease; }
+.g-help { top: 62px; font: 500 13px var(--mono); letter-spacing: .06em; text-transform: uppercase; color: var(--graphite); background: rgba(255,255,255,.85); padding: 5px 10px; border-radius: var(--r); transition: opacity .4s ease; }
 .g-help.gone { opacity: 0; }
-.g-here { top: calc(20px + env(safe-area-inset-top, 0px)); font: 600 14px var(--mono); letter-spacing: .18em; color: #6E5A55; text-shadow: 0 0 3px #fff, 0 0 6px #fff; }
+.g-here { top: 66px; font: 600 14px var(--mono); letter-spacing: .18em; color: #6E5A55; text-shadow: 0 0 3px #fff, 0 0 6px #fff; }
 .g-zoom { position: absolute; z-index: 2; right: max(16px, env(safe-area-inset-right, 0px)); bottom: calc(96px + env(safe-area-inset-bottom, 0px)); display: flex; flex-direction: column; gap: 2px;
   background: var(--ground); border: 1px solid var(--hair); border-radius: var(--r); padding: 3px; }
 .g-zoom button { all: unset; cursor: pointer; width: 36px; height: 36px; display: grid; place-items: center; border-radius: 7px; font: 500 22px/1 var(--sans); }

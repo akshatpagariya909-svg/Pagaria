@@ -18,6 +18,7 @@
 <section class="globe" id="globe" aria-label="Map of the buildings" hidden>
   <canvas id="gView"></canvas>
   <div class="g-here" id="gHere" hidden></div>
+  <div class="g-none" id="gNone" hidden>No buildings on the map match this search.</div>
   <div class="g-help" id="gHelp">Drag · pinch to zoom · tap a photo</div>
   <div class="g-zoom"><button type="button" id="gIn" aria-label="Zoom in">+</button><button type="button" id="gOut" aria-label="Zoom out">−</button></div>
   <div class="g-tip" id="gTip" hidden><span class="k" id="gtKind"></span><b id="gtName"></b><span class="m" id="gtMeta"></span><p id="gtStudy"></p></div>
@@ -31,7 +32,7 @@
   const panel = $('globe'), view = $('gView'), ctx = view.getContext('2d');
 
   /* ---------- data: buildings with a known position, best known first ---------- */
-  let items = [], LAND = null, DETAIL = null, detailLoading = false, labels = [], ready = null;
+  let all = [], items = [], LAND = null, DETAIL = null, detailLoading = false, labels = [], ready = null;
   const thumbs = new Map(); // id -> Image, loaded only for photos on screen
   function load() {
     if (ready) return ready;
@@ -39,10 +40,11 @@
     const json = f => fetch('data/map/' + f).then(r => r.json());
     ready = Promise.all([script, json('land110.json'), json('labels.json'), json('order.json').catch(() => [])]).then(([, land, lab, order]) => {
       const rank = new Map(order.map((id, i) => [id, i]));
-      items = DA.ALL.filter(b => b.coords && b.images && b.images.length).map(b => {
+      all = DA.ALL.filter(b => b.coords && b.images && b.images.length).map(b => {
         const la = b.coords[0] * Math.PI / 180, lo = b.coords[1] * Math.PI / 180;
         return { b, lat: b.coords[0], lon: b.coords[1], vx: Math.cos(la) * Math.cos(lo), vy: Math.cos(la) * Math.sin(lo), vz: Math.sin(la), r: rank.has(b.id) ? rank.get(b.id) : 1e9 };
       }).sort((a, c) => a.r - c.r);
+      items = all.filter(it => DA.matches(it.b));
       LAND = pieces(land);
       labels = lab.map(l => { const a = l[2] * Math.PI / 180, o = l[1] * Math.PI / 180; return { name: l[0].toUpperCase(), lon: l[1], lat: l[2], size: l[3], vx: Math.cos(a) * Math.cos(o), vy: Math.cos(a) * Math.sin(o), vz: Math.sin(a) }; });
     });
@@ -227,7 +229,7 @@
       V.k = it ? (t < .5 ? k0 + (mid - k0) * d3.easeCubicOut(t * 2) : mid + (k1 - mid) * d3.easeCubicIn((t - .5) * 2)) : k0 + (k1 - k0) * e;
       clampView(); draw();
       flight = t < 1 ? requestAnimationFrame(step) : 0;
-      if (t >= 1 && it) card(it);
+      if (t >= 1 && it && !it.quiet) card(it);
     };
     flight = requestAnimationFrame(step);
   }
@@ -313,7 +315,16 @@
 
   /* ---------- open and close ---------- */
   const isOpen = () => !panel.hidden;
+  // the map sits under the top bar and the ideas row, so search, filters and ideas stay in reach
+  function place() {
+    document.body.classList.remove('ideas-away');
+    const bar = document.querySelector('.bar');
+    const below = bar.getBoundingClientRect().bottom; // the ideas row floats over the top of the map
+    panel.style.top = Math.max(0, Math.round(below)) + 'px';
+  }
   async function openMap() {
+    if (DA.state.mode === 'books') return;
+    place();
     panel.hidden = false; document.body.classList.add('mapped');
     requestAnimationFrame(() => panel.classList.add('in'));
     await load();
@@ -323,14 +334,41 @@
       GRAT = d3.geoGraticule().step([15, 15]).extentMinor([[-180, -75], [180, 75]]).precision(1)();
     }
     resize();
+    $('gNone').hidden = items.length > 0;
+    if (items.length && items.length < all.length) fit();
   }
   function closeMap() {
-    panel.classList.remove('in'); document.body.classList.remove('mapped'); card(null);
+    panel.classList.remove('in'); document.body.classList.remove('mapped'); card(null); $('gNone').hidden = true;
     setTimeout(() => { if (!document.body.classList.contains('mapped')) panel.hidden = true; }, reduce() ? 0 : 320);
   }
   $('mapBtn').addEventListener('click', openMap);
   $('mapBack').addEventListener('click', closeMap);
-  addEventListener('resize', () => { if (isOpen()) resize(); });
+  addEventListener('resize', () => { if (isOpen()) { place(); resize(); } });
+  // search, filters and ideas change the wall: the map shows the same buildings and moves to fit them
+  let lastSet = '';
+  document.addEventListener('da:render', () => {
+    if (!all.length) return;
+    if (DA.state.mode === 'books') { if (isOpen()) closeMap(); return; }
+    items = all.filter(it => DA.matches(it.b));
+    const key = items.length + ':' + (items[0] ? items[0].b.id : '') + ':' + (items[items.length - 1] ? items[items.length - 1].b.id : '');
+    if (key === lastSet) return;
+    lastSet = key;
+    if (!isOpen()) return;
+    if (selected && !items.includes(selected)) card(null);
+    $('gNone').hidden = items.length > 0;
+    if (items.length && items.length < all.length) fit(); else dirty();
+  });
+  function fit() { // centre on where most of the buildings shown are, and zoom so most of them fit
+    const sample = items.slice(0, 300);
+    let seed = sample[0], most = -1;
+    for (const a of sample) { let n = 0; for (const o of sample) if (a.vx * o.vx + a.vy * o.vy + a.vz * o.vz > .94) n++; if (n > most) { most = n; seed = a; } }
+    let x = 0, y = 0, z = 0;
+    for (const o of items) if (seed.vx * o.vx + seed.vy * o.vy + seed.vz * o.vz > .8) { x += o.vx; y += o.vy; z += o.vz; }
+    const n = Math.hypot(x, y, z) || 1, c = [Math.atan2(y, x) * 180 / Math.PI, Math.asin(z / n) * 180 / Math.PI];
+    const d = items.map(it => d3.geoDistance(c, [it.lon, it.lat])).sort((a, b) => a - b), th = Math.max(.03, d[Math.floor((d.length - 1) * .75)]);
+    const k = th > 1.1 ? 1 : Math.min(60, .9 / Math.sin(th));
+    fly({ lon: c[0], lat: c[1], quiet: true }, k);
+  }
   document.addEventListener('keydown', e => { if (e.key === 'Escape' && isOpen() && $('sheet').hidden) closeMap(); });
   // Surprise me on the map: fly to a well-known building and show the small card (the wall's own Surprise me is untouched)
   document.addEventListener('click', e => {
