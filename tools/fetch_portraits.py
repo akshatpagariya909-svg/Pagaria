@@ -150,6 +150,12 @@ def strip(s):
     return re.sub(r'\s+', ' ', html.unescape(re.sub(r'<[^>]+>', ' ', s))).strip()
 
 
+def credit_name(c):
+    """The photographer's name without web addresses (Commons often gives a Flickr or personal URL as the author)."""
+    c = re.sub(r'\s+', ' ', re.sub(r'https?://\S+|www[.#]\S+', '', c)).strip(' ,;:-')
+    return c or 'Unknown author'
+
+
 def main():
     text = DATA.read_text()
     buildings = json.loads(text[text.index('['):text.rindex(']') + 1])
@@ -224,7 +230,7 @@ def main():
                 'thumb': ii.get('thumburl'),
                 'source': ii.get('descriptionurl'),
                 'license': strip(em.get('LicenseShortName', {}).get('value')),
-                'credit': strip(em.get('Artist', {}).get('value'))[:80],
+                'credit': credit_name(strip(em.get('Artist', {}).get('value')))[:80],
             }
         time.sleep(0.3)
 

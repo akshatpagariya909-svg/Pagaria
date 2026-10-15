@@ -22,7 +22,7 @@ Buildings in tools/illustrate/rejected.txt (one id per line, # for notes) are le
 Writes tools/illustrate/fetch_ids.txt: the buildings that need fetch_images.py --only.
 Afterwards run tools/fit_drawings.py, which fits the drawings above the wall tile's caption.
 """
-import argparse, json, shutil, sys
+import argparse, json, re, shutil, sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -58,11 +58,19 @@ def main():
     ids = {b['id'] for b in items}
     same = lambda cat, year: (str(cat or '').replace('Category:', '').strip().lower(), str(year)[:4])
     have_cat = {same(b['commons'], b['year']) for b in items if b.get('commons')}  # the same building under another name
+    words = lambda n: {w for w in re.sub(r'[^a-z0-9 ]', ' ', fold(n)).split() if len(w) > 2 and w not in {'the', 'and', 'building', 'mausoleum', 'museum', 'house', 'hall'}}
+    sig = lambda by, year, place: (((by or '').split(',')[0].split('(')[0].split()[-1:] or [''])[0].lower(), str(year)[:4], place)
+    have_sig = {}  # architect's surname, year and place: the same building with its name worded differently
+    for b in items:
+        have_sig.setdefault(sig(b['by'], b['year'], b['place']), []).append(words(b['name']))
+    def reworded(c):
+        w = words(c['name'])
+        return any(w and o and len(w & o) / min(len(w), len(o)) >= 0.6 for o in have_sig.get(sig(c['by'], c['year'], f"{c['city']}, {c['cc']}"), []))
     added, fetch, left = [], [], []
     for i, c in cands.items():
         r = results.get(i, {'status': 'unsure', 'note': 'not checked yet'})
         if i in ids or fold(c['name']) in have or (c.get('qid') and c['qid'] in have) \
-                or (r.get('commons_category') and same(r['commons_category'], c['year']) in have_cat):
+                or (r.get('commons_category') and same(r['commons_category'], c['year']) in have_cat) or reworded(c):
             continue
         svg = IL / 'svg' / f'{i}.svg'
         if i in rejected or r['status'] not in ('drawn', 'photo') or (r['status'] == 'drawn' and not svg.exists()):

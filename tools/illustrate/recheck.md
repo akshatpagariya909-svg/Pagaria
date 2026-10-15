@@ -123,3 +123,6 @@ From the illustration rounds (Oct 2026): Commons has free photos, but the one th
 | Kröller-Müller Museum | Henry van de Velde | Otterlo, NL |
 | Abrahamic Family House | Adjaye Associates | Abu Dhabi, AE |
 | Heroes' Acre | Mansudae Overseas Projects | Windhoek, NA |
+| Baku Olympic Stadium | TOCA, Heerim, Rossetti | Baku, AZ |
+| La Pyramide | Rinaldo Olivieri | Abidjan, CI |
+| Turkish Historical Society | Turgut Cansever, Ertur Yener | Ankara, TR |

@@ -19774,5 +19774,13 @@
    "File:Rue de l'art, Cali 21.jpg",
    "File:Rue de l'art, Cali 22.jpg"
   ]
+ },
+ "chapel-of-st-ignatius": {
+  "add": [
+   "File:University Chapel 205.jpg"
+  ],
+  "skip": [
+   "File:Seattle U St Ignatius 45.jpg"
+  ]
  }
 }

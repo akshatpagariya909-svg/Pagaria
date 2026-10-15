@@ -146,3 +146,9 @@ belgian-comic-strip-center-brussels  # rescue round 1: only an interior with a b
 alley-theatre  # rescue round 1: only the sign on a door
 al-irsyad-mosque  # rescue round 1: still only a silhouette of a child
 al-janoub-stadium  # rescue round 1: still only a man in front of a sign
+mausoleum-of-omar-khayyam  # duplicate of omar-khayyam-mausoleum (tester, 15 Oct)
+paul-rudolph-hall  # duplicate of yale-art-and-architecture-building (tester, 15 Oct)
+children-s-surgical-hospital-entebbe  # duplicate of entebbe-children-s-surgical-hospital (tester, 15 Oct)
+baku-olympic-stadium  # tester report 15 Oct: only night shots from inside the stands during a match
+la-pyramide  # tester report 15 Oct: no clear photo of the pyramid: a pavement, a night silhouette, a sign
+turkish-historical-society  # tester report 15 Oct: only meeting and crowd photos and an Istanbul street corner; one interior

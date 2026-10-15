@@ -563,7 +563,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Steven_Holl.jpg/250px-Steven_Holl.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Steven_Holl.jpg",
    "license": "CC BY 2.0",
-   "credit": "http://www#flickr#com/people/123734360@N08 Museum of Contemporary Art Kiasma# fr"
+   "credit": "Flickr user 123734360@N08"
   },
   "Q381978": {
    "name": "Auguste Perret",
@@ -1581,7 +1581,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Boehm_paul_architekt_k%C3%B6ln_020707.jpg/250px-Boehm_paul_architekt_k%C3%B6ln_020707.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Boehm_paul_architekt_k%C3%B6ln_020707.jpg",
    "license": "CC BY-SA 3.0",
-   "credit": "Hans Peter Schaefer, http://www.reserv-a-rt.de"
+   "credit": "Hans Peter Schaefer"
   },
   "Q771145": {
    "name": "Kamran Diba"
@@ -2829,7 +2829,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Randall_Stout.jpg/250px-Randall_Stout.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Randall_Stout.jpg",
    "license": "CC BY-SA 2.0",
-   "credit": "https://www.flickr.com/photos/sahlgoode/"
+   "credit": "sahlgoode (Flickr)"
   },
   "Q1931256": {
    "name": "Ernest Hébrard",
@@ -3902,7 +3902,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Neues_Rathaus_Hannover_2013.jpg/250px-Neues_Rathaus_Hannover_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Neues_Rathaus_Hannover_2013.jpg",
    "license": "CC BY-SA 3.0 de",
-   "credit": "Thomas Wolf, www.foto-tw.de"
+   "credit": "Thomas Wolf"
   },
   "Q1555905": {
    "name": "Gustav Halmhuber",
@@ -4097,7 +4097,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Ong-ard_cropped.jpg/250px-Ong-ard_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Ong-ard_cropped.jpg",
    "license": "CC BY-SA 4.0",
-   "credit": "https://commons.wikimedia.org/w/index.php?title=User:Ong-ard_architects&action=e"
+   "credit": "Ong-ard Architects"
   },
   "Q18811070": {
    "name": "Federico Ilustre"
@@ -4332,7 +4332,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Frida_Escobedo.jpg/250px-Frida_Escobedo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Frida_Escobedo.jpg",
    "license": "CC BY 2.0",
-   "credit": "https://www.flickr.com/people/gsapponline/"
+   "credit": "Columbia GSAPP (Flickr)"
   },
   "Q18639793": {
    "name": "Hijjas Kasturi"
@@ -4404,7 +4404,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Portrait_d%27Elizabeth_de_Portzamparc.png/250px-Portrait_d%27Elizabeth_de_Portzamparc.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Portrait_d%27Elizabeth_de_Portzamparc.png",
    "license": "CC BY 2.5",
-   "credit": "http://stevemurez.com/"
+   "credit": "Steve Murez"
   },
   "Q3579849": {
    "name": "Édouard François"
