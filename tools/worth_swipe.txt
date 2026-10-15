@@ -1,0 +1,154 @@
+# Worth the swipe: hand decisions on which buildings get photo dots (see tools/worth_swipe.py).
+# "- id  reason" drops a building the rule picks; "+ id  reason" adds one it misses.
+# Check by eye on 15 Oct 2026: contact sheets of all 451 candidates.
+- farnsworth-house  near-duplicate distant exteriors
+- fau-usp-building  blurry interior, event photo, washed-out detail
+- jewish-museum-berlin  interiors are exhibits, not the voids
+- katsura-imperial-villa  mostly garden, tourists, dark shots
+- 30-st-mary-axe  no real interior, one shows another tower
+- commerzbank-tower  interiors are artworks, repeated tower views
+- yad-vashem-holocaust-history-museum  sign wall, dark memorial, exhibit model
+- national-congress-of-brazil  dark night shots, lobby with people
+- fondation-louis-vuitton  duplicate water close-ups, art gallery interior
+- national-september-11-memorial  dull, trees and pavement
+- curutchet-house  near-duplicate facades
+- goetheanum  three identical exteriors, dark interiors
+- marina-city  thin set, night skyline is not the building
+- rusakov-workers-club  washed-out, model, unclear detail
+- crypt-of-colonia-guell  bird on fence, trees hide building
+- schindler-house  old dark B&W scans
+- looshaus  horse carriage, posterised graphic, dark interior
+- royal-festival-hall  distant views, night crowd, model
+- hotel-tassel  duplicate stair photos, near-duplicate bays
+- shukhov-tower  duplicate views, interior is trees
+- calouste-gulbenkian-museum  plaque and sign board photos
+- torres-del-parque  tiny dark main, bullring is another building
+- orquideorama-medellin-botanical-garden  other building, tree close-up
+- washington-dulles-airport-terminal  duplicate mobile-lounge scans, dark model
+- gateway-arch  visitor centre, sepia scan, unclear views
+- robie-house  bathroom fixtures, dull
+- toronto-dominion-centre  near-duplicates, thin set
+- fogo-island-inn  foggy, graveyard view, messy room
+- borobudur  old scan, replica model, drawings only
+- jean-marie-tjibaou-cultural-centre  blurry photo, traditional hut not the building
+- willis-building  tube station interior, distorted reflection
+- grande-arche  never shows the arch, people as subject
+- park-guell  furniture, collage, objects
+- fondazione-prada  sculpture, man, Venice palazzo (other building)
+- kingo-houses  small, dull set; house-number and weed close-ups
+- estonian-national-museum  broken strip photo, wooden object, other building
+- registan  stalls with people, man lying on bench, unclear stairs
+- the-shard  same skyline view over and over, no real inside
+- dancing-house  inside shots are crowded restaurant
+- turning-torso  foggy distant views; inside is another building
+- jewel-changi-airport  shops and crowds
+- john-hancock-tower  repeated exteriors, dark, no inside
+- marina-bay-sands  near-duplicate views, sculptures in close-up
+- sanskar-kendra  photos of objects, not the building
+- kaiser-wilhelm-memorial-church  old church mosaics, old scan, Legoland miniature
+- willow-tearooms  menu scan, shopfronts
+- esplanade-theatres-on-the-bay  night skylines, can't see building
+- derzhprom  dark night shots, unclear views
+- rashtrapati-bhavan  gates and treehouse, not the building
+- anahuacalli-museum  dark, display of objects
+- palacio-salvo  radio sign, postcard
+- gardens-by-the-bay-cooled-conservatories  supertrees, tiny aerial, site model
+- one-central-park  street scene, shopping mall, unclear
+- rmit-storey-hall  near-duplicates, too few views
+- wohnpark-alt-erlaa  ditch near-duplicates, tiny strip
+- slovak-radio-building  four near-identical views, car sign
+- vivocity  shops and people
+- tokyo-skytree  advertising, miniature park model
+- zizkov-television-tower  church instead, unclear courtyard
+- london-eye  near-duplicates, Lego model
+- basilica-of-the-annunciation  old scan, dark, sign board
+- bt-tower  night street, distant view, miniature
+- istanbul-modern  sculpture, person in lift, unclear
+- crucible-theatre  crowd, snooker event, sculpture
+- national-museum-of-saudi-arabia  exhibits and door objects
+- shakespeare-s-globe  film crew, near-duplicate exteriors
+- grand-theatre-de-quebec  artwork wall, art installation
+- china-pavilion-expo-2010  dark and unclear, gate object
+- sansad-bhavan-old-parliament-house  group photo, postcard, plain wall
+- torre-de-collserola  other city view, unclear, sign board
+- hirshhorn-museum-and-sculpture-garden  people at laptops, library shelves
+- eiffel-tower  statue, engraving scan, miniature
+- 330-north-wabash  shows Trump Tower instead
+- jay-pritzker-pavilion  skyline, garden, thin strip
+- one-chase-manhattan-plaza-28-liberty-street  skylines, building not visible
+- concertgebouw  four near-identical facades, miniature
+- casa-calvet  three near-identical doorways, miniature
+- federal-chancellery  crowd shot, distant treescape
+- gewandhaus  dark near-duplicate exteriors, dull
+- vienna-state-opera  dark screen interior, old scan
+- ids-center  gold tower is not IDS, bank ATM interior
+- carnegie-hall  interiors are near-duplicate exteriors
+- ocbc-centre  construction and car shots, sculpture close-up
+- national-museum-of-finland  fire, light-show event, plaque
+- flame-towers  all distant city views
+- city-hochhaus-leipzig  aerial city and silhouette, no real views
+- palace-of-nations  flag avenue duplicates, tiny scan, gate
+- whitney-museum-of-american-art  interiors are artworks
+- art-institute-of-chicago-modern-wing  mostly the old building, not the Modern Wing
+- bellesguard  interior shows another building, gate
+- m  construction site and hoarding shots
+- athens-olympic-stadium-roof  satellite image, pool and arena are other venues
+- mikhailovsky-palace-russian-museum  one photo is another palace, repeat facades
+- galeries-lafayette-berlin  all exteriors, sign, no interior
+- 2-willow-road  near-duplicate facades, no interior
+- documentation-center-nazi-party-rally-grounds  duplicates, Congress Hall, old model
+- mcgraw-hill-building  interiors are other modern towers
+- palace-of-justice  scaffolding, railway view, old scan
+- urania  repeat river views, cafe front
+- palmolive-building  Hancock Center shots, postcard
+- rainier-tower  aerial duplicates, other towers
+- wrigley-building  skyline and aerial, painting, little of the building
+- museum-of-east-asian-art  duplicate garden shots, sculpture
+- academy-of-arts-hanseatenweg  dull small views, sculpture
+- artscience-museum  dark neon sign, distant views
+- palace-of-justice-punjab-and-haryana-high-court  tapestry and dark interior, duplicate fronts
+- centre-for-earth-architecture  five photos are a pagoda forest
+- scuola-fagnano-olona  several photos show other buildings
+- curtain-wall-house  five photos are the Tower of London
+- musee-arles-antique  exhibits and artefacts, not architecture
+- teatro-regio-turin  car display in foyer, old-theatre drawings
+- velodrom-berlin  track close-ups, concert event, tiny exterior
+- notre-dame-de-lourdes-casablanca  dark wall photo, grotto
+- ecole-de-plein-air-suresnes  globe sculpture dominates, no real interior
+- kaufhaus-schocken-chemnitz  aerial city, exhibit floor, shopfront
+- manufacturers-trust-company-building  interiors are a shop with goods
+- first-christian-church-columbus  interiors are repeat exteriors
+- emerson-college-los-angeles  three photos are Emerson buildings in Boston
+- belarusian-memorial-chapel  near-duplicate exteriors, one under scaffolding
+- most-snp-bratislava  inside shots are restaurant tables, blurry
+- stockholm-concert-hall  two collage images, repeats of the wall photo
+- tautra-mariakloster  a ruin wall, faint plan scan
+- chiang-kai-shek-memorial-hall  four near-identical front views
+- wah-fu-estate  dark silhouette duplicates, night crowd
+- academy-of-arts-pariser-platz  one photo shows Hotel Adlon, not this building
+- berlin-hauptbahnhof  inside photos are only U-Bahn entrances
+- kunstmuseum-bonn  one photo shows the Bundeskunsthalle, not this building
+- biblioteca-cantonale-lugano  all exteriors, trees hide building, dull
+- harry-and-penelope-seidler-house  near-duplicate pairs, heritage map document
+- palais-de-tokyo  art installations, two old b&w photos
+- custom-house-dublin  no inside, night duplicates, distant views
+- castell-coch  no inside, distant shot, museum model
+- royal-liver-building  wall photo is the Port of Liverpool Building, no inside
+- wollaton-hall  similar exteriors, plan and elevation are photographed book pages
+- eltham-palace-courtauld-house  inside is a basement exhibit, garden shots
+- tower-bridge  distant shots, one shows another bridge
+- one-woodward-avenue  near-duplicate small shots, dark night, sculpture
+- cleo-rogers-memorial-library  two faded old slides, people reading
+- terrace-plaza-hotel  three postcards
+- norton-simon-museum  interiors about sculptures, dull set
+- het-nieuwe-instituut-rotterdam  interiors are archive shelves and objects
+- olympic-stadium-amsterdam  old b&w photos, thin panorama, dull
+- gyongyos-synagogue  unclear interior, near-duplicate doorways
+- cec-palace-bucharest  near-identical front views, no inside
+- ananta-samakhom-throne-hall  four near-identical front views, model of area
+- republican-palace-baghdad  interiors about murals, aerial
+- great-synagogue-tel-aviv  two old b&w photos, plaque object
+- shrine-of-the-bab  mostly gardens, inside is objects and flowers
+- hawa-mahal  duplicate photos, famous facade barely shown
+- frere-hall  all exteriors, repeats, dull
+- johannesburg-art-gallery  duplicate photos, same portico repeated
