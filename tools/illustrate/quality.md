@@ -69,3 +69,14 @@ Galleries are still the weak spot: 348 off-topic pictures (tourists, plaques, ot
 | Ordinary types | 3 of 89 (3%); Carlton Centre held back | fine |
 
 110 off-topic gallery pictures out; 26 buildings got a better lead from their own gallery.
+
+## Gallery clean-up (15 Oct 2026), after the owner's and tester's reports
+
+Every gallery photo on the wall was checked again (13,471 photos from rounds 1–6 by seven Sonnet helpers, every flag then checked by eye; every round 7–8 main photo re-checked by eye with the stricter rule).
+
+- 1,626 photos taken out: people, events, sculptures, paintings, objects, signs, streets and unrelated views. 269 interiors that were labelled "Exterior" were relabelled.
+- 193 buildings got a new main photo of the building itself, chosen from their own gallery.
+- 54 buildings came off the wall because no photo shows the building (listed in `recheck.md`; the photo rescue looks for them later). Of these, 14 were added in rounds 7–8.
+- 3 duplicates merged (Omar Khayyam mausoleum, Yale A&A Building, Entebbe hospital); `add_illustrated.py` now also catches the same architect, year and place under reworded names.
+
+What went wrong in rounds 7–8: the review looked at leads and galleries in one pass, at small size, and let through main photos where the building was small, far off, at night or seen from inside a stadium. From now on a main photo must show the whole building from outside, in daylight, as the clear subject; a building whose only photos fail this stays off the wall.

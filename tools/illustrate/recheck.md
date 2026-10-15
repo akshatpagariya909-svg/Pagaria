@@ -126,3 +126,52 @@ From the illustration rounds (Oct 2026): Commons has free photos, but the one th
 | Baku Olympic Stadium | TOCA, Heerim, Rossetti | Baku, AZ |
 | La Pyramide | Rinaldo Olivieri | Abidjan, CI |
 | Turkish Historical Society | Turgut Cansever, Ertur Yener | Ankara, TR |
+| Bahrain National Theatre | Architecture-Studio | Manama, BH |
+| Matmut Atlantique | Herzog & de Meuron | Bordeaux, FR |
+| National Library of Belarus | Mikhail Vinogradov, Viktor Kramarenko | Minsk, BY |
+| Institut du Monde Arabe | Jean Nouvel | Paris, FR |
+| Coconut Palace | Francisco Manosa | Pasay, PH |
+| National Commercial Bank | Gordon Bunshaft | Jeddah, SA |
+| Sheikh Zayed Grand Mosque | Yusef Abdelki | Abu Dhabi, AE |
+| Lyon-Saint-Exupéry TGV Station | Santiago Calatrava | Colombier-Saugnieu, FR |
+| Neues Museum | David Chipperfield | Berlin, DE |
+| Hilton Athens | Prokopis Vassiliadis, Emmanouil Vourekas, Spyros Staikos | Athens, GR |
+| Villa Shodhan | Le Corbusier | Ahmedabad, IN |
+| Pearl Palace | William Wesley Peters | Karaj, IR |
+| Smithdon High School | Alison and Peter Smithson | Hunstanton, GB |
+| Dongdaemun Design Plaza | Zaha Hadid | Seoul, KR |
+| Stadium 974 | Fenwick Iribarren Architects | Doha, QA |
+| Church of the Holy Sacrifice | Leandro Locsin | Quezon City, PH |
+| Bibliothèque nationale de France | Dominique Perrault | Paris, FR |
+| Maison Planeix | Le Corbusier | Paris, FR |
+| Frey House II | Albert Frey | Palm Springs, US |
+| San Francisco Museum of Modern Art | Mario Botta | San Francisco, US |
+| Al Bayt Stadium | Dar Al-Handasah | Al Khor, QA |
+| Maison du Brésil | Le Corbusier and Lúcio Costa | Paris, FR |
+| Tuwaiq Palace | Frei Otto, Buro Happold | Riyadh, SA |
+| Israel Museum | Alfred Mansfeld and Dora Gad | Jerusalem, IL |
+| Folk Arts Theater | Leandro Locsin | Pasay, PH |
+| National Museum of Anthropology | Pedro Ramírez Vázquez | Mexico City, MX |
+| Arcadia Education Project | Saif Ul Haque | South Kanarchar, BD |
+| Chaktomuk Conference Hall | Vann Molyvann | Phnom Penh, KH |
+| Villa Baizeau | Le Corbusier | Carthage, TN |
+| Bihar Museum | Maki and Associates, Opolis | Patna, IN |
+| Jinchokan Moriya Historical Museum | Terunobu Fujimori | Chino, JP |
+| Casa das Canoas | Oscar Niemeyer | Rio de Janeiro, BR |
+| Weizmann House | Erich Mendelsohn | Rehovot, IL |
+| Linnahall | Raine Karp | Tallinn, EE |
+| National Library of Latvia | Gunnar Birkerts | Riga, LV |
+| Maison La Roche | Le Corbusier, Pierre Jeanneret | Paris, FR |
+| Palau Municipal d'Esports de Badalona | Esteve Bonell, Francesc Rius | Badalona, ES |
+| Maison Jean Prouvé | Jean Prouvé | Nancy, FR |
+| Qatar National Library | OMA | Doha, QA |
+| Quezon Memorial Shrine | Federico Ilustre | Quezon City, PH |
+| Al Thumama Stadium | Ibrahim M. Jaidah, Arab Engineering Bureau | Doha, QA |
+| University of Baghdad (Jadriyah campus) | Walter Gropius, Louis McMillen | Baghdad, IQ |
+| Tbilisi Circus | Nikolay Neprintsev, Vladimer Urushadze, Stepan Satunts | Tbilisi, GE |
+| Palm Springs Aerial Tramway | Albert Frey, John Porter Clark and Robson Chambers (Valley Station); E. Stewart Williams (Mountain Station) | Palm Springs, US |
+| National Museum of Iran (Iran Bastan Museum) | André Godard, Maxime Siroux | Tehran, IR |
+| Juventus Stadium | Hernando Suárez, Gino Zavanella, Giorgetto Giugiaro | Turin, IT |
+| Oita Stadium (Big Eye) | Kisho Kurokawa | Oita, JP |
+| Rhodes Memorial | Herbert Baker | Cape Town, ZA |
+| San Francesco al Fopponino | Gio Ponti | Milan, IT |

@@ -152,3 +152,52 @@ children-s-surgical-hospital-entebbe  # duplicate of entebbe-children-s-surgical
 baku-olympic-stadium  # tester report 15 Oct: only night shots from inside the stands during a match
 la-pyramide  # tester report 15 Oct: no clear photo of the pyramid: a pavement, a night silhouette, a sign
 turkish-historical-society  # tester report 15 Oct: only meeting and crowd photos and an Istanbul street corner; one interior
+al-bayt-stadium  # gallery scan 15 Oct: only match photos from inside the stands
+al-thumama-stadium  # gallery scan 15 Oct: only match photos from inside the stands
+arcadia-education-project  # gallery scan 15 Oct: only a far-off field, the building barely visible
+bahrain-national-theatre  # gallery scan 15 Oct: only a far skyline photo
+bibliotheque-nationale-de-france  # gallery scan 15 Oct: photos show the old Richelieu site and a sign, not the Perrault library
+bihar-museum  # gallery scan 15 Oct: only a close-up of an artwork
+casa-das-canoas  # gallery scan 15 Oct: only one small dark photo
+chaktomuk-conference-hall  # gallery scan 15 Oct: only an auditorium interior and a desk with a flag
+church-of-the-holy-sacrifice  # gallery scan 15 Oct: only paths under trees, the church not visible
+coconut-palace  # gallery scan 15 Oct: only a stone sign
+dongdaemun-design-plaza  # gallery scan 15 Oct: only one small night photo
+folk-arts-theater  # gallery scan 15 Oct: only a tree with a fence and a seating interior
+frey-house-ii  # gallery scan 15 Oct: only rocks and a pool, the house not shown
+hilton-athens  # gallery scan 15 Oct: only far city views
+institut-du-monde-arabe  # gallery scan 15 Oct: the photos show a park and a river, not the building
+israel-museum  # gallery scan 15 Oct: only exhibits, a tree and wires
+jinchokan-moriya-historical-museum  # gallery scan 15 Oct: the photos show a town and a shrine, not the museum
+linnahall  # gallery scan 15 Oct: photos show a chimney, the sea and lamp posts, not the hall
+lyon-saint-exupery-station  # gallery scan 15 Oct: only a departures board, trams and a detail
+maison-du-bresil  # gallery scan 15 Oct: only a sign and a model
+maison-jean-prouve  # gallery scan 15 Oct: only trees
+maison-la-roche  # gallery scan 15 Oct: only a terrace view and a diagram
+maison-planeix  # gallery scan 15 Oct: only a sign
+matmut-atlantique  # gallery scan 15 Oct: a stadium interior, a tram and a far aerial view
+national-commercial-bank  # gallery scan 15 Oct: only a dark night photo
+national-library-of-belarus  # gallery scan 15 Oct: only a far city view
+national-library-of-latvia  # gallery scan 15 Oct: only interiors and a far view across the river
+national-museum-of-anthropology  # gallery scan 15 Oct: only exhibits and a floor plan, no building view
+neues-museum  # gallery scan 15 Oct: only a far city view, an interior and an old print
+palau-municipal-d-esports-de-badalona  # gallery scan 15 Oct: only far city views
+pearl-palace  # gallery scan 15 Oct: dark photos with the building barely visible
+qatar-national-library  # gallery scan 15 Oct: only interiors and a model, no outside view
+quezon-memorial-shrine  # gallery scan 15 Oct: only a fountain at night and buses
+san-francisco-museum-of-modern-art  # gallery scan 15 Oct: only close-ups and an interior, no full view
+sheikh-zayed-grand-mosque  # gallery scan 15 Oct: only a far sunset silhouette and interiors
+smithdon-high-school  # gallery scan 15 Oct: only one small far photo
+stadium-974  # gallery scan 15 Oct: only a far skyline view
+tuwaiq-palace  # gallery scan 15 Oct: only one dark night photo
+villa-baizeau  # gallery scan 15 Oct: only far coastal views
+villa-shodhan  # gallery scan 15 Oct: only models, no photo of the house
+weizmann-house  # gallery scan 15 Oct: only trees, a path, interiors and a model
+juventus-stadium  # round 7-8 recheck 15 Oct: only one photo from inside the stands
+palm-springs-aerial-tramway  # round 7-8 recheck 15 Oct: only a cable car and a station interior
+national-museum-of-iran  # round 7-8 recheck 15 Oct: only dark close-ups of the entrance arch
+university-of-baghdad  # round 7-8 recheck 15 Oct: only an arch gate, not the campus buildings
+tbilisi-circus  # round 7-8 recheck 15 Oct: only a road with the building hidden behind trees
+rhodes-memorial  # round 7-8 recheck 15 Oct: only the view down its steps, not the memorial
+oita-stadium-big-eye  # round 7-8 recheck 15 Oct: only one small far photo
+san-francesco-al-fopponino  # gallery scan 15 Oct: no photo at all
