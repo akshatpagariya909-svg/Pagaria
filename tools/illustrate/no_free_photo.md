@@ -135,7 +135,6 @@ Not on the wall yet: no free photo on Wikimedia Commons, and no drawing of ours 
 | Small House | Kazuyo Sejima | 2000 | Tokyo, JP | No Commons photos. Known: Aoyama, Tokyo, 1999-2001; steel frame, concrete floor plates, glass enclosure; one use per floor (bedroom in the part basement, family room on the ground floor, bath and mesh-enclosed terrace on top), plate size set by each use, giving the bent section. Not drawn: plate sizes and the facet angles are not given. |
 | Minimum House (9-tsubo House) | Makoto Masuzawa | 1952 | Tokyo, JP | No Commons photos. Known: 1952, nine-tsubo footprint (about 5.4 m square), widely remade (e.g. by Makoto Koizumi, 1999). Not drawn: sources found don't describe the original roof or facade, and photos of the remakes would mislead. |
 | Gae House | Atelier Bow-Wow | 2003 | Tokyo, JP | No Commons photos. Known: basement, ground floor and first floor; an oversized pitched roof with deep eaves whose underside is glazed, lighting the first floor. Not drawn: the roof pitch, overhangs and wall heights are not given. |
-| Asia Culture Center | Kyu Sung Woo | 2015 | Gwangju, KR | lead photo still didn't show the building (Oct 13 review) |
 | World Peace Gate | Kim Chung-up | 1988 | Seoul, KR | lead photo didn't show the building; see recheck.md |
 | Jeju National University Main Building | Kim Chung-up | 1964 | Jeju, KR | Demolished 1996. Free photos of the museum model exist (good extras, could even serve as the image). I couldn't view them and my sources don't fix the elevation, so no drawing. 'Ship-like' is from general knowledge; verify. |
 | Kyobo Tower | Mario Botta | 2003 | Seoul, KR | No photo on Commons. Sources give two brick towers 18 m apart, a glass 'heart', a glass bridge near the top and 26 storeys, but not whether the gap is glazed full height, the width of each tower, or where windows sit in the brick. I drew a draft and withdrew it as too guessed. |
@@ -193,7 +192,6 @@ Not on the wall yet: no free photo on Wikimedia Commons, and no drawing of ours 
 | Morocco Pavilion, Expo 2020 Dubai | Oualalou + Choi | 2021 | Dubai, AE | No photo on Commons. How the 22 volumes stack is not described, so not drawn. Expo opened October 2021. |
 | Muttrah Fish Market | Snøhetta | 2017 | Muttrah, OM | Commons category exists but its files are Flickr photos from 2010, before Snøhetta's building (2017/2018), so they show the old market. Canopy shape not pinned down, so not drawn. |
 | Gaoligong Museum of Handcraft Paper | TAO (Hua Li) | 2010 | Tengchong, CN | No photo on Commons. Facts beyond the shortlist (materials, 2010, cluster of small volumes) are from memory and need checking; form not established, so not drawn. |
-| Baldwin Hills Village (Village Green) | Reginald D. Johnson; Wilson, Merrill & Alexander; Clarence S. Stein | 1942 | Los Angeles, US | lead photo still didn't show the building (Oct 13 review) |
 | General Motors Technical Center | Eero Saarinen and Associates with Smith, Hinchman & Grylls | 1956 | Warren, US | lead photo still didn't show the building (Oct 13 review) |
 | Philip Merrill Environmental Center | SmithGroup | 2001 | Annapolis, US | lead photo still didn't show the building (Oct 13 review) |
 | Tinggården | Tegnestuen Vandkunsten | 1978 | Herfølge, DK | No photo on Commons (File:KettingTinggården.JPG is a former inn in Ketting, a different place). Sources describe clusters, red-painted timber facades, yellow window frames and black timber stair towers, but not the roof shapes or the elevation, so not drawn. Vandkunsten's own project page couldn't be read from the sandbox. |
@@ -210,7 +208,6 @@ Not on the wall yet: no free photo on Wikimedia Commons, and no drawing of ours 
 | Department of Mathematics, Faculty of Mathematics and Physics | Bevk Perović arhitekti | 2006 | Ljubljana, SI | No Commons photo of this building (the architects' category holds others). Not drawn: form not established. Facts beyond the award are from memory; check. |
 | Evelyn Grace Academy | Zaha Hadid Architects | 2010 | London, GB | lead photo still didn't show the building (Oct 13 review) |
 | Children Village | Aleph Zero, Rosenbaum | 2017 | Formoso do Araguaia, BR | drawing too generic to read as the building (Oct 13 review) |
-| Burntwood School | Allford Hall Monaghan Morris | 2014 | London, GB | Commons has ~17 large geograph photos but all I checked were taken during demolition and construction (2013-14); none clearly shows the finished building (3800329 and 3800351 show the new pale block partly, behind rubble). Not drawn: I couldn't establish the massing of the several new blocks with confidence. Year 2014 from memory. |
 | Jacoby Studios | David Chipperfield Architects Berlin | 2020 | Paderborn, DE | No Commons photos found (searched Jacoby, St. Vincenz, Kapuzinerkloster Paderborn). Germany has freedom of panorama, so this is a gap waiting for an upload. Not drawn: sources give two- to three-storey concrete and timber wings around the cloister but not their elevations. |
 | Lianzhou Museum of Photography | O-office Architects | 2017 | Lianzhou, CN | No Commons photos. Not drawn: sources describe a folded roof canopy, a U-shaped new building of three to five levels round the retained warehouse, and grey shingle from demolished houses with local schist, but not the roof geometry precisely enough to draw. Also an RIBA International Award 2021 winner. |
 | John Morden Centre, Morden College | Mæ | 2022 | London, GB | Commons Category:Morden College has 2022 geograph photos (1024px) but those I checked show the old college buildings, not clearly the new centre; nothing names it. Not drawn: I couldn't find a reachable description of its form. Feature line is deliberately generic; type and concepts are best guesses from what it is, not from a source describing it - check before use. |
@@ -252,7 +249,6 @@ Not on the wall yet: no free photo on Wikimedia Commons, and no drawing of ours 
 | The Chapel | a21studio | 2014 | Ho Chi Minh City, VN | No photos on Commons. Not drawn: sources describe materials (reused steel frame and sheets, a tree-shaped steel column, three layers of printed fabric) but not the outer form. Year 2014 is the award year; completion may be 2013. |
 | Monument to the People's Heroes | Liang Sicheng, Lin Huiyin | 1958 | Beijing, CN | a monument, not a building (round 6 review) |
 | Anji Bridge (Zhaozhou Bridge) | Li Chun | 605 | Zhao County, CN | a bridge, not a building (round 6 review) |
-| Bagno Pubblico, Bellinzona | Aurelio Galfetti, Flora Ruchat-Roncati and Ivo Trümpy | 1970 | Bellinzona, CH | held back in round 6 review: no clear free photo of the building |
 | Rooftop Remodeling Falkestrasse | Coop Himmelb(l)au | 1988 | Vienna, AT | No free photo: the Commons category exists but is empty, and searches found none (Austria has freedom of panorama, so this is an upload gap, and the rooftop is hard to see from the street). Not drawn: the form is a complex 3D tangle that an elevation would misrepresent. Wikipedia: design began 1983, construction ended late 1988; 90 m2 conference room for a law firm; 'a parasitic structure'. A key early deconstructivist work, shown in MoMA's 1988 exhibition (general knowledge). |
 | Museum of the University of Navarra | Rafael Moneo | 2015 | Pamplona, ES | held back in round 6 review: no clear free photo of the building |
 | Cedro Primary School | Fernando Távora | 1960 | Vila Nova de Gaia, PT | held back in round 6 review: no clear free photo of the building |
@@ -262,7 +258,6 @@ Not on the wall yet: no free photo on Wikimedia Commons, and no drawing of ours 
 | Wiels (Blomme building) | Adrien Blomme | 1931 | Brussels, BE | no free photo: the Commons category holds only logos and portraits. |
 | Concertgebouw Brugge | Paul Robbrecht and Hilde Daem | 2002 | Bruges, BE | no free photo: category has concert-hall interiors and one wall detail only. |
 | Museum Boijmans Van Beuningen (1935 building) | Adriaan van der Steur | 1935 | Rotterdam, NL | no usable exterior in the first 50 files of the category (artworks and documents). |
-| Belgian Comic Strip Center (Magasins Waucquez) | Victor Horta | 1906 | Brussels, BE | one exterior façade photo found but not confirmed to be this building; no other exterior. |
 | Old England building (Musical Instruments Museum) | Paul Saintenoy | 1899 | Brussels, BE | no free exterior photo found: category files are instruments. |
 | Audain Art Museum | Patkau Architects | 2016 | Whistler, CA | no usable free exterior photo found in the Commons category by file name; reviewer may find one |
 | First Canadian Place | Bregman + Hamann Architects, Edward Durell Stone & Associates | 1975 | Toronto, CA | round 7 quality watch: ordinary commercial tower, no source says why it matters to students |
@@ -327,7 +322,6 @@ Not on the wall yet: no free photo on Wikimedia Commons, and no drawing of ours 
 | Blue Cross-Blue Shield Building | C. F. Murphy Associates | 1968 | Chicago, US | round 7b review: lead photo is not clearly this building; others are skyline views |
 | Highfield House | Ludwig Mies van der Rohe | 1964 | Baltimore, US | round 7b review: the photos show other buildings (a cottage and churches), not Mies's tower |
 | One M&T Plaza | Minoru Yamasaki | 1967 | Buffalo, US | round 7b quality watch: ordinary commercial tower, no source says why it matters to students |
-| Aluminaire House | A. Lawrence Kocher and Albert Frey | 1931 | Palm Springs, US | no free photo; Commons category Aluminaire House empty |
 | Coachella Valley Savings No. 1 | E. Stewart Williams | 1955 | Palm Springs, US | no free photo; Commons category not found |
 | General Petroleum Building | Walter Wurdeman and Welton Becket | 1949 | Los Angeles, US | round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students |
 | Hangover House | William Alexander Levy | 1938 | Laguna Beach, US | no free photo; Commons category empty |
@@ -340,7 +334,6 @@ Not on the wall yet: no free photo on Wikimedia Commons, and no drawing of ours 
 | Hope Residence | John Lautner | 1979 | Palm Springs, US | no free photo (no Commons category found) |
 | Kronish House | Richard Neutra | 1955 | Beverly Hills, US | no free photo (category empty) |
 | Japan Center (San Francisco) | Minoru Yamasaki | 1968 | San Francisco, US | Category (also tried Japan Center, San Francisco) has no files clearly of the complex |
-| Alley Theatre | Ulrich Franzen | 1968 | Houston, US | round 7 review: no photo of the building: a sign, an actress, contact prints, a model plane |
 | Houston Bar Center Building | Eugene William Slater | 1966 | Houston, US | Only one free photo (Houston Bar Center.jpg, 2061x2403, CC BY-SA 4.0); not enough |
 | Marathon Oil Tower | Pierce Goodwin Alexander & Linville | 1983 | Houston, US | no free photo (category empty) |
 | Republic Center | Harrison & Abramovitz | 1954 | Dallas, US | Complex of three towers (1954/1964/1980); only 2 free photos, tower unclear |
@@ -359,12 +352,12 @@ Not on the wall yet: no free photo on Wikimedia Commons, and no drawing of ours 
 | Entenza House | Charles Eames, Ray Eames and Eero Saarinen | 1950 | Los Angeles, US | no free photo |
 | Obafemi Awolowo University | Arieh Sharon | 1967 | Ile-Ife, NG | Huge category of mostly phone photos; not clear which show Sharon's buildings. Year is first-building completion. Reviewer decide or drop. |
 | Nigerian National Christian Centre | Darchiwork Group | 2005 | Abuja, NG | no free photo |
+| Heroes' Acre | Mansudae Overseas Projects | 2002 | Windhoek, NA | round 8b review: no clear photo: a far hillside, dusk, and two gravestones |
 | Palais de la Nation | Marcel Lambrichs | 1960 | Kinshasa, CD | no free photo (only small or old images in category) |
 | Mohammed VI Polytechnic University | Ricardo Bofill, Elie Mouyal | 2017 | Benguerir, MA | no free photo; year is the 2017 inauguration |
 | Carlton Centre | Skidmore, Owings & Merrill with W. Rhodes-Harrison, Hoffe and Partners | 1973 | Johannesburg, ZA | round 8 quality watch: office tower chosen for height |
 | Cheongju National Museum | Kim Swoo-geun | 1987 | Cheongju, KR | no free photo: the only file in the Commons category is an interior under KOGL Type 1. The Kim Swoo-geun article dates the building 1979; the museum article says it opened in 1987. |
 | Tanabe Art Museum | Kiyonori Kikutake | 1979 | Matsue, JP | no free photo found in the Commons category (it returned no files). |
-| Ankara Ethnography Museum | Arif Hikmet Koyunoğlu | 1928 | Ankara, TR | no free photo. No free photo found directly in the category (files are in per-year subcategories; not checked). Article gives no features beyond architect and dates; features line and concepts are thin. |
 | Troy Museum | Yalın Mimarlık | 2018 | Çanakkale, TR | round 8 review: no exterior photo, only galleries inside |
 | TCDD General Headquarters Building | Bedri Uçar | 1941 | Ankara, TR | no free photo. Lead image is Free Art License, not allowed; no other photo checked. Movement label is a judgement (article calls the style grandiose, linked to fascist architecture). |
 | Istanbul University Faculty of Arts and Sciences Building | Sedad Hakkı Eldem, Emin Halid Onat | 1944 | Istanbul, TR | no free photo. No lead image; Commons category search found nothing. Not photo-checked further. |
@@ -384,14 +377,12 @@ Not on the wall yet: no free photo on Wikimedia Commons, and no drawing of ours 
 | Santos Dumont Airport | MMM Roberto (Marcelo, Milton and Mauricio Roberto) | 1945 | Rio de Janeiro, BR | no free photo; category had no files; none found by search |
 | Floralis Genérica | Eduardo Catalano | 2002 | Buenos Aires, AR | no free photo |
 | San Carlos Borromeo y Nuestra Señora de la Asunción | Juan Pablo Terra, with Eladio Dieste (structure) | 1956 | Montevideo, UY | no free photo |
-| Cathedral Basilica of Lima | Francisco Becerra, Juan Martínez de Arrona, Juan Rher, Matías Maestro | 1797 | Lima, PE | no free photo (only a night photo found) |
 | New Cathedral of Cuenca | Juan Bautista Stiehle | 1975 | Cuenca, EC | no free photo (only a GFDL detail photo found; needs a better free photo) |
 | Torre Colpatria | Obregón Valenzuela & Cía. | 1978 | Bogotá, CO | round 8 quality watch: ordinary commercial tower |
 | Museo de Arte Contemporáneo de Caracas | Nikolajs Sidorkovs (Siso & Shaw & Associates) | 1974 | Caracas, VE | no free photo |
 | Vigyan Bhawan | R. P. Gehlote (CPWD) | 1956 | New Delhi, IN | round 8 review: no clear photo: an entrance crowd, an award ceremony, a lectern |
 | New Parliament Building | Bimal Patel (HCP Design, Planning and Management) | 2023 | New Delhi, IN | no free photo: Commons files found are all GODL-India. |
 | National War Memorial | Yogesh Chandrahasan (WeBe Design Lab) | 2019 | New Delhi, IN | no good daylight photo seen: the ones I viewed were night shots or people-filled; many CC BY-SA files exist in the category for a reviewer to check. |
-| Dr. Bhimrao Ambedkar Memorial Park | Hafeez Contractor | 2008 | Lucknow, IN | no good daylight photo seen: viewed ones were night or dusk. Many large CC BY-SA files exist in the category (about 40+) for a reviewer to check. |
 | National Museum, New Delhi | Ganesh Bhikaji Deolalikar | 1960 | New Delhi, IN | no free photo found of the building exterior (category is mostly museum objects). |
 | Visvesvaraya Centre (VV Towers) | Charles Correa | 1983 | Bengaluru, IN | round 8 review: ordinary office towers; one photo shows another building |
 | Nita Mukesh Ambani Cultural Centre | TVS Design | 2023 | Mumbai, IN | no free photo in good light: the only file in the article and my search is a night shot with signage (File:2023-0329-nmacc-night.jpg, CC0); reviewer may check the Commons category for daylight exteriors. |

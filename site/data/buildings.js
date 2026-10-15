@@ -300485,5 +300485,293 @@ window.BUILDINGS = [
   ],
   "has": [],
   "gv": 3
+ },
+ {
+  "id": "baldwin-hills-village",
+  "n": 3375,
+  "name": "Baldwin Hills Village (Village Green)",
+  "by": "Reginald D. Johnson; Wilson, Merrill & Alexander; Clarence S. Stein",
+  "place": "Los Angeles, US",
+  "year": "1942",
+  "y": 1942,
+  "type": "Housing",
+  "movement": "Modernism",
+  "region": "Americas",
+  "era": "1900–1945",
+  "concepts": [
+   "Community",
+   "Landscape",
+   "Public space"
+  ],
+  "study": "A car-free superblock: low garden apartments face large shared greens, with garages kept to courts at the edge.",
+  "qid": null,
+  "commons": "Village Green (Los Angeles)",
+  "lead": "File:View of the Village Green.JPG",
+  "coords": null,
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/View_of_the_Village_Green.JPG/1280px-View_of_the_Village_Green.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/baldwin-hills-village/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Village Green in Los Angeles",
+    "credit": "Architectural Resources Group",
+    "license": "CC BY-SA 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:View_of_the_Village_Green.JPG",
+    "file": "File:View of the Village Green.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Baldwin_Hills_Village%2C_Office_Building.JPG/1280px-Baldwin_Hills_Village%2C_Office_Building.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/baldwin-hills-village/thumbs/2.webp",
+    "w": 1280,
+    "h": 877,
+    "kind": "Exterior",
+    "caption": "Exterior · Baldwin Hills Village, Office Building, 5300 Village Green, Baldwin Hills, Los Angeles, California",
+    "credit": "Los Angeles",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Baldwin_Hills_Village,_Office_Building.JPG",
+    "file": "File:Baldwin Hills Village, Office Building.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
+ },
+ {
+  "id": "bagno-pubblico-bellinzona",
+  "n": 3376,
+  "name": "Bagno Pubblico, Bellinzona",
+  "by": "Aurelio Galfetti, Flora Ruchat-Roncati and Ivo Trümpy",
+  "place": "Bellinzona, CH",
+  "year": "1970",
+  "y": 1970,
+  "type": "Culture & sport",
+  "movement": "Brutalism",
+  "region": "Europe",
+  "era": "1970–1990",
+  "concepts": [
+   "Promenade",
+   "Landscape",
+   "Exposed concrete"
+  ],
+  "study": "Public pools organised along one long walkway that runs from the town to the Ticino riverbank.",
+  "qid": null,
+  "commons": "Bagno Pubblico, Bellinzona",
+  "lead": "Bagno Pubblico (Bellinzona) II.jpg",
+  "coords": null,
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Bagno_Pubblico_%28Bellinzona%29_II.jpg/1280px-Bagno_Pubblico_%28Bellinzona%29_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bagno-pubblico-bellinzona/thumbs/2.webp",
+    "w": 1280,
+    "h": 850,
+    "kind": "Exterior",
+    "caption": "Exterior · Complesso immerso nel verde su una superficie totale di ca",
+    "credit": "WPestana",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bagno_Pubblico_(Bellinzona)_II.jpg",
+    "file": "File:Bagno Pubblico (Bellinzona) II.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Bagno_Pubblico_%28Bellinzona%29.jpg/1280px-Bagno_Pubblico_%28Bellinzona%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bagno-pubblico-bellinzona/thumbs/0.webp",
+    "w": 1280,
+    "h": 850,
+    "kind": "Exterior",
+    "caption": "Exterior · Vasca non nuotatori",
+    "credit": "WPestana",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bagno_Pubblico_(Bellinzona).jpg",
+    "file": "File:Bagno Pubblico (Bellinzona).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Bagno_Pubblico_%28Bellinzona%29_I.jpg/1280px-Bagno_Pubblico_%28Bellinzona%29_I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bagno-pubblico-bellinzona/thumbs/1.webp",
+    "w": 1280,
+    "h": 850,
+    "kind": "Exterior",
+    "caption": "Exterior · vasca olimpionica: 50m x 21m x 2m",
+    "credit": "WPestana",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bagno_Pubblico_(Bellinzona)_I.jpg",
+    "file": "File:Bagno Pubblico (Bellinzona) I.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
+ },
+ {
+  "id": "aluminaire-house",
+  "n": 3377,
+  "name": "Aluminaire House",
+  "by": "A. Lawrence Kocher and Albert Frey",
+  "place": "Palm Springs, US",
+  "year": "1931",
+  "y": 1931,
+  "type": "House",
+  "movement": "Modernism",
+  "region": "Americas",
+  "era": "1900–1945",
+  "concepts": [
+   "Prefabrication",
+   "Steel & glass",
+   "Pilotis"
+  ],
+  "study": "Roughly cubic, about 1,200 sq ft, on six columns; corrugated metal over steel angles.",
+  "qid": null,
+  "commons": null,
+  "lead": "File:Aluminaire House.png",
+  "coords": null,
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Aluminaire_House.png/1280px-Aluminaire_House.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/aluminaire-house/thumbs/0.webp",
+    "w": 1280,
+    "h": 1121,
+    "kind": "Exterior",
+    "caption": "Exterior · Aluminaire House, Palm Springs, California",
+    "credit": "Jweiss11",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Aluminaire_House.png",
+    "file": "File:Aluminaire House.png"
+   }
+  ],
+  "has": [],
+  "gv": 3
+ },
+ {
+  "id": "ankara-ethnography-museum",
+  "n": 3378,
+  "name": "Ankara Ethnography Museum",
+  "by": "Arif Hikmet Koyunoğlu",
+  "place": "Ankara, TR",
+  "year": "1928",
+  "y": 1928,
+  "type": "Museum",
+  "movement": "Regionalism",
+  "region": "Middle East",
+  "era": "1900–1945",
+  "concepts": [
+   "Stone",
+   "Courtyard",
+   "Monumentality"
+  ],
+  "study": "Designed by Arif Hikmet Koyunoğlu and built between 1925 and 1928.",
+  "qid": null,
+  "commons": "Ethnography Museum of Ankara",
+  "lead": "File:Ethnography Museum of Ankara.jpg",
+  "coords": null,
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Ethnography_Museum_of_Ankara.jpg/1280px-Ethnography_Museum_of_Ankara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/ankara-ethnography-museum/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Ethnography Museum of Ankara, Turkey",
+    "credit": "Bernard Gagnon",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ethnography_Museum_of_Ankara.jpg",
+    "file": "File:Ethnography Museum of Ankara.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
+ },
+ {
+  "id": "catedral-de-lima",
+  "n": 3379,
+  "name": "Cathedral Basilica of Lima",
+  "by": "Francisco Becerra, Juan Martínez de Arrona, Juan Rher, Matías Maestro",
+  "place": "Lima, PE",
+  "year": "1797",
+  "y": 1797,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "region": "Americas",
+  "era": "Before 1900",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Stone"
+  ],
+  "study": "Metropolitan Cathedral of Lima, completed 1797, the oldest and largest church in Peru.",
+  "qid": null,
+  "commons": "Cathedral of Lima",
+  "lead": "File:Catedral de Lima durante la noche de Jueves Santo.jpg",
+  "coords": null,
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Catedral_de_Lima_durante_la_noche_de_Jueves_Santo.jpg/1280px-Catedral_de_Lima_durante_la_noche_de_Jueves_Santo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/catedral-de-lima/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Vista en 3/4 de la Catedral de Lima",
+    "credit": "Bhonyx07",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Catedral_de_Lima_durante_la_noche_de_Jueves_Santo.jpg",
+    "file": "File:Catedral de Lima durante la noche de Jueves Santo.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
+ },
+ {
+  "id": "ambedkar-memorial-park-lucknow",
+  "n": 3380,
+  "name": "Dr. Bhimrao Ambedkar Memorial Park",
+  "by": "Hafeez Contractor",
+  "place": "Lucknow, IN",
+  "year": "2008",
+  "y": 2008,
+  "type": "Memorial",
+  "movement": "Contemporary",
+  "region": "South Asia",
+  "era": "2005–today",
+  "concepts": [
+   "Stone",
+   "Monumentality",
+   "Axis"
+  ],
+  "study": "Red sandstone memorial on 108 acres; 124 elephant statues flank the entrance, with an 80-foot pyramid-type structure.",
+  "qid": null,
+  "commons": "Ambedkar Memorial Park",
+  "lead": "Evening look of BR Ambedkar Memorial Park.jpg",
+  "coords": null,
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Evening_look_of_BR_Ambedkar_Memorial_Park.jpg/1280px-Evening_look_of_BR_Ambedkar_Memorial_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/ambedkar-memorial-park-lucknow/thumbs/1.webp",
+    "w": 1280,
+    "h": 961,
+    "kind": "Exterior",
+    "caption": "Exterior · BR Ambedkar Memorial Park",
+    "credit": "AJ12119",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Evening_look_of_BR_Ambedkar_Memorial_Park.jpg",
+    "file": "File:Evening look of BR Ambedkar Memorial Park.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Ambedkar_Memorial_Park_Gate.jpg/1280px-Ambedkar_Memorial_Park_Gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/ambedkar-memorial-park-lucknow/thumbs/0.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · This is the view of the gate for the central building present inside Ambedkar Memorial Park, Lucknow",
+    "credit": "SamuelDutta",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ambedkar_Memorial_Park_Gate.jpg",
+    "file": "File:Ambedkar Memorial Park Gate.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  }
 ];
