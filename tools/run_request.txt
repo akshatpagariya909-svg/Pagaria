@@ -1,2 +1,1 @@
-python -u tools/fetch_logos.py
-Fetch the Go deeper logos again; archINFORM falls back to its favicon when its home page answers 300 or 404.
+python -u tools/fetch_coords.py --limit 80
