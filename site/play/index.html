@@ -14,7 +14,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700..900&family=Barlow:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Barlow+Condensed:wght@500;600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="play.css?v=221474ab">
+<link rel="stylesheet" href="play.css?v=3021dda4">
 <script src="../analytics.js"></script>
 </head>
 <body>
@@ -23,10 +23,21 @@
   <div class="mode" role="group" aria-label="Which game">
     <button type="button" id="gDaily" aria-pressed="true">Daily five</button><span class="mode-line" aria-hidden="true"></span><button type="button" id="gEndless" aria-pressed="false">Endless</button>
   </div>
+  <button type="button" class="iconbtn" id="statsBtn" aria-label="Your stats"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 20V12M12 20V5M19 20v-9"/></svg></button>
   <a class="back" href="../" aria-label="Back to the wall"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 5l14 14M19 5 5 19"/></svg><span>Back to the wall</span></a>
 </header>
 <main id="game" class="game" aria-live="polite"></main>
+<div class="sheet" id="sheet" hidden>
+  <div class="sheet-card" role="dialog" aria-modal="true" aria-labelledby="sheetTitle">
+    <div class="sheet-head"><h2 id="sheetTitle">Your stats</h2><button type="button" class="iconbtn" id="sheetClose" aria-label="Close"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 5l14 14M19 5 5 19"/></svg></button></div>
+    <div id="sheetBody"></div>
+  </div>
+</div>
+<div class="toast" id="toast" role="status" hidden></div>
 <script src="../data/buildings.js?v=854ae775"></script>
-<script src="play.js?v=c75747d8"></script>
+<script src="../data/links.js?v=ae5ef7b7"></script>
+<script src="../data/architects.js?v=5d26b853"></script>
+<script src="../data/names.js?v=e4d2925e"></script>
+<script src="play.js?v=28d46e4a"></script>
 </body>
 </html>

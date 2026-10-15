@@ -266,7 +266,7 @@ def building_page(b, items):
     <a class="cta" href="{up}#{b['id']}">See it on the wall</a>
   </article>
 </main>
-{about_block(b)}<section class="block"><h2>Go deeper</h2><div class="links">{''.join(f'<a href="{e(u)}" rel="noopener"{"" if d else " class=" + chr(34) + "guess" + chr(34)}><span>{e(k)}</span>{e(n)} ↗</a>' for k, n, u, d in links(b))}</div></section>
+{about_block(b)}<section class="block"><h2>Go deeper</h2><div class="links">{''.join(f'<a href="{e(u)}" rel="noopener"{"" if d else " class=" + chr(34) + "guess" + chr(34)}><b class="lt"><span>{e(k)}</span>{e(n)} ↗</b>{logo_html(n, up)}</a>' for k, n, u, d in links(b))}</div></section>
 <section class="block"><h2>Drift onward</h2><div class="rel">{rel_html}</div></section>
 """
     return head + body + FOOT.format(up=up, total=TOTAL, css_v=CSS_V)
@@ -296,6 +296,19 @@ def redness(im):
     """How red/brick a photo is, so red buildings stay away from the red "Architecture."."""
     r, g, b = [sum(c) / len(c) for c in zip(*im.convert('RGB').resize((24, 16)).getdata())]
     return r - (g + b) / 2
+
+
+# Go deeper (v14 · A): each site's own icon, cut out in ink (site/images/logos/ink), red with its cell on hover.
+LOGOS = {'ArchDaily': 'archdaily.png', 'WikiArquitectura': 'wikiarquitectura.svg', 'Dezeen': 'dezeen.png', 'Divisare': 'divisare.png',
+         'archINFORM': 'archinform.png', 'Wikipedia': 'wikipedia.png', 'YouTube': 'youtube.png', 'Wikimedia Commons': 'commons.svg',
+         'Map': 'openstreetmap.svg'}
+GLOBE = '<svg class="lg" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.6 2.8 3.8 5.8 3.8 9s-1.2 6.2-3.8 9c-2.6-2.8-3.8-5.8-3.8-9S9.4 5.8 12 3z"/></svg>'
+
+
+def logo_html(n, up):
+    if n == 'Official website':
+        return GLOBE
+    return f'<i class="lg" aria-hidden="true" style="--m: url({up}images/logos/ink/{LOGOS[n]})"></i>' if n in LOGOS else ''
 
 
 def og_image(items):
@@ -336,18 +349,18 @@ def og_image(items):
 
 
 def icons():
-    """The tab and home-screen icon: a black F with the red full stop, on white."""
+    """The tab and home-screen icon: a black A (for Architecture) with the red full stop, on white (v19)."""
     from PIL import Image, ImageDraw, ImageFont
     for size, name in [(32, 'favicon.png'), (180, 'apple-touch-icon.png'), (512, 'icon-512.png')]:
         S = size * 4
         im = Image.new('RGB', (S, S), (255, 255, 255))
         d = ImageDraw.Draw(im)
         f = ImageFont.truetype(str(FONTS / 'BigShouldersDisplay-Black.ttf'), int(S * 0.86))
-        fw = d.textlength('F', font=f)
+        fw = d.textlength('A', font=f)
         dw = d.textlength('.', font=f)
         x = (S - fw - dw) / 2
-        y = S * 0.5 + f.getbbox('F')[3] * 0.5 - f.getbbox('F')[1] * 0.5
-        d.text((x, y), 'F', font=f, fill=INK, anchor='ls')
+        y = S * 0.5 + f.getbbox('A')[3] * 0.5 - f.getbbox('A')[1] * 0.5
+        d.text((x, y), 'A', font=f, fill=INK, anchor='ls')
         d.text((x + fw, y), '.', font=f, fill=RED, anchor='ls')
         im.resize((size, size), Image.LANCZOS).save(SITE / name)
 
@@ -362,13 +375,13 @@ def stamp_wall():
     instead of waiting for their cached copy to expire."""
     page = SITE / 'index.html'
     html = page.read_text()
-    for name in ('styles.css', 'data/buildings.js', 'data/links.js', 'data/architects.js', 'data/pritzker.js', 'data/filters.js', 'data/world.js', 'data/books.js', 'app.js', 'filter.js'):
+    for name in ('styles.css', 'data/buildings.js', 'data/names.js', 'data/links.js', 'data/architects.js', 'data/pritzker.js', 'data/filters.js', 'data/world.js', 'data/books.js', 'data/book_lines.js', 'app.js', 'filter.js'):
         html = re.sub(r'(["\'])' + re.escape(name) + r'(\?v=[0-9a-f]*)?\1', lambda m: f'{m.group(1)}{name}?v={fingerprint(SITE / name)}{m.group(1)}', html)
     page.write_text(html)
     play = SITE / 'play' / 'index.html'  # the game page: its own script and styles, and the buildings it asks about
     if play.exists():
         html = play.read_text()
-        for name, path in (('play.css', SITE / 'play' / 'play.css'), ('play.js', SITE / 'play' / 'play.js'), ('../data/buildings.js', SITE / 'data' / 'buildings.js')):
+        for name, path in (('play.css', SITE / 'play' / 'play.css'), ('play.js', SITE / 'play' / 'play.js'), ('../data/buildings.js', SITE / 'data' / 'buildings.js'), ('../data/links.js', SITE / 'data' / 'links.js'), ('../data/architects.js', SITE / 'data' / 'architects.js'), ('../data/names.js', SITE / 'data' / 'names.js')):
             html = re.sub(r'(["\'])' + re.escape(name) + r'(\?v=[0-9a-f]*)?\1', lambda m: f'{m.group(1)}{name}?v={fingerprint(path)}{m.group(1)}', html)
         play.write_text(html)
 
