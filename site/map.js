@@ -23,8 +23,8 @@
   <div class="g-zoom"><button type="button" id="gIn" aria-label="Zoom in">+</button><button type="button" id="gOut" aria-label="Zoom out">−</button></div>
   <div class="g-tip" id="gTip" hidden><span class="k" id="gtKind"></span><b id="gtName"></b><span class="m" id="gtMeta"></span><p id="gtStudy"></p></div>
   <div class="g-card" id="gCard" hidden>
-    <img id="gcImg" alt="">
-    <div class="tx"><span class="k" id="gcKind"></span><b id="gcName"></b><span class="m" id="gcMeta"></span>
+    <div class="g-ph"><div class="g-strip" id="gcStrip"></div><span class="dots" id="gcDots" aria-hidden="true"></span></div>
+    <div class="tx"><span class="k" id="gcKind"></span><b id="gcName"></b><span class="m" id="gcMeta"></span><p id="gcStudy"></p>
       <button type="button" class="open" id="gcOpen">Open the building →</button></div>
     <button type="button" class="x" id="gcX" aria-label="Close">✕</button>
   </div>
@@ -190,14 +190,24 @@
     $('gCard').hidden = !it;
     if (it) {
       const b = it.b;
-      $('gcImg').src = b.images[0].thumb; $('gcKind').textContent = `${b.type} · ${b.movement}`;
-      $('gcName').textContent = b.name; $('gcMeta').textContent = metaOf(b);
+      const ims = b.images.filter(im => !/drawing\.svg$/.test(im.src));
+      // every photo, side by side: swipe sideways through them; the dots say which one is showing
+      $('gcStrip').innerHTML = ims.map((im, k) => `<img src="${esc(im.thumb)}" alt="${k ? '' : esc(b.name)}" loading="${k ? 'lazy' : 'eager'}" decoding="async">`).join('');
+      $('gcStrip').scrollLeft = 0;
+      $('gcDots').innerHTML = ims.length > 1 ? ims.slice(0, 6).map((_, k) => `<i${k ? '' : ' class="on"'}></i>`).join('') : '';
+      $('gcKind').textContent = `${b.type} · ${b.movement}`;
+      $('gcName').textContent = b.name; $('gcMeta').textContent = metaOf(b); $('gcStudy').textContent = b.study || '';
     }
     dirty();
   }
   function open(it) { card(null); selected = it; dirty(); DA.open(it.b.id); }
   $('gcOpen').addEventListener('click', () => { if (selected) open(selected); });
   $('gcX').addEventListener('click', () => card(null));
+  $('gcStrip').addEventListener('scroll', () => {
+    const st = $('gcStrip'), k = Math.round(st.scrollLeft / st.clientWidth), dots = $('gcDots').children;
+    for (let j = 0; j < dots.length; j++) dots[j].classList.toggle('on', j === Math.min(k, dots.length - 1));
+  }, { passive: true });
+  $('gcStrip').addEventListener('click', () => { if (selected) open(selected); }); // tapping the photo itself opens the building
 
   /* ---------- moving: drag with a glide, pinch, wheel, double tap, + and −; a bounce at the smallest size ---------- */
   const ptrs = new Map();
@@ -273,7 +283,9 @@
       const [x, y] = local(e), it = hit(x, y), now = performance.now();
       if (!it && e.pointerType === 'touch' && lastTap && now - lastTap[0] < 320 && Math.hypot(x - lastTap[1], y - lastTap[2]) < 40) { lastTap = null; fly(null, V.k * 3, [x, y]); return; }
       lastTap = [now, x, y];
-      if (it) open(it); else card(null);
+      if (!it) card(null);
+      else if (e.pointerType === 'mouse') open(it); // a computer goes straight to the building
+      else card(it); // a phone first shows a small preview: swipe its photos, then open the building
       return;
     }
     if (performance.now() - last[2] < 80 && Math.hypot(vel[0], vel[1]) > 1) {
