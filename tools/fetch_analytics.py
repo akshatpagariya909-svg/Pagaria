@@ -19,21 +19,21 @@ SECTIONS = {  # name in latest.json -> endpoint
 }
 
 
-def get(path, **params):
+def get(path, attempts=5, timeout=40, **params):
     url = f'{API}/{path}?' + urllib.parse.urlencode(params)
     req = urllib.request.Request(url, headers={'Authorization': 'Bearer ' + os.environ['GOATCOUNTER_TOKEN'],
                                                'Accept': 'application/json', 'Content-Type': 'application/json', 'User-Agent': 'discoverarchitecture-analytics'})
-    for attempt in range(5):
+    for attempt in range(attempts):
         try:
-            with urllib.request.urlopen(req, timeout=40) as r:
+            with urllib.request.urlopen(req, timeout=timeout) as r:
                 return json.load(r)
         except urllib.error.HTTPError as e:
-            if e.code in (429, 500, 502, 503, 504) and attempt < 4:
+            if e.code in (429, 500, 502, 503, 504) and attempt < attempts - 1:
                 time.sleep(min(int(e.headers.get('Retry-After') or 5 * (attempt + 1)), 60))
                 continue
             raise SystemExit(f'GoatCounter said {e.code} for {path}: {short(e.read())}')
         except urllib.error.URLError as e:
-            if attempt < 4:
+            if attempt < attempts - 1:
                 time.sleep(5 * (attempt + 1))
                 continue
             raise SystemExit(f'Could not reach GoatCounter for {path}: {e}')
@@ -61,11 +61,6 @@ def main():
     if not os.environ.get('GOATCOUNTER_TOKEN'):
         raise SystemExit('GOATCOUNTER_TOKEN is not set. Create a read-only key in GoatCounter (Settings, API) and add it as a repository secret.')
     os.makedirs(args.out, exist_ok=True)
-    try:  # a check of the key itself, to make any later failure easier to read (never fatal)
-        me = get('me')
-        print('Key check:', json.dumps({k: me.get(k) for k in ('token',)} if isinstance(me, dict) else me)[:300])
-    except SystemExit as e:
-        print('Key check failed:', e)
     now = dt.datetime.now(dt.timezone.utc)
     today = now.date()
     stamp = lambda d: d.strftime('%Y-%m-%dT00:00:00Z')
@@ -101,10 +96,13 @@ def main():
     except (OSError, ValueError):
         pass
     kept = []
+    started = time.time()
     for name, endpoint in SECTIONS.items():
         time.sleep(1)  # stay well inside GoatCounter's rate limit
         try:
-            data = get(endpoint, limit=100, **window)
+            if time.time() - started > 300:  # GoatCounter is very slow: stop trying, the daily visits are already saved
+                raise SystemExit('out of time')
+            data = get(endpoint, attempts=2, timeout=25, limit=100, **window)
         except SystemExit as e:  # the daily visits are saved above, so a failing breakdown must not lose them
             print(f'::warning::{name} could not be fetched ({e}); keeping the numbers saved earlier')
             latest['sections'][name] = prev.get(name) or {'stats': [], 'more': False}
