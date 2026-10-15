@@ -376,6 +376,10 @@ button.by-link:focus-visible { outline: 3px solid var(--red); outline-offset: 3p
 .info section[hidden] { display: none; }
 .links { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 6px; }
 .links a { text-decoration: none; color: var(--ink); background: #fff; border: 1px solid var(--hair); border-radius: var(--r); padding: 9px 11px; font-size: 14px; font-weight: 700; transition: color .15s ease, border-color .15s ease; }
+.links a { display: flex; align-items: center; gap: 10px; }
+.links .lt { flex: 1; min-width: 0; font: inherit; }
+.links .lg { flex: none; width: 24px; height: 24px; display: block; background: currentColor; -webkit-mask: var(--m) center / contain no-repeat; mask: var(--m) center / contain no-repeat; }
+.links svg.lg { background: none; fill: none; stroke: currentColor; stroke-width: 1.6; }
 .links a:hover { border-color: var(--red); color: var(--red); }
 .links a.guess { border-style: dashed; }
 .links a span { display: block; font: 400 11px var(--mono); letter-spacing: 0.04em; color: var(--graphite); margin-bottom: 2px; }

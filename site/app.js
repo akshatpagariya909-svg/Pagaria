@@ -346,6 +346,10 @@
   }
 
   // Verified pages found by tools/find_links.py come first; the core sites fall back to their top search result.
+  // Go deeper (v14 · A): each site's own icon, cut out and printed in ink so it turns red with its cell.
+  const LOGOS = { ArchDaily: 'archdaily.png', WikiArquitectura: 'wikiarquitectura.svg', Dezeen: 'dezeen.png', Divisare: 'divisare.png', archINFORM: 'archinform.png', Wikipedia: 'wikipedia.png', YouTube: 'youtube.png', 'Wikimedia Commons': 'commons.svg', Map: 'openstreetmap.svg' };
+  const logoOf = n => n === 'Official website' ? '<svg class="lg" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.6 2.8 3.8 5.8 3.8 9s-1.2 6.2-3.8 9c-2.6-2.8-3.8-5.8-3.8-9S9.4 5.8 12 3z"/></svg>'
+    : LOGOS[n] ? `<i class="lg" aria-hidden="true" style="--m: url(images/logos/ink/${LOGOS[n]})"></i>` : '';
   const CORE = [['Projects & drawings', 'ArchDaily', 'archdaily.com'], ['Plans & sections', 'WikiArquitectura', 'wikiarquitectura.com'], ['News & features', 'Dezeen', 'dezeen.com']];
   function linksFor(b) {
     const name = b.name, city = b.place.split(',')[0], found = b.links || [];
@@ -404,7 +408,7 @@
       `<button type="button" class="chip quiet" data-g="type" data-v="${esc(b.type)}">${esc(b.type)} <span class="n">→</span></button>`;
 
     $('links').innerHTML = linksFor(b).map(([k, n, u, direct]) =>
-      `<a href="${esc(u)}" target="_blank" rel="noopener"${direct ? '' : ' class="guess" title="Opens the top search result on this site"'}><span>${esc(k)}</span>${esc(n)} ↗</a>`).join('');
+      `<a href="${esc(u)}" target="_blank" rel="noopener"${direct ? '' : ' class="guess" title="Opens the top search result on this site"'}><b class="lt"><span>${esc(k)}</span>${esc(n)} ↗</b>${logoOf(n)}</a>`).join('');
 
     const mine = byArchitect(b), kin = sameType(b);
     $('byArch').hidden = !mine.length;
