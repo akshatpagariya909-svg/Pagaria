@@ -22,7 +22,9 @@
   <div class="g-zoom"><button type="button" id="gIn" aria-label="Zoom in">+</button><button type="button" id="gOut" aria-label="Zoom out">−</button></div>
   <div class="g-tip" id="gTip" hidden><span class="k" id="gtKind"></span><b id="gtName"></b><span class="m" id="gtMeta"></span><p id="gtStudy"></p></div>
   <div class="g-card" id="gCard" hidden>
-    <div class="g-ph"><div class="g-strip" id="gcStrip"></div><span class="dots" id="gcDots" aria-hidden="true"></span></div>
+    <div class="g-ph"><div class="g-strip" id="gcStrip"></div><span class="dots" id="gcDots" aria-hidden="true"></span>
+      <button type="button" class="g-nav prev" id="gcPrev" aria-label="Previous photo" hidden><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg></button>
+      <button type="button" class="g-nav next" id="gcNext" aria-label="Next photo" hidden><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l7 7-7 7"/></svg></button></div>
     <div class="tx"><span class="k" id="gcKind"></span><b id="gcName"></b><span class="m" id="gcMeta"></span><p id="gcStudy"></p>
       <button type="button" class="open" id="gcOpen">Open the building →</button></div>
     <button type="button" class="x" id="gcX" aria-label="Close">✕</button>
@@ -199,6 +201,7 @@
       // every photo, side by side: swipe sideways through them; the dots say which one is showing
       $('gcStrip').innerHTML = ims.map((im, k) => `<img src="${esc(im.thumb)}" alt="${k ? '' : esc(b.name)}" loading="${k ? 'lazy' : 'eager'}" decoding="async">`).join('');
       $('gcStrip').scrollLeft = 0;
+      gcArrows();
       $('gcDots').innerHTML = ims.length > 1 ? ims.slice(0, 6).map((_, k) => `<i${k ? '' : ' class="on"'}></i>`).join('') : '';
       $('gcKind').textContent = `${b.type} · ${b.movement}`;
       $('gcName').textContent = b.name; $('gcMeta').textContent = metaOf(b); $('gcStudy').textContent = b.study || '';
@@ -211,7 +214,17 @@
   $('gcStrip').addEventListener('scroll', () => {
     const st = $('gcStrip'), k = Math.round(st.scrollLeft / st.clientWidth), dots = $('gcDots').children;
     for (let j = 0; j < dots.length; j++) dots[j].classList.toggle('on', j === Math.min(k, dots.length - 1));
+    gcArrows();
   }, { passive: true });
+  // With a mouse there is no swipe: arrows on the photo (shown while pointing at it) step through the photos.
+  function gcArrows() {
+    const st = $('gcStrip'), many = st.children.length > 1;
+    $('gcPrev').hidden = !many || st.scrollLeft <= 2;
+    $('gcNext').hidden = !many || st.scrollLeft + st.clientWidth >= st.scrollWidth - 2;
+  }
+  const gcStep = d => { const st = $('gcStrip'); st.scrollTo({ left: (Math.round(st.scrollLeft / st.clientWidth) + d) * st.clientWidth, behavior: 'smooth' }); };
+  $('gcPrev').addEventListener('click', e => { e.stopPropagation(); gcStep(-1); });
+  $('gcNext').addEventListener('click', e => { e.stopPropagation(); gcStep(1); });
   $('gcStrip').addEventListener('click', () => { if (selected) open(selected); }); // tapping the photo itself opens the building
 
   /* ---------- moving: drag with a glide, pinch, wheel, double tap, + and −; a bounce at the smallest size ---------- */
