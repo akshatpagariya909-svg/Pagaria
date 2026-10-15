@@ -57,7 +57,9 @@
   // "Unknown builders", "Nasrid builders", "Hadrian (attrib.)": not fair as a name-the-architect answer.
   const namedArchitect = b => !/builders|unknown|attrib|anonymous/i.test(b.by);
   const NAMES = [...new Set(ALL.map(b => b.name))];
-  const ARCHS = [...new Set(ALL.filter(namedArchitect).map(b => first(b.by)))];
+  // One name per architect (data/names.js), so "Zaha Hadid" and "Zaha Hadid Architects" are never both offered.
+  const architectOf = b => (window.NAMES ? window.NAMES.first(b.by) : first(b.by));
+  const ARCHS = [...new Set(ALL.filter(namedArchitect).map(architectOf))];
 
   function hash(str) { let h = 2166136261; for (let k = 0; k < str.length; k++) { h ^= str.charCodeAt(k); h = Math.imul(h, 16777619); } return h >>> 0; }
   function rng(seed) { let s = seed | 0; return () => { s = s + 0x6D2B79F5 | 0; let t = Math.imul(s ^ s >>> 15, 1 | s); t = t + Math.imul(t ^ t >>> 7, 61 | t) ^ t; return ((t ^ t >>> 14) >>> 0) / 4294967296; }; }
@@ -76,7 +78,7 @@
     const three = (list, answer) => shuffled(list.filter(x => x !== answer), r).slice(0, 3);
     let answer, wrong;
     if (mode === 0 || mode === 3) { answer = b.name; wrong = three(NAMES, answer); }
-    else if (mode === 1) { answer = first(b.by); wrong = three(ARCHS, answer); }
+    else if (mode === 1) { answer = architectOf(b); wrong = three(ARCHS, answer); }
     else if (mode === 2) {
       const dec = Math.floor(b.y / 10) * 10; answer = dec + 's';
       wrong = shuffled([-30, -20, -10, 10, 20, 30].map(x => dec + x).filter(x => x <= 2020 && x >= 1850), r).slice(0, 3).map(x => x + 's');
