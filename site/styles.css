@@ -172,6 +172,9 @@ body.filtering { overflow: hidden; }
 .fp-letter { width: 36px; height: 36px; justify-content: center; }
 .fp-faces { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 12px; }
 .fp-face { all: unset; box-sizing: border-box; cursor: pointer; display: flex; flex-direction: column; gap: 6px; padding: 8px; border: 1px solid var(--hair); border-radius: var(--r); background: #fff; transition: color .15s ease, border-color .15s ease; }
+.fp-pic { position: relative; display: block; }
+.fp-medal { position: absolute; top: -7px; right: -7px; width: 24px; height: 24px; pointer-events: none; }
+.fp-medal svg { width: 100%; height: 100%; display: block; }
 .fp-face img, .fp-ini { width: 100%; aspect-ratio: 4 / 5; object-fit: cover; object-position: 50% 20%; filter: grayscale(1); display: block; background: var(--slot); }
 .fp-ini { display: grid; place-items: center; font: 600 26px var(--mono); color: var(--ink); filter: none; }
 .fp-face b { font-size: 14px; line-height: 1.2; }
@@ -373,6 +376,10 @@ button.by-link:focus-visible { outline: 3px solid var(--red); outline-offset: 3p
 .info section[hidden] { display: none; }
 .links { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 6px; }
 .links a { text-decoration: none; color: var(--ink); background: #fff; border: 1px solid var(--hair); border-radius: var(--r); padding: 9px 11px; font-size: 14px; font-weight: 700; transition: color .15s ease, border-color .15s ease; }
+.links a { display: flex; align-items: center; gap: 10px; }
+.links .lt { flex: 1; min-width: 0; font: inherit; }
+.links .lg { flex: none; width: 24px; height: 24px; display: block; background: currentColor; -webkit-mask: var(--m) center / contain no-repeat; mask: var(--m) center / contain no-repeat; }
+.links svg.lg { background: none; fill: none; stroke: currentColor; stroke-width: 1.6; }
 .links a:hover { border-color: var(--red); color: var(--red); }
 .links a.guess { border-style: dashed; }
 .links a span { display: block; font: 400 11px var(--mono); letter-spacing: 0.04em; color: var(--graphite); margin-bottom: 2px; }

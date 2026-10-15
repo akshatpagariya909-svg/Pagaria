@@ -163,9 +163,11 @@
     const list = names.filter(n => letterOf(n) === ui.letter)
       .sort((a, b) => fold(surname(a)).localeCompare(fold(surname(b))));
     const cards = list.map(n => {
-      const face = faceOf(n), k = c.get(n) || 0;
-      return `<button type="button" class="fp-face${k || F.arch.has(n) ? '' : ' none'}" aria-pressed="${F.arch.has(n)}" data-k="arch" data-v="${esc(n)}">` +
-        (face ? `<img src="${esc(face)}" alt="" loading="lazy">` : `<span class="fp-ini">${esc(initials(n))}</span>`) + `<b>${esc(n)}</b><small>${plural(k)}</small></button>`;
+      const face = faceOf(n), k = c.get(n) || 0, w = DA.laureate && DA.laureate(n);
+      // Pritzker winners carry the same gold medal as on the opened building, on the portrait's top-right corner
+      const medal = w ? `<span class="fp-medal" title="Pritzker Prize ${w.year}">${DA.coin('fpm' + w.year + n.length)}</span>` : '';
+      return `<button type="button" class="fp-face${k || F.arch.has(n) ? '' : ' none'}" aria-pressed="${F.arch.has(n)}" data-k="arch" data-v="${esc(n)}"${w ? ` aria-label="${esc(n)}, Pritzker Prize ${w.year}"` : ''}>` +
+        `<span class="fp-pic">${face ? `<img src="${esc(face)}" alt="" loading="lazy">` : `<span class="fp-ini">${esc(initials(n))}</span>`}${medal}</span>` + `<b>${esc(n)}</b><small>${plural(k)}</small></button>`;
     }).join('');
     return `<div class="fp-letters">${bar}</div><p class="fp-note">${list.length} under ${ui.letter}, sorted by surname. Portraits are black and white; initials until a free photo is found.</p><div class="fp-faces">${cards}</div>`;
   }
