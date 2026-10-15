@@ -12365,6 +12365,42 @@
   {
    "id": "tower-bridge",
    "file": "File:City of London Buildings and Tower Bridge.jpg"
+  },
+  {
+   "id": "park-guell",
+   "file": "File:Barcelona - Parc Güell - View ESE on Main square (Parc Güell), Sala hipòstila (Parc Güell) & Escola (Parc Güell).jpg"
+  },
+  {
+   "id": "park-guell",
+   "file": "File:Barcelona - Parc Güell - View NE towards Main stairs (Parc Güell), Tower of the Smaller entrance building (Parc Güell) & Larger entrance building (Parc Güell).jpg"
+  },
+  {
+   "id": "park-guell",
+   "file": "File:Barcelona - Parc Güell - View SSE towards Viaducte Güell (Parc Güell).jpg"
+  },
+  {
+   "id": "szechenyi-thermal-bath",
+   "file": "File:Széchenyi Gyógyfürdő from across Kós Károly sétány, 2013 Budapest (360) (13227954654).jpg"
+  },
+  {
+   "id": "szechenyi-thermal-bath",
+   "file": "File:Szechenyi Spa Baths (42056218785).jpg"
+  },
+  {
+   "id": "art-institute-of-chicago-modern-wing",
+   "file": "File:Art Institute of Chicago modern wing 01.jpg"
+  },
+  {
+   "id": "art-institute-of-chicago-modern-wing",
+   "file": "File:Art Institute of Chicago modern wing 02.jpg"
+  },
+  {
+   "id": "330-north-wabash",
+   "file": "File:Chicago 2007-26a.jpg"
+  },
+  {
+   "id": "cleo-rogers-memorial-library",
+   "file": "File:Cleo Rogers Memorial Library 1969 by IM Pei and Arch by Henry Moore Columbus IN.jpg"
   }
  ],
  "kinds": {
@@ -12741,6 +12777,9 @@
   "File:Cheesegrater and Gherkin.jpg": "Exterior",
   "File:30 St Mary Axe from Leadenhall Street.jpg": "Exterior",
   "File:Bogotá Escaleras Torres del Parque.JPG": "Exterior",
-  "File:Torres del Parque - Plazoleta con escaleras.JPG": "Exterior"
+  "File:Torres del Parque - Plazoleta con escaleras.JPG": "Exterior",
+  "File:Art Institute of Chicago modern wing 03.jpg": "Interior",
+  "File:Art Institute of Chicago modern wing 05.jpg": "Interior",
+  "File:Milano - Fondazione Prada - Facciata.jpg": "Detail"
  }
 }

@@ -176,3 +176,6 @@ From the illustration rounds (Oct 2026): Commons has free photos, but the one th
 | Rhodes Memorial | Herbert Baker | Cape Town, ZA |
 | San Francesco al Fopponino | Gio Ponti | Milan, IT |
 | Athens Olympic Stadium roof | Santiago Calatrava | Athens, GR |
+| Elementary School, Fagnano Olona | Aldo Rossi | Fagnano Olona, IT |
+| Notre-Dame-de-Lourdes, Casablanca | Achille Dangleterre, Gaston Zimmer | Casablanca, MA |
+| Grande Arche | Johan Otto von Spreckelsen | Puteaux, FR |

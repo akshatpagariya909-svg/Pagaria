@@ -3383,50 +3383,6 @@
    "File:Façade sur la rue Colbert - projet n° 9 - dessin - Boulay invenit (sig.) - btv1b531607146.jpg"
   ]
  },
- "grande-arche": {
-  "skip": [
-   "File:Tallest buildings in Paris - comparison graph.png",
-   "File:Escalinata del Gran Arco de La Défense, París (26666432935).jpg"
-  ],
-  "pick": [
-   [
-    "File:North facade of the Grande Arche de la Défense - 20050906.jpg",
-    "Exterior"
-   ],
-   [
-    "File:Grande Arche 5 July 2013.jpg",
-    "Exterior"
-   ],
-   [
-    "File:Grande Arche @ La Défense @ Paris (34339627574).jpg",
-    "Exterior"
-   ],
-   [
-    "File:Grande Arche @ La Défense @ Paris (34375029043).jpg",
-    "Exterior"
-   ],
-   [
-    "File:Grande Arche @ La Défense @ Paris (35053634601).jpg",
-    "Exterior"
-   ],
-   [
-    "File:Grande Arche - panoramio (2682).jpg",
-    "Exterior"
-   ],
-   [
-    "File:P1020440 (10249567594).jpg",
-    "Exterior"
-   ],
-   [
-    "File:Grande Arche (36429257922).jpg",
-    "Detail"
-   ],
-   [
-    "File:Paris 1988 - Modell Grande Arche.jpg",
-    "Model"
-   ]
-  ]
- },
  "fundacio-joan-miro": {
   "skip": [
    "File:Model of 'Miss Chicago' or 'The Sun, the Moon and One Star'.jpg",
@@ -4085,9 +4041,12 @@
  "art-institute-of-chicago-modern-wing": {
   "skip": [
    "File:Saint Francis Xavier High School, Wilmette, Illinois, Perspective Sketch, 1923, Barry Byrne; Alfonso Iannelli, Art Institute of Chicago, Chicago, Illinois (29548729178).jpg",
-   "File:Narcissa Niblack Thorne - E-10 English Dining Room of the Georgian Period.jpg"
+   "File:Narcissa Niblack Thorne - E-10 English Dining Room of the Georgian Period.jpg",
+   "File:Art Institute of Chicago modern wing 01.jpg",
+   "File:Art Institute of Chicago modern wing 02.jpg"
   ],
   "pick": [
+   "File:20080602 Art Institute of Chicago Modern Wing From Lurie Garden.JPG",
    [
     "File:Art Institute of Chicago modern wing 01.jpg",
     "Exterior"
@@ -4106,10 +4065,6 @@
    ],
    [
     "File:Art Institute of Chicago modern wing 05.jpg",
-    "Exterior"
-   ],
-   [
-    "File:20080602 Art Institute of Chicago Modern Wing From Lurie Garden.JPG",
     "Exterior"
    ],
    [
@@ -6175,27 +6130,6 @@
   "add": [
    "File:Paolo Monti - Servizio fotografico - BEIC 6356070.jpg",
    "File:Paolo Monti - Servizio fotografico - BEIC 6356070 sw.jpg"
-  ]
- },
- "scuola-fagnano-olona": {
-  "category": "Category:Aldo Rossi",
-  "pick": [
-   [
-    "File:Schule in Fagnano Olona.2.jpg",
-    "Exterior"
-   ],
-   [
-    "File:Schule in Fagnano Olona.4.jpg",
-    "Exterior"
-   ],
-   [
-    "File:Schule in Fagnano Olona.1.jpg",
-    "Interior"
-   ],
-   [
-    "File:Schule in Fagnano Olona.3.jpg",
-    "Interior"
-   ]
   ]
  },
  "casa-papanice": {
@@ -8353,47 +8287,6 @@
   "add": [
    "File:El Aurassi Hotel.jpg",
    "File:Hotel-El-Aurassi.jpg"
-  ]
- },
- "notre-dame-de-lourdes-casablanca": {
-  "category": "Category:Notre-Dame-de-Lourdes (Casablanca)",
-  "pick": [
-   [
-    "File:Our lady of lourdes church casablanca (2).jpg",
-    "Exterior"
-   ],
-   [
-    "File:Our lady of lourdes church casablanca (3).jpg",
-    "Exterior"
-   ],
-   [
-    "File:Our lady of lourdes church casablanca (4).jpg",
-    "Exterior"
-   ],
-   [
-    "File:Our lady of lourdes church casablanca (5).jpg",
-    "Exterior"
-   ],
-   [
-    "File:Vaulted concrete ceiling, Notre Dame of Lourdes Church (Casablanca).jpg",
-    "Interior"
-   ],
-   [
-    "File:Our lady of lourdes church casablanca (1).jpg",
-    "Interior"
-   ],
-   [
-    "File:Casablanca Notre-Dame-de-Lourde (2).jpg",
-    "Interior"
-   ],
-   [
-    "File:Stained glass, Notre Dame of Lourdes Church (Casablanca).jpg",
-    "Detail"
-   ],
-   [
-    "File:Our lady of lourdes church casablanca - 334220774.jpg",
-    "Exterior"
-   ]
   ]
  },
  "national-theatre-of-ghana": {
@@ -15256,15 +15149,13 @@
  },
  "cleo-rogers-memorial-library": {
   "skip": [
-   "File:ROGERS MEMORIAL LIBRARY, WITH OLD IRWIN FAMILY HOME IN BACKGROUND - NARA - 546488.jpg"
+   "File:ROGERS MEMORIAL LIBRARY, WITH OLD IRWIN FAMILY HOME IN BACKGROUND - NARA - 546488.jpg",
+   "File:Cleo Rogers Memorial Library 1969 by IM Pei and Arch by Henry Moore Columbus IN.jpg"
   ],
   "pick": [
+   "File:Cleo Rogers Memorial Library.jpeg",
    [
     "File:Cleo Rogers Memorial Library - March 2013 - Jeff Hart.jpg",
-    "Exterior"
-   ],
-   [
-    "File:Cleo Rogers Memorial Library.jpeg",
     "Exterior"
    ],
    [
@@ -23291,19 +23182,17 @@
  },
  "330-north-wabash": {
   "skip": [
-   "File:IBM Building Lobby (6409411579).jpg"
+   "File:IBM Building Lobby (6409411579).jpg",
+   "File:Chicago 2007-26a.jpg"
   ],
   "pick": [
+   "File:IBM Building (7372612012).jpg",
    [
     "File:330 North Wabash Chicago 2021.jpg",
     "Exterior"
    ],
    [
     "File:IBM Building seen from the Chicago River.jpg",
-    "Exterior"
-   ],
-   [
-    "File:IBM Building (7372612012).jpg",
     "Exterior"
    ],
    [
@@ -23555,7 +23444,9 @@
  },
  "szechenyi-thermal-bath": {
   "skip": [
-   "File:Budapest, Széchenyi fürdő, 11.jpg"
+   "File:Budapest, Széchenyi fürdő, 11.jpg",
+   "File:Széchenyi Gyógyfürdő from across Kós Károly sétány, 2013 Budapest (360) (13227954654).jpg",
+   "File:Szechenyi Spa Baths (42056218785).jpg"
   ],
   "pick": [
    [
@@ -24907,10 +24798,16 @@
     "File:Barcelona - Parc Güell - View SE on Dog Head Gargoyles.jpg",
     "Detail"
    ]
+  ],
+  "skip": [
+   "File:Barcelona - Parc Güell - View ESE on Main square (Parc Güell), Sala hipòstila (Parc Güell) & Escola (Parc Güell).jpg",
+   "File:Barcelona - Parc Güell - View NE towards Main stairs (Parc Güell), Tower of the Smaller entrance building (Parc Güell) & Larger entrance building (Parc Güell).jpg",
+   "File:Barcelona - Parc Güell - View SSE towards Viaducte Güell (Parc Güell).jpg"
   ]
  },
  "fondazione-prada": {
   "pick": [
+   "File:Fondazione PRADA, Via Ripamonti - Largo Isarco area, Golden Tower Rem Koolhass design.jpg",
    [
     "File:Milano - Fondazione Prada - Esterno.jpg",
     "Exterior"
@@ -24925,10 +24822,6 @@
    ],
    [
     "File:Milano - Fondazione Prada - Facciata.jpg",
-    "Exterior"
-   ],
-   [
-    "File:Fondazione PRADA, Via Ripamonti - Largo Isarco area, Golden Tower Rem Koolhass design.jpg",
     "Exterior"
    ],
    [
