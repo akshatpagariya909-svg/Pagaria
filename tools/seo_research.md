@@ -1,5 +1,7 @@
 # What architects and students search for, and what Discover Architecture can do about it
 
+> **Audience correction (15 Oct 2026, owner's rule).** The audience is global, and the Western countries (USA, UK, Europe, Canada, Australia) are the biggest target. This research was done with **India-only** Google data (autocomplete, Trends) and so over-weights India: read its India findings as one market among many, not as the plan. The method (what people type after a building's name, what they get, the gap) holds everywhere. Still to do: repeat the autocomplete, Trends and result-page checks for the US, UK, Germany, France, Canada and Australia, and decide the priority list from those. Needs network access, so it runs on GitHub Actions (data-collection chat).
+
 *12 October 2026. Sources: Google autocomplete (India, ~450 seed queries + 137 building names), Google Trends (India, 5 years), Wikipedia pageviews for 796 wall buildings and 45 architects (Oct 2025–Sep 2026), Bing results for sample queries (Google blocked automated result pages), published studies of student search behaviour, and a technical check of the live site.*
 
 ## The three-line verdict
