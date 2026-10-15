@@ -966,7 +966,7 @@
 
   /* ---------- start ---------- */
   window.DA = { ALL, get BOOKS() { return BOOKS; }, withBooks, state, GROUPS, matches, esc, fold, countryName, project, world: WORLD,
-    coin, medalHtml, laureate: name => laureateOf(null, name),
+    coin, medalHtml, laureate: name => laureateOf(null, name), open: id => openAny(id),
     apply: () => render(false), close: () => { toggleFilters(false); window.scrollTo({ top: 0, behavior: 'smooth' }); } };
   render(false);
   if (RETURNING) { // back where we were: deal enough of the wall to reach the old scroll position
