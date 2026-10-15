@@ -16,7 +16,7 @@ Page titles say what the page has in the words students search for (photos, plan
 site/data/summaries.js get an "About" section quoted from Wikipedia. tools/pageviews.json ranks the
 buildings people look up most (Wikipedia pageviews, Oct 2025 to Sep 2026) for the home page's list.
 """
-import html, json, os, random, re, urllib.parse
+import html, json, os, random, re, textwrap, urllib.parse
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -210,17 +210,73 @@ def home_block(items):
     pv = json.loads((ROOT / 'tools' / 'pageviews.json').read_text()) if (ROOT / 'tools' / 'pageviews.json').exists() else {}
     top = sorted((b for b in items if b['id'] in pv), key=lambda b: -pv[b['id']])[:20]
     places = sorted({COUNTRY.get(b['place'].split(', ')[-1], '') for b in items} - {''})
-    south = [b for b in sorted((b for b in items if b['id'] in pv), key=lambda b: -pv[b['id']]) if b['region'] == 'South Asia'][:10]
     row = lambda b: f'<li><a href="buildings/{b["id"]}/">{e(b["name"])}</a> <small>{e(b["place"].split(",")[0] if anonymous(b) else b["by"])}</small></li>'
     return (f'<section class="about-wall" id="about">\n'
             f'  <h2>About this wall</h2>\n'
             f'  <p>Find Great Architecture is a huge, growing wall of buildings for architecture students, from the modern masters to '
-            f'contemporary and parametric work, brutalism and regionalism, with India and South Asia first. Every building has '
+            f'contemporary and parametric work, brutalism and regionalism. Every building has '
             f'free photos with credits, its key features, and links to plans, sections and articles for a case study. '
             f'Buildings from all over the world; <a href="buildings/">see them all A–Z</a>.</p>\n'
             f'  <h3>Most looked-up buildings</h3>\n  <ol>{"".join(row(b) for b in top)}</ol>\n'
-            f'  <h3>Most looked-up in South Asia</h3>\n  <ol>{"".join(row(b) for b in south)}</ol>\n'
             f'</section>')
+
+
+def license_url(name):
+    """Link to the licence text. Google's licensable-image markup wants a link, not the licence's name."""
+    n = (name or '').strip()
+    if n == 'CC0':
+        return 'https://creativecommons.org/publicdomain/zero/1.0/'
+    if n == 'Public domain':
+        return 'https://creativecommons.org/publicdomain/mark/1.0/'
+    m = re.match(r'^CC (BY|BY-SA) (\d\.\d)(?: ([a-z]+))?$', n)
+    if not m:
+        return ''
+    return f'https://creativecommons.org/licenses/{m.group(1).lower()}/{m.group(2)}/' + (f'{m.group(3)}/' if m.group(3) else '')
+
+
+# Commons descriptions that crept into captions: template boilerplate, file names, truncated scraps.
+BOILERPLATE = re.compile(r"^this (is a |photo|picture|image)|identified (by|as) |\(Q\d+\)|uploaded via|wikimedia|file:|\.jpe?g|\.png|^img[_ ]?\d|^dsc"
+                         r"|digital camera|^title:|more information|plus d.infos|immovable heritage|heritage monument|^[a-z]+-\d{4}$", re.I)
+PHRASE = {'Exterior': 'exterior', 'Interior': 'interior', 'Context': 'seen in its setting', 'Detail': 'detail', 'Model': 'model',
+          'Plan': 'plan', 'Elevation': 'elevation', 'Drawing': 'drawing'}
+
+
+def photo_kind(im):
+    return (im.get('caption') or '').split(' · ')[0].strip() or 'Photo'
+
+
+def photo_note(im):
+    """The useful part of a caption after its kind ('Exterior · The terrace of ...'), or '' when it is boilerplate."""
+    note = ' '.join((im.get('caption') or '').partition(' · ')[2].split())
+    return '' if len(note) < 4 or len(note) > 140 or BOILERPLATE.search(note) else note
+
+
+def photo_caption(im):
+    note = photo_note(im)
+    return photo_kind(im) + (f' · {note}' if note else '')
+
+
+def photo_alt(b, im):
+    """Alt text for a photo: the building, its city, what the photo shows, and its own description when it has a good one."""
+    alt = f"{b['name']}, {b['place'].split(',')[0]}: {PHRASE.get(photo_kind(im), photo_kind(im).lower())}"
+    note = photo_note(im)
+    return textwrap.shorten(alt + (f'. {note}' if note else ''), 125, placeholder='…')
+
+
+def ld_image(b, im):
+    """schema.org ImageObject with licence markup, so Google Images can show the photo as licensable."""
+    credit, lic = (im.get('credit') or '').rstrip('.'), im.get('license') or ''
+    d = {'@type': 'ImageObject', 'contentUrl': at(BASE, im['src']), 'name': f"{b['name']}: {photo_kind(im)}", 'caption': photo_alt(b, im),
+         'width': im['w'], 'height': im['h']}
+    if credit:
+        d['creditText'] = credit
+    if credit or lic:
+        d['copyrightNotice'] = f'{credit}, {lic}' if credit and lic else credit or lic
+    if license_url(lic):
+        d['license'] = license_url(lic)
+    if im.get('source'):
+        d['acquireLicensePage'] = im['source']
+    return d
 
 
 def building_page(b, items):
@@ -231,9 +287,10 @@ def building_page(b, items):
     og = at(BASE, ims[0]['src']) if ims else BASE + 'og.jpg'
     ld = {'@context': 'https://schema.org', '@type': 'LandmarksOrHistoricalBuildings', 'name': b['name'], 'description': desc, 'url': url,
           'address': place_full(b),
-          'image': [{'@type': 'ImageObject', 'contentUrl': at(BASE, im['src']), 'creditText': im.get('credit') or '', 'license': im.get('license') or '',
-                     'acquireLicensePage': im.get('source') or ''} for im in ims],
           'isPartOf': {'@type': 'WebSite', 'name': NAME, 'url': BASE}}
+    photos = [ld_image(b, im) for im in ims if not im['src'].endswith('drawing.svg')]  # not our own placeholder drawing
+    if photos:
+        ld['image'] = photos
     if b.get('wiki'):
         ld['sameAs'] = b['wiki']
     head = HEAD.format(title=e(f"{title(b)} · {NAME}"), desc=e(desc), url=e(url), site=NAME, ogtype='article',
@@ -241,12 +298,12 @@ def building_page(b, items):
                        extra='<script type="application/ld+json">' + json.dumps(ld, ensure_ascii=False) + '</script>', total=TOTAL, css_v=CSS_V)
     if ims:
         figs = ''.join(
-            f'<figure id="photo-{k + 1}"><img src="{e(at(up, im["src"]))}" alt="{e(b["name"])}: {e(im["caption"])}" width="{im["w"]}" height="{im["h"]}" loading="{"eager" if k == 0 else "lazy"}">'
+            f'<figure id="photo-{k + 1}"><img src="{e(at(up, im["src"]))}" alt="{e(photo_alt(b, im))}" width="{im["w"]}" height="{im["h"]}" loading="{"eager" if k == 0 else "lazy"}">'
             f'{"<span class=" + chr(34) + "nophoto" + chr(34) + ">Photos unavailable</span>" if im.get("kind") == "Drawing" else ""}'
-            f'<figcaption><b>{k + 1}/{len(ims)}{"" if im.get("kind") == "Drawing" else " · " + e(im["caption"])}</b><span>{(("" if im.get("kind") == "Drawing" else "Photo: ") + e(im["credit"].rstrip(".")) + " · ") if im.get("credit") else ""}{e(im["license"])}'
+            f'<figcaption><b>{k + 1}/{len(ims)}{"" if im.get("kind") == "Drawing" else " · " + e(photo_caption(im))}</b><span>{(("" if im.get("kind") == "Drawing" else "Photo: ") + e(im["credit"].rstrip(".")) + " · ") if im.get("credit") else ""}{e(im["license"])}'
             f'{(" · <a href=" + chr(34) + e(im["source"]) + chr(34) + ">source</a>") if im.get("source") else ""}</span></figcaption></figure>'
             for k, im in enumerate(ims))
-        thumbs = ''.join(f'<a href="#photo-{k + 1}"><img src="{e(at(up, im["thumb"]))}" alt="Photo {k + 1}: {e(im["caption"])}" loading="lazy"></a>' for k, im in enumerate(ims))
+        thumbs = ''.join(f'<a href="#photo-{k + 1}"><img src="{e(at(up, im["thumb"]))}" alt="Photo {k + 1}: {e(photo_kind(im))}" loading="lazy"></a>' for k, im in enumerate(ims))
         gallery = f'<div class="gallery"><div class="slides">{figs}</div><div class="thumbs">{thumbs}</div></div>' + GALLERY_JS
     else:
         gallery = '<div class="gallery none"><p>No free photos yet. Use the links to see photos and drawings elsewhere.</p></div>'
@@ -375,7 +432,7 @@ def stamp_wall():
     instead of waiting for their cached copy to expire."""
     page = SITE / 'index.html'
     html = page.read_text()
-    for name in ('styles.css', 'data/buildings.js', 'data/names.js', 'data/links.js', 'data/architects.js', 'data/pritzker.js', 'data/filters.js', 'data/world.js', 'data/books.js', 'data/book_lines.js', 'app.js', 'filter.js'):
+    for name in ('styles.css', 'data/buildings.js', 'data/names.js', 'data/links.js', 'data/architects.js', 'data/pritzker.js', 'data/filters.js', 'data/world.js', 'data/books.js', 'data/book_lines.js', 'data/swipe.js', 'app.js', 'filter.js'):
         html = re.sub(r'(["\'])' + re.escape(name) + r'(\?v=[0-9a-f]*)?\1', lambda m: f'{m.group(1)}{name}?v={fingerprint(SITE / name)}{m.group(1)}', html)
     page.write_text(html)
     play = SITE / 'play' / 'index.html'  # the game page: its own script and styles, and the buildings it asks about
@@ -384,6 +441,16 @@ def stamp_wall():
         for name, path in (('play.css', SITE / 'play' / 'play.css'), ('play.js', SITE / 'play' / 'play.js'), ('../data/buildings.js', SITE / 'data' / 'buildings.js'), ('../data/links.js', SITE / 'data' / 'links.js'), ('../data/architects.js', SITE / 'data' / 'architects.js'), ('../data/names.js', SITE / 'data' / 'names.js')):
             html = re.sub(r'(["\'])' + re.escape(name) + r'(\?v=[0-9a-f]*)?\1', lambda m: f'{m.group(1)}{name}?v={fingerprint(path)}{m.group(1)}', html)
         play.write_text(html)
+
+
+def write_swipe():
+    """site/data/swipe.js: the buildings whose tiles get photo dots ("Worth the swipe", tools/worth_swipe.py)."""
+    import worth_swipe
+    ids = worth_swipe.chosen()
+    (SITE / 'data' / 'swipe.js').write_text('// Buildings worth swiping through: photo dots under their tiles. Made by tools/build_pages.py from\n'
+                                            '// tools/worth_swipe.py (the rule) and tools/worth_swipe.txt (decisions by eye); edit those, not this file.\n'
+                                            'window.SWIPE = ' + json.dumps(ids) + ';\n')
+    return len(ids)
 
 
 def main():
@@ -398,6 +465,7 @@ def main():
     page = SITE / 'index.html'
     page.write_text(re.sub(r'<!-- about:start -->.*?<!-- about:end -->', lambda m: '<!-- about:start -->\n' + home_block(items) + '\n<!-- about:end -->',
                            page.read_text(), flags=re.S))
+    write_swipe()
     stamp_wall()
     for b in items:
         out = SITE / 'buildings' / b['id']

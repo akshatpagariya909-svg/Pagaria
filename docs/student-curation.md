@@ -2,7 +2,7 @@
 
 **The problem.** To look up a building today, you already have to know its name or its architect. Nothing lets a student *stumble onto* buildings and then follow links to read, see drawings and go deeper.
 
-**Who it's for first.** Architecture students: first-years building a vocabulary, studio students hunting precedents, and thesis students researching an idea. It's not limited to them later.
+**Who it's for first.** Architecture students everywhere. The audience is global, with the Western countries (USA, UK, Europe, Canada, Australia) as the biggest target; it is not India-focused (owner's rule, 15 Oct 2026). Architecture students: first-years building a vocabulary, studio students hunting precedents, and thesis students researching an idea. It's not limited to them later.
 
 ## What students actually come for
 
@@ -10,7 +10,7 @@
 2. **The canon they're taught.** Le Corbusier, Mies, Kahn, Aalto, Wright, then Ando, Zumthor, SANAA, OMA, Zaha Hadid, BIG, Doshi, Correa, Kéré. Mostly 1920 to today.
 3. **Drawings, not just photos.** Plans, sections, axonometrics and models. These are mostly copyrighted, so we **link to where they are**: ArchDaily, WikiArquitectura, Divisare and the architects' own sites.
 4. **Things to quote.** A one-line reason the building matters, the architect's idea in a few words, and the facts needed for a citation.
-5. **Range.** Indian, Japanese, Latin American and African modernism alongside Europe and the US, plus small and cheap buildings, not only icons.
+5. **Range.** Modernism and contemporary work from Europe, the US and Canada first in weight, with Japanese, Latin American, African and South Asian work alongside (under-represented regions get extra attention, not priority), plus small and cheap buildings, not only icons.
 
 ## What changes on the site
 
