@@ -19,7 +19,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700..900&family=Barlow:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Barlow+Condensed:wght@500;600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="styles.css?v=0f6c017c">
+<link rel="stylesheet" href="styles.css?v=ff3d62c5">
 <script src="analytics.js"></script>
 </head>
 <body>
@@ -53,6 +53,11 @@
 <div class="filters" id="filters" hidden><div class="fp" id="fp" role="dialog" aria-modal="true" aria-label="Filters"></div></div>
 
 <main class="feed" id="feed" aria-label="Buildings">
+  <section class="table" id="table" aria-label="Today's table" hidden>
+    <div class="feat" id="feat"></div>
+    <div class="cats" id="cats"></div>
+    <h2 class="stacks-h">All books</h2>
+  </section>
   <div class="cols" id="cols"></div>
   <p class="more" id="more" hidden>Loading more buildings…</p>
   <p class="empty" id="empty" hidden>Nothing matches. <button type="button" id="emptyClear">Clear the search</button></p>
@@ -137,7 +142,8 @@
 <script src="data/filters.js?v=9e9876ee"></script>
 <script src="data/world.js?v=5709bcc2"></script>
 <meta name="books-data" content="data/books.js?v=3f782450">
-<script src="app.js?v=591361ef"></script>
+<script src="data/book_lines.js?v=4fef8134"></script>
+<script src="app.js?v=ec7d4fce"></script>
 <script src="filter.js?v=2c831560"></script>
 </body>
 </html>
