@@ -94,12 +94,26 @@ def main():
     window = {'start': stamp(today - dt.timedelta(days=29)), 'end': until}
     latest = {'fetched_at': dt.datetime.now(dt.timezone.utc).isoformat(timespec='seconds'), 'site': f'{CODE}.goatcounter.com',
               'window_days': 30, 'visits_30d': total.get('total'), 'sections': {}}
+    prev = {}  # the breakdowns saved last time, kept for any request that fails now
+    try:
+        with open(os.path.join(args.out, 'latest.json')) as f:
+            prev = json.load(f).get('sections', {})
+    except (OSError, ValueError):
+        pass
+    kept = []
     for name, endpoint in SECTIONS.items():
         time.sleep(1)  # stay well inside GoatCounter's rate limit
-        data = get(endpoint, limit=100, **window)
+        try:
+            data = get(endpoint, limit=100, **window)
+        except SystemExit as e:  # the daily visits are saved above, so a failing breakdown must not lose them
+            print(f'::warning::{name} could not be fetched ({e}); keeping the numbers saved earlier')
+            latest['sections'][name] = prev.get(name) or {'stats': [], 'more': False}
+            kept.append(name)
+            continue
         for h in data.get('hits') or []:  # the per-hour counts of every page are not needed here
             h.pop('stats', None)
         latest['sections'][name] = data
+    latest['kept_from_earlier'] = kept
     with open(os.path.join(args.out, 'latest.json'), 'w') as f:
         json.dump(latest, f, indent=1)
 
