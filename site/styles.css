@@ -504,7 +504,7 @@ button.by-link:focus-visible { outline: 3px solid var(--red); outline-offset: 3p
 .idea small { font: 400 10px var(--mono); color: var(--graphite); margin-left: 2px; }
 .ideas-list, .mode-slot { display: contents; }
 .mode-slot .mode { margin-right: 6px; }
-#filterBtn[hidden], #allLink[hidden] { display: none; }
+#filterBtn[hidden] { display: none; }
 
 /* A book tile: the cover, square-cornered like a photo, with its caption underneath so the cover's own type stays readable. */
 .bt { position: relative; }
@@ -556,10 +556,6 @@ button.by-link:focus-visible { outline: 3px solid var(--red); outline-offset: 3p
 
 /* "All buildings" says how big the collection is only on hover, so the bar stays quiet */
 #count { display: none; }
-#allLink { position: relative; }
-#allLink[data-tip]::after { content: attr(data-tip); position: absolute; top: calc(100% + 8px); right: 0; z-index: 30; white-space: nowrap; padding: 7px 10px; border-radius: var(--r); background: #fff; border: 1px solid var(--hair); box-shadow: 0 10px 30px rgba(0,0,0,.12); font: 500 13px var(--sans); color: var(--ink); opacity: 0; transform: translateY(-4px); pointer-events: none; transition: opacity .15s ease, transform .15s ease; }
-#allLink[data-tip]:focus-visible::after { opacity: 1; transform: none; }
-@media (hover: hover) { #allLink[data-tip]:hover::after { opacity: 1; transform: none; } }
 
 /* ---------- top panel A (v13 · 01): Buildings | Books, Guess the building?, ideas that slide away ---------- */
 :root { --barh: calc(64px + env(safe-area-inset-top, 0px)); }
@@ -606,7 +602,6 @@ body.ideas-away .ideas { transform: translateY(calc(-100% - 12px)); opacity: 0; 
   #filterCount::before { content: none !important; }
   .bar .mode { grid-area: mode; justify-self: start; height: 44px; }
   .bar .mode button { height: 36px; padding: 0 12px; font-size: 14px; }
-  #allLink { display: none; }
   .bar:has(#filterBtn[hidden]) .search { grid-column: 2 / 5; }
   .play { grid-area: play; justify-self: end; }
   .btn.play-btn { padding: 0 9px; gap: 4px; font-size: 13px; letter-spacing: -.01em; }
