@@ -72,7 +72,8 @@
   let W = 0, H = 0, DPR = 1, raf = 0, selected = null, drawn = { tiles: [], dots: [], T: 26, r: 3 }, stretch = false;
   let globe, gratProj, GRAT;
   const widths = new Map();
-  const radius = () => Math.min(W, H) * .47 * V.k;
+  const radius = () => Math.min(W, AH) * .47 * V.k; // fits the clear space between the ideas row and the dock
+  let TOP = 0, AH = 0, CY = 0;
   function dirty() { if (!raf && !panel.hidden) raf = requestAnimationFrame(draw); }
   function clampView() {
     V.k = Math.max(stretch ? .55 : 1, Math.min(160, V.k));
@@ -82,6 +83,11 @@
   function resize() {
     DPR = Math.min(window.devicePixelRatio || 1, 2);
     W = view.clientWidth; H = view.clientHeight;
+    // the ideas row floats over the top of the map and the dock over the bottom: keep the globe between them
+    const ideas = document.querySelector('.ideas'), dk = document.querySelector('.dock'), top = parseFloat(panel.style.top) || 0; // not the rect: the panel may still be sliding in
+    TOP = ideas && ideas.offsetParent ? Math.max(0, ideas.getBoundingClientRect().bottom - top) + 8 : 8;
+    const bottom = dk ? Math.max(0, top + H - dk.getBoundingClientRect().top) + 8 : 8;
+    AH = Math.max(120, H - TOP - bottom); CY = TOP + AH / 2;
     view.width = Math.round(W * DPR); view.height = Math.round(H * DPR);
     dirty();
   }
@@ -89,17 +95,17 @@
     raf = 0;
     if (!W || !LAND) return;
     clampView();
-    const R = radius(), p = globe.scale(R).translate([W / 2, H / 2]).rotate([-V.lon, -V.lat]), path = d3.geoPath(p, ctx);
+    const R = radius(), p = globe.scale(R).translate([W / 2, CY]).rotate([-V.lon, -V.lat]), path = d3.geoPath(p, ctx);
     ctx.setTransform(DPR, 0, 0, DPR, 0, 0);
     ctx.clearRect(0, 0, W, H);
     // a soft halo, then the sphere with light from the top left, then the globe's own lines
-    const halo = ctx.createRadialGradient(W / 2, H / 2, R * .96, W / 2, H / 2, R * 1.12);
+    const halo = ctx.createRadialGradient(W / 2, CY, R * .96, W / 2, CY, R * 1.12);
     halo.addColorStop(0, C.halo); halo.addColorStop(1, 'rgba(218,58,38,0)');
-    ctx.fillStyle = halo; ctx.beginPath(); ctx.arc(W / 2, H / 2, R * 1.12, 0, 6.2832); ctx.fill();
-    const shade = ctx.createRadialGradient(W / 2 - R * .35, H / 2 - R * .4, R * .1, W / 2, H / 2, R);
+    ctx.fillStyle = halo; ctx.beginPath(); ctx.arc(W / 2, CY, R * 1.12, 0, 6.2832); ctx.fill();
+    const shade = ctx.createRadialGradient(W / 2 - R * .35, CY - R * .4, R * .1, W / 2, CY, R);
     shade.addColorStop(0, C.sea1); shade.addColorStop(1, C.sea2);
     ctx.beginPath(); path({ type: 'Sphere' }); ctx.fillStyle = shade; ctx.fill();
-    gratProj.scale(R).translate([W / 2, H / 2]).rotate(p.rotate());
+    gratProj.scale(R).translate([W / 2, CY]).rotate(p.rotate());
     const gp = d3.geoPath(gratProj, ctx);
     ctx.beginPath(); gp(GRAT); ctx.strokeStyle = C.grat; ctx.lineWidth = 1; ctx.stroke();
     ctx.beginPath(); gp({ type: 'LineString', coordinates: d3.range(-180, 181, 2).map(x => [x, 0]) }); ctx.strokeStyle = C.equator; ctx.stroke();
@@ -219,7 +225,7 @@
     clampView(); dirty();
   }
   function zoomAt(f, x, y) {
-    const p = globe.scale(radius()).translate([W / 2, H / 2]).rotate([-V.lon, -V.lat]), before = p.invert([x, y]);
+    const p = globe.scale(radius()).translate([W / 2, CY]).rotate([-V.lon, -V.lat]), before = p.invert([x, y]);
     V.k *= f; clampView();
     const after = globe.scale(radius()).invert([x, y]);
     if (before && after) { V.lon += before[0] - after[0]; V.lat += before[1] - after[1]; }
@@ -230,7 +236,7 @@
     stopMotion();
     const from = [V.lon, V.lat], k0 = V.k;
     let to = it ? [it.lon, it.lat] : from;
-    if (!it && at) { const c = globe.scale(radius()).translate([W / 2, H / 2]).rotate([-V.lon, -V.lat]).invert(at); if (c) to = c; }
+    if (!it && at) { const c = globe.scale(radius()).translate([W / 2, CY]).rotate([-V.lon, -V.lat]).invert(at); if (c) to = c; }
     const ip = d3.geoInterpolate(from, to), dist = d3.geoDistance(from, to), mid = Math.min(k0, k1, Math.max(1, 3 / (1 + dist * 3)));
     const dur = it ? 900 + dist * 500 : 260, t0 = performance.now();
     const step = now => {
@@ -302,8 +308,8 @@
     clearTimeout(wheelIdle); wheelIdle = setTimeout(springBack, 140);
   }, { passive: false });
   view.addEventListener('dblclick', e => fly(null, V.k * 3, local(e)));
-  $('gIn').addEventListener('click', () => fly(null, V.k * 3, [W / 2, H / 2]));
-  $('gOut').addEventListener('click', () => fly(null, V.k / 3, [W / 2, H / 2]));
+  $('gIn').addEventListener('click', () => fly(null, V.k * 3, [W / 2, CY]));
+  $('gOut').addEventListener('click', () => fly(null, V.k / 3, [W / 2, CY]));
 
   // hovering a photo with a mouse: a short note beside it
   let hoverRaf = 0, hoverAt = null;
