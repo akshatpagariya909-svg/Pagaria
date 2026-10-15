@@ -212,10 +212,12 @@ body.filtering { overflow: hidden; }
 .t .flip.next { right: 6px; }
 .t .flip:hover { background: var(--red); }
 .t:hover .flip, .t:focus-within .flip { opacity: 1; }
-.t .dots { position: absolute; left: 0; right: 0; top: 10px; display: flex; justify-content: center; gap: 4px; pointer-events: none; opacity: 0; transition: opacity .14s ease; }
-.t:hover .dots, .t:focus-within .dots { opacity: 1; }
-.t .dots i { width: 6px; height: 6px; border-radius: 50%; background: rgba(255,255,255,0.55); box-shadow: 0 0 2px rgba(0,0,0,0.5); }
-.t .dots i.on { background: #fff; }
+/* Photo dots: only on tiles worth swiping through, in the gap under the photo (data/swipe.js) */
+.t.sw { overflow: visible; margin-bottom: 13px; touch-action: pan-y; }
+.t .dots { position: absolute; left: 0; right: 0; bottom: -12px; height: 5px; display: flex; justify-content: center; align-items: center; gap: 4px; pointer-events: none; }
+.t .dots i { width: 5px; height: 5px; border-radius: 50%; background: var(--red-pale, #F3C2BA); flex: none; }
+.t .dots i.on { background: var(--red); }
+.t .dots i.sm { transform: scale(.6); }
 
 /* Caption: a short dark fade at the base; name left, architect right; year and city below. */
 .cap { position: absolute; left: 0; right: 0; bottom: 0; padding: 30px 12px 10px; display: flex; flex-direction: column; gap: 3px; pointer-events: none;

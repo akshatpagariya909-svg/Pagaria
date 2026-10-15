@@ -83,7 +83,8 @@
     return im && im.w ? Math.max(2 / 3, Math.min(1.5, im.h / im.w)) : 0.75;
   }
   // Space a tile takes in its column, per unit of width: the photo or cover, plus a book's caption underneath.
-  const heightOf = b => ratioOf(b) + (b.kind === 'book' ? 0.4 : 0.06);
+  const SWIPE = new Set(window.SWIPE || []); // tiles that get photo dots, see dotsHtml
+  const heightOf = b => ratioOf(b) + (b.kind === 'book' ? 0.4 : 0.06) + (SWIPE.has(b.id) ? 0.08 : 0);
   const keyOf = x => x.kind === 'book' ? 'book:' + x.id : x.id;
   const thumbOf = x => x.kind === 'book' ? (x.cover ? x.cover.thumb : '') : (x.images && x.images[0] ? x.images[0].thumb : '');
   const nameOf = x => x.kind === 'book' ? x.title : x.name;
@@ -148,8 +149,9 @@
     if (b.kind === 'book') { el = bookTileEl(b); tiles.set(keyOf(b), el); return el; }
     const n = (b.images || []).length;
     const city = b.place.split(',')[0]; // the tile names the first credited architect; the full credit is in the opened view
+    const swipe = n > 1 && SWIPE.has(b.id);
     el = document.createElement('div');
-    el.className = 't' + (n ? '' : ' empty-tile');
+    el.className = 't' + (n ? '' : ' empty-tile') + (swipe ? ' sw' : '');
     el.dataset.id = b.id;
     el.style.aspectRatio = `1 / ${ratioOf(b)}`;
     el.innerHTML =
@@ -157,10 +159,20 @@
       (n ? '' : `<span class="slot"><span class="k">No free photos yet</span></span>`) + `</button>` +
       (n > 1 ? `<button type="button" class="flip prev" aria-label="Previous photo of ${esc(b.name)}"><svg viewBox="0 0 24 24"><path d="M15 5l-7 7 7 7"/></svg></button>` +
                `<button type="button" class="flip next" aria-label="Next photo of ${esc(b.name)}"><svg viewBox="0 0 24 24"><path d="M9 5l7 7-7 7"/></svg></button>` +
-               `<span class="dots">${Array.from({ length: n }, (_, k) => `<i class="${k ? '' : 'on'}"></i>`).join('')}</span>` : '') +
+               (swipe ? dotsHtml(n, 0) : '') : '') +
       `<span class="cap" aria-hidden="true"><span class="r1"><b>${esc(b.name)}</b><span class="by">${esc(b.by.split(',')[0])}</span></span>` +
       `<span class="r2">${esc(b.year)} · ${esc(city)}</span></span>`;
-    el.querySelector('.open').addEventListener('click', () => openBuilding(b.id, false, el));
+    el.querySelector('.open').addEventListener('click', () => { if (!swiped) openBuilding(b.id, false, el); swiped = false; });
+    if (swipe) { // a sideways swipe on the photo shows the next one; a tap still opens the building
+      let x0 = null, y0 = 0;
+      el.addEventListener('pointerdown', e => { x0 = e.clientX; y0 = e.clientY; });
+      el.addEventListener('pointerup', e => {
+        const dx = e.clientX - x0;
+        if (x0 != null && Math.abs(dx) > 30 && Math.abs(dx) > Math.abs(e.clientY - y0)) { swiped = true; flipTile(b, el, dx < 0 ? 1 : -1); setTimeout(() => { swiped = false; }, 400); }
+        x0 = null;
+      });
+      el.addEventListener('pointercancel', () => { x0 = null; });
+    }
     el.querySelectorAll('.flip').forEach(btn => btn.addEventListener('click', e => {
       e.stopPropagation();
       flipTile(b, el, btn.classList.contains('next') ? 1 : -1);
@@ -168,12 +180,22 @@
     tiles.set(b.id, el);
     return el;
   }
+  // Photo dots under the tile, only for buildings worth swiping through (data/swipe.js): sunset red for the photo
+  // showing, light red for the rest. Past six photos the last dot shrinks, to say "and more".
+  const MAXD = 6;
+  let swiped = false;
+  function dotsHtml(n, k) {
+    const shown = Math.min(n, MAXD), at = Math.min(k, shown - 1);
+    return `<span class="dots" aria-hidden="true">${Array.from({ length: shown }, (_, j) =>
+      `<i class="${j === at ? 'on' : ''}${n > MAXD && j === shown - 1 && at < shown - 1 ? ' sm' : ''}"></i>`).join('')}</span>`;
+  }
   function flipTile(b, el, dir) {
     const n = b.images.length;
     const k = ((tileShot.get(b.id) || 0) + dir + n) % n;
     tileShot.set(b.id, k);
     el.querySelector('.open img').src = b.images[k].thumb;
-    el.querySelectorAll('.dots i').forEach((d, j) => d.classList.toggle('on', j === k));
+    const dots = el.querySelector('.dots');
+    if (dots) dots.outerHTML = dotsHtml(n, k);
   }
 
   // Deal tiles into the shortest column, so every column ends at about the same height.
