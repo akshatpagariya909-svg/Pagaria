@@ -19,24 +19,26 @@ SECTIONS = {  # name in latest.json -> endpoint
 }
 
 
-def get(path, **params):
+def get(path, attempts=5, timeout=40, waits=(15, 45, 90, 120), **params):
+    """One GoatCounter request. On a reset connection or a busy server it waits (the pause grows) and tries again."""
     url = f'{API}/{path}?' + urllib.parse.urlencode(params)
     req = urllib.request.Request(url, headers={'Authorization': 'Bearer ' + os.environ['GOATCOUNTER_TOKEN'],
                                                'Accept': 'application/json', 'Content-Type': 'application/json', 'User-Agent': 'discoverarchitecture-analytics'})
-    for attempt in range(5):
+    for attempt in range(attempts):
+        pause = waits[min(attempt, len(waits) - 1)]
         try:
-            with urllib.request.urlopen(req, timeout=40) as r:
+            with urllib.request.urlopen(req, timeout=timeout) as r:
                 return json.load(r)
         except urllib.error.HTTPError as e:
-            if e.code in (429, 500, 502, 503, 504) and attempt < 4:
-                time.sleep(min(int(e.headers.get('Retry-After') or 5 * (attempt + 1)), 60))
+            if e.code in (429, 500, 502, 503, 504) and attempt < attempts - 1:
+                time.sleep(min(int(e.headers.get('Retry-After') or pause), 120))
                 continue
             raise SystemExit(f'GoatCounter said {e.code} for {path}: {short(e.read())}')
-        except urllib.error.URLError as e:
-            if attempt < 4:
-                time.sleep(5 * (attempt + 1))
+        except (urllib.error.URLError, OSError) as e:  # includes a reset connection and a timeout
+            if attempt < attempts - 1:
+                time.sleep(pause)
                 continue
-            raise SystemExit(f'Could not reach GoatCounter for {path}: {e}')
+            raise SystemExit(f'Could not reach GoatCounter for {path} after {attempts} tries: {e}')
 
 
 def short(body):
@@ -61,11 +63,6 @@ def main():
     if not os.environ.get('GOATCOUNTER_TOKEN'):
         raise SystemExit('GOATCOUNTER_TOKEN is not set. Create a read-only key in GoatCounter (Settings, API) and add it as a repository secret.')
     os.makedirs(args.out, exist_ok=True)
-    try:  # a check of the key itself, to make any later failure easier to read (never fatal)
-        me = get('me')
-        print('Key check:', json.dumps({k: me.get(k) for k in ('token',)} if isinstance(me, dict) else me)[:300])
-    except SystemExit as e:
-        print('Key check failed:', e)
     now = dt.datetime.now(dt.timezone.utc)
     today = now.date()
     stamp = lambda d: d.strftime('%Y-%m-%dT00:00:00Z')
@@ -94,12 +91,29 @@ def main():
     window = {'start': stamp(today - dt.timedelta(days=29)), 'end': until}
     latest = {'fetched_at': dt.datetime.now(dt.timezone.utc).isoformat(timespec='seconds'), 'site': f'{CODE}.goatcounter.com',
               'window_days': 30, 'visits_30d': total.get('total'), 'sections': {}}
+    prev = {}  # the breakdowns saved last time, kept for any request that fails now
+    try:
+        with open(os.path.join(args.out, 'latest.json')) as f:
+            prev = json.load(f).get('sections', {})
+    except (OSError, ValueError):
+        pass
+    kept = []
+    started = time.time()
     for name, endpoint in SECTIONS.items():
         time.sleep(1)  # stay well inside GoatCounter's rate limit
-        data = get(endpoint, limit=100, **window)
+        try:
+            if time.time() - started > 300:  # GoatCounter is very slow: stop trying, the daily visits are already saved
+                raise SystemExit('out of time')
+            data = get(endpoint, attempts=2, timeout=25, waits=(20,), limit=100, **window)
+        except SystemExit as e:  # the daily visits are saved above, so a failing breakdown must not lose them
+            print(f'::warning::{name} could not be fetched ({e}); keeping the numbers saved earlier')
+            latest['sections'][name] = prev.get(name) or {'stats': [], 'more': False}
+            kept.append(name)
+            continue
         for h in data.get('hits') or []:  # the per-hour counts of every page are not needed here
             h.pop('stats', None)
         latest['sections'][name] = data
+    latest['kept_from_earlier'] = kept
     with open(os.path.join(args.out, 'latest.json'), 'w') as f:
         json.dump(latest, f, indent=1)
 
