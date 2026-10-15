@@ -1,9 +1,8 @@
-/* Find Great Architecture: the globe map. Still being tested, so it only appears with ?map in the address.
-   A Map button joins the dock; the globe opens over the wall. Tapping a building opens the same building sheet as the
+/* Find Great Architecture: the globe map (live for everyone since 15 Oct 2026).
+   A Map button sits in the dock; the globe opens over the wall. Tapping a building opens the same building sheet as the
    wall, over the map, and closing it comes back to the map. Surprise me flies to a building and shows a small card.
    Look: v21 D+ (sunset red land, darker red borders at 40%), country names that fade in as you zoom. */
 (() => {
-  if (!new URLSearchParams(location.search).has('map')) return;
   const $ = id => document.getElementById(id);
   const DA = window.DA;
   if (!DA) return;

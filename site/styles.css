@@ -745,10 +745,10 @@ body.ideas-away .ideas { transform: translateY(calc(-100% - 12px)); opacity: 0; 
 }
 @media (hover: none) { .cat-arr { display: none !important; } }
 
-/* ---------- the globe map (map.js; only with ?map in the address while it is tested) ---------- */
+/* ---------- the globe map (map.js) ---------- */
 .dock button svg { width: 18px; height: 18px; flex: none; fill: none; stroke: currentColor; stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round; }
 .dock #mapBtn, .dock #mapBack { gap: 7px; }
-body.mapped .dock #shuffle, body.mapped .dock #goHome, body.mapped .dock #mapBtn { display: none !important; }
+body.mapped .dock #shuffle, body.mapped .dock #goHome, body.mapped .dock #mapBtn, body.locked .dock #mapBtn { display: none !important; } /* an open building keeps the dock short */
 body:not(.mapped) .dock #mapBack { display: none !important; }
 body.mapped .dock #mapBack { display: flex !important; }
 body.mapped { overflow: hidden; }
