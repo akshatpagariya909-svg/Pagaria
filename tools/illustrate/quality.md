@@ -85,7 +85,7 @@ What went wrong in rounds 7–8: the review looked at leads and galleries in one
 
 The Design chat, checking galleries for the "Worth the swipe" dots, flagged 43 problems in 40 buildings (`tools/worth_swipe_flags.md` on `claude/design`). Each was checked by eye; 39 were right.
 
-- 21 buildings got a new main photo: 11 from their own gallery, and 6 from photos newly picked on Commons and checked by eye (Park Güell, Széchenyi Bath, the Art Institute's Modern Wing, Fondazione Prada, 330 North Wabash, Cleo Rogers Library).
+- 17 buildings got a new main photo: 11 from their own gallery, and 6 from photos newly picked on Commons and checked by eye (Park Güell, Széchenyi Bath, the Art Institute's Modern Wing, Fondazione Prada, 330 North Wabash, Cleo Rogers Library).
 - 70 photos taken out: other buildings (Tower of London in the Curtain Wall House, a pagoda forest in the Centre for Earth Architecture, Trump Tower in 330 North Wabash, Emerson's Boston buildings, Hotel Adlon, the Bundeskunsthalle), plus artworks, people, night shots and a satellite view.
 - 4 buildings came off the wall because no free photo shows them from outside: Grande Arche (France has no freedom of panorama, so Commons keeps only details), Athens Olympic Stadium roof, Notre-Dame-de-Lourdes in Casablanca, and the Fagnano Olona school. The photo rescue will look again.
 - Left as it is: the Capanema Palace main photo (the pilotis are the subject; the child is tiny).
