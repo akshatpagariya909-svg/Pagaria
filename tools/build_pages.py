@@ -375,7 +375,7 @@ def stamp_wall():
     instead of waiting for their cached copy to expire."""
     page = SITE / 'index.html'
     html = page.read_text()
-    for name in ('styles.css', 'data/buildings.js', 'data/names.js', 'data/links.js', 'data/architects.js', 'data/pritzker.js', 'data/filters.js', 'data/world.js', 'data/books.js', 'data/book_lines.js', 'app.js', 'filter.js'):
+    for name in ('styles.css', 'data/buildings.js', 'data/names.js', 'data/links.js', 'data/architects.js', 'data/pritzker.js', 'data/filters.js', 'data/world.js', 'data/books.js', 'data/book_lines.js', 'data/swipe.js', 'app.js', 'filter.js'):
         html = re.sub(r'(["\'])' + re.escape(name) + r'(\?v=[0-9a-f]*)?\1', lambda m: f'{m.group(1)}{name}?v={fingerprint(SITE / name)}{m.group(1)}', html)
     page.write_text(html)
     play = SITE / 'play' / 'index.html'  # the game page: its own script and styles, and the buildings it asks about
@@ -384,6 +384,16 @@ def stamp_wall():
         for name, path in (('play.css', SITE / 'play' / 'play.css'), ('play.js', SITE / 'play' / 'play.js'), ('../data/buildings.js', SITE / 'data' / 'buildings.js'), ('../data/links.js', SITE / 'data' / 'links.js'), ('../data/architects.js', SITE / 'data' / 'architects.js'), ('../data/names.js', SITE / 'data' / 'names.js')):
             html = re.sub(r'(["\'])' + re.escape(name) + r'(\?v=[0-9a-f]*)?\1', lambda m: f'{m.group(1)}{name}?v={fingerprint(path)}{m.group(1)}', html)
         play.write_text(html)
+
+
+def write_swipe():
+    """site/data/swipe.js: the buildings whose tiles get photo dots ("Worth the swipe", tools/worth_swipe.py)."""
+    import worth_swipe
+    ids = worth_swipe.chosen()
+    (SITE / 'data' / 'swipe.js').write_text('// Buildings worth swiping through: photo dots under their tiles. Made by tools/build_pages.py from\n'
+                                            '// tools/worth_swipe.py (the rule) and tools/worth_swipe.txt (decisions by eye); edit those, not this file.\n'
+                                            'window.SWIPE = ' + json.dumps(ids) + ';\n')
+    return len(ids)
 
 
 def main():
@@ -398,6 +408,7 @@ def main():
     page = SITE / 'index.html'
     page.write_text(re.sub(r'<!-- about:start -->.*?<!-- about:end -->', lambda m: '<!-- about:start -->\n' + home_block(items) + '\n<!-- about:end -->',
                            page.read_text(), flags=re.S))
+    write_swipe()
     stamp_wall()
     for b in items:
         out = SITE / 'buildings' / b['id']
