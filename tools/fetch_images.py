@@ -214,7 +214,8 @@ def infos(titles):
 # ---------- choosing ----------
 def strip(v):
     v = v.get('value', '') if isinstance(v, dict) else (v or '')
-    return html.unescape(re.sub(r'<[^>]+>', ' ', str(v))).strip()
+    v = re.sub(r'<(\w+)[^>]*display:\s*none[^>]*>.*?</\1>', '', str(v), flags=re.S)  # Commons repeats "Unknown author" in a hidden span
+    return html.unescape(re.sub(r'<[^>]+>', ' ', v)).strip()
 
 
 PHOTO_OF = re.compile(r'(looking (north|south|east|west|up|down)|photograph)', re.I)  # "front elevation, looking north" is a photo
