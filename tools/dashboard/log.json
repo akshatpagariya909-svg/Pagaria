@@ -1,5 +1,53 @@
 [
  {
+  "date": "2026-10-15",
+  "workstream": "Data collection",
+  "what": "Gallery clean-up: building photos only, stronger covers, duplicates merged",
+  "pr": "45"
+ },
+ {
+  "date": "2026-10-15",
+  "workstream": "Game",
+  "what": "Gamified Guess the building?: colours, celebration, stats, share card, clear photos",
+  "pr": "44"
+ },
+ {
+  "date": "2026-10-15",
+  "workstream": "Design",
+  "what": "Go deeper logos, Pritzker medal in the filter, A. tab icon",
+  "pr": "42"
+ },
+ {
+  "date": "2026-10-15",
+  "workstream": "Merge pull request #43: Books, the front table",
+  "what": "Books: the front table (design v18 · 05 and 06)",
+  "pr": "43:"
+ },
+ {
+  "date": "2026-10-15",
+  "workstream": "claude/magical-wright-9c2lpi",
+  "what": "Fix the Architect filter, and give each architect one name",
+  "pr": "31"
+ },
+ {
+  "date": "2026-10-15",
+  "workstream": "Merge pull request #41: visitor numbers every 6 hours",
+  "what": "Also: the fetch saves the daily visits first, keeps earlier breakdowns when one request fails, uses longer retry pauses and a time budget.",
+  "pr": "41:"
+ },
+ {
+  "date": "2026-10-15",
+  "workstream": "Data collection",
+  "what": "Paused new buildings and books (owner). Gallery clean-up: 1,626 off-topic photos out, 193 better covers, 55 buildings off until a real photo is found, 3 duplicates merged.",
+  "pr": ""
+ },
+ {
+  "date": "2026-10-14",
+  "workstream": "claude/website-analytics-seo-f2nevc",
+  "what": "Visitor dashboard data script",
+  "pr": "36"
+ },
+ {
   "date": "2026-10-14",
   "workstream": "Data collection",
   "what": "Photo rescue round 1: 6 buildings back on the wall",
