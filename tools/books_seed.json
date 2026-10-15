@@ -31808,5 +31808,1856 @@
   ],
   "architects": [],
   "buildings": []
+ },
+ {
+  "id": "a-handbook-of-sustainable-building-design-and-engineering-an",
+  "title": "A Handbook of Sustainable Building Design and Engineering: An Integrated Approach to Energy, Health and Operational Performance",
+  "by": "Dejan Mumovic, Mat Santamouris",
+  "year": "2009",
+  "y": 2009,
+  "shelf": "Construction",
+  "why": "A handbook on sustainable building design and engineering.",
+  "tags": [
+   "Sustainability",
+   "Reference"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "buildings-and-society-essays-on-the-social-development-of-th",
+  "title": "Buildings and Society: Essays on the Social Development of the Built Environment",
+  "by": "Anthony D. King",
+  "year": "1980",
+  "y": 1980,
+  "shelf": "Theory",
+  "why": "Essays on the social side of the built environment.",
+  "tags": [
+   "Society",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "site-matters-design-concepts-histories-and-strategies",
+  "title": "Site Matters: Design Concepts, Histories, and Strategies",
+  "by": "Carol J. Burns, Andrea Kahn",
+  "year": "2005",
+  "y": 2005,
+  "shelf": "Theory",
+  "why": "Essays on how architects and designers think about site.",
+  "tags": [
+   "Site",
+   "Landscape"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "diagramming-the-big-idea-methods-for-architectural-compositi",
+  "title": "Diagramming the Big Idea: Methods for Architectural Composition",
+  "by": "Jeffrey Balmer, Michael T. Swisher",
+  "year": "2012",
+  "y": 2012,
+  "shelf": "Drawing",
+  "why": "On using diagrams to develop architectural ideas.",
+  "tags": [
+   "Design basics",
+   "Drawing"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "exercises-in-architecture-learning-to-think-as-an-architect",
+  "title": "Exercises in Architecture: Learning to Think as an Architect",
+  "by": "Simon Unwin",
+  "year": "2012",
+  "y": 2012,
+  "shelf": "Essentials",
+  "why": "Design exercises for learning to think as an architect.",
+  "tags": [
+   "Design basics",
+   "Teaching"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-green-studio-handbook-environmental-strategies-for-schem",
+  "title": "The Green Studio Handbook: Environmental Strategies for Schematic Design",
+  "by": "Alison G. Kwok, Walter T. Grondzik",
+  "year": "2007",
+  "y": 2007,
+  "shelf": "Construction",
+  "why": "Environmental strategies for early design.",
+  "tags": [
+   "Sustainability",
+   "Design basics"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-domestic-architecture-of-england-during-the-tudor-period",
+  "title": "The Domestic Architecture of England During the Tudor Period",
+  "by": "Thomas Garner, Arthur Stratton",
+  "year": "1908",
+  "y": 1908,
+  "shelf": "History",
+  "why": "A survey of Tudor houses in England.",
+  "tags": [
+   "Houses",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "collage-and-architecture",
+  "title": "Collage and Architecture",
+  "by": "Jennifer A. E. Shields",
+  "year": "2014",
+  "y": 2014,
+  "shelf": "Drawing",
+  "why": "On collage as an architectural method.",
+  "tags": [
+   "Drawing",
+   "Design basics"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "hausbau-und-dergleichen",
+  "title": "Hausbau und dergleichen",
+  "by": "Heinrich Tessenow",
+  "year": "1916",
+  "y": 1916,
+  "shelf": "Theory",
+  "why": "Tessenow's essays on house building and craft.",
+  "tags": [
+   "Craft",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "kenzo-tange-and-the-metabolist-movement-urban-utopias-of-mod",
+  "title": "Kenzo Tange and the Metabolist Movement: Urban Utopias of Modern Japan",
+  "by": "Zhongjie Lin",
+  "year": "2010",
+  "y": 2010,
+  "shelf": "History",
+  "why": "On Kenzo Tange and the Metabolists.",
+  "tags": [
+   "Metabolism",
+   "Japan"
+  ],
+  "architects": [
+   "Kenzo Tange"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "urban-microclimate-designing-the-spaces-between-buildings",
+  "title": "Urban Microclimate: Designing the Spaces Between Buildings",
+  "by": "Evyatar Erell, David Pearlmutter, Terry Williamson",
+  "year": "2011",
+  "y": 2011,
+  "shelf": "Cities",
+  "why": "On the climate of the spaces between buildings.",
+  "tags": [
+   "Sustainability",
+   "Urban design"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "sustainable-urban-neighbourhood-building-the-21st-century-ho",
+  "title": "Sustainable Urban Neighbourhood: Building the 21st Century Home",
+  "by": "David Rudlin, Nicholas Falk",
+  "year": "2009",
+  "y": 2009,
+  "shelf": "Cities",
+  "why": "How to design a sustainable urban neighbourhood.",
+  "tags": [
+   "Housing",
+   "Urban design"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "planning-for-sustainability-creating-livable-equitable-and-e",
+  "title": "Planning for Sustainability: Creating Livable, Equitable, and Ecological Communities",
+  "by": "Stephen M. Wheeler",
+  "year": "2004",
+  "y": 2004,
+  "shelf": "Cities",
+  "why": "A guide to planning sustainable communities.",
+  "tags": [
+   "Sustainability",
+   "Cities"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "design-of-urban-manufacturing",
+  "title": "Design of Urban Manufacturing",
+  "by": "Nina Rappaport, Robert N. Lane",
+  "year": "2017",
+  "y": 2017,
+  "shelf": "Cities",
+  "why": "On designing manufacturing back into cities.",
+  "tags": [
+   "Cities",
+   "Industry"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "la-theorie-et-la-pratique-du-jardinage",
+  "title": "La théorie et la pratique du jardinage",
+  "by": "Antoine-Joseph Dézallier d'Argenville",
+  "year": "1709",
+  "y": 1709,
+  "shelf": "Landscape",
+  "why": "The treatise that defined the French formal garden.",
+  "tags": [
+   "Gardens",
+   "Historic precedent"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "tropical-sustainable-architecture-social-and-environmental-d",
+  "title": "Tropical Sustainable Architecture: Social and Environmental Dimensions",
+  "by": "Joo Hwa Bay, Boon Lay Ong",
+  "year": "2006",
+  "y": 2006,
+  "shelf": "Construction",
+  "why": "On sustainable building in the tropics.",
+  "tags": [
+   "Tropical",
+   "Sustainability"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-new-practical-builder-and-workman-s-companion",
+  "title": "The New Practical Builder, and Workman's Companion",
+  "by": "Peter Nicholson",
+  "year": "1823",
+  "y": 1823,
+  "shelf": "Free to read",
+  "why": "Nicholson's builder's manual.",
+  "tags": [
+   "Craft",
+   "Construction"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-structural-basis-of-architecture",
+  "title": "The Structural Basis of Architecture",
+  "by": "Bjørn N. Sandaker, Arne P. Eggen",
+  "year": "1992",
+  "y": 1992,
+  "shelf": "Construction",
+  "why": "How structure shapes architecture.",
+  "tags": [
+   "Structure",
+   "Design basics"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-rules-for-drawing-the-several-parts-of-architecture",
+  "title": "The Rules for Drawing the Several Parts of Architecture",
+  "by": "James Gibbs",
+  "year": "1732",
+  "y": 1732,
+  "shelf": "Free to read",
+  "why": "Gibbs's guide to drawing the classical orders.",
+  "tags": [
+   "Classicism",
+   "Drawing"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "l-architecture-consideree-sous-le-rapport-de-l-art-des-murs",
+  "title": "L'Architecture considérée sous le rapport de l'art, des mœurs et de la législation",
+  "by": "Claude-Nicolas Ledoux",
+  "year": "1804",
+  "y": 1804,
+  "shelf": "Theory",
+  "why": "Ledoux's own book of his visionary designs.",
+  "tags": [
+   "Classicism",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "town-design",
+  "title": "Town Design",
+  "by": "Frederick Gibberd",
+  "year": "1953",
+  "y": 1953,
+  "shelf": "Cities",
+  "why": "Gibberd's classic guide to designing towns.",
+  "tags": [
+   "Urban design",
+   "Cities"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-modern-city-revisited",
+  "title": "The Modern City Revisited",
+  "by": "Thomas Deckker",
+  "year": "2000",
+  "y": 2000,
+  "shelf": "Cities",
+  "why": "Essays revisiting the modern city.",
+  "tags": [
+   "Cities",
+   "Modernism"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "urban-forms-the-death-and-life-of-the-urban-block",
+  "title": "Urban Forms: The Death and Life of the Urban Block",
+  "by": "Philippe Panerai, Jean Castex, Jean-Charles Depaule, Ivor Samuels",
+  "year": "2004",
+  "y": 2004,
+  "shelf": "Cities",
+  "why": "A study of the urban block and its history.",
+  "tags": [
+   "Urban design",
+   "Housing"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "building-for-a-changing-climate-the-challenge-for-constructi",
+  "title": "Building for a Changing Climate: The Challenge for Construction, Planning and Energy",
+  "by": "Peter F. Smith",
+  "year": "2009",
+  "y": 2009,
+  "shelf": "Construction",
+  "why": "How buildings must change with the climate.",
+  "tags": [
+   "Sustainability",
+   "Climate"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "histoire-des-jardins-anciens-et-modernes",
+  "title": "Histoire des jardins anciens et modernes",
+  "by": "Arthur Mangin",
+  "year": "1883",
+  "y": 1883,
+  "shelf": "Landscape",
+  "why": "A nineteenth-century history of gardens.",
+  "tags": [
+   "Gardens",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "bioclimatic-housing-innovative-designs-for-warm-climates",
+  "title": "Bioclimatic Housing: Innovative Designs for Warm Climates",
+  "by": "Richard Hyde",
+  "year": "2008",
+  "y": 2008,
+  "shelf": "Construction",
+  "why": "Climate-responsive housing for warm regions.",
+  "tags": [
+   "Tropical",
+   "Housing"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "architecture-and-design-versus-consumerism-how-design-activi",
+  "title": "Architecture and Design versus Consumerism: How Design Activism Confronts Growth",
+  "by": "Ann Thorpe",
+  "year": "2012",
+  "y": 2012,
+  "shelf": "Theory",
+  "why": "On design activism and consumer culture.",
+  "tags": [
+   "Sustainability",
+   "Society"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-story-of-the-roman-amphitheatre",
+  "title": "The Story of the Roman Amphitheatre",
+  "by": "David Bomgardner",
+  "year": "2000",
+  "y": 2000,
+  "shelf": "History",
+  "why": "A history of the Roman amphitheatre.",
+  "tags": [
+   "Ancient",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "architects-without-frontiers-war-reconstruction-and-design-r",
+  "title": "Architects Without Frontiers: War, Reconstruction and Design Responsibility",
+  "by": "Esther Charlesworth",
+  "year": "2006",
+  "y": 2006,
+  "shelf": "Theory",
+  "why": "On architects working in war and disaster zones.",
+  "tags": [
+   "Community",
+   "Society"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "architectural-colour-in-the-professional-palette",
+  "title": "Architectural Colour in the Professional Palette",
+  "by": "Fiona McLachlan",
+  "year": "2012",
+  "y": 2012,
+  "shelf": "Theory",
+  "why": "On how architects use colour.",
+  "tags": [
+   "Colour",
+   "Design"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "an-introduction-to-modern-architecture",
+  "title": "An Introduction to Modern Architecture",
+  "by": "J. M. Richards",
+  "year": "1940",
+  "y": 1940,
+  "shelf": "History",
+  "why": "A short Pelican introduction to modern architecture.",
+  "tags": [
+   "Modernism",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "deleuze-and-guattari-for-architects",
+  "title": "Deleuze and Guattari for Architects",
+  "by": "Andrew Ballantyne",
+  "year": "2007",
+  "y": 2007,
+  "shelf": "Theory",
+  "why": "An introduction to Deleuze and Guattari for architects.",
+  "tags": [
+   "Theory",
+   "Philosophy"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "assembling-the-centre-architecture-for-indigenous-cultures",
+  "title": "Assembling the Centre: Architecture for Indigenous Cultures",
+  "by": "Janet McGaw, Anoma Pieris",
+  "year": "2014",
+  "y": 2014,
+  "shelf": "Theory",
+  "why": "On architecture for Indigenous cultural centres.",
+  "tags": [
+   "Indigenous",
+   "Society"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "women-architects-and-modernism-in-india-narratives-and-contr",
+  "title": "Women Architects and Modernism in India: Narratives and Contributions",
+  "by": "Madhavi Desai",
+  "year": "2016",
+  "y": 2016,
+  "shelf": "India",
+  "why": "On women architects in modern India.",
+  "tags": [
+   "India",
+   "Modernism"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "letters-of-philip-webb",
+  "title": "Letters of Philip Webb",
+  "by": "John Aplin",
+  "year": "2015",
+  "y": 2015,
+  "shelf": "History",
+  "why": "The collected letters of Philip Webb.",
+  "tags": [
+   "Arts and Crafts",
+   "Biography"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "architectural-design-and-ethics-tools-for-survival",
+  "title": "Architectural Design and Ethics: Tools for Survival",
+  "by": "Thomas Fisher",
+  "year": "2008",
+  "y": 2008,
+  "shelf": "Theory",
+  "why": "On ethics in architectural design.",
+  "tags": [
+   "Ethics",
+   "Sustainability"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "julien-david-leroy-and-the-making-of-architectural-history",
+  "title": "Julien-David Leroy and the Making of Architectural History",
+  "by": "Christopher Drew Armstrong",
+  "year": "2012",
+  "y": 2012,
+  "shelf": "Monographs",
+  "why": "A study of Julien-David Leroy.",
+  "tags": [
+   "Classicism",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "permutation-design-buildings-texts-and-contexts",
+  "title": "Permutation Design: Buildings, Texts, and Contexts",
+  "by": "Kostas Terzidis",
+  "year": "2014",
+  "y": 2014,
+  "shelf": "Theory",
+  "why": "On permutation as a design method.",
+  "tags": [
+   "Parametric",
+   "Computation"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "beyond-live-work-the-architecture-of-home-based-work",
+  "title": "Beyond Live/Work: The Architecture of Home-Based Work",
+  "by": "Frances Holliss",
+  "year": "2015",
+  "y": 2015,
+  "shelf": "History",
+  "why": "A study of homes that are also workplaces.",
+  "tags": [
+   "Houses",
+   "Housing"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "design-expertise",
+  "title": "Design Expertise",
+  "by": "Bryan Lawson, Kees Dorst",
+  "year": "2009",
+  "y": 2009,
+  "shelf": "Theory",
+  "why": "How designers think and develop expertise.",
+  "tags": [
+   "Design basics",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-art-of-building-in-the-classical-world-vision-craftsmans",
+  "title": "The Art of Building in the Classical World: Vision, Craftsmanship, and Linear Perspective in Greek and Roman Architecture",
+  "by": "John R. Senseney",
+  "year": "2011",
+  "y": 2011,
+  "shelf": "History",
+  "why": "How classical builders drew and built.",
+  "tags": [
+   "Ancient",
+   "Classicism"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "design-and-form-the-basic-course-at-the-bauhaus",
+  "title": "Design and Form: The Basic Course at the Bauhaus",
+  "by": "Johannes Itten",
+  "year": "1963",
+  "y": 1963,
+  "shelf": "Theory",
+  "why": "Itten's Bauhaus basic course.",
+  "tags": [
+   "Bauhaus",
+   "Design basics"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "learning-from-the-japanese-city-looking-east-in-urban-design",
+  "title": "Learning from the Japanese City: Looking East in Urban Design",
+  "by": "Barrie Shelton",
+  "year": "1999",
+  "y": 1999,
+  "shelf": "Cities",
+  "why": "What Western urban design can learn from Japan.",
+  "tags": [
+   "Japan",
+   "Urban design"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "eleven-exercises-in-the-art-of-architectural-drawing-slow-fo",
+  "title": "Eleven Exercises in the Art of Architectural Drawing: Slow Food for the Architect's Imagination",
+  "by": "Marco Frascari",
+  "year": "2011",
+  "y": 2011,
+  "shelf": "Drawing",
+  "why": "Eleven exercises in architectural drawing.",
+  "tags": [
+   "Drawing",
+   "Craft"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "in-english-homes",
+  "title": "In English Homes",
+  "by": "Charles Latham",
+  "year": "1904",
+  "y": 1904,
+  "shelf": "Free to read",
+  "why": "Photographs of English country houses.",
+  "tags": [
+   "Houses",
+   "Historic precedent"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "palais-maisons-et-autres-edifices-modernes-dessines-a-rome",
+  "title": "Palais, maisons, et autres édifices modernes, dessinés à Rome",
+  "by": "Charles Percier, Pierre-François-Léonard Fontaine",
+  "year": "1798",
+  "y": 1798,
+  "shelf": "Drawing",
+  "why": "Percier and Fontaine's drawings of Roman buildings.",
+  "tags": [
+   "Classicism",
+   "Drawing"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "urban-design-reader",
+  "title": "Urban Design Reader",
+  "by": "Matthew Carmona, Steve Tiesdell",
+  "year": "2007",
+  "y": 2007,
+  "shelf": "Cities",
+  "why": "A reader of key texts on urban design.",
+  "tags": [
+   "Urban design",
+   "Reference"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "understanding-cities-method-in-urban-design",
+  "title": "Understanding Cities: Method in Urban Design",
+  "by": "Alexander R. Cuthbert",
+  "year": "2011",
+  "y": 2011,
+  "shelf": "Cities",
+  "why": "A method for understanding cities.",
+  "tags": [
+   "Urban design",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "living-cities-in-japan-citizens-movements-machizukuri-and-lo",
+  "title": "Living Cities in Japan: Citizens' Movements, Machizukuri and Local Environments",
+  "by": "André Sorensen, Carolin Funck",
+  "year": "2007",
+  "y": 2007,
+  "shelf": "Cities",
+  "why": "On citizen-led city making in Japan.",
+  "tags": [
+   "Japan",
+   "Cities"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-art-of-city-making",
+  "title": "The Art of City Making",
+  "by": "Charles Landry",
+  "year": "2006",
+  "y": 2006,
+  "shelf": "Cities",
+  "why": "Landry on making cities creative and liveable.",
+  "tags": [
+   "Cities",
+   "Urban design"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "cities-and-design",
+  "title": "Cities and Design",
+  "by": "Paul L. Knox",
+  "year": "2011",
+  "y": 2011,
+  "shelf": "Cities",
+  "why": "On how design shapes cities.",
+  "tags": [
+   "Cities",
+   "Urban design"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "manifestoes-and-transformations-in-the-early-modernist-city",
+  "title": "Manifestoes and Transformations in the Early Modernist City",
+  "by": "Christian Hermansen Cordua",
+  "year": "2010",
+  "y": 2010,
+  "shelf": "Cities",
+  "why": "On the manifestos that shaped the modernist city.",
+  "tags": [
+   "Modernism",
+   "Cities"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "staging-the-new-berlin-place-marketing-and-the-politics-of-u",
+  "title": "Staging the New Berlin: Place Marketing and the Politics of Urban Reinvention Post-1989",
+  "by": "Claire Colomb",
+  "year": "2011",
+  "y": 2011,
+  "shelf": "Cities",
+  "why": "How Berlin was rebuilt after 1989.",
+  "tags": [
+   "Cities",
+   "Politics"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-good-city-reflections-and-imaginations",
+  "title": "The Good City: Reflections and Imaginations",
+  "by": "Allan B. Jacobs",
+  "year": "2011",
+  "y": 2011,
+  "shelf": "Cities",
+  "why": "Allan Jacobs on what makes a good city.",
+  "tags": [
+   "Cities",
+   "Urban design"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "city-design-modernist-traditional-green-and-systems-perspect",
+  "title": "City Design: Modernist, Traditional, Green and Systems Perspectives",
+  "by": "Jonathan Barnett",
+  "year": "2011",
+  "y": 2011,
+  "shelf": "Cities",
+  "why": "Four ways of looking at city design.",
+  "tags": [
+   "Cities",
+   "Urban design"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "building-the-new-urbanism-places-professionals-and-profits-i",
+  "title": "Building the New Urbanism: Places, Professionals, and Profits in the American Metropolitan Landscape",
+  "by": "Aaron Passell",
+  "year": "2013",
+  "y": 2013,
+  "shelf": "Cities",
+  "why": "A study of New Urbanism in the United States.",
+  "tags": [
+   "Cities",
+   "Urbanism"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "une-cite-industrielle-etude-pour-la-construction-des-villes",
+  "title": "Une cité industrielle: étude pour la construction des villes",
+  "by": "Tony Garnier",
+  "year": "1917",
+  "y": 1917,
+  "shelf": "Cities",
+  "why": "Garnier's plan for an ideal industrial city.",
+  "tags": [
+   "Cities",
+   "Modernism"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "planning-the-megacity-jakarta-in-the-twentieth-century",
+  "title": "Planning the Megacity: Jakarta in the Twentieth Century",
+  "by": "Christopher Silver",
+  "year": "2007",
+  "y": 2007,
+  "shelf": "Cities",
+  "why": "A history of planning in Jakarta.",
+  "tags": [
+   "Cities",
+   "Asia"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "america-s-urban-history",
+  "title": "America's Urban History",
+  "by": "Lisa Krissoff Boehm, Steven H. Corey",
+  "year": "2014",
+  "y": 2014,
+  "shelf": "Cities",
+  "why": "A history of American cities.",
+  "tags": [
+   "Cities",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "alternative-visions-of-post-war-reconstruction-creating-the",
+  "title": "Alternative Visions of Post-War Reconstruction: Creating the Modern Townscape",
+  "by": "John Pendlebury, Erdem Erten, Peter J. Larkham",
+  "year": "2015",
+  "y": 2015,
+  "shelf": "Cities",
+  "why": "On how cities were rebuilt after the Second World War.",
+  "tags": [
+   "Cities",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "planning-latin-america-s-capital-cities-18501950",
+  "title": "Planning Latin America's Capital Cities, 1850–1950",
+  "by": "Arturo Almandoz",
+  "year": "2002",
+  "y": 2002,
+  "shelf": "Cities",
+  "why": "A history of planning Latin American capitals.",
+  "tags": [
+   "Latin America",
+   "Cities"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "remaking-china-s-great-cities-space-and-culture-in-urban-hou",
+  "title": "Remaking China's Great Cities: Space and Culture in Urban Housing, Renewal, and Expansion",
+  "by": "Samuel Y. Liang",
+  "year": "2014",
+  "y": 2014,
+  "shelf": "Cities",
+  "why": "How China's great cities are being remade.",
+  "tags": [
+   "China",
+   "Cities"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "planning-small-and-mid-sized-towns-designing-and-retrofittin",
+  "title": "Planning Small and Mid-Sized Towns: Designing and Retrofitting for Sustainability",
+  "by": "Avi Friedman",
+  "year": "2014",
+  "y": 2014,
+  "shelf": "Cities",
+  "why": "A guide to planning smaller towns.",
+  "tags": [
+   "Cities",
+   "Sustainability"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "sustainability-in-architecture-and-urban-design",
+  "title": "Sustainability in Architecture and Urban Design",
+  "by": "Carl Bovill",
+  "year": "2014",
+  "y": 2014,
+  "shelf": "Construction",
+  "why": "An introduction to sustainable design.",
+  "tags": [
+   "Sustainability",
+   "Urban design"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "planning-chicago",
+  "title": "Planning Chicago",
+  "by": "D. Bradford Hunt, Jon B. DeVries",
+  "year": "2013",
+  "y": 2013,
+  "shelf": "Cities",
+  "why": "A history of planning Chicago.",
+  "tags": [
+   "Cities",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "planning-middle-eastern-cities-an-urban-kaleidoscope-in-a-gl",
+  "title": "Planning Middle Eastern Cities: An Urban Kaleidoscope in a Globalizing World",
+  "by": "Yasser Elsheshtawy",
+  "year": "2004",
+  "y": 2004,
+  "shelf": "Cities",
+  "why": "Essays on planning cities in the Middle East.",
+  "tags": [
+   "Islamic",
+   "Cities"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "making-of-hong-kong-from-vertical-to-volumetric",
+  "title": "Making of Hong Kong: From Vertical to Volumetric",
+  "by": "Barrie Shelton, Justyna Karakiewicz, Thomas Kvan",
+  "year": "2011",
+  "y": 2011,
+  "shelf": "Cities",
+  "why": "How Hong Kong's dense form came about.",
+  "tags": [
+   "China",
+   "Cities"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "street-design-the-secret-to-great-cities-and-towns",
+  "title": "Street Design: The Secret to Great Cities and Towns",
+  "by": "Victor Dover, John Massengale",
+  "year": "2013",
+  "y": 2013,
+  "shelf": "Cities",
+  "why": "How to design great streets.",
+  "tags": [
+   "Cities",
+   "Urban design"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "creating-regenerative-cities",
+  "title": "Creating Regenerative Cities",
+  "by": "Herbert Girardet",
+  "year": "2014",
+  "y": 2014,
+  "shelf": "Cities",
+  "why": "On cities that restore their surroundings.",
+  "tags": [
+   "Sustainability",
+   "Cities"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "smart-cities-a-spatialised-intelligence",
+  "title": "Smart Cities: A Spatialised Intelligence",
+  "by": "Antoine Picon",
+  "year": "2015",
+  "y": 2015,
+  "shelf": "Cities",
+  "why": "A history of the smart city idea.",
+  "tags": [
+   "Cities",
+   "Technology"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "designing-high-density-cities-for-social-and-environmental-s",
+  "title": "Designing High-Density Cities: For Social and Environmental Sustainability",
+  "by": "Edward Ng",
+  "year": "2010",
+  "y": 2010,
+  "shelf": "Cities",
+  "why": "On designing dense, sustainable cities.",
+  "tags": [
+   "Cities",
+   "Sustainability"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "great-city-parks",
+  "title": "Great City Parks",
+  "by": "Alan Tate",
+  "year": "2001",
+  "y": 2001,
+  "shelf": "Landscape",
+  "why": "A study of great city parks.",
+  "tags": [
+   "Landscape",
+   "Cities"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "exploring-the-boundaries-of-landscape-architecture",
+  "title": "Exploring the Boundaries of Landscape Architecture",
+  "by": "Simon Bell, Ingrid Sarlöv Herlin, Richard Stiles",
+  "year": "2011",
+  "y": 2011,
+  "shelf": "Landscape",
+  "why": "Essays on the edges of landscape architecture.",
+  "tags": [
+   "Landscape",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "designing-sustainable-forest-landscapes",
+  "title": "Designing Sustainable Forest Landscapes",
+  "by": "Simon Bell, Dean Apostol",
+  "year": "2008",
+  "y": 2008,
+  "shelf": "Landscape",
+  "why": "On designing forest landscapes.",
+  "tags": [
+   "Landscape",
+   "Sustainability"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "theorie-des-jardins",
+  "title": "Théorie des jardins",
+  "by": "Jean-Marie Morel",
+  "year": "1776",
+  "y": 1776,
+  "shelf": "Landscape",
+  "why": "Morel's eighteenth-century theory of gardens.",
+  "tags": [
+   "Gardens",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "positive-development-from-vicious-circles-to-virtuous-cycles",
+  "title": "Positive Development: From Vicious Circles to Virtuous Cycles through Built Environment Design",
+  "by": "Janis Birkeland",
+  "year": "2008",
+  "y": 2008,
+  "shelf": "Theory",
+  "why": "A call for buildings that add to the environment.",
+  "tags": [
+   "Sustainability",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "return-of-nature-sustaining-architecture-in-the-face-of-sust",
+  "title": "Return of Nature: Sustaining Architecture in the Face of Sustainability",
+  "by": "Preston Scott Cohen, Erika Naginski",
+  "year": "2014",
+  "y": 2014,
+  "shelf": "Theory",
+  "why": "Essays on nature and sustainability in architecture.",
+  "tags": [
+   "Sustainability",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "third-world-modernism-architecture-development-and-identity",
+  "title": "Third World Modernism: Architecture, Development and Identity",
+  "by": "Duanfang Lu",
+  "year": "2010",
+  "y": 2010,
+  "shelf": "History",
+  "why": "Essays on modernism beyond the West.",
+  "tags": [
+   "Modernism",
+   "Global South"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "atomic-dwelling-anxiety-domesticity-and-postwar-architecture",
+  "title": "Atomic Dwelling: Anxiety, Domesticity, and Postwar Architecture",
+  "by": "Robin Schuldenfrei",
+  "year": "2012",
+  "y": 2012,
+  "shelf": "History",
+  "why": "Essays on the postwar home in the atomic age.",
+  "tags": [
+   "Houses",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "tower-and-slab-histories-of-global-mass-housing",
+  "title": "Tower and Slab: Histories of Global Mass Housing",
+  "by": "Florian Urban",
+  "year": "2012",
+  "y": 2012,
+  "shelf": "History",
+  "why": "A global history of tower and slab housing.",
+  "tags": [
+   "Housing",
+   "Modernism"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "consuming-architecture-on-the-occupation-appropriation-and-i",
+  "title": "Consuming Architecture: On the Occupation, Appropriation and Interpretation of Buildings",
+  "by": "Daniel Maudlin, Marcel Vellinga",
+  "year": "2014",
+  "y": 2014,
+  "shelf": "Theory",
+  "why": "On how people use and interpret buildings.",
+  "tags": [
+   "Society",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "architecture-and-capitalism-1845-to-the-present",
+  "title": "Architecture and Capitalism: 1845 to the Present",
+  "by": "Peggy Deamer",
+  "year": "2014",
+  "y": 2014,
+  "shelf": "Theory",
+  "why": "Essays on architecture and capitalism.",
+  "tags": [
+   "Society",
+   "Practice"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "paradigm-islands-manhattan-and-venice",
+  "title": "Paradigm Islands: Manhattan and Venice",
+  "by": "Teresa Stoppani",
+  "year": "2010",
+  "y": 2010,
+  "shelf": "Theory",
+  "why": "Manhattan and Venice as two models of the city.",
+  "tags": [
+   "Cities",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "becoming-places-urbanism-architecture-identity-power",
+  "title": "Becoming Places: Urbanism / Architecture / Identity / Power",
+  "by": "Kim Dovey",
+  "year": "2010",
+  "y": 2010,
+  "shelf": "Theory",
+  "why": "Kim Dovey on how places come to be.",
+  "tags": [
+   "Theory",
+   "Cities"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "first-frame-theatre-space-in-enlightenment-france",
+  "title": "First Frame: Theatre Space in Enlightenment France",
+  "by": "Pannill Camp",
+  "year": "2014",
+  "y": 2014,
+  "shelf": "History",
+  "why": "A study of theatre space in Enlightenment France.",
+  "tags": [
+   "Theatre",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "adrian-stokes-an-architecture-of-limits",
+  "title": "Adrian Stokes: An Architecture of Limits",
+  "by": "Stephen Kite",
+  "year": "2009",
+  "y": 2009,
+  "shelf": "Theory",
+  "why": "Stephen Kite on Adrian Stokes and architecture.",
+  "tags": [
+   "Criticism",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "crisis-of-the-object-the-architecture-of-theatricality",
+  "title": "Crisis of the Object: The Architecture of Theatricality",
+  "by": "Gevork Hartoonian",
+  "year": "2006",
+  "y": 2006,
+  "shelf": "Theory",
+  "why": "Hartoonian on theatricality in architecture.",
+  "tags": [
+   "Theory",
+   "Modernism"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-baroque-in-architectural-culture-18801980",
+  "title": "The Baroque in Architectural Culture, 1880–1980",
+  "by": "John Macarthur, Andrew Leach",
+  "year": "2015",
+  "y": 2015,
+  "shelf": "Theory",
+  "why": "How the Baroque shaped modern architectural culture.",
+  "tags": [
+   "Baroque",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "suspending-modernity-the-architecture-of-franco-albini",
+  "title": "Suspending Modernity: The Architecture of Franco Albini",
+  "by": "Kay Bea Jones, Eamonn Canniffe",
+  "year": "2014",
+  "y": 2014,
+  "shelf": "Monographs",
+  "why": "A study of the Italian architect Franco Albini.",
+  "tags": [
+   "Modernism",
+   "Italy"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "shoah-presence-architectural-representations-of-holocaust-hi",
+  "title": "Shoah Presence: Architectural Representations of Holocaust History and Memory",
+  "by": "Eran Neuman",
+  "year": "2014",
+  "y": 2014,
+  "shelf": "Theory",
+  "why": "On architecture and Holocaust memory.",
+  "tags": [
+   "Memory",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "on-discomfort-moments-in-a-modern-history-of-architectural-c",
+  "title": "On Discomfort: Moments in a Modern History of Architectural Culture",
+  "by": "Andrew Leach, David Ellison",
+  "year": "2016",
+  "y": 2016,
+  "shelf": "Theory",
+  "why": "On discomfort in architectural culture.",
+  "tags": [
+   "Theory",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "hut-pavilion-shrine-architectural-archetypes-in-midcentury-m",
+  "title": "Hut, Pavilion, Shrine: Architectural Archetypes in Midcentury Modernism",
+  "by": "Miles David Samson",
+  "year": "2015",
+  "y": 2015,
+  "shelf": "History",
+  "why": "On architectural archetypes in midcentury modernism.",
+  "tags": [
+   "Modernism",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "le-corbusier-en-france-realisations-et-projets",
+  "title": "Le Corbusier en France: réalisations et projets",
+  "by": "Gilles Ragot, Mathilde Dion",
+  "year": "1987",
+  "y": 1987,
+  "shelf": "Monographs",
+  "why": "Le Corbusier's buildings and projects in France.",
+  "tags": [
+   "Modernism",
+   "France"
+  ],
+  "architects": [
+   "Le Corbusier"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "von-palladio-bis-schinkel",
+  "title": "Von Palladio bis Schinkel",
+  "by": "Paul Klopfer",
+  "year": "1911",
+  "y": 1911,
+  "shelf": "History",
+  "why": "A history of classical architecture from Palladio to Schinkel.",
+  "tags": [
+   "Classicism",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "actions-of-architecture-architects-and-creative-users",
+  "title": "Actions of Architecture: Architects and Creative Users",
+  "by": "Jonathan Hill",
+  "year": "2003",
+  "y": 2003,
+  "shelf": "Theory",
+  "why": "On how users complete architecture.",
+  "tags": [
+   "Theory",
+   "Society"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "feminist-practices-interdisciplinary-approaches-to-women-in",
+  "title": "Feminist Practices: Interdisciplinary Approaches to Women in Architecture",
+  "by": "Lori A. Brown",
+  "year": "2011",
+  "y": 2011,
+  "shelf": "Theory",
+  "why": "Essays on women in architecture.",
+  "tags": [
+   "Society",
+   "Practice"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "invisible-houses-rethinking-and-designing-low-cost-housing-i",
+  "title": "Invisible Houses: Rethinking and Designing Low-Cost Housing in Developing Countries",
+  "by": "Gonzalo Lizarralde",
+  "year": "2014",
+  "y": 2014,
+  "shelf": "Cities",
+  "why": "On low-cost housing in developing countries.",
+  "tags": [
+   "Housing",
+   "Global South"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "why-architects-matter-evidencing-and-communicating-the-value",
+  "title": "Why Architects Matter: Evidencing and Communicating the Value of Architects",
+  "by": "Flora Samuel",
+  "year": "2018",
+  "y": 2018,
+  "shelf": "Theory",
+  "why": "The value architects bring.",
+  "tags": [
+   "Practice",
+   "Society"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-idea-of-the-cottage-in-english-architecture-17601860",
+  "title": "The Idea of the Cottage in English Architecture, 1760–1860",
+  "by": "Daniel Maudlin",
+  "year": "2015",
+  "y": 2015,
+  "shelf": "History",
+  "why": "How the cottage became an architectural idea.",
+  "tags": [
+   "Houses",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "ange-jacques-gabriel-16981782",
+  "title": "Ange-Jacques Gabriel (1698–1782)",
+  "by": "H. Bartle Cox",
+  "year": "1926",
+  "y": 1926,
+  "shelf": "Monographs",
+  "why": "A study of the French architect Ange-Jacques Gabriel.",
+  "tags": [
+   "Classicism",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-chicago-school-of-architecture-early-followers-of-sulliv",
+  "title": "The Chicago School of Architecture: Early Followers of Sullivan and Wright",
+  "by": "Mark L. Peisch",
+  "year": "1964",
+  "y": 1964,
+  "shelf": "History",
+  "why": "On the Chicago School and its followers.",
+  "tags": [
+   "Skyscrapers",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "why-do-architects-wear-black",
+  "title": "Why Do Architects Wear Black?",
+  "by": "Cordula Rau",
+  "year": "2008",
+  "y": 2008,
+  "shelf": "Theory",
+  "why": "A light look at the habits of architects.",
+  "tags": [
+   "Practice",
+   "Culture"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "an-architecture-of-invitation-colin-st-john-wilson",
+  "title": "An Architecture of Invitation: Colin St John Wilson",
+  "by": "Sarah Menin, Stephen Kite",
+  "year": "2005",
+  "y": 2005,
+  "shelf": "Monographs",
+  "why": "A study of the architect Colin St John Wilson.",
+  "tags": [
+   "Modernism",
+   "Libraries"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "digitalia-architecture-and-the-digital-the-environmental-and",
+  "title": "Digitalia: Architecture and the Digital, the Environmental and the Avant-Garde",
+  "by": "Susannah Hagan",
+  "year": "2008",
+  "y": 2008,
+  "shelf": "Theory",
+  "why": "On digital design and the environment.",
+  "tags": [
+   "Digital",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "european-landscape-architecture-best-practice-in-detailing",
+  "title": "European Landscape Architecture: Best Practice in Detailing",
+  "by": "Ian Thompson, Torben Dam, Jens Balsby Nielsen",
+  "year": "2007",
+  "y": 2007,
+  "shelf": "Landscape",
+  "why": "Detailed case studies in European landscape architecture.",
+  "tags": [
+   "Landscape",
+   "Details"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "occupying-architecture-between-the-architect-and-the-user",
+  "title": "Occupying Architecture: Between the Architect and the User",
+  "by": "Jonathan Hill",
+  "year": "1998",
+  "y": 1998,
+  "shelf": "Theory",
+  "why": "Essays on the user's part in architecture.",
+  "tags": [
+   "Theory",
+   "Society"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "archispeak-an-illustrated-guide-to-architectural-terms",
+  "title": "Archispeak: An Illustrated Guide to Architectural Terms",
+  "by": "Tom Porter",
+  "year": "2004",
+  "y": 2004,
+  "shelf": "Essentials",
+  "why": "An illustrated guide to architectural terms.",
+  "tags": [
+   "Reference",
+   "Design basics"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "camera-constructs-photography-architecture-and-the-modern-ci",
+  "title": "Camera Constructs: Photography, Architecture and the Modern City",
+  "by": "Andrew Higgott, Timothy Wray",
+  "year": "2012",
+  "y": 2012,
+  "shelf": "History",
+  "why": "Essays on photography and the modern city.",
+  "tags": [
+   "Photography",
+   "Cities"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-death-of-drawing-architecture-in-the-age-of-simulation",
+  "title": "The Death of Drawing: Architecture in the Age of Simulation",
+  "by": "David Ross Scheer",
+  "year": "2014",
+  "y": 2014,
+  "shelf": "Theory",
+  "why": "How simulation is changing architectural drawing.",
+  "tags": [
+   "Drawing",
+   "Digital"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "architecture-of-pleasure-british-amusement-parks-19001939",
+  "title": "Architecture of Pleasure: British Amusement Parks 1900–1939",
+  "by": "Josephine Kane",
+  "year": "2013",
+  "y": 2013,
+  "shelf": "History",
+  "why": "A history of British amusement park architecture.",
+  "tags": [
+   "Leisure",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "happy-by-design-a-guide-to-architecture-and-mental-wellbeing",
+  "title": "Happy by Design: A Guide to Architecture and Mental Wellbeing",
+  "by": "Ben Channon",
+  "year": "2019",
+  "y": 2019,
+  "shelf": "Essentials",
+  "why": "A guide to architecture and mental wellbeing.",
+  "tags": [
+   "Wellbeing",
+   "Design basics"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "perspective-projections-and-design-technologies-of-architect",
+  "title": "Perspective, Projections and Design: Technologies of Architectural Representation",
+  "by": "Mario Carpo, Frédérique Lemerle",
+  "year": "2008",
+  "y": 2008,
+  "shelf": "Drawing",
+  "why": "Essays on perspective and architectural representation.",
+  "tags": [
+   "Drawing",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "contemporary-library-architecture-a-planning-and-design-guid",
+  "title": "Contemporary Library Architecture: A Planning and Design Guide",
+  "by": "Ken Worpole",
+  "year": "2013",
+  "y": 2013,
+  "shelf": "Essentials",
+  "why": "A guide to planning and designing libraries.",
+  "tags": [
+   "Libraries",
+   "Design basics"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "bim-demystified",
+  "title": "BIM Demystified",
+  "by": "Paul Fletcher, Steve Race",
+  "year": "2012",
+  "y": 2012,
+  "shelf": "Construction",
+  "why": "An introduction to building information modelling.",
+  "tags": [
+   "BIM",
+   "Digital"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "architecture-of-ruins-designs-on-the-past-present-and-future",
+  "title": "Architecture of Ruins: Designs on the Past, Present and Future",
+  "by": "Jonathan Hill",
+  "year": "2019",
+  "y": 2019,
+  "shelf": "Theory",
+  "why": "On ruins as an idea in architecture.",
+  "tags": [
+   "Ruins",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "re-use-atlas-a-designer-s-guide-to-the-circular-economy",
+  "title": "Re-Use Atlas: A Designer's Guide to the Circular Economy",
+  "by": "Duncan Baker-Brown",
+  "year": "2017",
+  "y": 2017,
+  "shelf": "Construction",
+  "why": "A designer's guide to re-use and the circular economy.",
+  "tags": [
+   "Sustainability",
+   "Materials"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "computer-architectures-constructing-the-common-ground",
+  "title": "Computer Architectures: Constructing the Common Ground",
+  "by": "Theodora Vardouli, Olga Touloumi",
+  "year": "2019",
+  "y": 2019,
+  "shelf": "Theory",
+  "why": "Essays on computers and architecture.",
+  "tags": [
+   "Digital",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "victorian-taste-some-social-aspects-of-architecture-and-indu",
+  "title": "Victorian Taste: Some Social Aspects of Architecture and Industrial Design from 1820–1900",
+  "by": "John Gloag",
+  "year": "1962",
+  "y": 1962,
+  "shelf": "History",
+  "why": "Gloag on Victorian taste in architecture and design.",
+  "tags": [
+   "Victorian",
+   "Design"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-english-cottage",
+  "title": "The English Cottage",
+  "by": "Harry Batsford, Charles Fry",
+  "year": "1938",
+  "y": 1938,
+  "shelf": "History",
+  "why": "A Batsford book on the English cottage.",
+  "tags": [
+   "Houses",
+   "Vernacular"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "gaudi-una-arquitectura-de-anticipacion",
+  "title": "Gaudí: una arquitectura de anticipación",
+  "by": "Joan Perucho",
+  "year": "1967",
+  "y": 1967,
+  "shelf": "Monographs",
+  "why": "A Spanish-language study of Gaudí.",
+  "tags": [
+   "Modernisme",
+   "Biography"
+  ],
+  "architects": [
+   "Antoni Gaudí"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "architecture-civile-et-domestique-au-moyen-age-et-a-la-renai",
+  "title": "Architecture civile et domestique au moyen âge et à la renaissance",
+  "by": "Aymar Verdier, François Cattois",
+  "year": "1855",
+  "y": 1855,
+  "shelf": "History",
+  "why": "A French survey of medieval and Renaissance houses.",
+  "tags": [
+   "Medieval",
+   "Houses"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "sechs-bucher-vom-bauen",
+  "title": "Sechs Bücher vom Bauen",
+  "by": "Friedrich Ostendorf",
+  "year": "1913",
+  "y": 1913,
+  "shelf": "Theory",
+  "why": "Ostendorf's six books on building.",
+  "tags": [
+   "Theory",
+   "Design basics"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "homework-handbuilt-shelter",
+  "title": "Homework: Handbuilt Shelter",
+  "by": "Lloyd Kahn",
+  "year": "2004",
+  "y": 2004,
+  "shelf": "Construction",
+  "why": "Owner-built homes collected by Lloyd Kahn.",
+  "tags": [
+   "Vernacular",
+   "Self-build"
+  ],
+  "architects": [],
+  "buildings": []
  }
 ]
