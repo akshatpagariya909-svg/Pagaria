@@ -247,11 +247,18 @@
   function clearSearch() { state.q = ''; $('q').value = ''; }
   function setRange(lo, hi) { state.decades = lo === 0 && hi === 15 ? null : [Math.min(lo, hi), Math.max(lo, hi)]; }
 
+  // An architect with a page of their own (data/arch_pages.js) opens that page, not a filter on the wall.
+  const goPage = name => {
+    const slug = window.ARCH_PAGES && window.ARCH_PAGES[window.NAMES ? window.NAMES.canon(name) : name];
+    if (!slug) return false;
+    location.href = 'architects/' + slug + '/';
+    return true;
+  };
   panel.addEventListener('click', e => {
     const t = e.target.closest('button, path.fp-reg');
     if (!t) return;
     if (t.dataset.close != null) { DA.close(); return; }
-    if (t.dataset.arch) { F.arch.add(t.dataset.arch); changed(); return; } // "See all … buildings" in a medal's card
+    if (t.dataset.arch) { if (goPage(t.dataset.arch)) return; F.arch.add(t.dataset.arch); changed(); return; } // "See all … buildings" in a medal's card
     if (t.dataset.show != null) { DA.close(); return; }
     if (t.dataset.clear != null) { Object.values(F).forEach(s => s.clear()); state.decades = null; clearSearch(); changed(); return; }
     if (t.dataset.tab) { ui.tab = t.dataset.tab; refresh(true); panel.querySelector('.fp-body').scrollTop = 0; return; }
@@ -267,6 +274,7 @@
     if (t.dataset.rm) { if (t.dataset.rm === 'decades') state.decades = null; else if (t.dataset.rm === 'q') clearSearch(); else F[t.dataset.rm].delete(t.dataset.v); changed(); return; }
     if (t.dataset.k) {
       const k = t.dataset.k, v = t.dataset.v;
+      if (k === 'arch' && !F.arch.has(v) && goPage(v)) return;
       if (t.classList.contains('fp-found')) {   // from the search list: add it and jump to its tab
         if (k === 'period') { const [a, b] = v.split(',').map(Number); state.decades = [a, b]; }
         else F[k].add(v);
