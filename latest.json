@@ -1,8 +1,8 @@
 {
- "fetched_at": "2026-10-16T01:09:51+00:00",
+ "fetched_at": "2026-10-16T04:21:26+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 71,
+ "visits_30d": 73,
  "sections": {
   "pages": {
    "hits": [
@@ -24,6 +24,14 @@
     },
     {
      "count": 2,
+     "path_id": 112226396,
+     "path": "/buildings/tour-de-lille",
+     "event": false,
+     "title": "Tour de Lille \u2014 Christian de Portzamparc, 1995: photos",
+     "max": 1
+    },
+    {
+     "count": 2,
      "path_id": 112095271,
      "path": "/buildings/sakaide-artificial-ground",
      "event": false,
@@ -32,10 +40,10 @@
     },
     {
      "count": 1,
-     "path_id": 112226396,
-     "path": "/buildings/tour-de-lille",
+     "path_id": 112249459,
+     "path": "/buildings/engel-house-tel-aviv",
      "event": false,
-     "title": "Tour de Lille \u2014 Christian de Portzamparc, 1995: photos",
+     "title": "Engel House \u2014 Ze'ev Rechter, 1933: photos for a case study",
      "max": 1
     },
     {
@@ -239,7 +247,7 @@
      "max": 1
     }
    ],
-   "total": 71,
+   "total": 73,
    "more": false
   },
   "referrers": {
@@ -247,12 +255,12 @@
     {
      "id": "Google",
      "name": "Google",
-     "count": 20,
+     "count": 21,
      "ref_scheme": "g"
     },
     {
      "name": "",
-     "count": 18,
+     "count": 19,
      "ref_scheme": "o"
     },
     {
@@ -287,12 +295,12 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 45
+     "count": 46
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 25
+     "count": 26
     },
     {
      "id": "Firefox",
@@ -312,7 +320,7 @@
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 21
+     "count": 22
     },
     {
      "id": "macOS",
@@ -322,7 +330,7 @@
     {
      "id": "Linux",
      "name": "Linux",
-     "count": 7
+     "count": 8
     },
     {
      "id": "Android",
@@ -342,7 +350,7 @@
     {
      "id": "US",
      "name": "United States",
-     "count": 21
+     "count": 22
     },
     {
      "id": "GB",
@@ -385,6 +393,11 @@
      "count": 1
     },
     {
+     "id": "MY",
+     "name": "Malaysia",
+     "count": 1
+    },
+    {
      "id": "PE",
      "name": "Peru",
      "count": 1
@@ -407,12 +420,12 @@
     {
      "id": "tablet",
      "name": "",
-     "count": 12
+     "count": 13
     },
     {
      "id": "desktop",
      "name": "",
-     "count": 39
+     "count": 40
     },
     {
      "id": "desktophd",
@@ -432,7 +445,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 71
+     "count": 73
     }
    ],
    "more": false
