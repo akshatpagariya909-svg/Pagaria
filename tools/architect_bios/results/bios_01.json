@@ -1,0 +1,785 @@
+[
+ {
+  "name": "Norman Foster",
+  "qid": "Q104898",
+  "kind": "person",
+  "born_died": "born 1935",
+  "country": "British",
+  "bio": "Norman Foster (born 1935) is an English architect and a pioneer of high-tech architecture, known for steel-and-glass buildings whose structure shapes the design. He founded Foster Associates in 1967, now Foster + Partners, and won the Pritzker Prize in 1999.\n\nHis early buildings, the Willis Building in Ipswich (1975) and the Sainsbury Centre for Visual Arts in Norwich (1978), tried out open-plan floors on a clear structural grid behind glass walls. The HSBC Main Building in Hong Kong hangs its floors from steel masts and trusses, built from large modules made in Britain and shipped out. The Commerzbank Tower in Frankfurt (1997) is often called the first ecological skyscraper, with sky gardens that bring daylight and fresh air into the offices. In Berlin, Foster rebuilt the Reichstag (1999) for the German parliament and topped it with a walk-in glass dome. With the engineer Michel Virlogeux he designed the Millau Viaduct (2004), and in London he built 30 St Mary Axe (2004). Foster's projects are studied for how structure, daylight and energy use can drive the form of a building.",
+  "facts": [
+   {
+    "claim": "Born 1 June 1935; English architect",
+    "source": "https://en.wikipedia.org/wiki/Norman_Foster"
+   },
+   {
+    "claim": "Pioneer of high-tech architecture; structural steel-and-glass designs",
+    "source": "https://en.wikipedia.org/wiki/Norman_Foster"
+   },
+   {
+    "claim": "Founded Foster Associates in 1967, later Foster + Partners",
+    "source": "https://en.wikipedia.org/wiki/Foster_and_Partners"
+   },
+   {
+    "claim": "Pritzker Architecture Prize, 1999",
+    "source": "https://www.wikidata.org/wiki/Q104898"
+   },
+   {
+    "claim": "Willis Faber & Dumas headquarters, Ipswich, completed 1975; Sainsbury Centre, Norwich, completed 1978; these pioneered open-plan structural grids and curtain walling",
+    "source": "https://en.wikipedia.org/wiki/Norman_Foster"
+   },
+   {
+    "claim": "HSBC Main Building: suspended steel structure of masts and suspension trusses; five steel modules prefabricated in the UK and shipped to Hong Kong",
+    "source": "https://en.wikipedia.org/wiki/HSBC_Building_(Hong_Kong)"
+   },
+   {
+    "claim": "Commerzbank Tower (built 1994–1997): \"the world's first so-called ecological skyscraper\", sky gardens, natural lighting and air circulation",
+    "source": "https://en.wikipedia.org/wiki/Commerzbank_Tower"
+   },
+   {
+    "claim": "Reichstag redesigned by Foster 1995–1999 as parliament of reunified Germany, with walk-in glass dome",
+    "source": "https://en.wikipedia.org/wiki/Reichstag_building"
+   },
+   {
+    "claim": "Millau Viaduct design team led by engineer Michel Virlogeux and Norman Foster; 2004",
+    "source": "https://en.wikipedia.org/wiki/Millau_Viaduct"
+   },
+   {
+    "claim": "30 St Mary Axe, London, 2004",
+    "source": "https://en.wikipedia.org/wiki/Norman_Foster",
+    "note": "year as on the wall"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Norman Foster",
+    "url": "https://en.wikipedia.org/wiki/Norman_Foster",
+    "why": "life, career and list of works"
+   },
+   {
+    "site": "Pritzker Prize",
+    "title": "1999 laureate",
+    "url": "https://www.pritzkerprize.com/laureates/1999",
+    "why": "jury citation, biography, photos of works"
+   },
+   {
+    "site": "Foster + Partners",
+    "title": "Projects",
+    "url": "https://www.fosterandpartners.com/projects",
+    "why": "the practice's own list of projects"
+   },
+   {
+    "site": "Norman Foster Foundation",
+    "title": "Foundation",
+    "url": "https://www.normanfosterfoundation.org/",
+    "why": "archive and drawings"
+   },
+   {
+    "site": "Encyclopaedia Britannica",
+    "title": "Norman Foster",
+    "url": "https://www.britannica.com/biography/Norman-Foster",
+    "why": "short reliable biography"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Foster + Partners office page",
+    "url": "https://www.archdaily.com/office/foster-partners",
+    "why": "projects with plans and photos"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "name": "Renzo Piano",
+  "qid": "Q190148",
+  "kind": "person",
+  "born_died": "born 1937",
+  "country": "Italian",
+  "bio": "Renzo Piano (born 1937) is an Italian architect from Genoa, known for carefully engineered buildings and for museums lit by daylight from above. He won the Pritzker Prize in 1998, and his practice is the Renzo Piano Building Workshop.\n\nPiano became known with the Centre Pompidou in Paris (1977), designed with Richard Rogers as an \"inside-out\" building, with its structure, pipes and escalators on the outside. His later projects are quieter. The Menil Collection in Houston (1987) was built to make the most of natural light, and the Fondation Beyeler near Basel (1997) has a glass roof that lets in north light and screens out the east and west sun. The Jean-Marie Tjibaou Cultural Centre in Nouméa (1998) lines up ten curved timber \"cases\" along a ridge, patterned on the great huts of the Kanak people and tested in wind tunnels for ventilation. Kansai International Airport Terminal 1 in Osaka (1994) stands on an artificial island, and The Shard in London (2012), 305 metres tall, was Europe's tallest skyscraper when it was finished. Renzo Piano's buildings are studied for their details, their use of daylight, and their response to place.",
+  "facts": [
+   {
+    "claim": "Born 14 September 1937; Italian architect; born and raised in Genoa",
+    "source": "https://en.wikipedia.org/wiki/Renzo_Piano"
+   },
+   {
+    "claim": "Pritzker Architecture Prize, 1998",
+    "source": "https://en.wikipedia.org/wiki/Renzo_Piano"
+   },
+   {
+    "claim": "Firm: Renzo Piano Building Workshop",
+    "source": "https://en.wikipedia.org/wiki/Renzo_Piano"
+   },
+   {
+    "claim": "Centre Pompidou with Richard Rogers, 1977; first major \"inside-out\" building with structure, mechanical systems and circulation on the exterior",
+    "source": "https://en.wikipedia.org/wiki/Centre_Pompidou"
+   },
+   {
+    "claim": "Menil Collection (1981–1987): client's primary requirement was to maximise natural light",
+    "source": "https://en.wikipedia.org/wiki/Renzo_Piano"
+   },
+   {
+    "claim": "Fondation Beyeler, Riehen near Basel, 1997: glass roof admits northern light, screens east and west light",
+    "source": "https://en.wikipedia.org/wiki/Beyeler_Foundation"
+   },
+   {
+    "claim": "Tjibaou Centre: ten conical cases patterned on the Kanak Grand Hut; iroko timber; wind tunnel tests for ventilation",
+    "source": "https://en.wikipedia.org/wiki/Jean-Marie_Tjibaou_Cultural_Centre"
+   },
+   {
+    "claim": "Kansai International Airport (1991–1994) on an artificial island in the port of Osaka",
+    "source": "https://en.wikipedia.org/wiki/Renzo_Piano"
+   },
+   {
+    "claim": "The Shard: 305 m, tallest skyscraper in Europe when completed in 2012",
+    "source": "https://en.wikipedia.org/wiki/Renzo_Piano"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Renzo Piano",
+    "url": "https://en.wikipedia.org/wiki/Renzo_Piano",
+    "why": "life and works, project by project"
+   },
+   {
+    "site": "Pritzker Prize",
+    "title": "1998 laureate",
+    "url": "https://www.pritzkerprize.com/laureates/1998",
+    "why": "jury citation and biography"
+   },
+   {
+    "site": "Renzo Piano Building Workshop",
+    "title": "Projects",
+    "url": "https://www.rpbw.com/",
+    "why": "the practice's own project list"
+   },
+   {
+    "site": "Fondazione Renzo Piano",
+    "title": "Foundation",
+    "url": "https://www.fondazionerenzopiano.org/",
+    "why": "archive of drawings and models"
+   },
+   {
+    "site": "Encyclopaedia Britannica",
+    "title": "Renzo Piano",
+    "url": "https://www.britannica.com/biography/Renzo-Piano",
+    "why": "short reliable biography"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Renzo Piano Building Workshop office page",
+    "url": "https://www.archdaily.com/office/renzo-piano-building-workshop",
+    "why": "projects with plans and photos"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "name": "Oscar Niemeyer",
+  "qid": "Q134165",
+  "kind": "person",
+  "born_died": "1907–2012",
+  "country": "Brazilian",
+  "bio": "Oscar Niemeyer (1907–2012) was a Brazilian architect and a key figure of modern architecture, known for free, flowing curves in reinforced concrete. He designed the main civic buildings of Brasília, the planned city that became Brazil's capital in 1960, and won the Pritzker Prize in 1988.\n\nNiemeyer said his architecture really began at Pampulha, near Belo Horizonte, where the Church of Saint Francis of Assisi (1943) is built from parabolic concrete arches. He worked with Lúcio Costa on the Gustavo Capanema Palace in Rio de Janeiro, and with Le Corbusier and others on the United Nations Secretariat Building in New York. The Copan Building in São Paulo wraps its apartments in a long, wavy façade. In Brasília, the National Congress of Brazil sets two half-spheres, one for each chamber, beside twin office towers, and the Cathedral of Brasília rises as a ring of sixteen curved concrete columns with glass between them. At 89 he designed the Niterói Contemporary Art Museum (1996), a saucer on a cylindrical base above the bay. Oscar Niemeyer's buildings show students how far concrete can be shaped.",
+  "facts": [
+   {
+    "claim": "15 December 1907 – 5 December 2012; Brazilian architect; key figure in modern architecture",
+    "source": "https://en.wikipedia.org/wiki/Oscar_Niemeyer"
+   },
+   {
+    "claim": "Known for civic buildings of Brasília, planned city that became the capital in 1960",
+    "source": "https://en.wikipedia.org/wiki/Oscar_Niemeyer"
+   },
+   {
+    "claim": "Exploration of reinforced concrete; abstract forms and curves",
+    "source": "https://en.wikipedia.org/wiki/Oscar_Niemeyer"
+   },
+   {
+    "claim": "Pritzker Architecture Prize, 1988",
+    "source": "https://en.wikipedia.org/wiki/Oscar_Niemeyer"
+   },
+   {
+    "claim": "Niemeyer said his architecture really began in Pampulha; parabolic arches at Pampulha; Church of Saint Francis of Assisi his first major work",
+    "source": "https://en.wikipedia.org/wiki/Oscar_Niemeyer"
+   },
+   {
+    "claim": "Collaborated with Lúcio Costa on the Palácio Gustavo Capanema; with Le Corbusier and others on the UN Headquarters",
+    "source": "https://en.wikipedia.org/wiki/Oscar_Niemeyer"
+   },
+   {
+    "claim": "Copan: Niemeyer personally responsible for the sinuous façade",
+    "source": "https://en.wikipedia.org/wiki/Edifício_Copan"
+   },
+   {
+    "claim": "National Congress: semi-sphere for Senate, semi-sphere for Chamber of Deputies, two vertical office towers between",
+    "source": "https://en.wikipedia.org/wiki/Brazilian_National_Congress"
+   },
+   {
+    "claim": "Cathedral of Brasília: hyperboloid of 16 concrete columns, glass roof",
+    "source": "https://en.wikipedia.org/wiki/Cathedral_of_Brasília"
+   },
+   {
+    "claim": "Niterói Contemporary Art Museum designed in 1996, at age 89; saucer-shaped, cylindrical base",
+    "source": "https://en.wikipedia.org/wiki/Oscar_Niemeyer"
+   },
+   {
+    "claim": "Cylindrical base and saucer shape of MAC Niterói",
+    "source": "https://en.wikipedia.org/wiki/Niterói_Contemporary_Art_Museum"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Oscar Niemeyer",
+    "url": "https://en.wikipedia.org/wiki/Oscar_Niemeyer",
+    "why": "life, ideas and works by decade"
+   },
+   {
+    "site": "Pritzker Prize",
+    "title": "1988 laureate",
+    "url": "https://www.pritzkerprize.com/laureates/1988",
+    "why": "jury citation and biography"
+   },
+   {
+    "site": "Fundação Oscar Niemeyer",
+    "title": "Foundation",
+    "url": "http://www.niemeyer.org.br",
+    "why": "the architect's foundation and archive"
+   },
+   {
+    "site": "Encyclopaedia Britannica",
+    "title": "Oscar Niemeyer",
+    "url": "https://www.britannica.com/biography/Oscar-Niemeyer",
+    "why": "short reliable biography"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Oscar Niemeyer office page",
+    "url": "https://www.archdaily.com/office/oscar-niemeyer",
+    "why": "classics with photos and drawings"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "name": "Zaha Hadid",
+  "qid": "Q47780",
+  "kind": "person",
+  "born_died": "1950–2016",
+  "country": "Iraqi-British",
+  "bio": "Zaha Hadid (1950–2016) was an Iraqi-British architect whose buildings broke with straight-edged modernism, first through sharp, tilting planes and later through long, flowing curves. Born in Baghdad and trained at the Architectural Association in London, she used painting as a design tool, was shown in the 1988 \"Deconstructivism in Architecture\" exhibition at New York's Museum of Modern Art, and in 2004 became the first woman to win the Pritzker Prize.\n\nHer first built project, the Vitra Fire Station in Weil am Rhein (1993), is made of angled planes of exposed concrete. The Phaeno Science Center in Wolfsburg (2005) lifts a concrete building onto ten hollow cones, each holding a room, leaving open space beneath. MAXXI in Rome (2010) won the Stirling Prize. The London Aquatics Centre (2011), built for the 2012 Olympics, has a wave-like roof that Hadid said was inspired by moving water. The Heydar Aliyev Center in Baku (2012) folds the ground into one continuous surface and avoids straight lines altogether. Zaha Hadid's projects are studied for the way new forms and their structure were invented together.",
+  "facts": [
+   {
+    "claim": "31 October 1950 – 31 March 2016; Iraqi and British architect; born in Baghdad; Architectural Association from 1972",
+    "source": "https://en.wikipedia.org/wiki/Zaha_Hadid"
+   },
+   {
+    "claim": "Adopted painting as a design tool",
+    "source": "https://en.wikipedia.org/wiki/Zaha_Hadid"
+   },
+   {
+    "claim": "One of seven architects in MoMA's 1988 \"Deconstructivism in Architecture\" exhibition",
+    "source": "https://en.wikipedia.org/wiki/Zaha_Hadid"
+   },
+   {
+    "claim": "First woman to receive the Pritzker Architecture Prize, 2004",
+    "source": "https://en.wikipedia.org/wiki/Zaha_Hadid"
+   },
+   {
+    "claim": "Vitra Fire Station, completed 1993, her first constructed project; exposed reinforced cast concrete",
+    "source": "https://en.wikipedia.org/wiki/Vitra_Fire_Station"
+   },
+   {
+    "claim": "Phaeno: ten hollow conical concrete pillars hold functions such as a science theatre; space beneath for outdoor events",
+    "source": "https://en.wikipedia.org/wiki/Phaeno_Science_Center"
+   },
+   {
+    "claim": "MAXXI opened 2010 and won the Stirling Prize the same year",
+    "source": "https://en.wikipedia.org/wiki/MAXXI"
+   },
+   {
+    "claim": "Aquatics Centre for the 2012 Olympics \"inspired by the fluid geometry of water in movement\"; wave-like roof",
+    "source": "https://en.wikipedia.org/wiki/Zaha_Hadid"
+   },
+   {
+    "claim": "Heydar Aliyev Center: folds in a single continuous surface; no straight line used in the project",
+    "source": "https://en.wikipedia.org/wiki/Heydar_Aliyev_Center",
+    "note": "no-straight-line claim is from the Zaha Hadid article; wall gives 2012, Wikipedia gives 2007–2013 for the project"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Zaha Hadid",
+    "url": "https://en.wikipedia.org/wiki/Zaha_Hadid",
+    "why": "life and every major project"
+   },
+   {
+    "site": "Pritzker Prize",
+    "title": "2004 laureate",
+    "url": "https://www.pritzkerprize.com/laureates/2004",
+    "why": "jury citation and biography"
+   },
+   {
+    "site": "Zaha Hadid Architects",
+    "title": "Projects",
+    "url": "https://www.zaha-hadid.com/architecture/",
+    "why": "the practice's full project archive"
+   },
+   {
+    "site": "Encyclopaedia Britannica",
+    "title": "Zaha Hadid",
+    "url": "https://www.britannica.com/biography/Zaha-Hadid",
+    "why": "short reliable biography"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Zaha Hadid Architects office page",
+    "url": "https://www.archdaily.com/office/zaha-hadid-architects",
+    "why": "projects with plans and photos"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "name": "Le Corbusier",
+  "qid": "Q4724",
+  "kind": "person",
+  "born_died": "1887–1965",
+  "country": "Swiss-born French",
+  "bio": "Le Corbusier (1887–1965), born Charles-Édouard Jeanneret in Switzerland and a French citizen from 1930, was an architect, urban planner, painter and writer, and one of the pioneers of modern architecture. In 2016, seventeen of his projects in seven countries were listed together as a UNESCO World Heritage Site.\n\nVilla Savoye in Poissy (1931) sums up his Five Points of Architecture: the house stands on pilotis, with a free plan, a free façade, ribbon windows and a roof garden. After the Second World War, the Unité d'Habitation in Marseille (1952) stacked two-level flats along interior \"streets\" in rough-cast concrete, béton brut, and is often named as the first inspiration for brutalism. Notre-Dame du Haut at Ronchamp (1955) has thick curved walls under a concrete roof shell, with daylight entering through a thin gap and deep, scattered windows. Sainte-Marie de La Tourette near Lyon (1960) is measured with his Modulor, a system of proportions based on the human body. He also planned the city of Chandigarh and its Capitol Complex. Le Corbusier's buildings and books remain a starting point for students, though his politics and city plans are still debated.",
+  "facts": [
+   {
+    "claim": "6 October 1887 – 27 August 1965; born in Switzerland; acquired French nationality in 1930; architect, painter, urban planner and writer; a pioneer of modern architecture",
+    "source": "https://en.wikipedia.org/wiki/Le_Corbusier"
+   },
+   {
+    "claim": "2016: seventeen projects in seven countries inscribed as UNESCO World Heritage",
+    "source": "https://en.wikipedia.org/wiki/Le_Corbusier"
+   },
+   {
+    "claim": "Villa Savoye (1928–1931) sums up the five points: pilotis, free façade, open plan, ribbon windows, roof garden",
+    "source": "https://en.wikipedia.org/wiki/Le_Corbusier"
+   },
+   {
+    "claim": "Unité d'habitation, Marseille, 1947–1952; béton brut; interior \"streets\"; two-level apartments; often cited as initial inspiration for Brutalism",
+    "source": "https://en.wikipedia.org/wiki/Unité_d'habitation"
+   },
+   {
+    "claim": "Notre-Dame du Haut (1950–1955): concrete roof shell, gap between roof and walls admits daylight, scattered windows",
+    "source": "https://en.wikipedia.org/wiki/Notre-Dame_du_Haut"
+   },
+   {
+    "claim": "La Tourette (1953–1960) near Lyon uses the Modulor, proportions based on the human body",
+    "source": "https://en.wikipedia.org/wiki/Le_Corbusier"
+   },
+   {
+    "claim": "Master plan for Chandigarh and government buildings",
+    "source": "https://en.wikipedia.org/wiki/Le_Corbusier"
+   },
+   {
+    "claim": "Ties with fascism, antisemitism and eugenics, and criticism of his urban plans, remain contested",
+    "source": "https://en.wikipedia.org/wiki/Le_Corbusier"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Le Corbusier",
+    "url": "https://en.wikipedia.org/wiki/Le_Corbusier",
+    "why": "life, ideas and works period by period"
+   },
+   {
+    "site": "UNESCO World Heritage Centre",
+    "title": "The Architectural Work of Le Corbusier",
+    "url": "https://whc.unesco.org/en/list/1321",
+    "why": "the 17 listed works in seven countries"
+   },
+   {
+    "site": "Fondation Le Corbusier",
+    "title": "Foundation",
+    "url": "https://www.fondationlecorbusier.fr/",
+    "why": "works, drawings and archive"
+   },
+   {
+    "site": "Encyclopaedia Britannica",
+    "title": "Le Corbusier",
+    "url": "https://www.britannica.com/biography/Le-Corbusier",
+    "why": "short reliable biography"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Le Corbusier office page",
+    "url": "https://www.archdaily.com/office/le-corbusier",
+    "why": "classics with photos and drawings"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "name": "Alvar Aalto",
+  "qid": "Q82840",
+  "kind": "person",
+  "born_died": "1898–1976",
+  "country": "Finnish",
+  "bio": "Alvar Aalto (1898–1976) was a Finnish architect and designer who gave modernism a human scale through wood, brick, daylight and curving lines. His career runs from Nordic Classicism in the 1920s, through functionalism in the 1930s, to the organic modernism of his later work. With his first wife, Aino Aalto, he also designed furniture, lamps and glassware, and their bent plywood furniture influenced Charles and Ray Eames.\n\nThe Paimio Sanatorium (1933), designed with Aino Aalto, and Viipuri Library in Vyborg (1935) first won him world attention; the library has an undulating timber ceiling shaped to spread sound and deep round skylights that light the reading desks without glare. At Villa Mairea in Noormarkku (1939), stair columns of bound wood suggest a forest. Baker House at MIT in Cambridge, Massachusetts (1949), bends along the Charles River to give each room a view and fresh air, and began his red-brick period. Säynätsalo Town Hall (1952) gathers a council chamber, offices and a library around a raised courtyard in brick, timber and copper. Alvar Aalto's buildings are studied for natural materials, daylight, and designing a building and its furnishings as one.",
+  "facts": [
+   {
+    "claim": "3 February 1898 – 11 May 1976; Finnish architect and designer",
+    "source": "https://en.wikipedia.org/wiki/Alvar_Aalto"
+   },
+   {
+    "claim": "Styles from Nordic Classicism, to International Style Modernism in the 1930s, to organic modernism from the 1940s",
+    "source": "https://en.wikipedia.org/wiki/Alvar_Aalto"
+   },
+   {
+    "claim": "With Aino Aalto designed furniture, lamps and glassware; bent plywood furniture influenced Charles and Ray Eames",
+    "source": "https://en.wikipedia.org/wiki/Alvar_Aalto"
+   },
+   {
+    "claim": "Paimio Sanatorium (1929–32) with Aino Aalto; Paimio (1932) and Viipuri Library (1935) brought world attention",
+    "source": "https://en.wikipedia.org/wiki/Alvar_Aalto",
+    "note": "wall gives 1933 for Paimio"
+   },
+   {
+    "claim": "Viipuri Library: undulating timber auditorium ceiling for acoustics; deep cylindrical skylights spreading daylight without glare",
+    "source": "https://en.wikipedia.org/wiki/Vyborg_Library"
+   },
+   {
+    "claim": "Villa Mairea (1939), Noormarkku: beech bound with withes into columns evoking a forest",
+    "source": "https://en.wikipedia.org/wiki/Alvar_Aalto"
+   },
+   {
+    "claim": "Baker House, MIT, completed 1949, on the Charles River; undulating form for view and ventilation; first building of his red-brick period",
+    "source": "https://en.wikipedia.org/wiki/Alvar_Aalto"
+   },
+   {
+    "claim": "Säynätsalo Town Hall (1949–52): council chamber, offices and library around a raised courtyard; brick, timber and copper",
+    "source": "https://en.wikipedia.org/wiki/Säynätsalo_Town_Hall"
+   },
+   {
+    "claim": "Gesamtkunstwerk: designed building, interiors, furniture and lamps",
+    "source": "https://en.wikipedia.org/wiki/Alvar_Aalto"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Alvar Aalto",
+    "url": "https://en.wikipedia.org/wiki/Alvar_Aalto",
+    "why": "life, works list and furniture"
+   },
+   {
+    "site": "Alvar Aalto Foundation",
+    "title": "Alvar Aalto",
+    "url": "https://www.alvaraalto.fi/en/",
+    "why": "the foundation's works, museum and visits"
+   },
+   {
+    "site": "Encyclopaedia Britannica",
+    "title": "Alvar Aalto",
+    "url": "https://www.britannica.com/biography/Alvar-Aalto",
+    "why": "short reliable biography"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Alvar Aalto office page",
+    "url": "https://www.archdaily.com/office/alvar-aalto",
+    "why": "classics with photos and drawings"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "name": "Frank Gehry",
+  "qid": "Q180374",
+  "kind": "person",
+  "born_died": "1929–2025",
+  "country": "Canadian-American",
+  "bio": "Frank Gehry (1929–2025) was a Canadian-American architect, born in Toronto and based in Los Angeles, known for sculptural buildings of curving metal and for using everyday materials in unexpected ways. His work is often called deconstructivist, a label he resisted, and he won the Pritzker Prize in 1989.\n\nHis own house, the Gehry Residence in Santa Monica (1978), wrapped an ordinary house in corrugated steel, chain-link fencing and plywood while leaving the old walls visible. The Guggenheim Bilbao (1997), clad in titanium, gave its name to the \"Bilbao effect\": one building helping to revive a city's economy. To build the Walt Disney Concert Hall in Los Angeles (2003), with its stainless steel skin, his office used CATIA, software made for designing fighter jets. The Fondation Louis Vuitton in Paris (2014) wraps its galleries in twelve glass \"sails\". Gehry was one of the first architects to see what computer design could do, and his projects show students how software can turn a complex sketch into a buildable form.",
+  "facts": [
+   {
+    "claim": "February 28, 1929 – December 5, 2025; Canadian and American architect; born in Toronto; practised in Los Angeles",
+    "source": "https://en.wikipedia.org/wiki/Frank_Gehry"
+   },
+   {
+    "claim": "Unconventional forms and materials; sculptural undulating exteriors in titanium and stainless steel",
+    "source": "https://en.wikipedia.org/wiki/Frank_Gehry"
+   },
+   {
+    "claim": "Described as deconstructivist, though he resisted categorisation",
+    "source": "https://en.wikipedia.org/wiki/Frank_Gehry"
+   },
+   {
+    "claim": "Pritzker Architecture Prize, 1989",
+    "source": "https://en.wikipedia.org/wiki/Frank_Gehry"
+   },
+   {
+    "claim": "Gehry Residence: chain-link, corrugated steel, plywood; in 1978 wrapped the house in a new exterior leaving the old exterior visible",
+    "source": "https://en.wikipedia.org/wiki/Gehry_Residence"
+   },
+   {
+    "claim": "Guggenheim Bilbao, titanium panels; origin of the \"Bilbao effect\"",
+    "source": "https://en.wikipedia.org/wiki/Frank_Gehry"
+   },
+   {
+    "claim": "Walt Disney Concert Hall: stainless steel skin; CATIA software used for French fighter jets",
+    "source": "https://en.wikipedia.org/wiki/Walt_Disney_Concert_Hall"
+   },
+   {
+    "claim": "Fondation Louis Vuitton: 12 glass \"sails\"",
+    "source": "https://en.wikipedia.org/wiki/Louis_Vuitton_Foundation"
+   },
+   {
+    "claim": "One of the first architects to \"grasp the liberating potential of computer design\"",
+    "source": "https://en.wikipedia.org/wiki/Frank_Gehry"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Frank Gehry",
+    "url": "https://en.wikipedia.org/wiki/Frank_Gehry",
+    "why": "life, style and works"
+   },
+   {
+    "site": "Pritzker Prize",
+    "title": "1989 laureate",
+    "url": "https://www.pritzkerprize.com/laureates/1989",
+    "why": "jury citation and biography"
+   },
+   {
+    "site": "Gehry Partners",
+    "title": "Projects",
+    "url": "https://www.foga.com/",
+    "why": "the practice's own project list"
+   },
+   {
+    "site": "Encyclopaedia Britannica",
+    "title": "Frank Gehry",
+    "url": "https://www.britannica.com/biography/Frank-Gehry",
+    "why": "short reliable biography"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Gehry Partners office page",
+    "url": "https://www.archdaily.com/office/gehry-partners",
+    "why": "projects with plans and photos"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "name": "Herzog & de Meuron",
+  "qid": "Q308776",
+  "kind": "practice",
+  "born_died": "founded 1978",
+  "country": "Swiss, based in Basel",
+  "bio": "Herzog & de Meuron is a Swiss architecture practice founded in Basel in 1978 by Jacques Herzog and Pierre de Meuron, known for inventive use of materials and for turning old structures to new uses. The two founders shared the Pritzker Prize in 2001, and the firm has worked on more than 600 projects in 40 countries.\n\nTate Modern in London (2000) turned the Bankside Power Station into a museum, keeping the vast Turbine Hall and adding a two-storey glass extension on the roof. The Allianz Arena in Munich (2005) is wrapped in inflated ETFE plastic panels that can be lit from inside, the first stadium with a façade that changes colour. The Beijing National Stadium (2008), the \"Bird's Nest\", hides the supports of its roof in a web of steel beams around a concrete seating bowl, with the artist Ai Weiwei as consultant. The Elbphilharmonie in Hamburg (2017) sets a glass concert hall with a wave-shaped roofline on top of a brick warehouse. Students study Herzog & de Meuron's projects for their inventive façades and their reuse of existing buildings.",
+  "facts": [
+   {
+    "claim": "Founded 1978 in Basel by Jacques Herzog and Pierre de Meuron; more than 600 projects in 40 countries",
+    "source": "https://en.wikipedia.org/wiki/Herzog_&_de_Meuron"
+   },
+   {
+    "claim": "Recognised for innovative use of materials",
+    "source": "https://en.wikipedia.org/wiki/Herzog_&_de_Meuron"
+   },
+   {
+    "claim": "Pritzker Prize 2001",
+    "source": "https://en.wikipedia.org/wiki/Herzog_&_de_Meuron"
+   },
+   {
+    "claim": "Tate Modern (2000): transformation of Bankside Power Station",
+    "source": "https://en.wikipedia.org/wiki/Herzog_&_de_Meuron"
+   },
+   {
+    "claim": "Tate Modern: Turbine Hall retained; two-storey glass extension on the roof",
+    "source": "https://en.wikipedia.org/wiki/Tate_Modern"
+   },
+   {
+    "claim": "Allianz Arena: inflated ETFE panels lit from inside; first stadium with full colour-changing exterior; completed 2005",
+    "source": "https://en.wikipedia.org/wiki/Allianz_Arena"
+   },
+   {
+    "claim": "Beijing National Stadium: steel beams hide roof supports, \"bird's nest\" look; concrete seating bowl inside a steel frame; Ai Weiwei artistic consultant",
+    "source": "https://en.wikipedia.org/wiki/Beijing_National_Stadium"
+   },
+   {
+    "claim": "Elbphilharmonie: glassy superstructure with wavy roof line on the retained brick Kaispeicher A warehouse",
+    "source": "https://en.wikipedia.org/wiki/Elbphilharmonie"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Herzog & de Meuron",
+    "url": "https://en.wikipedia.org/wiki/Herzog_%26_de_Meuron",
+    "why": "history and project list"
+   },
+   {
+    "site": "Pritzker Prize",
+    "title": "2001 laureates",
+    "url": "https://www.pritzkerprize.com/laureates/2001",
+    "why": "jury citation and biographies"
+   },
+   {
+    "site": "Herzog & de Meuron",
+    "title": "Projects",
+    "url": "https://www.herzogdemeuron.com/projects/",
+    "why": "the practice's complete numbered project list"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Herzog & de Meuron office page",
+    "url": "https://www.archdaily.com/office/herzog-and-de-meuron",
+    "why": "projects with plans and photos"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "name": "OMA",
+  "qid": "Q2015762",
+  "kind": "practice",
+  "born_died": "founded 1975",
+  "country": "Dutch, based in Rotterdam",
+  "bio": "OMA, the Office for Metropolitan Architecture, is an architecture practice founded in 1975 by Rem Koolhaas, Elia Zenghelis, Madelon Vriesendorp and Zoe Zenghelis. Based in Rotterdam, with offices in New York, Hong Kong, Doha and Australia, it began with unbuilt \"paper\" projects about Manhattan, the subject of Koolhaas's book Delirious New York. Koolhaas, often linked with deconstructivism, won the Pritzker Prize in 2000.\n\nThe Kunsthal in Rotterdam (1992) was one of OMA's early buildings to win critical attention. The Seattle Central Library (2004) stacks a set of \"floating platforms\" inside a steel net and glass skin; its \"Books Spiral\" keeps the non-fiction collection on one continuous run instead of breaking it up across floors. Casa da Música in Porto (2005) is a nine-storey polyhedron clad in white concrete and cut by large windows. The CCTV Headquarters in Beijing (2012) joins two leaning towers into a loop of six sections with an open centre. Students read OMA's buildings together with Koolhaas's writing, from Delirious New York to S,M,L,XL, which argues about the modern city as much as about buildings.",
+  "facts": [
+   {
+    "claim": "Founded 1975 by Rem Koolhaas, Madelon Vriesendorp, Elia Zenghelis and Zoe Zenghelis; based in Rotterdam",
+    "source": "https://www.wikidata.org/wiki/Q2015762"
+   },
+   {
+    "claim": "Offices in Rotterdam, New York, Hong Kong, Doha and Australia; early unbuilt \"paper\" projects about Manhattan, subject of Delirious New York",
+    "source": "https://en.wikipedia.org/wiki/Office_for_Metropolitan_Architecture",
+    "note": "The OMA article dates the book 1975 and the Rem Koolhaas article 1978 (publication); no year is used in the text"
+   },
+   {
+    "claim": "Rem Koolhaas: Pritzker Prize 2000; often cited as a representative of deconstructivism; author of Delirious New York and S,M,L,XL",
+    "source": "https://en.wikipedia.org/wiki/Rem_Koolhaas"
+   },
+   {
+    "claim": "Kunsthal, Rotterdam (1992), among early critically received projects",
+    "source": "https://en.wikipedia.org/wiki/Rem_Koolhaas"
+   },
+   {
+    "claim": "Seattle Central Library: \"floating platforms\" wrapped in a steel net around a glass skin; \"Books Spiral\" keeps the non-fiction collection continuous",
+    "source": "https://en.wikipedia.org/wiki/Seattle_Central_Library"
+   },
+   {
+    "claim": "Casa da Música: nine-floor asymmetrical polyhedron covered in white cement, cut by large windows",
+    "source": "https://en.wikipedia.org/wiki/Casa_da_Música"
+   },
+   {
+    "claim": "CCTV Headquarters: two conjoined towers forming a loop of six sections with an open centre",
+    "source": "https://en.wikipedia.org/wiki/CCTV_Headquarters"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Office for Metropolitan Architecture",
+    "url": "https://en.wikipedia.org/wiki/Office_for_Metropolitan_Architecture",
+    "why": "history, partners and works"
+   },
+   {
+    "site": "OMA",
+    "title": "Projects",
+    "url": "https://www.oma.com/projects",
+    "why": "the practice's own project archive"
+   },
+   {
+    "site": "Pritzker Prize",
+    "title": "2000 laureate (Rem Koolhaas)",
+    "url": "https://www.pritzkerprize.com/laureates/2000",
+    "why": "jury citation and biography of OMA's founder"
+   },
+   {
+    "site": "Encyclopaedia Britannica",
+    "title": "Rem Koolhaas",
+    "url": "https://www.britannica.com/biography/Rem-Koolhaas",
+    "why": "short reliable biography of the founder"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "OMA office page",
+    "url": "https://www.archdaily.com/office/oma",
+    "why": "projects with plans and photos"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "name": "Glenn Murcutt",
+  "qid": "Q333509",
+  "kind": "person",
+  "born_died": "born 1936",
+  "country": "Australian",
+  "bio": "Glenn Murcutt (born 1936) is an Australian architect known for houses shaped by their landscape and climate. Born in London to Australian parents, he spent his first years in Papua New Guinea, where he first met vernacular building. He works alone, without staff, builds only in Australia, and won the Pritzker Prize in 2002, the only Australian to do so.\n\nHis motto, \"touch the earth lightly\", means studying a site's wind, water, temperature and light before drawing the building. His houses use glass, stone, timber, concrete, steel and corrugated iron. The Marie Short House near Kempsey (1975) and the Magney House at Bingie Point (1984) are among his best-known homes. The Arthur and Yvonne Boyd Education Centre at Riversdale (1999), designed with Wendy Lewin and Reg Lark, sits on a rise; the critic Philip Drew compared its hall to an ancient Greek temple, roofed in corrugated iron. Glenn Murcutt's projects are studied for climate-led design at the scale of a house.",
+  "facts": [
+   {
+    "claim": "Born 25 July 1936 in London to Australian parents; first five years in Morobe Province, Papua New Guinea, where he first encountered vernacular architecture",
+    "source": "https://en.wikipedia.org/wiki/Glenn_Murcutt"
+   },
+   {
+    "claim": "Works as a sole practitioner without staff and builds only within Australia; only Australian winner of the Pritzker Prize",
+    "source": "https://en.wikipedia.org/wiki/Glenn_Murcutt"
+   },
+   {
+    "claim": "Pritzker Architecture Prize, 2002",
+    "source": "https://en.wikipedia.org/wiki/Glenn_Murcutt"
+   },
+   {
+    "claim": "Motto \"touch the earth lightly\"; attention to wind direction, water movement, temperature and light",
+    "source": "https://en.wikipedia.org/wiki/Glenn_Murcutt"
+   },
+   {
+    "claim": "Materials: glass, stone, timber, concrete, steel and corrugated iron",
+    "source": "https://en.wikipedia.org/wiki/Glenn_Murcutt",
+    "note": "this sentence carries a \"citation needed\" tag on Wikipedia; ArchDaily's Murcutt spotlight and the Pritzker announcement also mention corrugated iron"
+   },
+   {
+    "claim": "Marie Short House, Kempsey (1974–75); Magney House, Bingie Bingie (1982–84); Boyd Education Centre, Riversdale (1996–99) with Reg Lark and Wendy Lewin",
+    "source": "https://en.wikipedia.org/wiki/Glenn_Murcutt"
+   },
+   {
+    "claim": "Philip Drew: hall \"reminiscent of an ancient Greek temple\", corrugated iron roof",
+    "source": "https://en.wikipedia.org/wiki/Bundanon"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Glenn Murcutt",
+    "url": "https://en.wikipedia.org/wiki/Glenn_Murcutt",
+    "why": "life, approach and full works list"
+   },
+   {
+    "site": "Pritzker Prize",
+    "title": "2002 laureate",
+    "url": "https://www.pritzkerprize.com/laureates/2002",
+    "why": "jury citation and biography"
+   },
+   {
+    "site": "Architecture Foundation Australia",
+    "title": "Glenn Murcutt profile",
+    "url": "https://ozetecture.org/glenn-murcutt-profile",
+    "why": "profile from the foundation he co-runs"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Spotlight: Glenn Murcutt",
+    "url": "https://www.archdaily.com/770780/spotlight-glenn-murcutt",
+    "why": "overview of his houses with photos"
+   },
+   {
+    "site": "Encyclopaedia Britannica",
+    "title": "Glenn Murcutt",
+    "url": "https://www.britannica.com/biography/Glenn-Murcutt",
+    "why": "short reliable biography"
+   }
+  ],
+  "skip": false
+ }
+]

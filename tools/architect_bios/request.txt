@@ -1,2 +1,1 @@
-python -u tools/fetch_architect_sources.py --only "Norman Foster,Renzo Piano,Oscar Niemeyer,Zaha Hadid,Le Corbusier,Alvar Aalto,Frank Gehry,Herzog & de Meuron,OMA,Glenn Murcutt" --qids "OMA=Office for Metropolitan Architecture"
-# 2026-10-16T17:28:08
+python -u tools/check_overview_links.py --files bios_01.json
