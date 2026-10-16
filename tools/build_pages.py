@@ -297,12 +297,10 @@ def photo_alt(b, im):
 def ld_image(b, im):
     """schema.org ImageObject with licence markup, so Google Images can show the photo as licensable."""
     credit, lic = (im.get('credit') or '').rstrip('.'), im.get('license') or ''
+    credit = credit or 'Wikimedia Commons contributor'  # Google's licensable-image markup wants a creator on every photo
     d = {'@type': 'ImageObject', 'contentUrl': at(BASE, im['src']), 'name': f"{b['name']}: {photo_kind(im)}", 'caption': photo_alt(b, im),
-         'width': im['w'], 'height': im['h']}
-    if credit:
-        d['creditText'] = credit
-    if credit or lic:
-        d['copyrightNotice'] = f'{credit}, {lic}' if credit and lic else credit or lic
+         'width': im['w'], 'height': im['h'], 'creator': {'@type': 'Person', 'name': credit}, 'creditText': credit,
+         'copyrightNotice': f'{credit}, {lic}' if lic else credit}
     if license_url(lic):
         d['license'] = license_url(lic)
     if im.get('source'):
