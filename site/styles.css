@@ -216,7 +216,8 @@ body.filtering { overflow: hidden; }
 .t:focus-within .flip { opacity: 1; }
 @media (hover: hover) { .t:hover .flip { opacity: 1; } }
 /* Photo dots: only on tiles worth swiping through, in the gap under the photo (data/swipe.js) */
-.t.sw { overflow: visible; margin-bottom: 13px; touch-action: pan-y; }
+.t.sw { overflow: visible; margin-bottom: 13px; }
+.t.sx { touch-action: pan-y; } /* sideways swipes flip the photo; up and down still scroll the wall */
 .t .dots { position: absolute; left: 0; right: 0; bottom: -12px; height: 5px; display: flex; justify-content: center; align-items: center; gap: 4px; pointer-events: none; }
 .t .dots i { width: 5px; height: 5px; border-radius: 50%; background: var(--red-pale, #F3C2BA); flex: none; }
 .t .dots i.on { background: var(--red); }
