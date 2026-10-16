@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-10-15T12:43:03+00:00",
+ "fetched_at": "2026-10-16T01:09:51+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 37,
+ "visits_30d": 71,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 22,
+     "count": 35,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -15,12 +15,172 @@
      "max": 5
     },
     {
-     "count": 7,
+     "count": 8,
      "path_id": 112020274,
      "path": "/play",
      "event": false,
      "title": "Daily five \u00b7 Guess the building? \u00b7 Find Great Architecture",
      "max": 4
+    },
+    {
+     "count": 2,
+     "path_id": 112095271,
+     "path": "/buildings/sakaide-artificial-ground",
+     "event": false,
+     "title": "Sakaide Artificial Ground \u2014 Masato Otaka, 1968: photos for a case study \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112226396,
+     "path": "/buildings/tour-de-lille",
+     "event": false,
+     "title": "Tour de Lille \u2014 Christian de Portzamparc, 1995: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112219335,
+     "path": "/buildings/yatsushiro-municipal-museum",
+     "event": false,
+     "title": "Yatsushiro Municipal Museum \u2014 Toyo Ito, 1991: photos, plans & sections for a case study \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112201440,
+     "path": "/buildings/meiso-no-mori",
+     "event": false,
+     "title": "Meiso no Mori Municipal Funeral Hall \u2014 Toyo Ito, 2006: photos for a case study \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112197919,
+     "path": "/buildings/reichstag",
+     "event": false,
+     "title": "Reichstag \u2014 Norman Foster, 1999: photos, plans & sections for a case study \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112195539,
+     "path": "/buildings/sky-house",
+     "event": false,
+     "title": "Sky House \u2014 Kiyonori Kikutake, 1958: photos for a case study \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112183571,
+     "path": "/privacy",
+     "event": false,
+     "title": "Privacy Policy \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112176451,
+     "path": "/buildings/arcades-du-lac",
+     "event": false,
+     "title": "Les Arcades du Lac \u2014 Ricardo Bofill, Taller de Arquitectura, 1982: photos for a case study \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112176436,
+     "path": "/buildings/espaces-d-abraxas",
+     "event": false,
+     "title": "Espaces d'Abraxas \u2014 Ricardo Bofill, 1983: photos for a case study \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112175031,
+     "path": "/buildings/netherlands-embassy-berlin",
+     "event": false,
+     "title": "Netherlands Embassy, Berlin \u2014 OMA, Rem Koolhaas, 2003: photos, plans & sections for a case study \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112173562,
+     "path": "building/ust-main-building",
+     "event": true,
+     "title": "University of Santo Tomas Main Building",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112173526,
+     "path": "/buildings/dudhsagar-dairy",
+     "event": false,
+     "title": "Dudhsagar Dairy \u2014 Achyut Kanvinde, 1970: photos for a case study \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112173076,
+     "path": "/buildings/university-of-ruhuna",
+     "event": false,
+     "title": "University of Ruhuna \u2014 Geoffrey Bawa, 1988: photos for a case study \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112171419,
+     "path": "/buildings/marie-short-house",
+     "event": false,
+     "title": "Marie Short House \u2014 Glenn Murcutt, 1975: photos for a case study \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112168513,
+     "path": "/buildings/villa-schreiner",
+     "event": false,
+     "title": "Villa Schreiner \u2014 Sverre Fehn, 1963: photos for a case study \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112167833,
+     "path": "building/kuala-lumpur-international-airport",
+     "event": true,
+     "title": "Kuala Lumpur International Airport",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112167823,
+     "path": "building/palacio-do-planalto",
+     "event": true,
+     "title": "Pal\u00e1cio do Planalto",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112164721,
+     "path": "/buildings/margaret-esherick-house",
+     "event": false,
+     "title": "Margaret Esherick House \u2014 Louis Kahn, 1961: photos for a case study \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112161388,
+     "path": "/buildings/mmca-seoul",
+     "event": false,
+     "title": "National Museum of Modern and Contemporary Art, Seoul \u2014 mpART Architects (Min Hyun-jun), 2013: photos, plans & sections for a case study \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112160373,
+     "path": "/buildings",
+     "event": false,
+     "title": "All buildings A\u2013Z \u00b7 Find Great Architecture",
+     "max": 1
     },
     {
      "count": 1,
@@ -56,14 +216,6 @@
     },
     {
      "count": 1,
-     "path_id": 112095271,
-     "path": "/buildings/sakaide-artificial-ground",
-     "event": false,
-     "title": "Sakaide Artificial Ground \u2014 Masato Otaka, 1968: photos for a case study \u00b7 Find Great Architecture",
-     "max": 1
-    },
-    {
-     "count": 1,
      "path_id": 112094996,
      "path": "/buildings/templo-votivo-de-maipu",
      "event": false,
@@ -87,32 +239,32 @@
      "max": 1
     }
    ],
-   "total": 37,
+   "total": 71,
    "more": false
   },
   "referrers": {
    "stats": [
     {
-     "name": "",
-     "count": 12,
-     "ref_scheme": "o"
-    },
-    {
      "id": "Google",
      "name": "Google",
-     "count": 5,
+     "count": 20,
      "ref_scheme": "g"
     },
     {
-     "id": "YouTube",
-     "name": "YouTube",
-     "count": 4,
-     "ref_scheme": "c"
+     "name": "",
+     "count": 18,
+     "ref_scheme": "o"
     },
     {
      "id": "ig",
      "name": "ig",
-     "count": 4,
+     "count": 7,
+     "ref_scheme": "c"
+    },
+    {
+     "id": "YouTube",
+     "name": "YouTube",
+     "count": 5,
      "ref_scheme": "c"
     },
     {
@@ -120,6 +272,12 @@
      "name": "youtube`",
      "count": 3,
      "ref_scheme": "c"
+    },
+    {
+     "id": "bing.com",
+     "name": "bing.com",
+     "count": 1,
+     "ref_scheme": "h"
     }
    ],
    "more": false
@@ -129,12 +287,12 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 26
+     "count": 45
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 10
+     "count": 25
     },
     {
      "id": "Firefox",
@@ -149,27 +307,27 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 15
-    },
-    {
-     "id": "macOS",
-     "name": "macOS",
-     "count": 10
+     "count": 29
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 8
+     "count": 21
+    },
+    {
+     "id": "macOS",
+     "name": "macOS",
+     "count": 12
     },
     {
      "id": "Linux",
      "name": "Linux",
-     "count": 3
+     "count": 7
     },
     {
      "id": "Android",
      "name": "Android",
-     "count": 1
+     "count": 2
     }
    ],
    "more": false
@@ -179,12 +337,27 @@
     {
      "id": "IN",
      "name": "India",
-     "count": 19
+     "count": 33
     },
     {
      "id": "US",
      "name": "United States",
-     "count": 12
+     "count": 21
+    },
+    {
+     "id": "GB",
+     "name": "United Kingdom",
+     "count": 3
+    },
+    {
+     "id": "NL",
+     "name": "Netherlands",
+     "count": 3
+    },
+    {
+     "id": "CA",
+     "name": "Canada",
+     "count": 2
     },
     {
      "id": "DE",
@@ -192,23 +365,33 @@
      "count": 2
     },
     {
-     "id": "CA",
-     "name": "Canada",
-     "count": 1
-    },
-    {
      "id": "FR",
      "name": "France",
+     "count": 2
+    },
+    {
+     "id": "BR",
+     "name": "Brazil",
      "count": 1
     },
     {
-     "id": "GB",
-     "name": "United Kingdom",
+     "id": "IT",
+     "name": "Italy",
      "count": 1
     },
     {
-     "id": "NL",
-     "name": "Netherlands",
+     "id": "MA",
+     "name": "Morocco",
+     "count": 1
+    },
+    {
+     "id": "PE",
+     "name": "Peru",
+     "count": 1
+    },
+    {
+     "id": "TH",
+     "name": "Thailand",
      "count": 1
     }
    ],
@@ -219,22 +402,22 @@
     {
      "id": "phone",
      "name": "",
-     "count": 10
+     "count": 19
     },
     {
      "id": "tablet",
      "name": "",
-     "count": 3
+     "count": 12
     },
     {
      "id": "desktop",
      "name": "",
-     "count": 24
+     "count": 39
     },
     {
      "id": "desktophd",
      "name": "",
-     "count": 0
+     "count": 1
     },
     {
      "id": "unknown",
@@ -249,7 +432,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 37
+     "count": 71
     }
    ],
    "more": false
