@@ -308,6 +308,20 @@ def ld_image(b, im):
     return d
 
 
+ARCH = {}  # canonical architect name -> page slug, filled in by main() before any page is written (tools/architect_pages.py)
+NM = None  # names_py.Names, the same one-name-per-architect rule as the wall
+
+
+def architect_html(b, up):
+    """The building's credit as text, with the architect's own page linked when they have one."""
+    text = e(b['by'])
+    for n in (NM.list(b['by']) if NM else []):
+        if n in ARCH:
+            link = f'<a href="{up}architects/{ARCH[n]}/">{e(n)}</a>'
+            return text.replace(e(n), link, 1) if e(n) in text else f'{text}<br>{link}: all buildings'
+    return text
+
+
 def building_page(b, items):
     up = '../../'
     url = f"{BASE}buildings/{b['id']}/"
@@ -348,7 +362,7 @@ def building_page(b, items):
     <p class="by">{e(b['by'])} · {e(place_full(b))} · {e(b['year'])}</p>
     <p class="study"><span>Key features</span>{e(b['study'])}</p>
     <ul class="tags">{''.join(f'<li>{e(c)}</li>' for c in b['concepts'])}</ul>
-    <dl class="facts">{''.join(f'<dt>{e(k)}</dt><dd>{e(v)}</dd>' for k, v in facts)}</dl>
+    <dl class="facts">{''.join(f'<dt>{e(k)}</dt><dd>{architect_html(b, up) if k == "Architect" else e(v)}</dd>' for k, v in facts)}</dl>
     <a class="cta" href="{up}#{b['id']}">See it on the wall</a>
   </article>
 </main>
@@ -464,7 +478,7 @@ def stamp_wall():
     instead of waiting for their cached copy to expire."""
     page = SITE / 'index.html'
     html = page.read_text()
-    for name in ('styles.css', 'data/wall.js', 'data/names.js', 'data/architects.js', 'data/pritzker.js', 'data/filters.js', 'data/world.js', 'data/books.js', 'data/book_lines.js', 'data/swipe.js', 'app.js', 'filter.js', 'map.js'):
+    for name in ('styles.css', 'data/wall.js', 'data/names.js', 'data/architects.js', 'data/pritzker.js', 'data/filters.js', 'data/world.js', 'data/books.js', 'data/book_lines.js', 'data/swipe.js', 'data/arch_pages.js', 'app.js', 'filter.js', 'map.js'):
         html = re.sub(r'(["\'])' + re.escape(name) + r'(\?v=[0-9a-f]*)?\1', lambda m: f'{m.group(1)}{name}?v={fingerprint(SITE / name)}{m.group(1)}', html)
     page.write_text(html)
     play = SITE / 'play' / 'index.html'  # the game page: its own script and styles, and the buildings it asks about
@@ -537,6 +551,13 @@ def main():
                            page.read_text(), flags=re.S))
     write_swipe()
     write_wall(items)
+    global NM
+    import architect_pages
+    NM, plans = architect_pages.build(sys.modules[__name__], items)
+    ARCH.clear()
+    ARCH.update({k: p['slug'] for k, p in plans.items()})
+    (SITE / 'data' / 'arch_pages.js').write_text('// Architects who have their own page (site/architects/<slug>/). Made by tools/build_pages.py.\n'
+                                                 'window.ARCH_PAGES = ' + json.dumps(ARCH, ensure_ascii=False, sort_keys=True) + ';\n')
     stamp_wall()
     for b in items:
         out = SITE / 'buildings' / b['id']
@@ -545,7 +566,7 @@ def main():
     (SITE / 'buildings' / 'index.html').write_text(index_page(items))
     if any(x.get('images') for x in items):
         og_image(items)
-    urls = [BASE, BASE + 'play/', BASE + 'buildings/'] + [f"{BASE}buildings/{b['id']}/" for b in items]
+    urls = [BASE, BASE + 'play/', BASE + 'buildings/'] + ([BASE + 'architects/'] + [f"{BASE}architects/{v}/" for v in sorted(ARCH.values())] if ARCH else []) + [f"{BASE}buildings/{b['id']}/" for b in items]
     (SITE / 'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
                                        + ''.join(f'  <url><loc>{u}</loc></url>\n' for u in urls) + '</urlset>\n')
     (SITE / 'robots.txt').write_text(f'User-agent: *\nAllow: /\nSitemap: {BASE}sitemap.xml\n')
