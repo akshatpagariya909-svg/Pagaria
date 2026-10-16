@@ -237,19 +237,22 @@
     "site": "Pritzker Prize",
     "title": "1988 laureate",
     "url": "https://www.pritzkerprize.com/laureates/1988-0",
-    "why": "jury citation and biography"
+    "why": "jury citation and biography",
+    "check_failed": "status 404, name not found on page"
    },
    {
     "site": "Pritzker Prize",
     "title": "1988 laureate",
     "url": "https://www.pritzkerprize.com/laureates/oscar-niemeyer",
-    "why": "jury citation and biography"
+    "why": "jury citation and biography",
+    "check_failed": "status 404, name not found on page"
    },
    {
     "site": "Pritzker Prize",
     "title": "1988 laureate",
     "url": "https://www.pritzkerprize.com/laureates/1988-1",
-    "why": "jury citation and biography"
+    "why": "jury citation and biography",
+    "check_failed": "status 404, name not found on page"
    },
    {
     "site": "Fundação Oscar Niemeyer",
@@ -334,7 +337,7 @@
     "title": "Zaha Hadid Architects",
     "url": "https://www.zaha-hadid.com/",
     "why": "the practice's own site and project archive",
-    "check_failed": "status 404, name not found on page"
+    "checked": "2026-10-16"
    },
    {
     "site": "ArchDaily",

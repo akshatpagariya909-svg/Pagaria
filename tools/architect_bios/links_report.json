@@ -33,15 +33,7 @@
  },
  {
   "architect": "Norman Foster",
-  "url": "https://www.britannica.com/biography/Norman-Foster",
-  "status": 403,
-  "final": "https://www.britannica.com/biography/Norman-Foster",
-  "title": "",
-  "about": false
- },
- {
-  "architect": "Norman Foster",
-  "url": "https://www.archdaily.com/office/foster-partners",
+  "url": "https://www.archdaily.com/office/foster-plus-partners",
   "status": 200,
   "final": "https://www.archdaily.com/office/foster-plus-partners",
   "title": "Foster + Partners | ArchDaily",
@@ -81,14 +73,6 @@
  },
  {
   "architect": "Renzo Piano",
-  "url": "https://www.britannica.com/biography/Renzo-Piano",
-  "status": 403,
-  "final": "https://www.britannica.com/biography/Renzo-Piano",
-  "title": "",
-  "about": false
- },
- {
-  "architect": "Renzo Piano",
   "url": "https://www.archdaily.com/office/renzo-piano-building-workshop",
   "status": 200,
   "final": "https://www.archdaily.com/office/renzo-piano-building-workshop",
@@ -105,27 +89,35 @@
  },
  {
   "architect": "Oscar Niemeyer",
-  "url": "https://www.pritzkerprize.com/laureates/1988",
+  "url": "https://www.pritzkerprize.com/laureates/1988-0",
   "status": 404,
-  "final": "https://www.pritzkerprize.com/laureates/1988",
+  "final": "https://www.pritzkerprize.com/laureates/1988-0",
   "title": "",
   "about": false
  },
  {
   "architect": "Oscar Niemeyer",
-  "url": "http://www.niemeyer.org.br",
+  "url": "https://www.pritzkerprize.com/laureates/oscar-niemeyer",
+  "status": 404,
+  "final": "https://www.pritzkerprize.com/laureates/oscar-niemeyer",
+  "title": "",
+  "about": false
+ },
+ {
+  "architect": "Oscar Niemeyer",
+  "url": "https://www.pritzkerprize.com/laureates/1988-1",
+  "status": 404,
+  "final": "https://www.pritzkerprize.com/laureates/1988-1",
+  "title": "",
+  "about": false
+ },
+ {
+  "architect": "Oscar Niemeyer",
+  "url": "https://www.oscarniemeyer.org.br/",
   "status": 200,
-  "final": "https://www.oscarniemeyer.org.br:443/",
+  "final": "https://www.oscarniemeyer.org.br/",
   "title": "Niemeyer",
   "about": true
- },
- {
-  "architect": "Oscar Niemeyer",
-  "url": "https://www.britannica.com/biography/Oscar-Niemeyer",
-  "status": 403,
-  "final": "https://www.britannica.com/biography/Oscar-Niemeyer",
-  "title": "",
-  "about": false
  },
  {
   "architect": "Oscar Niemeyer",
@@ -153,23 +145,15 @@
  },
  {
   "architect": "Zaha Hadid",
-  "url": "https://www.zaha-hadid.com/architecture/",
-  "status": 404,
-  "final": "https://www.zaha-hadid.com/architecture/",
-  "title": "",
-  "about": false
+  "url": "https://www.zaha-hadid.com/",
+  "status": 200,
+  "final": "https://www.zha.com/?disclaimer=true",
+  "title": "Global Architecture Studio | ZHA Architects",
+  "about": true
  },
  {
   "architect": "Zaha Hadid",
-  "url": "https://www.britannica.com/biography/Zaha-Hadid",
-  "status": 403,
-  "final": "https://www.britannica.com/biography/Zaha-Hadid",
-  "title": "",
-  "about": false
- },
- {
-  "architect": "Zaha Hadid",
-  "url": "https://www.archdaily.com/office/zaha-hadid-architects",
+  "url": "https://www.archdaily.com/office/zha",
   "status": 200,
   "final": "https://www.archdaily.com/office/zha",
   "title": "ZHA | ArchDaily",
@@ -201,14 +185,6 @@
  },
  {
   "architect": "Le Corbusier",
-  "url": "https://www.britannica.com/biography/Le-Corbusier",
-  "status": 403,
-  "final": "https://www.britannica.com/biography/Le-Corbusier",
-  "title": "",
-  "about": false
- },
- {
-  "architect": "Le Corbusier",
   "url": "https://www.archdaily.com/office/le-corbusier",
   "status": 200,
   "final": "https://www.archdaily.com/office/le-corbusier",
@@ -230,14 +206,6 @@
   "final": "https://www.alvaraalto.fi/en/",
   "title": "Alvar Aalto Foundation | Alvar Aalto -säätiö - Alvar Aalto today | Alvar Aalto tänään | Jyväskylä | Helsinki",
   "about": true
- },
- {
-  "architect": "Alvar Aalto",
-  "url": "https://www.britannica.com/biography/Alvar-Aalto",
-  "status": 403,
-  "final": "https://www.britannica.com/biography/Alvar-Aalto",
-  "title": "",
-  "about": false
  },
  {
   "architect": "Alvar Aalto",
@@ -273,14 +241,6 @@
  },
  {
   "architect": "Frank Gehry",
-  "url": "https://www.britannica.com/biography/Frank-Gehry",
-  "status": 403,
-  "final": "https://www.britannica.com/biography/Frank-Gehry",
-  "title": "",
-  "about": false
- },
- {
-  "architect": "Frank Gehry",
   "url": "https://www.archdaily.com/office/gehry-partners",
   "status": 200,
   "final": "https://www.archdaily.com/office/gehry-partners",
@@ -305,9 +265,9 @@
  },
  {
   "architect": "Herzog & de Meuron",
-  "url": "https://www.herzogdemeuron.com/projects/",
+  "url": "https://www.herzogdemeuron.com/",
   "status": 302,
-  "final": "https://www.herzogdemeuron.com/projects/",
+  "final": "https://www.herzogdemeuron.com/",
   "title": "",
   "about": false
  },
@@ -345,14 +305,6 @@
  },
  {
   "architect": "OMA",
-  "url": "https://www.britannica.com/biography/Rem-Koolhaas",
-  "status": 403,
-  "final": "https://www.britannica.com/biography/Rem-Koolhaas",
-  "title": "",
-  "about": false
- },
- {
-  "architect": "OMA",
   "url": "https://www.archdaily.com/office/oma",
   "status": 200,
   "final": "https://www.archdaily.com/office/oma",
@@ -377,7 +329,7 @@
  },
  {
   "architect": "Glenn Murcutt",
-  "url": "https://ozetecture.org/glenn-murcutt-profile",
+  "url": "https://www.ozetecture.org/glenn-murcutt-profile",
   "status": 200,
   "final": "https://www.ozetecture.org/glenn-murcutt-profile",
   "title": "Glenn Murcutt - Profile — OZ.E.TECTURE",
@@ -390,13 +342,5 @@
   "final": "https://www.archdaily.com/770780/spotlight-glenn-murcutt",
   "title": "Spotlight: Glenn Murcutt | ArchDaily",
   "about": true
- },
- {
-  "architect": "Glenn Murcutt",
-  "url": "https://www.britannica.com/biography/Glenn-Murcutt",
-  "status": 403,
-  "final": "https://www.britannica.com/biography/Glenn-Murcutt",
-  "title": "",
-  "about": false
  }
 ]
