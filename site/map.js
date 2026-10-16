@@ -357,8 +357,11 @@
     const below = bar.getBoundingClientRect().bottom; // the ideas row floats over the top of the map
     panel.style.top = Math.max(0, Math.round(below)) + 'px';
   }
+  // The Map button works from anywhere: an open building closes and the map flies to it; the books wall switches to buildings.
   async function openMap() {
-    if (DA.state.mode === 'books') return;
+    const was = !$('sheet').hidden && DA.state.open && DA.state.open.kind !== 'book' ? DA.state.open : null;
+    if (!$('sheet').hidden) $('close').click();
+    if (DA.state.mode === 'books') $('modeBuildings').click();
     place();
     panel.hidden = false; document.body.classList.add('mapped');
     requestAnimationFrame(() => panel.classList.add('in'));
@@ -370,7 +373,9 @@
     }
     resize();
     $('gNone').hidden = items.length > 0;
-    if (items.length && items.length < all.length) fit();
+    const here = was && all.find(it => it.b === was);
+    if (here) fly(here, 22); // straight to the building that was open, with its card
+    else if (items.length && items.length < all.length) fit();
   }
   function closeMap() {
     panel.classList.remove('in'); document.body.classList.remove('mapped'); card(null); $('gNone').hidden = true;
