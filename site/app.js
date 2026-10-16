@@ -1,10 +1,10 @@
 /* Find Great Architecture: the wall (equal-width columns, scrolling down), photo galleries, the opened building, search, filters and Surprise me.
-   Plain JavaScript, no build step. Data comes from data/buildings.js (window.BUILDINGS). */
+   Plain JavaScript, no build step. Data comes from data/wall.js (window.BUILDINGS: one line per building, first photo only); a building's
+   full photo list and links load from data/detail/<id>.json when it is opened. Both are made by tools/build_pages.py. */
 (() => {
   'use strict';
 
-  const LINKS = window.LINKS || {};
-  const ALL = (window.BUILDINGS || []).map(b => ({ ...b, ...(LINKS[b.id] || {}) }));
+  const ALL = window.BUILDINGS || [];
   const TOTAL = ALL.length;
   // Books (data/books.js): each knows its shelf, its tags, the architects it is about and the buildings on the wall it goes with.
   // The books file is large, so it loads only when someone first opens Books or a book link; the buildings wall never waits for it.
@@ -42,6 +42,21 @@
   });
 
   const $ = id => document.getElementById(id);
+  // The wall holds only each building's first photo. The rest (every photo, the links, the Commons category) is one
+  // small file per building, fetched the first time it is needed and merged into the building.
+  const detailReq = new Map();
+  function loadDetail(b) {
+    if (b.kind === 'book' || b.full) return Promise.resolve(b);
+    let p = detailReq.get(b.id);
+    if (!p) {
+      p = fetch(`data/detail/${b.id}.json?v=${window.WALL_V || ''}`).then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+        .then(d => { Object.assign(b, d); b.full = true; return b; })
+        .catch(e => { detailReq.delete(b.id); throw e; });
+      detailReq.set(b.id, p);
+    }
+    return p;
+  }
+  const photoCount = b => b.ni != null ? b.ni : (b.images || []).length;
   const cols = $('cols'), sheet = $('sheet'), card = $('card');
   const esc = s => String(s == null ? '' : s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
   const fold = s => String(s).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
@@ -147,7 +162,7 @@
     let el = tiles.get(keyOf(b));
     if (el) return el;
     if (b.kind === 'book') { el = bookTileEl(b); tiles.set(keyOf(b), el); return el; }
-    const n = (b.images || []).length;
+    const n = photoCount(b);
     const city = b.place.split(',')[0]; // the tile names the first credited architect; the full credit is in the opened view
     const swipe = n > 1 && SWIPE.has(b.id);
     el = document.createElement('div');
@@ -163,6 +178,7 @@
       `<span class="cap" aria-hidden="true"><span class="r1"><b>${esc(b.name)}</b><span class="by">${esc(b.by.split(',')[0])}</span></span>` +
       `<span class="r2">${esc(b.year)} · ${esc(city)}</span></span>`;
     el.querySelector('.open').addEventListener('click', () => { if (!swiped) openBuilding(b.id, false, el); swiped = false; });
+    el.addEventListener('pointerenter', () => { loadDetail(b).catch(() => {}); }, { once: true }); // a finger or pointer arriving is a good sign it will open
     if (swipe) { // a sideways swipe on the photo shows the next one; a tap still opens the building
       let x0 = null, y0 = 0;
       el.addEventListener('pointerdown', e => { x0 = e.clientX; y0 = e.clientY; });
@@ -190,6 +206,7 @@
       `<i class="${j === at ? 'on' : ''}${n > MAXD && j === shown - 1 && at < shown - 1 ? ' sm' : ''}"></i>`).join('')}</span>`;
   }
   function flipTile(b, el, dir) {
+    if (!b.full) { loadDetail(b).then(() => flipTile(b, el, dir), () => {}); return; }
     const n = b.images.length;
     const k = ((tileShot.get(b.id) || 0) + dir + n) % n;
     tileShot.set(b.id, k);
@@ -355,7 +372,9 @@
       $('gPrev').hidden = $('gNext').hidden = true;
       return;
     }
-    k = (k + ims.length) % ims.length;
+    const total = photoCount(b);
+    k = (k + total) % total;
+    if (!ims[k]) k = 0; // the other photos are still loading
     state.shot = k;
     const im = ims[k];
     // Show the small thumbnail at once, then swap in the full photo (often from Wikimedia) when it arrives.
@@ -363,14 +382,16 @@
     stage.innerHTML = `<img src="${esc(im.thumb)}" alt="${esc(b.name)}: ${esc(drawing ? 'drawing' : im.caption)}">` +
       (drawing ? '<span class="nophoto">Photos unavailable</span>' : '');
     stage.classList.toggle('drawing', drawing);
-    const full = new Image();
-    full.onload = () => { const img = stage.querySelector('img'); if (img && img.getAttribute('src') === im.thumb) img.src = im.src; };
-    full.src = im.src;
+    if (im.src) { // the wall's own copy has only the thumbnail; the full photo is known once the details have arrived
+      const full = new Image();
+      full.onload = () => { const img = stage.querySelector('img'); if (img && img.getAttribute('src') === im.thumb) img.src = im.src; };
+      full.src = im.src;
+    }
     const credit = (im.credit || '').replace(/\.$/, '');
-    $('gCap').innerHTML = `<span class="c">${k + 1}/${ims.length}${drawing ? '' : ' · ' + esc(im.caption)}</span>` +
+    $('gCap').innerHTML = `<span class="c">${k + 1}/${total}${drawing ? '' : ' · ' + esc(im.caption)}</span>` +
       `<span class="l">${credit ? (im.kind === 'Drawing' ? '' : 'Photo: ') + esc(credit) + ' · ' : ''}${esc(im.license)}${im.source ? ` · <a href="${esc(im.source)}" target="_blank" rel="noopener">source</a>` : ''}</span>`;
     $('strip').querySelectorAll('button').forEach((t, j) => t.setAttribute('aria-current', j === k));
-    $('gPrev').hidden = $('gNext').hidden = ims.length < 2;
+    $('gPrev').hidden = $('gNext').hidden = total < 2;
   }
 
   // Verified pages found by tools/find_links.py come first; the core sites fall back to their top search result.
@@ -407,6 +428,17 @@
     } catch (e) { /* some embedded frames forbid it */ }
   }
 
+  const linksHtml = b => linksFor(b).map(([k, n, u, direct]) =>
+    `<a href="${esc(u)}" target="_blank" rel="noopener"${direct ? '' : ' class="guess" title="Searches this site for the building"'}><b class="lt"><span>${esc(k)}</span>${esc(n)} ↗</b>${logoOf(n)}</a>`).join('');
+  const stripHtml = b => (b.images || []).map((im, k) =>
+    `<button type="button" data-k="${k}" aria-label="Photo ${k + 1}: ${esc(im.caption)}"><img src="${esc(im.thumb)}" alt=""></button>`).join('');
+  // The opened building shows at once from what the wall already has; its other photos and its links join in when they arrive.
+  function fillDetail(b) {
+    if (state.open !== b) return;
+    $('strip').innerHTML = stripHtml(b);
+    $('links').innerHTML = linksHtml(b);
+    showShot(state.shot); // same thumbnail, now with its full photo, credit and licence
+  }
   function openBuilding(id, surprise, fromEl, fromHistory) {
     const b = ALL.find(x => x.id === id);
     if (!b) return;
@@ -417,8 +449,7 @@
     $('where').hidden = false; $('pageLink').hidden = false; $('shopNote').hidden = true;
     $('linksTitle').textContent = 'Go deeper';
 
-    $('strip').innerHTML = (b.images || []).map((im, k) =>
-      `<button type="button" data-k="${k}" aria-label="Photo ${k + 1}: ${esc(im.caption)}"><img src="${esc(im.thumb)}" alt=""></button>`).join('');
+    $('strip').innerHTML = stripHtml(b);
     showShot(tileShot.get(b.id) || 0);
 
     const kick = $('bKicker');
@@ -436,8 +467,7 @@
     $('bChips').innerHTML = (b.concepts || []).map(c => `<button type="button" class="chip" data-g="concepts" data-v="${esc(c)}">${esc(c)} <span class="n">→</span></button>`).join('') +
       `<button type="button" class="chip quiet" data-g="type" data-v="${esc(b.type)}">${esc(b.type)} <span class="n">→</span></button>`;
 
-    $('links').innerHTML = linksFor(b).map(([k, n, u, direct]) =>
-      `<a href="${esc(u)}" target="_blank" rel="noopener"${direct ? '' : ' class="guess" title="Searches this site for the building"'}><b class="lt"><span>${esc(k)}</span>${esc(n)} ↗</b>${logoOf(n)}</a>`).join('');
+    $('links').innerHTML = b.full ? linksHtml(b) : '';
 
     const mine = byArchitect(b), kin = sameType(b);
     $('byArch').hidden = !mine.length;
@@ -460,6 +490,7 @@
     card.querySelector('.info').scrollTop = 0;
     card.focus({ preventScroll: true });
     updateStep();
+    if (!b.full) loadDetail(b).then(() => fillDetail(b), () => { if (state.open === b) $('links').innerHTML = linksHtml(b); });
   }
 
   /* ---------- related books in the opened building ---------- */
@@ -659,13 +690,15 @@
   $('close').addEventListener('click', closeBuilding);
   $('sPrev').addEventListener('click', () => stepBuilding(-1));
   $('sNext').addEventListener('click', () => stepBuilding(1));
-  $('gPrev').addEventListener('click', () => showShot(state.shot - 1));
-  $('gNext').addEventListener('click', () => showShot(state.shot + 1));
+  // Moving between photos needs the full list, so a very early press waits for it.
+  const shotBy = d => { const b = state.open; if (b && b.kind !== 'book' && !b.full) loadDetail(b).then(() => showShot(state.shot + d), () => {}); else showShot(state.shot + d); };
+  $('gPrev').addEventListener('click', () => shotBy(-1));
+  $('gNext').addEventListener('click', () => shotBy(1));
   $('strip').addEventListener('click', e => { const t = e.target.closest('button[data-k]'); if (t) showShot(+t.dataset.k); });
   // swipe between photos on touch screens
   let swipeX = null;
   $('stage').addEventListener('pointerdown', e => { swipeX = e.clientX; });
-  $('stage').addEventListener('pointerup', e => { if (swipeX != null && Math.abs(e.clientX - swipeX) > 40) showShot(state.shot + (e.clientX < swipeX ? 1 : -1)); swipeX = null; });
+  $('stage').addEventListener('pointerup', e => { if (swipeX != null && Math.abs(e.clientX - swipeX) > 40) shotBy(e.clientX < swipeX ? 1 : -1); swipeX = null; });
   const BOOK_STEP = 3 * 84; // three covers (72px wide + 12px gap) per press
   $('relBooksPrev').addEventListener('click', () => $('relBooksRow').scrollBy({ left: -BOOK_STEP, behavior: 'smooth' }));
   $('relBooksNext').addEventListener('click', () => $('relBooksRow').scrollBy({ left: BOOK_STEP, behavior: 'smooth' }));
@@ -966,7 +999,7 @@
   $('surprise').addEventListener('click', surprise);
 
   /* ---------- start ---------- */
-  window.DA = { ALL, get BOOKS() { return BOOKS; }, withBooks, state, GROUPS, matches, esc, fold, countryName, project, world: WORLD,
+  window.DA = { ALL, get BOOKS() { return BOOKS; }, withBooks, loadDetail, state, GROUPS, matches, esc, fold, countryName, project, world: WORLD,
     coin, medalHtml, laureate: name => laureateOf(null, name), open: id => openAny(id),
     apply: () => render(false), close: () => { toggleFilters(false); window.scrollTo({ top: 0, behavior: 'smooth' }); } };
   render(false);

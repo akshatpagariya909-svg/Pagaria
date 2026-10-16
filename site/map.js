@@ -195,11 +195,16 @@
     $('gCard').hidden = !it;
     if (it) {
       const b = it.b;
-      const ims = b.images.filter(im => !/drawing\.svg$/.test(im.src));
-      // every photo, side by side: swipe sideways through them; the dots say which one is showing
-      $('gcStrip').innerHTML = ims.map((im, k) => `<img src="${esc(im.thumb)}" alt="${k ? '' : esc(b.name)}" loading="${k ? 'lazy' : 'eager'}" decoding="async">`).join('');
-      $('gcStrip').scrollLeft = 0;
-      $('gcDots').innerHTML = ims.length > 1 ? ims.slice(0, 6).map((_, k) => `<i${k ? '' : ' class="on"'}></i>`).join('') : '';
+      // every photo, side by side: swipe sideways through them; the dots say which one is showing.
+      // The wall only holds the first photo, so the rest join the strip when the building's details arrive.
+      const photos = () => {
+        const ims = b.images.filter(im => !/drawing\.svg$/.test(im.src || im.thumb));
+        $('gcStrip').innerHTML = ims.map((im, k) => `<img src="${esc(im.thumb)}" alt="${k ? '' : esc(b.name)}" loading="${k ? 'lazy' : 'eager'}" decoding="async">`).join('');
+        $('gcStrip').scrollLeft = 0;
+        $('gcDots').innerHTML = ims.length > 1 ? ims.slice(0, 6).map((_, k) => `<i${k ? '' : ' class="on"'}></i>`).join('') : '';
+      };
+      photos();
+      if (!b.full) DA.loadDetail(b).then(() => { if (selected === it) photos(); }, () => {});
       $('gcKind').textContent = `${b.type} · ${b.movement}`;
       $('gcName').textContent = b.name; $('gcMeta').textContent = metaOf(b); $('gcStudy').textContent = b.study || '';
     }

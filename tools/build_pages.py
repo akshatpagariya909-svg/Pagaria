@@ -466,7 +466,7 @@ def stamp_wall():
     instead of waiting for their cached copy to expire."""
     page = SITE / 'index.html'
     html = page.read_text()
-    for name in ('styles.css', 'data/buildings.js', 'data/names.js', 'data/links.js', 'data/architects.js', 'data/pritzker.js', 'data/filters.js', 'data/world.js', 'data/books.js', 'data/book_lines.js', 'data/swipe.js', 'app.js', 'filter.js', 'map.js'):
+    for name in ('styles.css', 'data/wall.js', 'data/names.js', 'data/architects.js', 'data/pritzker.js', 'data/filters.js', 'data/world.js', 'data/books.js', 'data/book_lines.js', 'data/swipe.js', 'app.js', 'filter.js', 'map.js'):
         html = re.sub(r'(["\'])' + re.escape(name) + r'(\?v=[0-9a-f]*)?\1', lambda m: f'{m.group(1)}{name}?v={fingerprint(SITE / name)}{m.group(1)}', html)
     page.write_text(html)
     play = SITE / 'play' / 'index.html'  # the game page: its own script and styles, and the buildings it asks about
@@ -487,9 +487,47 @@ def write_swipe():
     return len(ids)
 
 
+# What the wall needs for every building up front. The rest of each building (all its photos, its links) is one small file
+# in site/data/detail/, which the opened building fetches. The first photo is kept in the wall: it is the tile.
+WALL_FIELDS = ('id', 'n', 'name', 'by', 'place', 'year', 'y', 'type', 'movement', 'region', 'era', 'concepts', 'study', 'coords')
+DETAIL_FIELDS = ('images', 'commons', 'links', 'wiki')
+
+
+def write_wall(items=None):
+    """site/data/wall.js (window.BUILDINGS, the slim list the wall loads) and site/data/detail/<id>.json (one per building),
+    both made from buildings.js and links.js. buildings.js stays the full source; the game still reads it."""
+    import hashlib
+    items = load() if items is None else items
+    out = SITE / 'data' / 'detail'
+    out.mkdir(parents=True, exist_ok=True)
+    dump = lambda o: json.dumps(o, ensure_ascii=False, separators=(',', ':'))
+    rows, digest, ids = [], hashlib.md5(), set()
+    for b in items:
+        ids.add(b['id'])
+        ims = b.get('images') or []
+        row = {k: b[k] for k in WALL_FIELDS if b.get(k) is not None}
+        row['images'] = [{k: ims[0][k] for k in ('thumb', 'w', 'h') if k in ims[0]}] if ims else []
+        row['ni'] = len(ims)
+        rows.append(dump(row))
+        detail = dump({k: b[k] for k in DETAIL_FIELDS if b.get(k)})
+        digest.update(detail.encode())
+        path = out / (b['id'] + '.json')
+        if not path.exists() or path.read_text() != detail:
+            path.write_text(detail)
+    for old in out.glob('*.json'):  # a building that left the list leaves its file too
+        if old.stem not in ids:
+            old.unlink()
+    version = hashlib.md5((digest.hexdigest() + ''.join(rows)).encode()).hexdigest()[:8]
+    (SITE / 'data' / 'wall.js').write_text('// The wall\'s buildings, one per line, first photo only; the rest of each is in data/detail/<id>.json.\n'
+                                           '// Made by tools/build_pages.py from data/buildings.js and data/links.js; edit those, not this file.\n'
+                                           f'window.WALL_V = "{version}";\nwindow.BUILDINGS = [\n' + ',\n'.join(rows) + '\n];\n')
+    return len(rows)
+
+
 def main():
     import sys
-    if '--stamp' in sys.argv:  # used by the deploy workflow: refresh the fingerprints only
+    if '--stamp' in sys.argv:  # used by the deploy workflow: refresh the wall's data and the fingerprints only
+        write_wall()
         stamp_wall()
         return
     global TOTAL, CSS_V
@@ -500,6 +538,7 @@ def main():
     page.write_text(re.sub(r'<!-- about:start -->.*?<!-- about:end -->', lambda m: '<!-- about:start -->\n' + home_block(items) + '\n<!-- about:end -->',
                            page.read_text(), flags=re.S))
     write_swipe()
+    write_wall(items)
     stamp_wall()
     for b in items:
         out = SITE / 'buildings' / b['id']
