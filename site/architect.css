@@ -84,6 +84,14 @@
   .wallpane .foot { padding-bottom: 28px; }
 }
 @media (max-width: 999px) {
+  /* phone: the small portrait sits beside the name, so the write-up starts on the first screen */
+  .rail { display: grid; grid-template-columns: 112px minmax(0, 1fr); column-gap: 14px; row-gap: 14px; align-items: end; }
+  .rail > * { grid-column: 1 / -1; }
+  .rail .portrait { grid-column: 1; grid-row: 1 / span 3; align-self: start; }
+  .rail .portrait img { width: 112px; height: 140px; aspect-ratio: auto; max-height: none; }
+  .rail .portrait figcaption { font-size: 10px; }
+  .rail:not(.noport) .kicker, .rail:not(.noport) h1, .rail:not(.noport) .facts { grid-column: 2; }
+  .rail:not(.noport) h1 { font-size: 44px; }
   .arch .cap b { font-size: 15px; }
   .arch .cap .r2 { font-size: 12px; }
   .wallpane { padding-top: 24px; }

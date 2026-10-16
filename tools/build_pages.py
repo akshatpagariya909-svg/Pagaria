@@ -478,7 +478,7 @@ def stamp_wall():
     instead of waiting for their cached copy to expire."""
     page = SITE / 'index.html'
     html = page.read_text()
-    for name in ('styles.css', 'data/wall.js', 'data/names.js', 'data/architects.js', 'data/pritzker.js', 'data/filters.js', 'data/world.js', 'data/books.js', 'data/book_lines.js', 'data/swipe.js', 'app.js', 'filter.js', 'map.js'):
+    for name in ('styles.css', 'data/wall.js', 'data/names.js', 'data/architects.js', 'data/pritzker.js', 'data/filters.js', 'data/world.js', 'data/books.js', 'data/book_lines.js', 'data/swipe.js', 'data/arch_pages.js', 'app.js', 'filter.js', 'map.js'):
         html = re.sub(r'(["\'])' + re.escape(name) + r'(\?v=[0-9a-f]*)?\1', lambda m: f'{m.group(1)}{name}?v={fingerprint(SITE / name)}{m.group(1)}', html)
     page.write_text(html)
     play = SITE / 'play' / 'index.html'  # the game page: its own script and styles, and the buildings it asks about

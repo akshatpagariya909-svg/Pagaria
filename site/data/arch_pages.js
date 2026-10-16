@@ -1,0 +1,2 @@
+// Architects who have their own page (site/architects/<slug>/). Made by tools/build_pages.py.
+window.ARCH_PAGES = {"Alvar Aalto": "alvar-aalto", "Frank Gehry": "frank-gehry", "Glenn Murcutt": "glenn-murcutt", "Herzog & de Meuron": "herzog-and-de-meuron", "Le Corbusier": "le-corbusier", "Norman Foster": "norman-foster", "OMA": "oma", "Oscar Niemeyer": "oscar-niemeyer", "Renzo Piano": "renzo-piano", "Zaha Hadid": "zaha-hadid"};

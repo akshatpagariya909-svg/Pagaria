@@ -144,9 +144,10 @@ def title_for(bp, name, drawings):
 
 
 def desc_for(bp, rec, n):
-    tail = f' {n} buildings with free photos, key features and links.'
-    head = first_sentence(rec['bio'], bp.DESC_MAX - len(tail))
-    return head + tail
+    """The write-up's first sentence (up to the length Google shows), plus how many buildings when there is room."""
+    head = first_sentence(rec['bio'], bp.DESC_MAX)
+    tail = f' {n} buildings with free photos.'
+    return head + tail if len(head) + len(tail) <= bp.DESC_MAX else head
 
 
 def similar(plans, key, n=4):
@@ -214,8 +215,12 @@ def page(bp, plans, key, ctx):
                f'onerror="this.onerror=null;this.src=this.dataset.fallback" data-fallback="{bp.e(port["thumb"])}">'
                f'<figcaption>{bp.e(cred)}{src}</figcaption></figure>')
     more = (f'<details class="more"><summary><span class="m">Read more</span><span class="l">Show less</span></summary>{"".join(f"<p>{bp.e(p)}</p>" for p in paras[1:])}</details>' if len(paras) > 1 else '')
+    def label(l):  # "Wikipedia · Zaha Hadid", but not "Zaha Hadid Architects · Zaha Hadid Architects"
+        t = (l.get('title') or l.get('why') or '').strip()
+        same = not t or t.lower() == l['site'].lower() or l['site'].lower().startswith(t.lower())
+        return '' if same else f'<span> · {bp.e(t)}</span>'
     rows = ''.join(f'<a href="{bp.e(l["url"])}" rel="noopener">{link_logo(bp, l, name, up)}<span class="lt"><b>{bp.e(l["site"])}</b>'
-                   f'<span> · {bp.e(l.get("title") or l.get("why") or "")}</span></span><span class="go" aria-hidden="true">↗</span></a>'
+                   f'{label(l)}</span><span class="go" aria-hidden="true">↗</span></a>'
                    for l in usable_links(rec))
     links = f'<section class="blk"><h2>Read about the work</h2><div class="rows">{rows}</div></section>' if rows else ''
     bks = books_for(bp, key, ctx['nm'], ctx['books'])
@@ -253,7 +258,7 @@ def page(bp, plans, key, ctx):
                           image=bp.e(og), up=up, wallhash='', extra=extra, total=bp.TOTAL, css_v=bp.CSS_V)
     body = (
         f'<main class="arch">\n'
-        f'<aside class="rail">{fig}<p class="kicker">{"Practice" if kind == "Organization" else "Architect"}</p>'
+        f'<aside class="rail{"" if fig else " noport"}">{fig}<p class="kicker">{"Practice" if kind == "Organization" else "Architect"}</p>'
         f'<h1>{bp.e(name)}</h1><p class="facts">{bp.e(facts)}</p>'
         f'<div class="bio"><p>{bp.e(paras[0])}</p>{more}</div>'
         f'<a class="cta" href="#buildings">See the {n} buildings ↓</a>'

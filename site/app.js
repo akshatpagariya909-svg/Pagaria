@@ -710,6 +710,9 @@
   // "See all" for an architect chooses them in the Architect filter, so the filter panel can still swap or add architects
   // (a name no building credits falls back to a search); "All" for a typology filters by it.
   function showOnWall(arch, type) {
+    // An architect with a page of their own (data/arch_pages.js, tools/architect_pages.py) is shown there, not as a filter.
+    const page = arch && !type && window.ARCH_PAGES ? window.ARCH_PAGES[NAMES.canon(arch)] : '';
+    if (page) { location.href = 'architects/' + page + '/'; return; }
     setMode('buildings', true);
     GROUPS.forEach(g => state.filters[g.key].clear()); state.decades = null;
     if (type) state.filters.type.add(type);
