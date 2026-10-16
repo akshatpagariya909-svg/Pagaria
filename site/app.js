@@ -164,9 +164,9 @@
     if (b.kind === 'book') { el = bookTileEl(b); tiles.set(keyOf(b), el); return el; }
     const n = photoCount(b);
     const city = b.place.split(',')[0]; // the tile names the first credited architect; the full credit is in the opened view
-    const swipe = n > 1 && SWIPE.has(b.id);
+    const swipe = n > 1 && SWIPE.has(b.id); // only these get photo dots
     el = document.createElement('div');
-    el.className = 't' + (n ? '' : ' empty-tile') + (swipe ? ' sw' : '');
+    el.className = 't' + (n ? '' : ' empty-tile') + (swipe ? ' sw' : '') + (n > 1 ? ' sx' : '');
     el.dataset.id = b.id;
     el.style.aspectRatio = `1 / ${ratioOf(b)}`;
     el.innerHTML =
@@ -179,7 +179,7 @@
       `<span class="r2">${esc(b.year)} · ${esc(city)}</span></span>`;
     el.querySelector('.open').addEventListener('click', () => { if (!swiped) openBuilding(b.id, false, el); swiped = false; });
     el.addEventListener('pointerenter', () => { loadDetail(b).catch(() => {}); }, { once: true }); // a finger or pointer arriving is a good sign it will open
-    if (swipe) { // a sideways swipe on the photo shows the next one; a tap still opens the building
+    if (n > 1) { // on every tile with more than one photo, a sideways swipe shows the next one; a tap still opens the building
       let x0 = null, y0 = 0;
       el.addEventListener('pointerdown', e => { x0 = e.clientX; y0 = e.clientY; });
       el.addEventListener('pointerup', e => {
