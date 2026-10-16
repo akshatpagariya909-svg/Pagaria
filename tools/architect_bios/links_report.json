@@ -1,0 +1,346 @@
+[
+ {
+  "architect": "Norman Foster",
+  "url": "https://en.wikipedia.org/wiki/Norman_Foster",
+  "status": 200,
+  "final": "https://en.wikipedia.org/wiki/Norman_Foster",
+  "title": "Norman Foster - Wikipedia",
+  "about": true
+ },
+ {
+  "architect": "Norman Foster",
+  "url": "https://www.pritzkerprize.com/laureates/1999",
+  "status": 200,
+  "final": "https://www.pritzkerprize.com/laureates/1999",
+  "title": "Norman Foster | The Pritzker Architecture Prize",
+  "about": true
+ },
+ {
+  "architect": "Norman Foster",
+  "url": "https://www.fosterandpartners.com/projects",
+  "status": 200,
+  "final": "https://www.fosterandpartners.com/projects",
+  "title": "Discover projects from Foster + Partners",
+  "about": true
+ },
+ {
+  "architect": "Norman Foster",
+  "url": "https://www.normanfosterfoundation.org/",
+  "status": 200,
+  "final": "https://normanfosterfoundation.org/",
+  "title": "Norman Foster Foundation",
+  "about": true
+ },
+ {
+  "architect": "Norman Foster",
+  "url": "https://www.archdaily.com/office/foster-plus-partners",
+  "status": 200,
+  "final": "https://www.archdaily.com/office/foster-plus-partners",
+  "title": "Foster + Partners | ArchDaily",
+  "about": true
+ },
+ {
+  "architect": "Renzo Piano",
+  "url": "https://en.wikipedia.org/wiki/Renzo_Piano",
+  "status": 200,
+  "final": "https://en.wikipedia.org/wiki/Renzo_Piano",
+  "title": "Renzo Piano - Wikipedia",
+  "about": true
+ },
+ {
+  "architect": "Renzo Piano",
+  "url": "https://www.pritzkerprize.com/laureates/1998",
+  "status": 200,
+  "final": "https://www.pritzkerprize.com/laureates/1998",
+  "title": "Renzo Piano | The Pritzker Architecture Prize",
+  "about": true
+ },
+ {
+  "architect": "Renzo Piano",
+  "url": "https://www.rpbw.com/",
+  "status": 200,
+  "final": "https://www.rpbw.com/",
+  "title": "RPBW",
+  "about": true
+ },
+ {
+  "architect": "Renzo Piano",
+  "url": "https://www.fondazionerenzopiano.org/",
+  "status": 200,
+  "final": "https://www.fondazionerenzopiano.org/it/",
+  "title": "Fondazione",
+  "about": true
+ },
+ {
+  "architect": "Renzo Piano",
+  "url": "https://www.archdaily.com/office/renzo-piano-building-workshop",
+  "status": 200,
+  "final": "https://www.archdaily.com/office/renzo-piano-building-workshop",
+  "title": "Renzo Piano Building Workshop | ArchDaily",
+  "about": true
+ },
+ {
+  "architect": "Oscar Niemeyer",
+  "url": "https://en.wikipedia.org/wiki/Oscar_Niemeyer",
+  "status": 200,
+  "final": "https://en.wikipedia.org/wiki/Oscar_Niemeyer",
+  "title": "Oscar Niemeyer - Wikipedia",
+  "about": true
+ },
+ {
+  "architect": "Oscar Niemeyer",
+  "url": "https://www.pritzkerprize.com/laureates/1988-0",
+  "status": 404,
+  "final": "https://www.pritzkerprize.com/laureates/1988-0",
+  "title": "",
+  "about": false
+ },
+ {
+  "architect": "Oscar Niemeyer",
+  "url": "https://www.pritzkerprize.com/laureates/oscar-niemeyer",
+  "status": 404,
+  "final": "https://www.pritzkerprize.com/laureates/oscar-niemeyer",
+  "title": "",
+  "about": false
+ },
+ {
+  "architect": "Oscar Niemeyer",
+  "url": "https://www.pritzkerprize.com/laureates/1988-1",
+  "status": 404,
+  "final": "https://www.pritzkerprize.com/laureates/1988-1",
+  "title": "",
+  "about": false
+ },
+ {
+  "architect": "Oscar Niemeyer",
+  "url": "https://www.oscarniemeyer.org.br/",
+  "status": 200,
+  "final": "https://www.oscarniemeyer.org.br/",
+  "title": "Niemeyer",
+  "about": true
+ },
+ {
+  "architect": "Oscar Niemeyer",
+  "url": "https://www.archdaily.com/office/oscar-niemeyer",
+  "status": 200,
+  "final": "https://www.archdaily.com/office/oscar-niemeyer",
+  "title": "Oscar Niemeyer | ArchDaily",
+  "about": true
+ },
+ {
+  "architect": "Zaha Hadid",
+  "url": "https://en.wikipedia.org/wiki/Zaha_Hadid",
+  "status": 200,
+  "final": "https://en.wikipedia.org/wiki/Zaha_Hadid",
+  "title": "Zaha Hadid - Wikipedia",
+  "about": true
+ },
+ {
+  "architect": "Zaha Hadid",
+  "url": "https://www.pritzkerprize.com/laureates/2004",
+  "status": 200,
+  "final": "https://www.pritzkerprize.com/laureates/2004",
+  "title": "Zaha Hadid | The Pritzker Architecture Prize",
+  "about": true
+ },
+ {
+  "architect": "Zaha Hadid",
+  "url": "https://www.zaha-hadid.com/",
+  "status": 200,
+  "final": "https://www.zha.com/?disclaimer=true",
+  "title": "Global Architecture Studio | ZHA Architects",
+  "about": true
+ },
+ {
+  "architect": "Zaha Hadid",
+  "url": "https://www.archdaily.com/office/zha",
+  "status": 200,
+  "final": "https://www.archdaily.com/office/zha",
+  "title": "ZHA | ArchDaily",
+  "about": true
+ },
+ {
+  "architect": "Le Corbusier",
+  "url": "https://en.wikipedia.org/wiki/Le_Corbusier",
+  "status": 200,
+  "final": "https://en.wikipedia.org/wiki/Le_Corbusier",
+  "title": "Le Corbusier - Wikipedia",
+  "about": true
+ },
+ {
+  "architect": "Le Corbusier",
+  "url": "https://whc.unesco.org/en/list/1321",
+  "status": 200,
+  "final": "https://whc.unesco.org/en/list/1321",
+  "title": "The Architectural Work of Le Corbusier, an Outstanding Contribution to the Modern Movement - UNESCO World Heritage Centre",
+  "about": true
+ },
+ {
+  "architect": "Le Corbusier",
+  "url": "https://www.fondationlecorbusier.fr/",
+  "status": 200,
+  "final": "https://www.fondationlecorbusier.fr/",
+  "title": "Fondation Le Corbusier",
+  "about": true
+ },
+ {
+  "architect": "Le Corbusier",
+  "url": "https://www.archdaily.com/office/le-corbusier",
+  "status": 200,
+  "final": "https://www.archdaily.com/office/le-corbusier",
+  "title": "Le Corbusier | ArchDaily",
+  "about": true
+ },
+ {
+  "architect": "Alvar Aalto",
+  "url": "https://en.wikipedia.org/wiki/Alvar_Aalto",
+  "status": 200,
+  "final": "https://en.wikipedia.org/wiki/Alvar_Aalto",
+  "title": "Alvar Aalto - Wikipedia",
+  "about": true
+ },
+ {
+  "architect": "Alvar Aalto",
+  "url": "https://www.alvaraalto.fi/en/",
+  "status": 200,
+  "final": "https://www.alvaraalto.fi/en/",
+  "title": "Alvar Aalto Foundation | Alvar Aalto -säätiö - Alvar Aalto today | Alvar Aalto tänään | Jyväskylä | Helsinki",
+  "about": true
+ },
+ {
+  "architect": "Alvar Aalto",
+  "url": "https://www.archdaily.com/office/alvar-aalto",
+  "status": 200,
+  "final": "https://www.archdaily.com/office/alvar-aalto",
+  "title": "Alvar Aalto | ArchDaily",
+  "about": true
+ },
+ {
+  "architect": "Frank Gehry",
+  "url": "https://en.wikipedia.org/wiki/Frank_Gehry",
+  "status": 200,
+  "final": "https://en.wikipedia.org/wiki/Frank_Gehry",
+  "title": "Frank Gehry - Wikipedia",
+  "about": true
+ },
+ {
+  "architect": "Frank Gehry",
+  "url": "https://www.pritzkerprize.com/laureates/1989",
+  "status": 200,
+  "final": "https://www.pritzkerprize.com/laureates/1989",
+  "title": "Frank Gehry | The Pritzker Architecture Prize",
+  "about": true
+ },
+ {
+  "architect": "Frank Gehry",
+  "url": "https://www.foga.com/",
+  "status": 200,
+  "final": "https://www.foga.com/",
+  "title": "Gehry Partners, LLP :: Home",
+  "about": true
+ },
+ {
+  "architect": "Frank Gehry",
+  "url": "https://www.archdaily.com/office/gehry-partners",
+  "status": 200,
+  "final": "https://www.archdaily.com/office/gehry-partners",
+  "title": "Gehry Partners | ArchDaily",
+  "about": true
+ },
+ {
+  "architect": "Herzog & de Meuron",
+  "url": "https://en.wikipedia.org/wiki/Herzog_%26_de_Meuron",
+  "status": 200,
+  "final": "https://en.wikipedia.org/wiki/Herzog_%26_de_Meuron",
+  "title": "Herzog & de Meuron - Wikipedia",
+  "about": true
+ },
+ {
+  "architect": "Herzog & de Meuron",
+  "url": "https://www.pritzkerprize.com/laureates/2001",
+  "status": 200,
+  "final": "https://www.pritzkerprize.com/laureates/2001",
+  "title": "Jacques Herzog and Pierre de Meuron | The Pritzker Architecture Prize",
+  "about": true
+ },
+ {
+  "architect": "Herzog & de Meuron",
+  "url": "https://www.herzogdemeuron.com/",
+  "status": 302,
+  "final": "https://www.herzogdemeuron.com/",
+  "title": "",
+  "about": false
+ },
+ {
+  "architect": "Herzog & de Meuron",
+  "url": "https://www.archdaily.com/office/herzog-and-de-meuron",
+  "status": 200,
+  "final": "https://www.archdaily.com/office/herzog-and-de-meuron",
+  "title": "Herzog & de Meuron | ArchDaily",
+  "about": true
+ },
+ {
+  "architect": "OMA",
+  "url": "https://en.wikipedia.org/wiki/Office_for_Metropolitan_Architecture",
+  "status": 200,
+  "final": "https://en.wikipedia.org/wiki/Office_for_Metropolitan_Architecture",
+  "title": "Office for Metropolitan Architecture - Wikipedia",
+  "about": true
+ },
+ {
+  "architect": "OMA",
+  "url": "https://www.oma.com/projects",
+  "status": 200,
+  "final": "https://www.oma.com/projects?offset=0",
+  "title": "OMA Projects",
+  "about": true
+ },
+ {
+  "architect": "OMA",
+  "url": "https://www.pritzkerprize.com/laureates/2000",
+  "status": 200,
+  "final": "https://www.pritzkerprize.com/laureates/2000",
+  "title": "Rem Koolhaas | The Pritzker Architecture Prize",
+  "about": true
+ },
+ {
+  "architect": "OMA",
+  "url": "https://www.archdaily.com/office/oma",
+  "status": 200,
+  "final": "https://www.archdaily.com/office/oma",
+  "title": "OMA | ArchDaily",
+  "about": true
+ },
+ {
+  "architect": "Glenn Murcutt",
+  "url": "https://en.wikipedia.org/wiki/Glenn_Murcutt",
+  "status": 200,
+  "final": "https://en.wikipedia.org/wiki/Glenn_Murcutt",
+  "title": "Glenn Murcutt - Wikipedia",
+  "about": true
+ },
+ {
+  "architect": "Glenn Murcutt",
+  "url": "https://www.pritzkerprize.com/laureates/2002",
+  "status": 200,
+  "final": "https://www.pritzkerprize.com/laureates/2002",
+  "title": "Glenn Murcutt | The Pritzker Architecture Prize",
+  "about": true
+ },
+ {
+  "architect": "Glenn Murcutt",
+  "url": "https://www.ozetecture.org/glenn-murcutt-profile",
+  "status": 200,
+  "final": "https://www.ozetecture.org/glenn-murcutt-profile",
+  "title": "Glenn Murcutt - Profile — OZ.E.TECTURE",
+  "about": true
+ },
+ {
+  "architect": "Glenn Murcutt",
+  "url": "https://www.archdaily.com/770780/spotlight-glenn-murcutt",
+  "status": 200,
+  "final": "https://www.archdaily.com/770780/spotlight-glenn-murcutt",
+  "title": "Spotlight: Glenn Murcutt | ArchDaily",
+  "about": true
+ }
+]

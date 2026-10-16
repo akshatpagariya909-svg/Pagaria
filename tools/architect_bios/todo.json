@@ -1,0 +1,6346 @@
+[
+ {
+  "rank": 1,
+  "name": "Norman Foster",
+  "buildings": 38,
+  "pritzker": true,
+  "qid": "Q104898",
+  "building_ids": [
+   "hsbc-main-building",
+   "30-st-mary-axe",
+   "commerzbank-tower",
+   "reichstag",
+   "sainsbury-centre-for-visual-arts",
+   "willis-building",
+   "stansted-airport-terminal",
+   "millau-viaduct",
+   "city-hall-london",
+   "palace-of-peace-and-reconciliation",
+   "khan-shatyr-entertainment-center",
+   "the-glasshouse",
+   "kogod-courtyard-national-portrait-gallery",
+   "torre-cepsa",
+   "al-faisaliah-tower",
+   "sec-armadillo",
+   "deutsche-bank-place",
+   "renault-distribution-centre",
+   "torre-de-collserola",
+   "canary-wharf-underground-station",
+   "mclaren-technology-centre",
+   "wembley-stadium",
+   "dresden-central-station",
+   "the-bow",
+   "the-index",
+   "carre-d-art",
+   "house-of-wisdom-sharjah",
+   "lusail-stadium",
+   "queen-alia-international-airport",
+   "zayed-national-museum",
+   "universiti-teknologi-petronas",
+   "american-air-museum-duxford",
+   "bloomberg-london",
+   "hong-kong-airport-terminal-1",
+   "apple-park",
+   "beijing-capital-airport-terminal-3",
+   "bilbao-metro-fosteritos",
+   "supreme-court-of-singapore"
+  ],
+  "building_names": [
+   "HSBC Main Building",
+   "30 St Mary Axe",
+   "Commerzbank Tower",
+   "Reichstag",
+   "Sainsbury Centre for Visual Arts",
+   "Willis Building",
+   "Stansted Airport Terminal",
+   "Millau Viaduct",
+   "City Hall, London",
+   "Palace of Peace and Reconciliation",
+   "Khan Shatyr Entertainment Center",
+   "The Glasshouse",
+   "Kogod Courtyard, National Portrait Gallery",
+   "Torre Cepsa",
+   "Al Faisaliah Tower",
+   "SEC Armadillo",
+   "Deutsche Bank Place",
+   "Renault Distribution Centre",
+   "Torre de Collserola",
+   "Canary Wharf Underground Station",
+   "McLaren Technology Centre",
+   "Wembley Stadium",
+   "Dresden Central Station",
+   "The Bow",
+   "The Index",
+   "Carré d'Art",
+   "House of Wisdom",
+   "Lusail Stadium",
+   "Queen Alia International Airport",
+   "Zayed National Museum",
+   "Universiti Teknologi Petronas",
+   "American Air Museum, Duxford",
+   "Bloomberg London",
+   "Hong Kong International Airport Terminal 1",
+   "Apple Park",
+   "Beijing Capital International Airport Terminal 3",
+   "Bilbao Metro entrances (\"Fosteritos\")",
+   "Supreme Court of Singapore"
+  ]
+ },
+ {
+  "rank": 2,
+  "name": "Renzo Piano",
+  "buildings": 36,
+  "pritzker": true,
+  "qid": "Q190148",
+  "building_ids": [
+   "centre-pompidou",
+   "stavros-niarchos-foundation-cultural-center",
+   "menil-collection",
+   "jean-marie-tjibaou-cultural-centre",
+   "fondation-beyeler",
+   "the-shard",
+   "new-york-times-building",
+   "padre-pio-pilgrimage-church",
+   "astrup-fearnley-museum",
+   "istanbul-modern",
+   "stadio-san-nicola",
+   "nemo-science-museum",
+   "auditorium-parco-della-musica",
+   "pinacoteca-giovanni-e-marella-agnelli",
+   "aurora-place",
+   "whitney-museum-of-american-art",
+   "art-institute-of-chicago-modern-wing",
+   "lyon-museum-of-contemporary-art",
+   "california-academy-of-sciences",
+   "maison-hermes",
+   "auditorium-niccolo-paganini",
+   "muse-science-museum",
+   "tribunal-de-paris",
+   "centro-botin",
+   "weltstadthaus-peek-cloppenburg",
+   "kpn-tower",
+   "entebbe-children-s-surgical-hospital",
+   "ponte-genova-san-giorgio",
+   "ges-2",
+   "fondation-jerome-seydoux-pathe",
+   "kansai-airport-terminal-1",
+   "zentrum-paul-klee",
+   "intesa-sanpaolo-skyscraper",
+   "aquarium-of-genoa",
+   "biosphere-genoa",
+   "nasher-sculpture-center"
+  ],
+  "building_names": [
+   "Centre Pompidou",
+   "Stavros Niarchos Foundation Cultural Center",
+   "Menil Collection",
+   "Jean-Marie Tjibaou Cultural Centre",
+   "Fondation Beyeler",
+   "The Shard",
+   "New York Times Building",
+   "Padre Pio Pilgrimage Church",
+   "Astrup Fearnley Museum",
+   "İstanbul Modern",
+   "Stadio San Nicola",
+   "NEMO Science Museum",
+   "Auditorium Parco della Musica",
+   "Pinacoteca Giovanni e Marella Agnelli",
+   "Aurora Place",
+   "Whitney Museum of American Art",
+   "Art Institute of Chicago, Modern Wing",
+   "Lyon Museum of Contemporary Art",
+   "California Academy of Sciences",
+   "Maison Hermès",
+   "Auditorium Niccolò Paganini",
+   "MUSE Science Museum",
+   "Tribunal de Paris",
+   "Centro Botín",
+   "Weltstadthaus Peek & Cloppenburg",
+   "KPN Tower",
+   "Entebbe Children's Surgical Hospital",
+   "Genova San Giorgio Bridge",
+   "GES-2 House of Culture",
+   "Fondation Jérôme Seydoux-Pathé",
+   "Kansai International Airport Terminal 1",
+   "Zentrum Paul Klee",
+   "Intesa Sanpaolo Skyscraper",
+   "Aquarium of Genoa",
+   "Biosphere (Bigo)",
+   "Nasher Sculpture Center"
+  ]
+ },
+ {
+  "rank": 3,
+  "name": "Oscar Niemeyer",
+  "buildings": 35,
+  "pritzker": true,
+  "qid": "Q134165",
+  "building_ids": [
+   "cathedral-of-brasilia",
+   "copan-building",
+   "national-congress-of-brazil",
+   "church-of-saint-francis-of-assisi-pampulha",
+   "niteroi-contemporary-art-museum",
+   "gustavo-capanema-palace",
+   "rachid-karami-international-fair",
+   "palacio-do-planalto",
+   "palacio-da-alvorada",
+   "itamaraty-palace",
+   "claudio-santoro-national-theatre",
+   "university-of-constantine",
+   "united-nations-secretariat-building",
+   "oscar-niemeyer-museum",
+   "ibirapuera-auditorium",
+   "oscar-niemeyer-international-cultural-centre",
+   "catetinho",
+   "national-museum-of-the-republic",
+   "french-communist-party-headquarters",
+   "igrejinha-nossa-senhora-de-fatima",
+   "tancredo-neves-pantheon-of-the-fatherland",
+   "pampulha-art-museum-former-casino",
+   "latin-america-memorial",
+   "supreme-federal-court",
+   "le-volcan-le-havre",
+   "casa-do-baile",
+   "iate-tenis-clube-pampulha",
+   "oca-ibirapuera",
+   "pavilhao-da-bienal",
+   "grande-hotel-ouro-preto",
+   "palacio-da-justica-brasilia",
+   "edificio-niemeyer-bh",
+   "conjunto-jk-belo-horizonte",
+   "mondadori-palace",
+   "anhembi-sambadrome"
+  ],
+  "building_names": [
+   "Cathedral of Brasília",
+   "Copan Building",
+   "National Congress of Brazil",
+   "Church of Saint Francis of Assisi, Pampulha",
+   "Niterói Contemporary Art Museum",
+   "Gustavo Capanema Palace",
+   "Rachid Karami International Fair",
+   "Palácio do Planalto",
+   "Palácio da Alvorada",
+   "Itamaraty Palace",
+   "Claudio Santoro National Theatre",
+   "University of Constantine",
+   "United Nations Secretariat Building",
+   "Oscar Niemeyer Museum",
+   "Ibirapuera Auditorium",
+   "Oscar Niemeyer International Cultural Centre",
+   "Catetinho",
+   "National Museum of the Republic",
+   "French Communist Party Headquarters",
+   "Igrejinha Nossa Senhora de Fátima",
+   "Tancredo Neves Pantheon of the Fatherland",
+   "Pampulha Art Museum (former Casino)",
+   "Latin America Memorial",
+   "Supreme Federal Court",
+   "Le Volcan",
+   "Casa do Baile (Pampulha Dance Hall)",
+   "Iate Tênis Clube, Pampulha",
+   "Oca, Ibirapuera Park",
+   "Bienal Pavilion (Pavilhão Ciccillo Matarazzo)",
+   "Grande Hotel de Ouro Preto",
+   "Palácio da Justiça (Ministry of Justice), Brasília",
+   "Edifício Niemeyer",
+   "Conjunto JK (Conjunto Governador Kubitschek)",
+   "Mondadori Palace",
+   "Anhembi Sambadrome"
+  ]
+ },
+ {
+  "rank": 4,
+  "name": "Zaha Hadid",
+  "buildings": 35,
+  "pritzker": true,
+  "qid": "manual:Zaha Hadid",
+  "building_ids": [
+   "vitra-fire-station",
+   "maxxi",
+   "heydar-aliyev-center",
+   "guangzhou-opera-house",
+   "phaeno-science-center",
+   "london-aquatics-centre",
+   "galaxy-soho",
+   "jockey-club-innovation-tower",
+   "morpheus-hotel",
+   "king-abdullah-petroleum-studies-and-research-center",
+   "nanjing-international-youth-cultural-centre",
+   "generali-tower",
+   "port-house",
+   "riverside-museum",
+   "hungerburgbahn-stations",
+   "salerno-maritime-terminal",
+   "wangjing-soho",
+   "spittelau-viaducts-housing",
+   "bergisel-ski-jump",
+   "rosenthal-center-for-contemporary-art",
+   "bmw-central-building",
+   "eli-and-edythe-broad-art-museum",
+   "messner-mountain-museum-corones",
+   "kafd-metro-station",
+   "bee-ah-headquarters",
+   "hoenheim-nord-terminus",
+   "sheikh-zayed-bridge",
+   "the-opus",
+   "dominion-tower",
+   "grand-theatre-de-rabat",
+   "pierresvives",
+   "leeza-soho",
+   "beijing-daxing-airport-terminal",
+   "wu-library-learning-center",
+   "napoli-afragola-station"
+  ],
+  "building_names": [
+   "Vitra Fire Station",
+   "MAXXI",
+   "Heydar Aliyev Center",
+   "Guangzhou Opera House",
+   "Phaeno Science Center",
+   "London Aquatics Centre",
+   "Galaxy SOHO",
+   "Jockey Club Innovation Tower",
+   "Morpheus Hotel",
+   "King Abdullah Petroleum Studies and Research Center",
+   "Nanjing International Youth Cultural Centre",
+   "Generali Tower",
+   "Port House",
+   "Riverside Museum",
+   "Hungerburgbahn stations",
+   "Salerno Maritime Terminal",
+   "Wangjing SOHO",
+   "Spittelau Viaducts Housing",
+   "Bergisel Ski Jump",
+   "Rosenthal Center for Contemporary Art",
+   "BMW Central Building",
+   "Eli and Edythe Broad Art Museum",
+   "Messner Mountain Museum Corones",
+   "KAFD Metro Station",
+   "Bee'ah Headquarters",
+   "Hoenheim-Nord Tram Terminus",
+   "Sheikh Zayed Bridge",
+   "The Opus",
+   "Dominion Tower",
+   "Royal Theatre of Rabat",
+   "Pierresvives",
+   "Leeza SOHO",
+   "Beijing Daxing International Airport Terminal",
+   "Library and Learning Center, Vienna University of Economics",
+   "Napoli Afragola station"
+  ]
+ },
+ {
+  "rank": 5,
+  "name": "Le Corbusier",
+  "buildings": 34,
+  "pritzker": false,
+  "qid": "Q4724",
+  "building_ids": [
+   "villa-savoye",
+   "unite-dhabitation",
+   "notre-dame-du-haut",
+   "sainte-marie-de-la-tourette",
+   "palace-of-assembly",
+   "mill-owners-association-building",
+   "national-museum-of-western-art",
+   "curutchet-house",
+   "saint-pierre-firminy",
+   "secretariat-building",
+   "capitol-complex",
+   "carpenter-center-for-the-visual-arts",
+   "pavillon-suisse",
+   "centrosoyuz-building",
+   "pavillon-le-corbusier",
+   "sanskar-kendra",
+   "unite-d-habitation-berlin",
+   "government-museum-and-art-gallery",
+   "le-corbusier-gymnasium",
+   "united-nations-secretariat-building",
+   "cabanon-de-le-corbusier",
+   "maisons-jaoul",
+   "immeuble-clarte",
+   "villa-le-lac",
+   "maison-guiette",
+   "immeuble-molitor",
+   "cite-de-refuge-salvation-army-hostel",
+   "villa-schwob-villa-turque",
+   "maison-blanche",
+   "villa-fallet",
+   "open-hand-monument",
+   "palace-of-justice-punjab-and-haryana-high-court",
+   "villa-stein-de-monzie",
+   "usine-claude-et-duval"
+  ],
+  "building_names": [
+   "Villa Savoye",
+   "Unité d'Habitation",
+   "Notre-Dame du Haut",
+   "Sainte-Marie de La Tourette",
+   "Palace of Assembly",
+   "Mill Owners' Association Building",
+   "National Museum of Western Art",
+   "Curutchet House",
+   "Saint-Pierre, Firminy",
+   "Secretariat Building",
+   "Capitol Complex",
+   "Carpenter Center for the Visual Arts",
+   "Pavillon Suisse",
+   "Centrosoyuz Building",
+   "Pavillon Le Corbusier",
+   "Sanskar Kendra",
+   "Unite d'Habitation Berlin",
+   "Government Museum and Art Gallery",
+   "Le Corbusier Gymnasium",
+   "United Nations Secretariat Building",
+   "Cabanon de Le Corbusier",
+   "Maisons Jaoul",
+   "Immeuble Clarté",
+   "Villa Le Lac",
+   "Maison Guiette",
+   "Immeuble Molitor",
+   "Cité de Refuge (Salvation Army Hostel)",
+   "Villa Schwob (Villa Turque)",
+   "Maison Blanche",
+   "Villa Fallet",
+   "Open Hand Monument",
+   "Palace of Justice (Punjab and Haryana High Court)",
+   "Villa Stein-de Monzie (Les Terrasses)",
+   "Usine Claude et Duval"
+  ]
+ },
+ {
+  "rank": 6,
+  "name": "Alvar Aalto",
+  "buildings": 29,
+  "pritzker": false,
+  "qid": "Q82840",
+  "building_ids": [
+   "paimio-sanatorium",
+   "villa-mairea",
+   "saynatsalo-town-hall",
+   "church-of-the-three-crosses",
+   "finlandia-hall",
+   "viipuri-library",
+   "baker-house",
+   "house-of-culture-kulttuuritalo",
+   "lakeuden-risti-church",
+   "rovaniemi-library",
+   "church-of-the-cross",
+   "nordic-house",
+   "studio-aalto",
+   "aalto-theatre",
+   "alvar-aalto-cultural-centre",
+   "aalto-hochhaus",
+   "maison-louis-carre",
+   "muuratsalo-experimental-house",
+   "lappia-hall",
+   "santa-maria-assunta-riola",
+   "turun-sanomat-building",
+   "rautatalo",
+   "sunila-pulp-mill",
+   "aalto-university-undergraduate-centre",
+   "kirjatalo-academic-bookstore",
+   "alvar-aalto-museum-jyvaskyla",
+   "enso-gutzeit-headquarters",
+   "seinajoki-city-hall",
+   "kela-main-office"
+  ],
+  "building_names": [
+   "Paimio Sanatorium",
+   "Villa Mairea",
+   "Säynätsalo Town Hall",
+   "Church of the Three Crosses",
+   "Finlandia Hall",
+   "Viipuri Library",
+   "Baker House",
+   "House of Culture (Kulttuuritalo)",
+   "Lakeuden Risti Church",
+   "Rovaniemi Library",
+   "Church of the Cross",
+   "Nordic House",
+   "Studio Aalto",
+   "Aalto Theatre",
+   "Alvar Aalto Cultural Centre",
+   "Aalto-Hochhaus",
+   "Maison Louis Carré",
+   "Muuratsalo Experimental House",
+   "Lappia Hall",
+   "Santa Maria Assunta, Riola",
+   "Turun Sanomat Building",
+   "Rautatalo",
+   "Sunila Pulp Mill and Housing",
+   "Aalto University Undergraduate Centre (Otaniemi main building)",
+   "Academic Bookstore (Kirjatalo)",
+   "Alvar Aalto Museum",
+   "Enso-Gutzeit Headquarters (Stora Enso)",
+   "Seinäjoki City Hall",
+   "Kela Main Office (National Pensions Institute)"
+  ]
+ },
+ {
+  "rank": 7,
+  "name": "Frank Gehry",
+  "buildings": 27,
+  "pritzker": true,
+  "qid": "Q180374",
+  "building_ids": [
+   "guggenheim-bilbao",
+   "walt-disney-concert-hall",
+   "vitra-design-museum",
+   "fondation-louis-vuitton",
+   "dancing-house",
+   "8-spruce-street",
+   "iac-building",
+   "marta-herford",
+   "new-world-center",
+   "biomuseo",
+   "dr-chau-chak-wing-building",
+   "gehry-residence",
+   "jay-pritzker-pavilion",
+   "weisman-art-museum",
+   "binoculars-building",
+   "art-gallery-of-ontario",
+   "museum-of-pop-culture",
+   "dz-bank-building",
+   "hotel-marques-de-riscal",
+   "fisher-center-for-the-performing-arts",
+   "gehry-tower",
+   "concord-pavilion",
+   "opus-hong-kong",
+   "luma-arles-tower",
+   "stata-center",
+   "cinematheque-francaise",
+   "neuer-zollhof"
+  ],
+  "building_names": [
+   "Guggenheim Bilbao",
+   "Walt Disney Concert Hall",
+   "Vitra Design Museum",
+   "Fondation Louis Vuitton",
+   "Dancing House",
+   "8 Spruce Street",
+   "IAC Building",
+   "MARTa Herford",
+   "New World Center",
+   "Biomuseo",
+   "Dr Chau Chak Wing Building",
+   "Gehry Residence",
+   "Jay Pritzker Pavilion",
+   "Weisman Art Museum",
+   "Binoculars Building",
+   "Art Gallery of Ontario",
+   "Museum of Pop Culture",
+   "DZ Bank Building",
+   "Hotel Marqués de Riscal",
+   "Fisher Center for the Performing Arts",
+   "Gehry Tower",
+   "Concord Pavilion",
+   "Opus Hong Kong",
+   "LUMA Arles Tower",
+   "Ray and Maria Stata Center (MIT Building 32)",
+   "Cinémathèque française (former American Center)",
+   "Neuer Zollhof"
+  ]
+ },
+ {
+  "rank": 8,
+  "name": "Herzog & de Meuron",
+  "buildings": 26,
+  "pritzker": true,
+  "qid": null,
+  "building_ids": [
+   "tate-modern",
+   "beijing-national-stadium",
+   "elbphilharmonie",
+   "caixaforum-madrid",
+   "tai-kwun",
+   "allianz-arena",
+   "56-leonard-street",
+   "roche-tower-bau-1",
+   "meret-oppenheim-hochhaus",
+   "tea-tenerife-espacio-de-las-artes",
+   "de-young-museum",
+   "m",
+   "ikmz-library-btu-cottbus",
+   "roche-tower-2",
+   "national-library-of-israel",
+   "beirut-terraces",
+   "ricola-europe-mulhouse",
+   "rue-des-suisses-housing",
+   "fondazione-feltrinelli",
+   "laban-dance-centre",
+   "blavatnik-school-of-government",
+   "prada-aoyama",
+   "dominus-winery",
+   "university-childrens-hospital-zurich",
+   "schaulager",
+   "1111-lincoln-road"
+  ],
+  "building_names": [
+   "Tate Modern",
+   "Beijing National Stadium",
+   "Elbphilharmonie",
+   "CaixaForum Madrid",
+   "Tai Kwun",
+   "Allianz Arena",
+   "56 Leonard Street",
+   "Roche Tower (Bau 1)",
+   "Meret Oppenheim Hochhaus",
+   "TEA Tenerife Espacio de las Artes",
+   "de Young Museum",
+   "M+",
+   "IKMZ Library, BTU Cottbus",
+   "Roche Tower 2",
+   "National Library of Israel",
+   "Beirut Terraces",
+   "Ricola Europe Production and Storage Building",
+   "Rue des Suisses Housing",
+   "Fondazione Giangiacomo Feltrinelli",
+   "Laban Dance Centre",
+   "Blavatnik School of Government",
+   "Prada Aoyama",
+   "Dominus Winery",
+   "University Children's Hospital Zurich",
+   "Schaulager",
+   "1111 Lincoln Road"
+  ]
+ },
+ {
+  "rank": 9,
+  "name": "I. M. Pei",
+  "buildings": 26,
+  "pritzker": true,
+  "qid": "Q46868",
+  "building_ids": [
+   "bank-of-china-tower",
+   "louvre-pyramid",
+   "suzhou-museum",
+   "luce-memorial-chapel",
+   "museum-of-islamic-art",
+   "german-historical-museum-pei-wing",
+   "place-ville-marie",
+   "miho-museum",
+   "john-f-kennedy-presidential-library-and-museum",
+   "mudam",
+   "jacob-k-javits-convention-center",
+   "des-moines-art-center",
+   "ocbc-centre",
+   "rock-and-roll-hall-of-fame",
+   "national-gallery-of-art-east-building",
+   "morton-h-meyerson-symphony-center",
+   "herbert-f-johnson-museum-of-art",
+   "green-building-mit-building-54",
+   "the-gateway",
+   "society-hill-towers",
+   "mesa-laboratory-ncar",
+   "everson-museum-of-art",
+   "dallas-city-hall",
+   "fragrant-hill-hotel",
+   "cleo-rogers-memorial-library",
+   "wiesner-building-mit"
+  ],
+  "building_names": [
+   "Bank of China Tower",
+   "Louvre Pyramid",
+   "Suzhou Museum",
+   "Luce Memorial Chapel",
+   "Museum of Islamic Art",
+   "German Historical Museum, Pei Wing",
+   "Place Ville Marie",
+   "Miho Museum",
+   "John F. Kennedy Presidential Library and Museum",
+   "Mudam",
+   "Jacob K. Javits Convention Center",
+   "Des Moines Art Center",
+   "OCBC Centre",
+   "Rock and Roll Hall of Fame",
+   "National Gallery of Art, East Building",
+   "Morton H. Meyerson Symphony Center",
+   "Herbert F. Johnson Museum of Art",
+   "Green Building (MIT Building 54)",
+   "The Gateway",
+   "Society Hill Towers",
+   "Mesa Laboratory (NCAR)",
+   "Everson Museum of Art",
+   "Dallas City Hall",
+   "Fragrant Hill Hotel",
+   "Cleo Rogers Memorial Library",
+   "Wiesner Building (MIT Media Lab)"
+  ]
+ },
+ {
+  "rank": 10,
+  "name": "Tadao Ando",
+  "buildings": 26,
+  "pritzker": true,
+  "qid": "Q208220",
+  "building_ids": [
+   "row-house-in-sumiyoshi",
+   "church-of-the-light",
+   "chichu-art-museum",
+   "modern-art-museum-of-fort-worth",
+   "church-on-the-water",
+   "hyogo-prefectural-museum-of-art",
+   "omotesando-hills",
+   "21-21-design-sight",
+   "chikatsu-asuka-museum",
+   "awaji-yumebutai",
+   "benesse-house-museum",
+   "langen-foundation",
+   "asahi-group-oyamazaki-villa-museum-of-art",
+   "suntory-museum-tenpozan",
+   "shiba-ryotaro-memorial-museum",
+   "church-on-the-wind",
+   "rokko-housing",
+   "water-temple-honpuku-ji",
+   "hyogo-children-s-museum",
+   "4x4-house",
+   "glass-house-jeju",
+   "pulitzer-arts-foundation",
+   "hill-of-the-buddha",
+   "lee-ufan-museum",
+   "sayamaike-historical-museum",
+   "bourse-de-commerce-pinault"
+  ],
+  "building_names": [
+   "Row House in Sumiyoshi",
+   "Church of the Light",
+   "Chichu Art Museum",
+   "Modern Art Museum of Fort Worth",
+   "Church on the Water",
+   "Hyōgo Prefectural Museum of Art",
+   "Omotesando Hills",
+   "21_21 Design Sight",
+   "Chikatsu Asuka Museum",
+   "Awaji Yumebutai",
+   "Benesse House Museum",
+   "Langen Foundation",
+   "Asahi Group Oyamazaki Villa Museum of Art",
+   "Suntory Museum Tenpozan",
+   "Shiba Ryotaro Memorial Museum",
+   "Church on the Wind",
+   "Rokko Housing",
+   "Water Temple (Honpuku-ji)",
+   "Hyogo Children's Museum",
+   "4x4 House",
+   "Glass House, Seopjikoji",
+   "Pulitzer Arts Foundation",
+   "Hill of the Buddha",
+   "Lee Ufan Museum",
+   "Osaka Prefectural Sayamaike Museum",
+   "Bourse de Commerce - Pinault Collection"
+  ]
+ },
+ {
+  "rank": 11,
+  "name": "Arata Isozaki",
+  "buildings": 24,
+  "pritzker": true,
+  "qid": "Q317135",
+  "building_ids": [
+   "gunma-museum-of-modern-art",
+   "tsukuba-center-building",
+   "domus",
+   "art-tower-mito",
+   "museum-of-contemporary-art-los-angeles",
+   "kitakyushu-municipal-museum-of-art",
+   "kitakyushu-central-library",
+   "team-disney-building",
+   "palau-sant-jordi",
+   "kyoto-concert-hall",
+   "caixaforum-barcelona",
+   "ceramic-park-mino",
+   "okanoyama-museum-of-art",
+   "west-japan-general-exhibition-center",
+   "qatar-national-convention-centre",
+   "oita-prefectural-library-art-plaza",
+   "nara-centennial-hall",
+   "granship",
+   "nagi-moca",
+   "allianz-tower-milan",
+   "palasport-olimpico-turin",
+   "yamaguchi-center-for-arts-and-media",
+   "yufuin-station",
+   "casals-hall-ochanomizu"
+  ],
+  "building_names": [
+   "Gunma Museum of Modern Art",
+   "Tsukuba Center Building",
+   "Domus",
+   "Art Tower Mito",
+   "Museum of Contemporary Art, Los Angeles",
+   "Kitakyushu Municipal Museum of Art",
+   "Kitakyushu Central Library",
+   "Team Disney Building",
+   "Palau Sant Jordi",
+   "Kyoto Concert Hall",
+   "CaixaForum Barcelona",
+   "Ceramic Park Mino",
+   "Okanoyama Museum of Art",
+   "West Japan General Exhibition Center",
+   "Qatar National Convention Centre",
+   "Oita Prefectural Library (Art Plaza)",
+   "Nara Centennial Hall",
+   "Shizuoka Convention and Arts Center (Granship)",
+   "Nagi Museum of Contemporary Art",
+   "Allianz Tower (Il Dritto)",
+   "Palasport Olimpico (Pala Alpitour)",
+   "Yamaguchi Center for Arts and Media (YCAM)",
+   "Yufuin Station",
+   "Casals Hall (Ochanomizu Square)"
+  ]
+ },
+ {
+  "rank": 12,
+  "name": "OMA",
+  "buildings": 22,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "seattle-central-library",
+   "casa-da-m-sica",
+   "cctv-headquarters",
+   "kunsthal",
+   "the-interlace",
+   "fondazione-prada",
+   "educatorium",
+   "de-rotterdam",
+   "garage-museum-of-contemporary-art",
+   "design-museum",
+   "taipei-performing-arts-center",
+   "pierre-lassonde-pavilion",
+   "mccormick-tribune-campus-center",
+   "maison-a-bordeaux",
+   "bibliotheque-alexis-de-tocqueville",
+   "villa-dall-ava",
+   "snu-museum-of-art",
+   "netherlands-embassy-berlin",
+   "milstein-hall",
+   "shenzhen-stock-exchange",
+   "axel-springer-campus",
+   "timmerhuis-rotterdam"
+  ],
+  "building_names": [
+   "Seattle Central Library",
+   "Casa da Música",
+   "CCTV Headquarters",
+   "Kunsthal",
+   "The Interlace",
+   "Fondazione Prada",
+   "Educatorium",
+   "De Rotterdam",
+   "Garage Museum of Contemporary Art",
+   "Design Museum",
+   "Taipei Performing Arts Center",
+   "Pierre Lassonde Pavilion",
+   "McCormick Tribune Campus Center",
+   "Maison à Bordeaux",
+   "Bibliothèque Alexis de Tocqueville",
+   "Villa dall'Ava",
+   "Seoul National University Museum of Art",
+   "Netherlands Embassy, Berlin",
+   "Milstein Hall, Cornell University",
+   "Shenzhen Stock Exchange",
+   "Axel Springer Campus",
+   "Timmerhuis"
+  ]
+ },
+ {
+  "rank": 13,
+  "name": "Santiago Calatrava",
+  "buildings": 22,
+  "pritzker": false,
+  "qid": "Q168482",
+  "building_ids": [
+   "auditorio-de-tenerife",
+   "turning-torso",
+   "city-of-arts-and-sciences",
+   "montjuic-communications-tower",
+   "museum-of-tomorrow",
+   "allen-lambert-galleria-brookfield-place",
+   "milwaukee-art-museum-quadracci-pavilion",
+   "palau-de-les-arts-reina-sofia",
+   "gare-do-oriente",
+   "museu-de-les-ciencies-principe-felipe",
+   "l-hemisferic",
+   "liege-guillemins-station",
+   "bodegas-ysios",
+   "l-agora",
+   "puente-de-la-mujer",
+   "alamillo-bridge",
+   "bac-de-roda-bridge",
+   "zubizuri",
+   "mediopadana-station",
+   "ponte-della-costituzione",
+   "peace-bridge-calgary",
+   "chords-bridge-jerusalem"
+  ],
+  "building_names": [
+   "Auditorio de Tenerife",
+   "Turning Torso",
+   "City of Arts and Sciences",
+   "Montjuïc Communications Tower",
+   "Museum of Tomorrow",
+   "Allen Lambert Galleria, Brookfield Place",
+   "Milwaukee Art Museum, Quadracci Pavilion",
+   "Palau de les Arts Reina Sofia",
+   "Gare do Oriente",
+   "Museu de les Ciències Príncipe Felipe",
+   "L'Hemisfèric",
+   "Liège-Guillemins Station",
+   "Bodegas Ysios",
+   "L'Àgora",
+   "Puente de la Mujer",
+   "Alamillo Bridge",
+   "Bac de Roda Bridge",
+   "Zubizuri",
+   "Reggio Emilia AV Mediopadana station",
+   "Ponte della Costituzione",
+   "Peace Bridge",
+   "Chords Bridge"
+  ]
+ },
+ {
+  "rank": 14,
+  "name": "Frank Lloyd Wright",
+  "buildings": 21,
+  "pritzker": false,
+  "qid": "Q5604",
+  "building_ids": [
+   "fallingwater",
+   "johnson-wax-headquarters",
+   "solomon-r-guggenheim-museum",
+   "taliesin-west",
+   "robie-house",
+   "unity-temple",
+   "beth-sholom-synagogue",
+   "hollyhock-house",
+   "marin-county-civic-center",
+   "kentuck-knob",
+   "darwin-d-martin-house",
+   "millard-house-la-miniatura",
+   "jacobs-ii-house-solar-hemicycle",
+   "grady-gammage-memorial-auditorium",
+   "cedar-rock-walter-house",
+   "price-tower",
+   "grant-house-cedar-rapids",
+   "wingspread",
+   "graycliff",
+   "jacobs-first-house",
+   "pope-leighey-house"
+  ],
+  "building_names": [
+   "Fallingwater",
+   "Johnson Wax Headquarters",
+   "Solomon R. Guggenheim Museum",
+   "Taliesin West",
+   "Robie House",
+   "Unity Temple",
+   "Beth Sholom Synagogue",
+   "Hollyhock House",
+   "Marin County Civic Center",
+   "Kentuck Knob",
+   "Darwin D. Martin House",
+   "Millard House (La Miniatura)",
+   "Jacobs II House (Solar Hemicycle)",
+   "Grady Gammage Memorial Auditorium",
+   "Cedar Rock (Walter House)",
+   "Price Tower",
+   "Douglas and Charlotte Grant House",
+   "Wingspread (Herbert F. Johnson House)",
+   "Graycliff",
+   "Herbert and Katherine Jacobs First House",
+   "Pope–Leighey House"
+  ]
+ },
+ {
+  "rank": 15,
+  "name": "Kengo Kuma",
+  "buildings": 21,
+  "pritzker": false,
+  "qid": "Q725462",
+  "building_ids": [
+   "nakagawa-machi-bato-hiroshige-museum",
+   "v-a-dundee",
+   "japan-national-stadium",
+   "nagasaki-prefectural-art-museum",
+   "asakusa-culture-tourist-information-center",
+   "nezu-museum",
+   "suntory-museum-of-art",
+   "odunpazar-modern-museum",
+   "frac-provence-alpes-cote-d-azur",
+   "gc-prostho-museum",
+   "sunnyhills-minami-aoyama",
+   "stone-museum",
+   "kiro-san-observatory",
+   "kadokawa-culture-museum",
+   "takanawa-gateway-station",
+   "kabukiza",
+   "aore-nagaoka",
+   "starbucks-dazaifu",
+   "great-bamboo-wall-house",
+   "waseda-international-house-of-literature",
+   "aichi-international-arena"
+  ],
+  "building_names": [
+   "Nakagawa-machi Bato Hiroshige Museum",
+   "V&A Dundee",
+   "Japan National Stadium",
+   "Nagasaki Prefectural Art Museum",
+   "Asakusa Culture Tourist Information Center",
+   "Nezu Museum",
+   "Suntory Museum of Art",
+   "Odunpazarı Modern Museum",
+   "FRAC Provence-Alpes-Côte d'Azur",
+   "GC Prostho Museum Research Center",
+   "SunnyHills at Minami-Aoyama",
+   "Stone Museum (Stone Plaza)",
+   "Kiro-san Observatory",
+   "Kadokawa Culture Museum",
+   "Takanawa Gateway Station",
+   "Kabuki-za (2013)",
+   "Aore Nagaoka City Hall",
+   "Starbucks Coffee, Dazaifu Tenmangu Omotesando",
+   "Great (Bamboo) Wall House",
+   "Waseda International House of Literature (Haruki Murakami Library)",
+   "Aichi International Arena (IG Arena)"
+  ]
+ },
+ {
+  "rank": 16,
+  "name": "Jean Nouvel",
+  "buildings": 20,
+  "pritzker": true,
+  "qid": "Q214317",
+  "building_ids": [
+   "louvre-abu-dhabi",
+   "national-museum-of-qatar",
+   "fondation-cartier",
+   "torre-glories",
+   "musee-du-quai-branly",
+   "doha-tower",
+   "reina-sofia-museum-extension",
+   "leeum-samsung-museum-of-art",
+   "one-central-park",
+   "philharmonie-de-paris",
+   "dr-koncerthuset",
+   "53w53",
+   "tour-duo",
+   "dentsu-building-caretta-shiodome",
+   "guthrie-theater",
+   "galeries-lafayette-berlin",
+   "nantes-courthouse",
+   "nemausus",
+   "opera-de-lyon",
+   "kkl-luzern"
+  ],
+  "building_names": [
+   "Louvre Abu Dhabi",
+   "National Museum of Qatar",
+   "Fondation Cartier",
+   "Torre Glòries",
+   "Musée du quai Branly",
+   "Doha Tower",
+   "Reina Sofía Museum Extension",
+   "Leeum, Samsung Museum of Art",
+   "One Central Park",
+   "Philharmonie de Paris",
+   "DR Koncerthuset",
+   "53W53",
+   "Tour Duo",
+   "Dentsu Building (Caretta Shiodome)",
+   "Guthrie Theater",
+   "Galeries Lafayette Berlin",
+   "Nantes Courthouse",
+   "Nemausus",
+   "Opéra de Lyon",
+   "Lucerne Culture and Congress Centre (KKL)"
+  ]
+ },
+ {
+  "rank": 17,
+  "name": "Kenzō Tange",
+  "buildings": 19,
+  "pritzker": true,
+  "qid": "Q151794",
+  "building_ids": [
+   "hiroshima-peace-memorial-museum",
+   "yoyogi-national-gymnasium",
+   "st-mary-s-cathedral",
+   "tokyo-metropolitan-government-building",
+   "shizuoka-press-and-broadcasting-center",
+   "yamanashi-press-and-broadcasting-centre",
+   "yokohama-museum-of-art",
+   "kurashiki-city-art-museum-former-city-hall",
+   "kagawa-prefectural-government-office",
+   "fuji-television-building",
+   "skopje-railway-station",
+   "kagawa-prefectural-gymnasium",
+   "imabari-city-hall",
+   "shinjuku-park-tower",
+   "embassy-of-kuwait-tokyo",
+   "united-nations-university",
+   "centro-direzionale-napoli",
+   "singapore-indoor-stadium",
+   "supreme-court-of-pakistan"
+  ],
+  "building_names": [
+   "Hiroshima Peace Memorial Museum",
+   "Yoyogi National Gymnasium",
+   "St. Mary's Cathedral",
+   "Tokyo Metropolitan Government Building",
+   "Shizuoka Press and Broadcasting Center",
+   "Yamanashi Press and Broadcasting Centre",
+   "Yokohama Museum of Art",
+   "Kurashiki City Art Museum (former City Hall)",
+   "Kagawa Prefectural Government Office",
+   "Fuji Television Building",
+   "Skopje Railway Station",
+   "Kagawa Prefectural Gymnasium",
+   "Imabari City Hall",
+   "Shinjuku Park Tower",
+   "Embassy of Kuwait, Tokyo",
+   "United Nations University Headquarters",
+   "Centro Direzionale di Napoli",
+   "Singapore Indoor Stadium",
+   "Supreme Court of Pakistan Building"
+  ]
+ },
+ {
+  "rank": 18,
+  "name": "Toyo Ito",
+  "buildings": 19,
+  "pritzker": true,
+  "qid": "Q333585",
+  "building_ids": [
+   "sendai-mediatheque",
+   "national-taichung-theater",
+   "tama-art-university-library",
+   "international-museum-of-the-baroque",
+   "toyo-ito-museum-of-architecture",
+   "vivocity",
+   "capitagreen",
+   "minna-no-mori-gifu-media-cosmos",
+   "tod-s-omotesando-building",
+   "tower-of-winds",
+   "silver-hut",
+   "meiso-no-mori",
+   "kaohsiung-national-stadium",
+   "matsumoto-performing-arts-centre",
+   "mikimoto-ginza-2",
+   "odate-jukai-dome",
+   "yatsushiro-municipal-museum",
+   "za-koenji",
+   "ntu-college-of-social-sciences"
+  ],
+  "building_names": [
+   "Sendai Mediatheque",
+   "National Taichung Theater",
+   "Tama Art University Library",
+   "International Museum of the Baroque",
+   "Toyo Ito Museum of Architecture",
+   "VivoCity",
+   "CapitaGreen",
+   "Minna no Mori Gifu Media Cosmos",
+   "Tod's Omotesando Building",
+   "Tower of Winds",
+   "Silver Hut",
+   "Meiso no Mori Municipal Funeral Hall",
+   "National Stadium, Kaohsiung (World Games Stadium)",
+   "Matsumoto Performing Arts Centre",
+   "Mikimoto Ginza 2",
+   "Odate Jukai Dome",
+   "Yatsushiro Municipal Museum",
+   "Za-Koenji Public Theatre",
+   "College of Social Sciences, National Taiwan University (Koo Chen-Fu Memorial Library)"
+  ]
+ },
+ {
+  "rank": 19,
+  "name": "Philip Johnson",
+  "buildings": 18,
+  "pritzker": true,
+  "qid": "Q183528",
+  "building_ids": [
+   "glass-house",
+   "at-t-building-550-madison-avenue",
+   "crystal-cathedral",
+   "rothko-chapel",
+   "gate-of-europe",
+   "david-h-koch-theater",
+   "soreq-nuclear-research-center",
+   "amon-carter-museum-of-american-art",
+   "kunsthalle-bielefeld",
+   "ids-center",
+   "lipstick-building",
+   "pennzoil-place",
+   "sheldon-museum-of-art",
+   "ppg-place",
+   "munson-williams-proctor-arts-institute",
+   "rockefeller-guest-house",
+   "thanks-giving-square",
+   "fort-worth-water-gardens"
+  ],
+  "building_names": [
+   "Glass House",
+   "AT&T Building (550 Madison Avenue)",
+   "Crystal Cathedral",
+   "Rothko Chapel",
+   "Gate of Europe",
+   "David H. Koch Theater",
+   "Soreq Nuclear Research Center",
+   "Amon Carter Museum of American Art",
+   "Kunsthalle Bielefeld",
+   "IDS Center",
+   "Lipstick Building",
+   "Pennzoil Place",
+   "Sheldon Museum of Art",
+   "PPG Place",
+   "Munson-Williams-Proctor Arts Institute",
+   "Rockefeller Guest House",
+   "Thanks-Giving Square",
+   "Fort Worth Water Gardens"
+  ]
+ },
+ {
+  "rank": 20,
+  "name": "Mies van der Rohe",
+  "buildings": 16,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "barcelona-pavilion",
+   "villa-tugendhat",
+   "farnsworth-house",
+   "s-r-crown-hall",
+   "seagram-building",
+   "neue-nationalgalerie",
+   "860-880-lake-shore-drive",
+   "toronto-dominion-centre",
+   "weissenhof-estate",
+   "lemke-house",
+   "330-north-wabash",
+   "martin-luther-king-jr-memorial-library",
+   "westmount-square",
+   "haus-lange-haus-esters",
+   "kluczynski-federal-building",
+   "home-federal-savings-des-moines"
+  ],
+  "building_names": [
+   "Barcelona Pavilion",
+   "Villa Tugendhat",
+   "Farnsworth House",
+   "S. R. Crown Hall",
+   "Seagram Building",
+   "Neue Nationalgalerie",
+   "860-880 Lake Shore Drive",
+   "Toronto-Dominion Centre",
+   "Weissenhof Estate",
+   "Lemke House",
+   "330 North Wabash",
+   "Martin Luther King Jr. Memorial Library",
+   "Westmount Square",
+   "Haus Lange and Haus Esters",
+   "John C. Kluczynski Federal Building",
+   "Home Federal Savings and Loan Building"
+  ]
+ },
+ {
+  "rank": 21,
+  "name": "SOM",
+  "buildings": 16,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "beinecke-rare-book-manuscript-library",
+   "lever-house",
+   "hajj-terminal-king-abdulaziz-international-airport",
+   "burj-khalifa",
+   "pearl-river-tower",
+   "jin-mao-tower",
+   "hilton-istanbul",
+   "al-hamra-tower",
+   "cayan-tower",
+   "james-a-farley-building-moynihan-train-hall",
+   "chhatrapati-shivaji-maharaj-international-airport-terminal-2",
+   "kempegowda-international-airport-terminal-2",
+   "weyerhaeuser-headquarters",
+   "exchange-house-broadgate",
+   "terrace-plaza-hotel",
+   "ben-gurion-airport-terminal-3"
+  ],
+  "building_names": [
+   "Beinecke Rare Book & Manuscript Library",
+   "Lever House",
+   "Hajj Terminal, King Abdulaziz International Airport",
+   "Burj Khalifa",
+   "Pearl River Tower",
+   "Jin Mao Tower",
+   "Hilton Istanbul",
+   "Al Hamra Tower",
+   "Cayan Tower",
+   "James A. Farley Building (Moynihan Train Hall)",
+   "Chhatrapati Shivaji Maharaj International Airport Terminal 2",
+   "Kempegowda International Airport Terminal 2",
+   "Weyerhaeuser Corporate Headquarters",
+   "Exchange House, Broadgate",
+   "Terrace Plaza Hotel",
+   "Ben Gurion Airport Terminal 3"
+  ]
+ },
+ {
+  "rank": 22,
+  "name": "Álvaro Siza",
+  "buildings": 15,
+  "pritzker": true,
+  "qid": "manual:Álvaro Siza",
+  "building_ids": [
+   "leca-swimming-pools",
+   "portugal-pavilion",
+   "serralves-museum-of-contemporary-art",
+   "boa-nova-tea-house",
+   "new-orleans-tower",
+   "faculty-of-architecture-university-of-porto",
+   "ibere-camargo-foundation",
+   "bouca-housing",
+   "malagueira-housing",
+   "santa-maria-church-marco-de-canaveses",
+   "banco-borges-e-irmao",
+   "cgac-santiago",
+   "nadir-afonso-museum",
+   "setubal-school-of-education",
+   "madre-museum-naples"
+  ],
+  "building_names": [
+   "Leça Swimming Pools",
+   "Portugal Pavilion",
+   "Serralves Museum of Contemporary Art",
+   "Boa Nova Tea House",
+   "New Orleans Tower",
+   "Faculty of Architecture, University of Porto",
+   "Iberê Camargo Foundation",
+   "Bouça Social Housing",
+   "Quinta da Malagueira",
+   "Santa Maria Church, Marco de Canaveses",
+   "Banco Borges & Irmão",
+   "Galician Centre of Contemporary Art (CGAC)",
+   "Nadir Afonso Contemporary Art Museum",
+   "Setúbal School of Education",
+   "MADRE Museum"
+  ]
+ },
+ {
+  "rank": 23,
+  "name": "Moshe Safdie",
+  "buildings": 15,
+  "pritzker": false,
+  "qid": "Q220944",
+  "building_ids": [
+   "habitat-67",
+   "yad-vashem-holocaust-history-museum",
+   "marina-bay-sands",
+   "jewel-changi-airport",
+   "musee-de-la-civilisation",
+   "raffles-city-chongqing",
+   "national-gallery-of-canada",
+   "children-s-memorial-yad-vashem",
+   "memorial-to-the-deportees-yad-vashem",
+   "kauffman-center-performing-arts",
+   "class-of-1959-chapel",
+   "united-states-institute-of-peace-headquarters",
+   "sky-habitat",
+   "yitzhak-rabin-center",
+   "virasat-e-khalsa"
+  ],
+  "building_names": [
+   "Habitat 67",
+   "Yad Vashem Holocaust History Museum",
+   "Marina Bay Sands",
+   "Jewel Changi Airport",
+   "Musée de la civilisation",
+   "Raffles City Chongqing",
+   "National Gallery of Canada",
+   "Children's Memorial, Yad Vashem",
+   "Memorial to the Deportees, Yad Vashem",
+   "Kauffman Center for the Performing Arts",
+   "Class of 1959 Chapel",
+   "United States Institute of Peace Headquarters",
+   "Sky Habitat",
+   "Yitzhak Rabin Center",
+   "Virasat-e-Khalsa"
+  ]
+ },
+ {
+  "rank": 24,
+  "name": "Fumihiko Maki",
+  "buildings": 14,
+  "pritzker": true,
+  "qid": "Q312827",
+  "building_ids": [
+   "hillside-terrace",
+   "tokyo-metropolitan-gymnasium",
+   "aga-khan-museum",
+   "spiral",
+   "4-world-trade-center",
+   "tepia",
+   "makuhari-messe",
+   "kaze-no-oka-crematorium",
+   "fujisawa-municipal-gymnasium",
+   "kirishima-concert-hall",
+   "national-museum-of-modern-art-kyoto",
+   "toyoda-auditorium",
+   "yerba-buena-center-for-the-arts",
+   "iwasaki-art-museum-ibusuki"
+  ],
+  "building_names": [
+   "Hillside Terrace",
+   "Tokyo Metropolitan Gymnasium",
+   "Aga Khan Museum",
+   "Spiral",
+   "4 World Trade Center",
+   "TEPIA",
+   "Makuhari Messe",
+   "Kaze-no-Oka Crematorium",
+   "Fujisawa Municipal Gymnasium (Akibadai)",
+   "Kirishima International Concert Hall (Miyama Conseru)",
+   "National Museum of Modern Art, Kyoto",
+   "Toyoda Auditorium, Nagoya University",
+   "Yerba Buena Center for the Arts",
+   "Iwasaki Art Museum"
+  ]
+ },
+ {
+  "rank": 25,
+  "name": "Kisho Kurokawa",
+  "buildings": 14,
+  "pritzker": false,
+  "qid": "Q358502",
+  "building_ids": [
+   "nakagin-capsule-tower",
+   "national-art-center-tokyo",
+   "kuala-lumpur-international-airport",
+   "national-museum-of-ethnology",
+   "hiroshima-moca",
+   "museum-of-modern-art-saitama",
+   "nagoya-city-art-museum",
+   "toyota-stadium",
+   "singapore-flyer",
+   "ehime-prefectural-science-museum",
+   "national-bunraku-theatre",
+   "osaka-international-convention-center",
+   "irie-taikichi-memorial-museum-of-photography",
+   "okinawa-prefecture-government-building"
+  ],
+  "building_names": [
+   "Nakagin Capsule Tower",
+   "National Art Center, Tokyo",
+   "Kuala Lumpur International Airport",
+   "National Museum of Ethnology",
+   "Hiroshima City Museum of Contemporary Art",
+   "Museum of Modern Art, Saitama",
+   "Nagoya City Art Museum",
+   "Toyota Stadium",
+   "Singapore Flyer",
+   "Ehime Prefectural Science Museum",
+   "National Bunraku Theatre",
+   "Osaka International Convention Center (Grand Cube Osaka)",
+   "Irie Taikichi Memorial Museum of Photography",
+   "Okinawa Prefecture Government Building"
+  ]
+ },
+ {
+  "rank": 26,
+  "name": "Louis Kahn",
+  "buildings": 13,
+  "pritzker": false,
+  "qid": "Q210134",
+  "building_ids": [
+   "salk-institute",
+   "phillips-exeter-academy-library",
+   "kimbell-art-museum",
+   "iim-ahmedabad",
+   "national-assembly-of-bangladesh",
+   "yale-center-for-british-art",
+   "franklin-d-roosevelt-four-freedoms-park",
+   "trenton-bath-house",
+   "fisher-house",
+   "margaret-esherick-house",
+   "first-unitarian-church-rochester",
+   "richards-medical-research-laboratories",
+   "olivetti-underwood-factory"
+  ],
+  "building_names": [
+   "Salk Institute",
+   "Phillips Exeter Academy Library",
+   "Kimbell Art Museum",
+   "IIM Ahmedabad",
+   "National Assembly of Bangladesh",
+   "Yale Center for British Art",
+   "Franklin D. Roosevelt Four Freedoms Park",
+   "Trenton Bath House",
+   "Fisher House",
+   "Margaret Esherick House",
+   "First Unitarian Church of Rochester",
+   "Richards Medical Research Laboratories",
+   "Olivetti-Underwood Factory"
+  ]
+ },
+ {
+  "rank": 27,
+  "name": "Richard Meier",
+  "buildings": 13,
+  "pritzker": true,
+  "qid": "Q159612",
+  "building_ids": [
+   "getty-center",
+   "jubilee-church",
+   "des-moines-art-center",
+   "museum-frieder-burda",
+   "san-jose-city-hall",
+   "stadthaus-ulm",
+   "high-museum-of-art",
+   "city-hall-and-central-library-the-hague",
+   "museum-of-applied-arts-frankfurt",
+   "the-atheneum",
+   "ara-pacis-museum",
+   "macba-barcelona",
+   "alfonse-damato-courthouse"
+  ],
+  "building_names": [
+   "Getty Center",
+   "Jubilee Church",
+   "Des Moines Art Center",
+   "Museum Frieder Burda",
+   "San José City Hall",
+   "Stadthaus Ulm",
+   "High Museum of Art",
+   "City Hall and Central Library, The Hague",
+   "Museum of Applied Arts Frankfurt",
+   "The Atheneum",
+   "Ara Pacis Museum",
+   "Barcelona Museum of Contemporary Art (MACBA)",
+   "Alfonse M. D'Amato United States Courthouse"
+  ]
+ },
+ {
+  "rank": 28,
+  "name": "Shigeru Ban",
+  "buildings": 13,
+  "pritzker": true,
+  "qid": "Q526725",
+  "building_ids": [
+   "centre-pompidou-metz",
+   "cardboard-cathedral",
+   "la-seine-musicale",
+   "simose-art-museum",
+   "oita-prefectural-art-museum",
+   "japan-pavilion-expo-2000",
+   "paper-dome-paper-church",
+   "curtain-wall-house",
+   "wall-less-house",
+   "paper-house",
+   "swatch-headquarters",
+   "onagawa-station",
+   "mount-fuji-world-heritage-centre"
+  ],
+  "building_names": [
+   "Centre Pompidou-Metz",
+   "Cardboard Cathedral",
+   "La Seine Musicale",
+   "Simose Art Museum",
+   "Oita Prefectural Art Museum",
+   "Japan Pavilion, Expo 2000",
+   "Paper Dome (Paper Church)",
+   "Curtain Wall House",
+   "Wall-less House",
+   "Paper House",
+   "Swatch Headquarters, Biel",
+   "Onagawa Station",
+   "Mt. Fuji World Heritage Centre, Shizuoka"
+  ]
+ },
+ {
+  "rank": 29,
+  "name": "David Chipperfield",
+  "buildings": 12,
+  "pritzker": true,
+  "qid": "Q707020",
+  "building_ids": [
+   "museum-of-modern-literature",
+   "james-simon-gallery",
+   "veles-e-vents",
+   "museum-folkwang",
+   "saint-louis-art-museum-east-building",
+   "museo-jumex",
+   "amorepacific-headquarters",
+   "the-hepworth-wakefield",
+   "kunsthaus-zurich-extension",
+   "city-of-justice-barcelona",
+   "kaufhaus-tyrol",
+   "turner-contemporary"
+  ],
+  "building_names": [
+   "Museum of Modern Literature",
+   "James Simon Gallery",
+   "Veles e Vents",
+   "Museum Folkwang",
+   "Saint Louis Art Museum, East Building",
+   "Museo Jumex",
+   "Amorepacific Headquarters",
+   "The Hepworth Wakefield",
+   "Kunsthaus Zürich Extension",
+   "City of Justice",
+   "Kaufhaus Tyrol",
+   "Turner Contemporary"
+  ]
+ },
+ {
+  "rank": 30,
+  "name": "Eero Saarinen",
+  "buildings": 12,
+  "pritzker": false,
+  "qid": "Q167073",
+  "building_ids": [
+   "washington-dulles-airport-terminal",
+   "twa-flight-center",
+   "gateway-arch",
+   "cbs-building",
+   "kresge-auditorium",
+   "mit-chapel",
+   "deere-and-company-headquarters",
+   "miller-house-columbus",
+   "kleinhans-music-hall",
+   "ingalls-rink",
+   "north-christian-church-columbus",
+   "john-deere-world-headquarters"
+  ],
+  "building_names": [
+   "Washington Dulles Airport Terminal",
+   "TWA Flight Center",
+   "Gateway Arch",
+   "CBS Building",
+   "Kresge Auditorium",
+   "MIT Chapel",
+   "Deere & Company Administrative Center",
+   "Miller House and Garden",
+   "Kleinhans Music Hall",
+   "David S. Ingalls Rink",
+   "North Christian Church",
+   "John Deere World Headquarters"
+  ]
+ },
+ {
+  "rank": 31,
+  "name": "Kunio Maekawa",
+  "buildings": 12,
+  "pritzker": false,
+  "qid": "Q129938",
+  "building_ids": [
+   "tokyo-bunka-kaikan",
+   "tokyo-metropolitan-art-museum",
+   "rohm-theatre-kyoto",
+   "fukuoka-art-museum",
+   "international-house-of-japan",
+   "museum-of-east-asian-art",
+   "house-of-kunio-maekawa",
+   "kumamoto-prefectural-museum-of-art",
+   "miyagi-museum-of-art",
+   "hirosaki-city-museum",
+   "yamanashi-prefectural-museum-of-art",
+   "okayama-prefectural-office"
+  ],
+  "building_names": [
+   "Tokyo Bunka Kaikan",
+   "Tokyo Metropolitan Art Museum",
+   "Rohm Theatre Kyoto",
+   "Fukuoka Art Museum",
+   "International House of Japan",
+   "Museum of East Asian Art",
+   "House of Kunio Maekawa",
+   "Kumamoto Prefectural Museum of Art",
+   "Miyagi Museum of Art",
+   "Hirosaki City Museum",
+   "Yamanashi Prefectural Museum of Art",
+   "Okayama Prefectural Government Office Main Building"
+  ]
+ },
+ {
+  "rank": 32,
+  "name": "Marcel Breuer",
+  "buildings": 12,
+  "pritzker": false,
+  "qid": "Q57588",
+  "building_ids": [
+   "breuer-building",
+   "st-john-s-abbey-church",
+   "robert-c-weaver-federal-building",
+   "atlanta-central-library",
+   "ariston-club",
+   "ibm-la-gaude",
+   "hooper-house-ii",
+   "breuer-house-ii-new-canaan",
+   "unesco-headquarters",
+   "murray-d-lincoln-campus-center",
+   "hubert-h-humphrey-building",
+   "strom-thurmond-federal-building"
+  ],
+  "building_names": [
+   "Breuer Building",
+   "St. John's Abbey Church",
+   "Robert C. Weaver Federal Building",
+   "Atlanta Central Library",
+   "Ariston Club",
+   "IBM Research Centre, La Gaude",
+   "Hooper House II",
+   "Breuer House II",
+   "UNESCO Headquarters",
+   "Murray D. Lincoln Campus Center",
+   "Hubert H. Humphrey Building",
+   "Strom Thurmond Federal Building and U.S. Courthouse"
+  ]
+ },
+ {
+  "rank": 33,
+  "name": "Mario Botta",
+  "buildings": 12,
+  "pritzker": false,
+  "qid": "Q122363",
+  "building_ids": [
+   "evry-cathedral",
+   "church-of-san-giovanni-battista",
+   "cymbalista-synagogue",
+   "leeum-samsung-museum-of-art",
+   "fondation-martin-bodmer",
+   "mart-rovereto",
+   "watari-museum-of-contemporary-art-watari-um",
+   "chiesa-del-santo-volto",
+   "casa-bianchi",
+   "casa-rotonda-stabio",
+   "fiore-di-pietra",
+   "casino-di-campione"
+  ],
+  "building_names": [
+   "Évry Cathedral",
+   "Church of San Giovanni Battista",
+   "Cymbalista Synagogue",
+   "Leeum, Samsung Museum of Art",
+   "Fondation Martin Bodmer",
+   "MART Rovereto",
+   "Watari Museum of Contemporary Art (Watari-um)",
+   "Chiesa del Santo Volto",
+   "Casa Bianchi",
+   "Casa Rotonda",
+   "Fiore di pietra",
+   "Casinò di Campione"
+  ]
+ },
+ {
+  "rank": 34,
+  "name": "Richard Rogers",
+  "buildings": 12,
+  "pritzker": true,
+  "qid": "manual:Richard Rogers",
+  "building_ids": [
+   "centre-pompidou",
+   "lloyds-building",
+   "millennium-dome",
+   "122-leadenhall-street",
+   "torre-bbva-mexico",
+   "antwerp-law-courts",
+   "bordeaux-law-courts",
+   "barajas-airport-terminal-4",
+   "maggies-centre-london",
+   "senedd-cardiff",
+   "european-court-of-human-rights-building",
+   "heathrow-terminal-5"
+  ],
+  "building_names": [
+   "Centre Pompidou",
+   "Lloyd's Building",
+   "Millennium Dome",
+   "122 Leadenhall Street",
+   "Torre BBVA Mexico",
+   "Antwerp Law Courts",
+   "Bordeaux Law Courts",
+   "Madrid-Barajas Airport Terminal 4",
+   "Maggie's Centre London",
+   "Senedd",
+   "European Court of Human Rights Building",
+   "Heathrow Terminal 5"
+  ]
+ },
+ {
+  "rank": 35,
+  "name": "Antoni Gaudí",
+  "buildings": 11,
+  "pritzker": false,
+  "qid": "Q25328",
+  "building_ids": [
+   "casa-mila",
+   "sagrada-familia",
+   "casa-batllo",
+   "crypt-of-colonia-guell",
+   "park-guell",
+   "sagrada-familia-schools",
+   "palau-guell",
+   "casa-calvet",
+   "bellesguard",
+   "el-capricho",
+   "bodegas-guell"
+  ],
+  "building_names": [
+   "Casa Milà",
+   "Sagrada Familia",
+   "Casa Batlló",
+   "Crypt of Colonia Guell",
+   "Park Güell",
+   "Sagrada Família schools",
+   "Palau Güell",
+   "Casa Calvet",
+   "Bellesguard",
+   "El Capricho",
+   "Bodegas Güell"
+  ]
+ },
+ {
+  "rank": 36,
+  "name": "BIG",
+  "buildings": 11,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "8-house",
+   "superkilen",
+   "via-57-west",
+   "danish-maritime-museum",
+   "mountain-dwellings",
+   "copenhill",
+   "vancouver-house",
+   "lego-house",
+   "sluishuis",
+   "capitaspring",
+   "the-twist-kistefos"
+  ],
+  "building_names": [
+   "8 House",
+   "Superkilen",
+   "Via 57 West",
+   "Danish Maritime Museum",
+   "Mountain Dwellings",
+   "CopenHill",
+   "Vancouver House",
+   "Lego House",
+   "Sluishuis",
+   "CapitaSpring",
+   "The Twist"
+  ]
+ },
+ {
+  "rank": 37,
+  "name": "Charles Correa",
+  "buildings": 11,
+  "pritzker": false,
+  "qid": "Q699145",
+  "building_ids": [
+   "gandhi-smarak-sangrahalaya",
+   "kanchanjunga-apartments",
+   "jawahar-kala-kendra",
+   "sardar-vallabhbhai-patel-stadium",
+   "national-crafts-museum",
+   "kala-academy",
+   "vidhan-bhavan",
+   "jeevan-bharati-building",
+   "british-council-new-delhi",
+   "bharat-bhavan",
+   "st-peter-and-st-pauls-church-parumala"
+  ],
+  "building_names": [
+   "Gandhi Smarak Sangrahalaya",
+   "Kanchanjunga Apartments",
+   "Jawahar Kala Kendra",
+   "Sardar Vallabhbhai Patel Stadium",
+   "National Crafts Museum",
+   "Kala Academy",
+   "Vidhan Bhavan",
+   "Jeevan Bharati Building",
+   "British Council, New Delhi",
+   "Bharat Bhavan",
+   "St. Peter and St. Paul's Church, Parumala"
+  ]
+ },
+ {
+  "rank": 38,
+  "name": "Daniel Libeskind",
+  "buildings": 11,
+  "pritzker": false,
+  "qid": "Q154538",
+  "building_ids": [
+   "jewish-museum-berlin",
+   "military-history-museum",
+   "danish-jewish-museum",
+   "imperial-war-museum-north",
+   "felix-nussbaum-haus",
+   "contemporary-jewish-museum",
+   "wohl-centre",
+   "mo-museum",
+   "michael-lee-chin-crystal",
+   "denver-art-museum-hamilton-building",
+   "bord-gais-energy-theatre"
+  ],
+  "building_names": [
+   "Jewish Museum Berlin",
+   "Military History Museum",
+   "Danish Jewish Museum",
+   "Imperial War Museum North",
+   "Felix Nussbaum Haus",
+   "Contemporary Jewish Museum",
+   "Wohl Centre",
+   "MO Museum",
+   "Michael Lee-Chin Crystal, Royal Ontario Museum",
+   "Frederic C. Hamilton Building, Denver Art Museum",
+   "Bord Gais Energy Theatre"
+  ]
+ },
+ {
+  "rank": 39,
+  "name": "Gordon Bunshaft",
+  "buildings": 11,
+  "pritzker": true,
+  "qid": "Q333581",
+  "building_ids": [
+   "beinecke-rare-book-manuscript-library",
+   "lever-house",
+   "hirshhorn-museum-and-sculpture-garden",
+   "one-chase-manhattan-plaza-28-liberty-street",
+   "solow-building",
+   "lyndon-baines-johnson-library-and-museum",
+   "american-republic-insurance-headquarters",
+   "140-broadway",
+   "manhattan-house",
+   "reynolds-metals-headquarters",
+   "w-r-grace-building"
+  ],
+  "building_names": [
+   "Beinecke Rare Book & Manuscript Library",
+   "Lever House",
+   "Hirshhorn Museum and Sculpture Garden",
+   "One Chase Manhattan Plaza (28 Liberty Street)",
+   "Solow Building",
+   "Lyndon Baines Johnson Library and Museum",
+   "American Republic Insurance Company Headquarters",
+   "140 Broadway",
+   "Manhattan House",
+   "Reynolds Metals Company International Headquarters",
+   "W. R. Grace Building"
+  ]
+ },
+ {
+  "rank": 40,
+  "name": "Henry Hobson Richardson",
+  "buildings": 11,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "new-york-state-capitol",
+   "allegheny-county-courthouse",
+   "ames-free-library",
+   "austin-hall-harvard",
+   "billings-memorial-library",
+   "converse-memorial-library",
+   "hampden-county-courthouse",
+   "oakes-ames-memorial-hall",
+   "sever-hall",
+   "thomas-crane-public-library",
+   "winn-memorial-library"
+  ],
+  "building_names": [
+   "New York State Capitol",
+   "Allegheny County Courthouse",
+   "Ames Free Library",
+   "Austin Hall",
+   "Billings Memorial Library",
+   "Converse Memorial Library",
+   "Hampden County Courthouse",
+   "Oakes Ames Memorial Hall",
+   "Sever Hall",
+   "Thomas Crane Public Library",
+   "Winn Memorial Library"
+  ]
+ },
+ {
+  "rank": 41,
+  "name": "Rafael Moneo",
+  "buildings": 11,
+  "pritzker": true,
+  "qid": "Q311692",
+  "building_ids": [
+   "cathedral-of-our-lady-of-the-angels",
+   "kursaal",
+   "national-museum-of-roman-art",
+   "moderna-museet",
+   "thyssen-bornemisza-museum",
+   "l-auditori",
+   "prado-museum-extension",
+   "cartagena-roman-theatre-museum",
+   "murcia-town-hall-extension",
+   "pilar-joan-miro-foundation",
+   "deusto-library"
+  ],
+  "building_names": [
+   "Cathedral of Our Lady of the Angels",
+   "Kursaal",
+   "National Museum of Roman Art",
+   "Moderna Museet",
+   "Thyssen-Bornemisza Museum",
+   "L'Auditori",
+   "Prado Museum extension",
+   "Cartagena Roman Theatre Museum",
+   "Murcia Town Hall Extension",
+   "Fundació Pilar i Joan Miró, Moneo Building",
+   "University of Deusto Library"
+  ]
+ },
+ {
+  "rank": 42,
+  "name": "SANAA",
+  "buildings": 11,
+  "pritzker": true,
+  "qid": null,
+  "building_ids": [
+   "21st-century-museum-of-contemporary-art-kanazawa",
+   "rolex-learning-center",
+   "louvre-lens",
+   "glass-pavilion-toledo-museum-of-art",
+   "bocconi-university-urban-campus",
+   "de-kunstlinie",
+   "naoshima-ferry-terminal",
+   "kumano-kodo-nakahechi-museum-of-art",
+   "zollverein-school",
+   "dior-omotesando",
+   "sydney-modern"
+  ],
+  "building_names": [
+   "21st Century Museum of Contemporary Art, Kanazawa",
+   "Rolex Learning Center",
+   "Louvre-Lens",
+   "Glass Pavilion, Toledo Museum of Art",
+   "Bocconi University Urban Campus",
+   "De Kunstlinie",
+   "Naoshima Ferry Terminal",
+   "Kumano Kodo Nakahechi Museum of Art",
+   "Zollverein School of Management and Design",
+   "Dior Omotesando",
+   "Art Gallery of New South Wales, North Building (Sydney Modern, Naala Nura)"
+  ]
+ },
+ {
+  "rank": 43,
+  "name": "Arne Jacobsen",
+  "buildings": 10,
+  "pritzker": false,
+  "qid": "Q273572",
+  "building_ids": [
+   "aarhus-city-hall",
+   "sas-royal-hotel",
+   "skovshoved-petrol-station",
+   "bellevue-theatre",
+   "rdovre-town-hall",
+   "munkegaard-school",
+   "bellavista-klampenborg",
+   "soholm-row-houses",
+   "st-catherines-college-oxford",
+   "embassy-of-denmark-london"
+  ],
+  "building_names": [
+   "Aarhus City Hall",
+   "SAS Royal Hotel",
+   "Skovshoved Petrol Station",
+   "Bellevue Theatre",
+   "Rødovre Town Hall",
+   "Munkegaard School",
+   "Bellavista",
+   "Søholm Row Houses",
+   "St Catherine's College, Oxford",
+   "Embassy of Denmark, London"
+  ]
+ },
+ {
+  "rank": 44,
+  "name": "James Stirling",
+  "buildings": 10,
+  "pritzker": true,
+  "qid": "Q159619",
+  "building_ids": [
+   "neue-staatsgalerie",
+   "tate-liverpool",
+   "andrew-melville-hall",
+   "clore-gallery-tate-britain",
+   "leicester-university-engineering-building",
+   "history-faculty-cambridge",
+   "florey-building-oxford",
+   "wzb-berlin-social-science-center",
+   "stuttgart-music-school",
+   "no-1-poultry"
+  ],
+  "building_names": [
+   "Neue Staatsgalerie",
+   "Tate Liverpool",
+   "Andrew Melville Hall",
+   "Clore Gallery, Tate Britain",
+   "Leicester University Engineering Building",
+   "History Faculty Building, Cambridge",
+   "Florey Building",
+   "WZB Berlin Social Science Center",
+   "Stuttgart Music School (Musikhochschule)",
+   "No 1 Poultry"
+  ]
+ },
+ {
+  "rank": 45,
+  "name": "Pier Luigi Nervi",
+  "buildings": 10,
+  "pritzker": false,
+  "qid": "Q313528",
+  "building_ids": [
+   "torino-esposizioni-hall-b",
+   "palazzetto-dello-sport",
+   "paul-vi-audience-hall",
+   "palazzo-dello-sport",
+   "tour-de-la-bourse",
+   "cathedral-of-saint-mary-of-the-assumption",
+   "palazzo-del-lavoro",
+   "stadio-artemio-franchi",
+   "cartiera-burgo-mantova",
+   "unesco-headquarters"
+  ],
+  "building_names": [
+   "Torino Esposizioni (Hall B)",
+   "Palazzetto dello Sport",
+   "Paul VI Audience Hall",
+   "Palazzo dello Sport",
+   "Tour de la Bourse",
+   "Cathedral of Saint Mary of the Assumption",
+   "Palazzo del Lavoro",
+   "Stadio Artemio Franchi",
+   "Cartiera Burgo",
+   "UNESCO Headquarters"
+  ]
+ },
+ {
+  "rank": 46,
+  "name": "Auguste Perret",
+  "buildings": 9,
+  "pritzker": false,
+  "qid": "Q381978",
+  "building_ids": [
+   "st-joseph-s-church",
+   "theatre-des-champs-elysees",
+   "chapelle-du-rosaire",
+   "tour-perret",
+   "25-bis-rue-franklin",
+   "perret-tower",
+   "notre-dame-du-raincy",
+   "hotel-de-ville-le-havre",
+   "mobilier-national-paris"
+  ],
+  "building_names": [
+   "St. Joseph's Church",
+   "Théâtre des Champs-Élysées",
+   "Chapelle du Rosaire",
+   "Tour Perret",
+   "25 bis rue Franklin",
+   "Perret Tower",
+   "Notre-Dame du Raincy",
+   "Hôtel de Ville, Le Havre",
+   "Mobilier National"
+  ]
+ },
+ {
+  "rank": 47,
+  "name": "Carlos Raúl Villanueva",
+  "buildings": 9,
+  "pritzker": false,
+  "qid": "Q1043186",
+  "building_ids": [
+   "aula-magna-central-university-of-venezuela",
+   "estadio-universitario-de-caracas",
+   "olympic-stadium-ciudad-universitaria-de-caracas",
+   "23-de-enero-superblocks",
+   "museo-jesus-soto",
+   "plaza-cubierta-ucv",
+   "museo-de-bellas-artes-caracas",
+   "central-library-ucv",
+   "clock-tower-ucv"
+  ],
+  "building_names": [
+   "Aula Magna, Central University of Venezuela",
+   "Estadio Universitario de Caracas",
+   "Olympic Stadium, Ciudad Universitaria de Caracas",
+   "23 de Enero Superblocks",
+   "Jesús Soto Museum of Modern Art",
+   "Covered Plaza, University City of Caracas",
+   "Museo de Bellas Artes de Caracas (1976 building)",
+   "Central Library, Central University of Venezuela",
+   "Clock Tower, Central University of Venezuela"
+  ]
+ },
+ {
+  "rank": 48,
+  "name": "MVRDV",
+  "buildings": 9,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "wozoco",
+   "markthal",
+   "depot-boijmans-van-beuningen",
+   "gemini-residence",
+   "seoullo-7017",
+   "netherlands-pavilion-expo-2000",
+   "mirador",
+   "tianjin-binhai-library",
+   "silodam-amsterdam"
+  ],
+  "building_names": [
+   "WoZoCo",
+   "Markthal",
+   "Depot Boijmans van Beuningen",
+   "Gemini Residence",
+   "Seoullo 7017",
+   "Netherlands Pavilion, Expo 2000",
+   "Mirador",
+   "Tianjin Binhai Library",
+   "Silodam"
+  ]
+ },
+ {
+  "rank": 49,
+  "name": "Paul Rudolph",
+  "buildings": 9,
+  "pritzker": false,
+  "qid": "Q1277977",
+  "building_ids": [
+   "yale-art-and-architecture-building",
+   "lippo-centre",
+   "milam-residence",
+   "umbrella-house-hiss-residence",
+   "walker-guest-house",
+   "boston-government-service-center",
+   "temple-street-parking-garage",
+   "crawford-manor",
+   "sarasota-high-school"
+  ],
+  "building_names": [
+   "Yale Art and Architecture Building",
+   "Lippo Centre",
+   "Milam Residence",
+   "Umbrella House (Hiss Residence)",
+   "Walker Guest House",
+   "Boston Government Service Center",
+   "Temple Street Parking Garage",
+   "Crawford Manor",
+   "Sarasota High School"
+  ]
+ },
+ {
+  "rank": 50,
+  "name": "Paulo Mendes da Rocha",
+  "buildings": 9,
+  "pritzker": true,
+  "qid": "Q312855",
+  "building_ids": [
+   "pinacoteca-do-estado-de-sao-paulo",
+   "sesc-24-de-maio",
+   "mube-brazilian-museum-of-sculpture",
+   "national-coach-museum",
+   "praca-do-patriarca-canopy",
+   "saint-peter-chapel-campos-do-jordao",
+   "estadio-serra-dourada",
+   "casa-butanta",
+   "loja-forma"
+  ],
+  "building_names": [
+   "Pinacoteca do Estado de São Paulo",
+   "SESC 24 de Maio",
+   "MuBE – Brazilian Museum of Sculpture",
+   "National Coach Museum",
+   "Praça do Patriarca Canopy",
+   "Saint Peter Chapel, Campos do Jordão",
+   "Serra Dourada Stadium",
+   "Casa no Butantã (Paulo Mendes da Rocha House)",
+   "Forma Furniture Showroom"
+  ]
+ },
+ {
+  "rank": 51,
+  "name": "Peter Zumthor",
+  "buildings": 9,
+  "pritzker": true,
+  "qid": "Q123179",
+  "building_ids": [
+   "therme-vals",
+   "bruder-klaus-field-chapel",
+   "kolumba-museum",
+   "kunsthaus-bregenz",
+   "saint-benedict-chapel",
+   "steilneset-memorial",
+   "haus-gugalun",
+   "shelters-roman-ruins-chur",
+   "werkraum-haus-andelsbuch"
+  ],
+  "building_names": [
+   "Therme Vals",
+   "Bruder Klaus Field Chapel",
+   "Kolumba Museum",
+   "Kunsthaus Bregenz",
+   "Saint Benedict Chapel",
+   "Steilneset Memorial",
+   "Haus Gugalun",
+   "Shelters for the Roman Ruins, Chur",
+   "Werkraum Haus"
+  ]
+ },
+ {
+  "rank": 52,
+  "name": "Steven Holl",
+  "buildings": 9,
+  "pritzker": false,
+  "qid": "Q451141",
+  "building_ids": [
+   "kiasma",
+   "linked-hybrid",
+   "bloch-building-nelson-atkins-museum-of-art",
+   "chapel-of-st-ignatius",
+   "knut-hamsun-centre",
+   "cite-de-l-ocean-et-du-surf",
+   "simmons-hall-mit",
+   "loisium-langenlois",
+   "campbell-sports-center"
+  ],
+  "building_names": [
+   "Kiasma",
+   "Linked Hybrid",
+   "Bloch Building, Nelson-Atkins Museum of Art",
+   "Chapel of St. Ignatius",
+   "Knut Hamsun Centre",
+   "Cité de l'Océan et du Surf",
+   "Simmons Hall, MIT",
+   "Loisium Wine World",
+   "Campbell Sports Center"
+  ]
+ },
+ {
+  "rank": 53,
+  "name": "Charles Rennie Mackintosh",
+  "buildings": 8,
+  "pritzker": false,
+  "qid": "Q220703",
+  "building_ids": [
+   "willow-tearooms",
+   "scotland-street-school",
+   "the-lighthouse-glasgow-herald-building",
+   "house-for-an-art-lover",
+   "78-derngate",
+   "glasgow-school-of-art",
+   "queens-cross-church-glasgow",
+   "hill-house-helensburgh"
+  ],
+  "building_names": [
+   "Willow Tearooms",
+   "Scotland Street School",
+   "The Lighthouse (Glasgow Herald Building)",
+   "House for an Art Lover",
+   "78 Derngate",
+   "Glasgow School of Art",
+   "Queen's Cross Church",
+   "Hill House"
+  ]
+ },
+ {
+  "rank": 54,
+  "name": "Denys Lasdun",
+  "buildings": 8,
+  "pritzker": false,
+  "qid": "Q466400",
+  "building_ids": [
+   "royal-college-of-physicians",
+   "royal-national-theatre",
+   "keeling-house",
+   "hallfield-primary-school",
+   "national-museum-of-ghana",
+   "institute-of-education-london",
+   "uea-ziggurats",
+   "fitzwilliam-college-cambridge"
+  ],
+  "building_names": [
+   "Royal College of Physicians",
+   "Royal National Theatre",
+   "Keeling House",
+   "Hallfield Primary School",
+   "National Museum of Ghana",
+   "Institute of Education",
+   "University of East Anglia Ziggurats (Norfolk and Suffolk Terraces)",
+   "Fitzwilliam College"
+  ]
+ },
+ {
+  "rank": 55,
+  "name": "Diébédo Francis Kéré",
+  "buildings": 8,
+  "pritzker": true,
+  "qid": "Q99416",
+  "building_ids": [
+   "gando-primary-school",
+   "burkina-institute-of-technology",
+   "lycee-schorge",
+   "centre-for-earth-architecture",
+   "dano-secondary-school",
+   "surgical-clinic-and-health-centre",
+   "xylem",
+   "opera-village-laongo"
+  ],
+  "building_names": [
+   "Gando Primary School",
+   "Burkina Institute of Technology",
+   "Lycée Schorge",
+   "Centre for Earth Architecture",
+   "Dano Secondary School",
+   "Surgical Clinic and Health Centre",
+   "Xylem",
+   "Opera Village (Operndorf Afrika)"
+  ]
+ },
+ {
+  "rank": 56,
+  "name": "Eliel Saarinen",
+  "buildings": 8,
+  "pritzker": false,
+  "qid": "Q312028",
+  "building_ids": [
+   "helsinki-central-station",
+   "st-paul-s-church",
+   "lahti-town-hall",
+   "joensuu-town-hall",
+   "des-moines-art-center",
+   "christ-church-lutheran",
+   "first-christian-church-columbus",
+   "kleinhans-music-hall"
+  ],
+  "building_names": [
+   "Helsinki Central Station",
+   "St. Paul's Church",
+   "Lahti Town Hall",
+   "Joensuu Town Hall",
+   "Des Moines Art Center",
+   "Christ Church Lutheran",
+   "First Christian Church",
+   "Kleinhans Music Hall"
+  ]
+ },
+ {
+  "rank": 57,
+  "name": "Geoffrey Bawa",
+  "buildings": 8,
+  "pritzker": false,
+  "qid": "Q3610582",
+  "building_ids": [
+   "heritance-kandalama",
+   "parliament-of-sri-lanka",
+   "lunuganga",
+   "university-of-ruhuna",
+   "jetwing-lighthouse",
+   "seema-malaka",
+   "bentota-beach-hotel",
+   "sunethra-bandaranaike-house"
+  ],
+  "building_names": [
+   "Heritance Kandalama",
+   "Parliament of Sri Lanka",
+   "Lunuganga",
+   "University of Ruhuna",
+   "Jetwing Lighthouse",
+   "Seema Malaka",
+   "Bentota Beach Hotel",
+   "Sunethra Bandaranaike House"
+  ]
+ },
+ {
+  "rank": 58,
+  "name": "Harry Seidler",
+  "buildings": 8,
+  "pritzker": false,
+  "qid": "Q85669",
+  "building_ids": [
+   "rose-seidler-house",
+   "australia-square",
+   "mlc-centre",
+   "horizon-apartments",
+   "blues-point-tower",
+   "grosvenor-place-sydney",
+   "qv1-perth",
+   "riverside-centre-brisbane"
+  ],
+  "building_names": [
+   "Rose Seidler House",
+   "Australia Square",
+   "MLC Centre",
+   "Horizon Apartments",
+   "Blues Point Tower",
+   "Grosvenor Place",
+   "QV1",
+   "Riverside Centre"
+  ]
+ },
+ {
+  "rank": 59,
+  "name": "Jørn Utzon",
+  "buildings": 8,
+  "pritzker": true,
+  "qid": "Q180398",
+  "building_ids": [
+   "sydney-opera-house",
+   "bagsvaerd-church",
+   "can-lis",
+   "kingo-houses",
+   "paustian-house",
+   "utzon-house-hellebk",
+   "skagen-odde-nature-centre",
+   "fredensborg-houses"
+  ],
+  "building_names": [
+   "Sydney Opera House",
+   "Bagsværd Church",
+   "Can Lis",
+   "Kingo Houses",
+   "Paustian House",
+   "Utzon House, Hellebæk",
+   "Skagen Odde Nature Centre",
+   "Fredensborg Houses"
+  ]
+ },
+ {
+  "rank": 60,
+  "name": "Mimar Sinan",
+  "buildings": 8,
+  "pritzker": false,
+  "qid": "Q5600",
+  "building_ids": [
+   "suleymaniye-mosque",
+   "selimiye-mosque",
+   "takiyya-al-sulaymaniyya",
+   "mehmed-pasa-sokolovic-bridge-visegrad",
+   "sehzade-mosque",
+   "rustem-pasha-mosque",
+   "mihrimah-sultan-mosque-edirnekapi",
+   "cafera-medrese"
+  ],
+  "building_names": [
+   "Süleymaniye Mosque",
+   "Selimiye Mosque",
+   "Takiyya al-Sulaymaniyya",
+   "Mehmed Paša Sokolović Bridge",
+   "Şehzade Mosque",
+   "Rüstem Pasha Mosque",
+   "Mihrimah Sultan Mosque, Edirnekapı",
+   "Caferağa Medrese"
+  ]
+ },
+ {
+  "rank": 61,
+  "name": "Ricardo Bofill",
+  "buildings": 8,
+  "pritzker": false,
+  "qid": "Q316413",
+  "building_ids": [
+   "walden-7",
+   "espaces-d-abraxas",
+   "sanctuary-of-meritxell",
+   "teatre-nacional-de-catalunya",
+   "arcades-du-lac",
+   "antigone-montpellier",
+   "la-muralla-roja",
+   "la-fabrica-bofill"
+  ],
+  "building_names": [
+   "Walden 7",
+   "Espaces d'Abraxas",
+   "Sanctuary of Meritxell",
+   "Teatre Nacional de Catalunya",
+   "Les Arcades du Lac",
+   "Antigone",
+   "La Muralla Roja",
+   "La Fábrica"
+  ]
+ },
+ {
+  "rank": 62,
+  "name": "Balkrishna Doshi",
+  "buildings": 7,
+  "pritzker": true,
+  "qid": "Q380449",
+  "building_ids": [
+   "cept-university",
+   "sangath",
+   "aranya-low-cost-housing",
+   "amdavad-ni-gufa",
+   "indian-institute-of-management-bangalore",
+   "tagore-memorial-hall",
+   "premabhai-hall"
+  ],
+  "building_names": [
+   "CEPT University",
+   "Sangath",
+   "Aranya Low Cost Housing",
+   "Amdavad ni Gufa",
+   "Indian Institute of Management Bangalore",
+   "Tagore Memorial Hall",
+   "Premabhai Hall"
+  ]
+ },
+ {
+  "rank": 63,
+  "name": "Carlo Scarpa",
+  "buildings": 7,
+  "pritzker": false,
+  "qid": "Q51137",
+  "building_ids": [
+   "castelvecchio-museum",
+   "brion-cemetery",
+   "olivetti-showroom",
+   "gavina-showroom",
+   "gipsoteca-canoviana",
+   "fondazione-querini-stampalia",
+   "venezuela-pavilion-venice"
+  ],
+  "building_names": [
+   "Castelvecchio Museum",
+   "Brion Cemetery",
+   "Olivetti Showroom",
+   "Gavina Showroom",
+   "Gipsoteca Canoviana",
+   "Fondazione Querini Stampalia (Scarpa ground floor and garden)",
+   "Venezuela Pavilion, Venice Biennale"
+  ]
+ },
+ {
+  "rank": 64,
+  "name": "Christian de Portzamparc",
+  "buildings": 7,
+  "pritzker": true,
+  "qid": "Q312838",
+  "building_ids": [
+   "cidade-das-artes",
+   "cite-de-la-musique",
+   "musee-herge",
+   "philharmonie-luxembourg",
+   "one57",
+   "tour-de-lille",
+   "lvmh-tower"
+  ],
+  "building_names": [
+   "Cidade das Artes",
+   "Cité de la musique",
+   "Musée Hergé",
+   "Philharmonie Luxembourg",
+   "One57",
+   "Tour de Lille",
+   "LVMH Tower"
+  ]
+ },
+ {
+  "rank": 65,
+  "name": "Coop Himmelb(l)au",
+  "buildings": 7,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "bmw-welt",
+   "european-central-bank",
+   "ufa-kristallpalast",
+   "busan-cinema-center",
+   "musee-des-confluences",
+   "gasometer-b-vienna",
+   "groninger-museum"
+  ],
+  "building_names": [
+   "BMW Welt",
+   "European Central Bank",
+   "Ufa-Kristallpalast",
+   "Busan Cinema Center",
+   "Musée des Confluences",
+   "Gasometer B, Vienna",
+   "Groninger Museum"
+  ]
+ },
+ {
+  "rank": 66,
+  "name": "Edward Durell Stone",
+  "buildings": 7,
+  "pritzker": false,
+  "qid": "Q3048508",
+  "building_ids": [
+   "museo-de-arte-de-ponce",
+   "kennedy-center",
+   "davenport-public-library",
+   "mandel-house-bedford-hills",
+   "w-e-b-du-bois-library",
+   "aiwan-e-sadr",
+   "wapda-house-lahore"
+  ],
+  "building_names": [
+   "Museo de Arte de Ponce",
+   "Kennedy Center",
+   "Davenport Public Library",
+   "Richard H. Mandel House",
+   "W. E. B. Du Bois Library",
+   "Aiwan-e-Sadr (Presidential Palace)",
+   "WAPDA House"
+  ]
+ },
+ {
+  "rank": 67,
+  "name": "Félix Candela",
+  "buildings": 7,
+  "pritzker": false,
+  "qid": "Q704609",
+  "building_ids": [
+   "l-oceanografic-restaurant",
+   "palacio-de-los-deportes",
+   "los-manantiales-restaurant",
+   "church-of-la-medalla-milagrosa",
+   "bacardi-bottling-plant",
+   "capilla-lomas-de-cuernavaca",
+   "cosmic-rays-pavilion"
+  ],
+  "building_names": [
+   "L'Oceanogràfic Restaurant",
+   "Palacio de los Deportes",
+   "Los Manantiales Restaurant",
+   "Church of La Medalla Milagrosa",
+   "Bacardi Bottling Plant",
+   "Open Chapel of Lomas de Cuernavaca (Palmira Chapel)",
+   "Cosmic Rays Pavilion"
+  ]
+ },
+ {
+  "rank": 68,
+  "name": "gmp Architekten",
+  "buildings": 7,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "tempodrom",
+   "hanoi-museum",
+   "vietnam-national-convention-center",
+   "moses-mabhida-stadium",
+   "baku-crystal-hall",
+   "tegel-airport-terminal-a",
+   "cape-town-stadium"
+  ],
+  "building_names": [
+   "Tempodrom",
+   "Hanoi Museum",
+   "Vietnam National Convention Center",
+   "Moses Mabhida Stadium",
+   "Baku Crystal Hall",
+   "Tegel Airport, Terminal A",
+   "Cape Town Stadium"
+  ]
+ },
+ {
+  "rank": 69,
+  "name": "Hans Scharoun",
+  "buildings": 7,
+  "pritzker": false,
+  "qid": "Q57481",
+  "building_ids": [
+   "berliner-philharmonie",
+   "villa-schminke",
+   "berlin-state-library-haus-potsdamer-strae",
+   "scharoun-theatre-wolfsburg",
+   "geschwister-scholl-schule",
+   "german-maritime-museum",
+   "berlin-musical-instrument-museum"
+  ],
+  "building_names": [
+   "Berliner Philharmonie",
+   "Villa Schminke",
+   "Berlin State Library (Haus Potsdamer Straße)",
+   "Scharoun Theatre Wolfsburg",
+   "Geschwister-Scholl-Schule",
+   "German Maritime Museum (Scharoun building)",
+   "Berlin Musical Instrument Museum"
+  ]
+ },
+ {
+  "rank": 70,
+  "name": "John Burgee",
+  "buildings": 7,
+  "pritzker": false,
+  "qid": "Q5590225",
+  "building_ids": [
+   "at-t-building-550-madison-avenue",
+   "gate-of-europe",
+   "ids-center",
+   "lipstick-building",
+   "pennzoil-place",
+   "ppg-place",
+   "fort-worth-water-gardens"
+  ],
+  "building_names": [
+   "AT&T Building (550 Madison Avenue)",
+   "Gate of Europe",
+   "IDS Center",
+   "Lipstick Building",
+   "Pennzoil Place",
+   "PPG Place",
+   "Fort Worth Water Gardens"
+  ]
+ },
+ {
+  "rank": 71,
+  "name": "Josep Lluís Sert",
+  "buildings": 7,
+  "pritzker": false,
+  "qid": "Q467712",
+  "building_ids": [
+   "fondation-maeght",
+   "fundacio-joan-miro",
+   "holyoke-center-smith-campus-center",
+   "joieria-roca",
+   "casa-bloc",
+   "dispensario-antituberculoso-barcelona",
+   "studio-sert-palma"
+  ],
+  "building_names": [
+   "Fondation Maeght",
+   "Fundació Joan Miró",
+   "Holyoke Center (Smith Campus Center)",
+   "Joieria Roca",
+   "Casa Bloc",
+   "Dispensario Antituberculoso",
+   "Joan Miró's Studio (Taller Sert)"
+  ]
+ },
+ {
+  "rank": 72,
+  "name": "Kim Swoo-geun",
+  "buildings": 7,
+  "pritzker": false,
+  "qid": "Q497301",
+  "building_ids": [
+   "space-group-building",
+   "kyungdong-presbyterian-church",
+   "seoul-olympic-stadium",
+   "sewoon-sangga",
+   "yangdeok-cathedral",
+   "buyeo-national-museum",
+   "national-science-museum-daejeon"
+  ],
+  "building_names": [
+   "Space Group Building",
+   "Kyungdong Presbyterian Church",
+   "Seoul Olympic Stadium",
+   "Sewoon Sangga",
+   "Yangdeok Cathedral",
+   "Buyeo National Museum",
+   "National Science Museum, Daejeon"
+  ]
+ },
+ {
+  "rank": 73,
+  "name": "Minoru Yamasaki",
+  "buildings": 7,
+  "pritzker": false,
+  "qid": "Q347215",
+  "building_ids": [
+   "rainier-tower",
+   "mcgregor-memorial-conference-center",
+   "pacific-science-center",
+   "century-plaza-towers",
+   "dhahran-air-terminal",
+   "one-woodward-avenue",
+   "north-shore-congregation-israel"
+  ],
+  "building_names": [
+   "Rainier Tower",
+   "McGregor Memorial Conference Center",
+   "Pacific Science Center",
+   "Century Plaza Towers",
+   "Dhahran Air Terminal",
+   "One Woodward Avenue",
+   "North Shore Congregation Israel"
+  ]
+ },
+ {
+  "rank": 74,
+  "name": "Morphosis",
+  "buildings": 7,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "graduate-house-university-of-toronto",
+   "41-cooper-square",
+   "caltrans-district-7-headquarters",
+   "diamond-ranch-high-school",
+   "perot-museum-of-nature-and-science",
+   "san-francisco-federal-building",
+   "emerson-college-los-angeles"
+  ],
+  "building_names": [
+   "Graduate House, University of Toronto",
+   "41 Cooper Square",
+   "Caltrans District 7 Headquarters",
+   "Diamond Ranch High School",
+   "Perot Museum of Nature and Science",
+   "San Francisco Federal Building",
+   "Emerson College Los Angeles"
+  ]
+ },
+ {
+  "rank": 75,
+  "name": "Nikken Sekkei",
+  "buildings": 7,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "tokyo-skytree",
+   "kobe-port-tower",
+   "shinjuku-ns-building",
+   "cairo-opera-house",
+   "one-zaabeel",
+   "toho-gakuen-school-of-music",
+   "sony-city-osaki"
+  ],
+  "building_names": [
+   "Tokyo Skytree",
+   "Kobe Port Tower",
+   "Shinjuku NS Building",
+   "Cairo Opera House",
+   "One Za'abeel",
+   "Toho Gakuen School of Music",
+   "Sony City Osaki (NBF Osaki Building)"
+  ]
+ },
+ {
+  "rank": 76,
+  "name": "Rogelio Salmona",
+  "buildings": 7,
+  "pritzker": false,
+  "qid": "Q998392",
+  "building_ids": [
+   "torres-del-parque",
+   "virgilio-barco-library",
+   "general-archive-of-the-nation",
+   "centro-cultural-de-cali",
+   "gabriel-garcia-marquez-cultural-center",
+   "museo-del-oro-quimbaya",
+   "mambo-bogota"
+  ],
+  "building_names": [
+   "Torres del Parque",
+   "Virgilio Barco Library",
+   "General Archive of the Nation",
+   "Centro Cultural de Cali",
+   "Gabriel García Márquez Cultural Center",
+   "Museo del Oro Quimbaya",
+   "Museo de Arte Moderno de Bogotá (MAMBO)"
+  ]
+ },
+ {
+  "rank": 77,
+  "name": "Sou Fujimoto",
+  "buildings": 7,
+  "pritzker": false,
+  "qid": "Q3133614",
+  "building_ids": [
+   "house-na",
+   "l-arbre-blanc",
+   "house-of-music-hungary",
+   "final-wooden-house",
+   "house-n",
+   "shiroiya-hotel",
+   "bus-stop-krumbach"
+  ],
+  "building_names": [
+   "House NA",
+   "L'Arbre Blanc",
+   "House of Music Hungary",
+   "Final Wooden House",
+   "House N",
+   "Shiroiya Hotel",
+   "BUS:STOP Krumbach"
+  ]
+ },
+ {
+  "rank": 78,
+  "name": "Victor Horta",
+  "buildings": 7,
+  "pritzker": false,
+  "qid": "Q49744",
+  "building_ids": [
+   "hotel-tassel",
+   "centre-for-fine-arts-bozar",
+   "hotel-van-eetvelde",
+   "museum-of-fine-arts-tournai",
+   "brussels-central-station",
+   "autrique-house",
+   "horta-house"
+  ],
+  "building_names": [
+   "Hôtel Tassel",
+   "Centre for Fine Arts (Bozar)",
+   "Hôtel van Eetvelde",
+   "Museum of Fine Arts, Tournai",
+   "Brussels-Central Station",
+   "Autrique House",
+   "Horta House"
+  ]
+ },
+ {
+  "rank": 79,
+  "name": "Yoshio Taniguchi",
+  "buildings": 7,
+  "pritzker": false,
+  "qid": "Q1396719",
+  "building_ids": [
+   "gallery-of-horyuji-treasures",
+   "toyota-municipal-museum-of-art",
+   "d-t-suzuki-museum",
+   "tokyo-sea-life-park",
+   "ken-domon-museum-of-photography",
+   "museum-of-modern-art",
+   "marugame-genichiro-inokuma-museum-of-contemporary-art-mimoca"
+  ],
+  "building_names": [
+   "Gallery of Horyuji Treasures",
+   "Toyota Municipal Museum of Art",
+   "D. T. Suzuki Museum",
+   "Tokyo Sea Life Park",
+   "Ken Domon Museum of Photography",
+   "Museum of Modern Art",
+   "Marugame Genichiro-Inokuma Museum of Contemporary Art (MIMOCA)"
+  ]
+ },
+ {
+  "rank": 80,
+  "name": "3XN",
+  "buildings": 6,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "muziekgebouw-aan-t-ij",
+   "bella-sky-hotel",
+   "quay-quarter-tower",
+   "forskaren-stockholm",
+   "den-bla-planet",
+   "orestad-gymnasium"
+  ],
+  "building_names": [
+   "Muziekgebouw aan 't IJ",
+   "Bella Sky Hotel",
+   "Quay Quarter Tower",
+   "Forskaren",
+   "Den Blå Planet (National Aquarium Denmark)",
+   "Ørestad Gymnasium"
+  ]
+ },
+ {
+  "rank": 81,
+  "name": "Arthur Erickson",
+  "buildings": 6,
+  "pritzker": false,
+  "qid": "Q268732",
+  "building_ids": [
+   "museum-of-anthropology-at-ubc",
+   "robson-square",
+   "simon-fraser-university",
+   "university-hall-lethbridge",
+   "macmillan-bloedel-building",
+   "roy-thomson-hall"
+  ],
+  "building_names": [
+   "Museum of Anthropology at UBC",
+   "Robson Square",
+   "Simon Fraser University",
+   "University Hall, University of Lethbridge",
+   "MacMillan Bloedel Building",
+   "Roy Thomson Hall"
+  ]
+ },
+ {
+  "rank": 82,
+  "name": "Erich Mendelsohn",
+  "buildings": 6,
+  "pritzker": false,
+  "qid": "Q76730",
+  "building_ids": [
+   "einstein-tower",
+   "de-la-warr-pavilion",
+   "red-banner-textile-factory",
+   "hadassah-hospital-mount-scopus",
+   "schocken-library",
+   "kaufhaus-schocken-chemnitz"
+  ],
+  "building_names": [
+   "Einstein Tower",
+   "De La Warr Pavilion",
+   "Red Banner Textile Factory",
+   "Hadassah Hospital, Mount Scopus",
+   "Schocken Library",
+   "Schocken Department Store, Chemnitz"
+  ]
+ },
+ {
+  "rank": 83,
+  "name": "Gio Ponti",
+  "buildings": 6,
+  "pritzker": false,
+  "qid": "Q435810",
+  "building_ids": [
+   "pirelli-tower",
+   "torre-branca",
+   "co-cathedral-of-the-great-mother-of-god-gran-madre-di-dio",
+   "palazzo-del-lavoro",
+   "pakistan-secretariat-islamabad",
+   "villa-planchart"
+  ],
+  "building_names": [
+   "Pirelli Tower",
+   "Torre Branca",
+   "Co-Cathedral of the Great Mother of God (Gran Madre di Dio)",
+   "Palazzo del Lavoro",
+   "Pakistan Secretariat",
+   "Villa Planchart (Quinta El Cerrito)"
+  ]
+ },
+ {
+  "rank": 84,
+  "name": "Gottfried Böhm",
+  "buildings": 6,
+  "pritzker": true,
+  "qid": "Q76841",
+  "building_ids": [
+   "diozesanmuseum-paderborn",
+   "hans-otto-theater",
+   "christi-auferstehung",
+   "neviges-pilgrimage-church",
+   "bensberg-town-hall",
+   "zueblin-haus"
+  ],
+  "building_names": [
+   "Diözesanmuseum Paderborn",
+   "Hans Otto Theater",
+   "Christi Auferstehung",
+   "Neviges Pilgrimage Church",
+   "Bensberg Town Hall",
+   "Züblin-Haus"
+  ]
+ },
+ {
+  "rank": 85,
+  "name": "Henning Larsen",
+  "buildings": 6,
+  "pritzker": false,
+  "qid": "Q1377332",
+  "building_ids": [
+   "harpa",
+   "copenhagen-opera-house",
+   "bildmuseet",
+   "bolgen",
+   "moesgaard-museum",
+   "sdu-campus-kolding"
+  ],
+  "building_names": [
+   "Harpa",
+   "Copenhagen Opera House",
+   "Bildmuseet",
+   "Bolgen",
+   "Moesgaard Museum",
+   "SDU Campus Kolding"
+  ]
+ },
+ {
+  "rank": 86,
+  "name": "Kiyonori Kikutake",
+  "buildings": 6,
+  "pritzker": false,
+  "qid": "Q1352623",
+  "building_ids": [
+   "edo-tokyo-museum",
+   "kyushu-national-museum",
+   "shimane-art-museum",
+   "sky-house",
+   "hotel-tokoen",
+   "national-showa-memorial-museum"
+  ],
+  "building_names": [
+   "Edo-Tokyo Museum",
+   "Kyushu National Museum",
+   "Shimane Art Museum",
+   "Sky House",
+   "Hotel Tokoen",
+   "National Showa Memorial Museum"
+  ]
+ },
+ {
+  "rank": 87,
+  "name": "Konstantin Melnikov",
+  "buildings": 6,
+  "pritzker": false,
+  "qid": "Q930",
+  "building_ids": [
+   "melnikov-house",
+   "rusakov-workers-club",
+   "novo-ryazanskaya-street-bus-garage",
+   "bakhmetevsky-bus-garage",
+   "gosplan-garage",
+   "kauchuk-factory-club"
+  ],
+  "building_names": [
+   "Melnikov House",
+   "Rusakov Workers' Club",
+   "Novo-Ryazanskaya Street Bus Garage",
+   "Bakhmetevsky Bus Garage",
+   "Gosplan Garage",
+   "Kauchuk Factory Club"
+  ]
+ },
+ {
+  "rank": 88,
+  "name": "Louis Sullivan",
+  "buildings": 6,
+  "pritzker": false,
+  "qid": "Q243240",
+  "building_ids": [
+   "wainwright-building",
+   "home-building-association-bank",
+   "van-allen-building",
+   "national-farmers-bank-owatonna",
+   "bayard-condict-building",
+   "krause-music-store"
+  ],
+  "building_names": [
+   "Wainwright Building",
+   "Home Building Association Bank",
+   "Van Allen Building",
+   "National Farmers' Bank of Owatonna",
+   "Bayard–Condict Building",
+   "Krause Music Store"
+  ]
+ },
+ {
+  "rank": 89,
+  "name": "Mahendra Raj",
+  "buildings": 6,
+  "pritzker": false,
+  "qid": "Q112114892",
+  "building_ids": [
+   "sardar-vallabhbhai-patel-stadium",
+   "hall-of-nations",
+   "shri-ram-centre",
+   "premabhai-hall",
+   "palika-kendra",
+   "akbar-bhawan"
+  ],
+  "building_names": [
+   "Sardar Vallabhbhai Patel Stadium",
+   "Hall of Nations",
+   "Shri Ram Centre for Performing Arts",
+   "Premabhai Hall",
+   "Palika Kendra (NDMC Building)",
+   "Akbar Bhawan (Akbar Hotel)"
+  ]
+ },
+ {
+  "rank": 90,
+  "name": "Michael Wilford",
+  "buildings": 6,
+  "pritzker": false,
+  "qid": "Q326737",
+  "building_ids": [
+   "esplanade-theatres-on-the-bay",
+   "clore-gallery-tate-britain",
+   "the-lowry",
+   "wzb-berlin-social-science-center",
+   "stuttgart-music-school",
+   "no-1-poultry"
+  ],
+  "building_names": [
+   "Esplanade - Theatres on the Bay",
+   "Clore Gallery, Tate Britain",
+   "The Lowry",
+   "WZB Berlin Social Science Center",
+   "Stuttgart Music School (Musikhochschule)",
+   "No 1 Poultry"
+  ]
+ },
+ {
+  "rank": 91,
+  "name": "Nicholas Grimshaw",
+  "buildings": 6,
+  "pritzker": false,
+  "qid": "Q1348044",
+  "building_ids": [
+   "eden-project",
+   "national-space-centre",
+   "waterloo-international",
+   "london-bridge-station-redevelopment",
+   "southern-cross-station",
+   "istanbul-airport"
+  ],
+  "building_names": [
+   "Eden Project",
+   "National Space Centre",
+   "Waterloo International",
+   "London Bridge Station",
+   "Southern Cross Station",
+   "Istanbul Airport"
+  ]
+ },
+ {
+  "rank": 92,
+  "name": "RCR Arquitectes",
+  "buildings": 6,
+  "pritzker": true,
+  "qid": null,
+  "building_ids": [
+   "de-krook",
+   "sant-antoni-joan-oliver-library",
+   "la-lira-theatre-public-space",
+   "soulages-museum",
+   "tossols-basil-athletics-track",
+   "crematorium-hofheide"
+  ],
+  "building_names": [
+   "De Krook",
+   "Sant Antoni-Joan Oliver Library",
+   "La Lira Theatre Public Space",
+   "Soulages Museum",
+   "Tossols-Basil Athletics Track",
+   "Crematorium Hofheide"
+  ]
+ },
+ {
+  "rank": 93,
+  "name": "Ricardo Legorreta",
+  "buildings": 6,
+  "pritzker": false,
+  "qid": "Q732502",
+  "building_ids": [
+   "museo-de-arte-contemporaneo-de-monterrey",
+   "metropolitan-cathedral-of-managua",
+   "fashion-and-textile-museum",
+   "papalote-children-s-museum",
+   "camino-real-hotel-mexico-city",
+   "san-antonio-central-library"
+  ],
+  "building_names": [
+   "Museo de Arte Contemporáneo de Monterrey",
+   "Metropolitan Cathedral of Managua",
+   "Fashion and Textile Museum",
+   "Papalote Children's Museum",
+   "Camino Real Hotel, Mexico City",
+   "San Antonio Central Library"
+  ]
+ },
+ {
+  "rank": 94,
+  "name": "Richard Neutra",
+  "buildings": 6,
+  "pritzker": false,
+  "qid": "Q84312",
+  "building_ids": [
+   "kaufmann-desert-house",
+   "vdl-research-house",
+   "constance-perkins-house",
+   "jardinette-apartments",
+   "lovell-health-house",
+   "arthur-and-mona-hofmann-house"
+  ],
+  "building_names": [
+   "Kaufmann Desert House",
+   "VDL Research House",
+   "Constance Perkins House",
+   "Jardinette Apartments",
+   "Lovell Health House",
+   "Arthur and Mona Hofmann House"
+  ]
+ },
+ {
+  "rank": 95,
+  "name": "Ryue Nishizawa",
+  "buildings": 6,
+  "pritzker": true,
+  "qid": "Q369645",
+  "building_ids": [
+   "moriyama-house",
+   "teshima-art-museum",
+   "new-museum",
+   "towada-art-center",
+   "garden-and-house",
+   "hiroshi-senju-museum-karuizawa"
+  ],
+  "building_names": [
+   "Moriyama House",
+   "Teshima Art Museum",
+   "New Museum",
+   "Towada Art Center",
+   "Garden & House",
+   "Hiroshi Senju Museum Karuizawa"
+  ]
+ },
+ {
+  "rank": 96,
+  "name": "Snøhetta",
+  "buildings": 6,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "oslo-opera-house",
+   "calgary-central-library",
+   "norwegian-wild-reindeer-pavilion",
+   "lascaux-iv",
+   "powerhouse-brattorkaia",
+   "under-restaurant"
+  ],
+  "building_names": [
+   "Oslo Opera House",
+   "Calgary Central Library",
+   "Norwegian Wild Reindeer Pavilion",
+   "Lascaux IV",
+   "Powerhouse Brattørkaia",
+   "Under"
+  ]
+ },
+ {
+  "rank": 97,
+  "name": "Sverre Fehn",
+  "buildings": 6,
+  "pritzker": true,
+  "qid": "Q242002",
+  "building_ids": [
+   "nordic-pavilion",
+   "hedmark-museum",
+   "norwegian-glacier-museum",
+   "national-museum-architecture",
+   "villa-schreiner",
+   "villa-busk"
+  ],
+  "building_names": [
+   "Nordic Pavilion",
+   "Hedmark Museum",
+   "Norwegian Glacier Museum",
+   "National Museum – Architecture",
+   "Villa Schreiner",
+   "Villa Busk"
+  ]
+ },
+ {
+  "rank": 98,
+  "name": "Alejandro Aravena",
+  "buildings": 5,
+  "pritzker": true,
+  "qid": "manual:Alejandro Aravena",
+  "building_ids": [
+   "quinta-monroy",
+   "anacleto-angelini-innovation-center",
+   "monterrey-housing",
+   "siamese-towers",
+   "villa-verde-housing"
+  ],
+  "building_names": [
+   "Quinta Monroy",
+   "Anacleto Angelini Innovation Center",
+   "Monterrey Housing",
+   "Siamese Towers",
+   "Villa Verde Housing"
+  ]
+ },
+ {
+  "rank": 99,
+  "name": "Clorindo Testa",
+  "buildings": 5,
+  "pritzker": false,
+  "qid": "Q2736436",
+  "building_ids": [
+   "bank-of-london-and-south-america",
+   "national-library-of-argentina",
+   "recoleta-cultural-center",
+   "hospital-naval-buenos-aires",
+   "centro-civico-santa-rosa"
+  ],
+  "building_names": [
+   "Bank of London and South America",
+   "National Library of Argentina",
+   "Recoleta Cultural Center",
+   "Hospital Naval Pedro Mallo",
+   "La Pampa Civic Centre (Casa de Gobierno)"
+  ]
+ },
+ {
+  "rank": 100,
+  "name": "Denton Corker Marshall",
+  "buildings": 5,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "melbourne-museum",
+   "melbourne-exhibition-centre",
+   "governor-phillip-tower",
+   "museum-of-sydney",
+   "manchester-civil-justice-centre"
+  ],
+  "building_names": [
+   "Melbourne Museum",
+   "Melbourne Exhibition Centre ('Jeff's Shed')",
+   "Governor Phillip Tower",
+   "Museum of Sydney",
+   "Manchester Civil Justice Centre"
+  ]
+ },
+ {
+  "rank": 101,
+  "name": "Hans Hollein",
+  "buildings": 5,
+  "pritzker": true,
+  "qid": "Q78884",
+  "building_ids": [
+   "museum-abteiberg",
+   "museum-fur-moderne-kunst",
+   "haas-house",
+   "retti-candle-shop",
+   "vulcania"
+  ],
+  "building_names": [
+   "Museum Abteiberg",
+   "Museum für Moderne Kunst",
+   "Haas House",
+   "Retti Candle Shop",
+   "Vulcania"
+  ]
+ },
+ {
+  "rank": 102,
+  "name": "Herman Hertzberger",
+  "buildings": 5,
+  "pritzker": false,
+  "qid": "Q318319",
+  "building_ids": [
+   "centraal-beheer",
+   "diagoon-houses",
+   "muziekcentrum-vredenburg",
+   "weesperflat",
+   "chasse-theater"
+  ],
+  "building_names": [
+   "Centraal Beheer",
+   "Diagoon Houses",
+   "Muziekcentrum Vredenburg",
+   "Weesperflat",
+   "Chassé Theater"
+  ]
+ },
+ {
+  "rank": 103,
+  "name": "Hiroshi Hara",
+  "buildings": 5,
+  "pritzker": false,
+  "qid": "Q2739984",
+  "building_ids": [
+   "kyoto-station-building",
+   "umeda-sky-building",
+   "sapporo-dome",
+   "iida-city-museum",
+   "miyagi-prefectural-library"
+  ],
+  "building_names": [
+   "Kyoto Station Building",
+   "Umeda Sky Building",
+   "Sapporo Dome",
+   "Iida City Museum",
+   "Miyagi Prefectural Library"
+  ]
+ },
+ {
+  "rank": 104,
+  "name": "Junzo Sakakura",
+  "buildings": 5,
+  "pritzker": false,
+  "qid": "Q388272",
+  "building_ids": [
+   "museum-of-modern-art-kamakura",
+   "yamaguchi-prefectural-museum",
+   "hashima-city-hall",
+   "yokohama-silk-center",
+   "kure-city-hall"
+  ],
+  "building_names": [
+   "Museum of Modern Art, Kamakura (Kamakura Bunkakan Tsurugaoka Museum)",
+   "Yamaguchi Prefectural Museum",
+   "Hashima City Hall (1959)",
+   "Yokohama Silk Center",
+   "Kure City Hall and Municipal Auditorium"
+  ]
+ },
+ {
+  "rank": 105,
+  "name": "Lúcio Costa",
+  "buildings": 5,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "gustavo-capanema-palace",
+   "parque-guinle",
+   "torre-de-tv-brasilia",
+   "museu-das-missoes",
+   "rodoviaria-do-plano-piloto"
+  ],
+  "building_names": [
+   "Gustavo Capanema Palace",
+   "Parque Guinle",
+   "Brasília TV Tower",
+   "Museu das Missões",
+   "Brasília Bus Station (Rodoviária do Plano Piloto)"
+  ]
+ },
+ {
+  "rank": 106,
+  "name": "Luigi Moretti",
+  "buildings": 5,
+  "pritzker": false,
+  "qid": "Q1876230",
+  "building_ids": [
+   "tour-de-la-bourse",
+   "casa-del-girasole",
+   "hotel-el-aurassi",
+   "stadio-olimpico-roma",
+   "watergate-complex"
+  ],
+  "building_names": [
+   "Tour de la Bourse",
+   "Casa del Girasole",
+   "Hôtel El Aurassi",
+   "Stadio Olimpico",
+   "Watergate Complex"
+  ]
+ },
+ {
+  "rank": 107,
+  "name": "Luis Barragán",
+  "buildings": 5,
+  "pritzker": true,
+  "qid": "Q243295",
+  "building_ids": [
+   "casa-luis-barragan",
+   "torres-de-satelite",
+   "cuadra-san-cristobal",
+   "casa-gilardi",
+   "faro-del-comercio"
+  ],
+  "building_names": [
+   "Casa Luis Barragán",
+   "Torres de Satélite",
+   "Cuadra San Cristóbal",
+   "Casa Gilardi",
+   "Faro del Comercio"
+  ]
+ },
+ {
+  "rank": 108,
+  "name": "Mario Pani",
+  "buildings": 5,
+  "pritzker": false,
+  "qid": "Q671960",
+  "building_ids": [
+   "centro-urbano-presidente-aleman",
+   "ciudad-universitaria-unam",
+   "torre-de-rectoria-unam",
+   "torre-insignia",
+   "plaza-de-las-tres-culturas"
+  ],
+  "building_names": [
+   "Centro Urbano Presidente Alemán",
+   "Ciudad Universitaria, UNAM",
+   "Rectorate Tower, UNAM",
+   "Torre Insignia (Banobras Tower)",
+   "Plaza de las Tres Culturas"
+  ]
+ },
+ {
+  "rank": 109,
+  "name": "McKim, Mead & White",
+  "buildings": 5,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "the-morgan-library-museum",
+   "manhattan-municipal-building",
+   "james-a-farley-building-moynihan-train-hall",
+   "boston-public-library-mckim-building",
+   "hotel-nacional-de-cuba"
+  ],
+  "building_names": [
+   "The Morgan Library & Museum",
+   "Manhattan Municipal Building",
+   "James A. Farley Building (Moynihan Train Hall)",
+   "Boston Public Library, McKim Building",
+   "Hotel Nacional de Cuba"
+  ]
+ },
+ {
+  "rank": 110,
+  "name": "Otto Wagner",
+  "buildings": 5,
+  "pritzker": false,
+  "qid": "Q84287",
+  "building_ids": [
+   "kirche-am-steinhof",
+   "austrian-postal-savings-bank",
+   "vienna-stadtbahn",
+   "majolikahaus",
+   "karlsplatz-stadtbahn-pavilions"
+  ],
+  "building_names": [
+   "Kirche am Steinhof",
+   "Austrian Postal Savings Bank",
+   "Vienna Stadtbahn",
+   "Majolikahaus",
+   "Karlsplatz Stadtbahn Pavilions"
+  ]
+ },
+ {
+  "rank": 111,
+  "name": "Populous",
+  "buildings": 5,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "lusail-stadium",
+   "aviva-stadium",
+   "forsyth-barr-stadium",
+   "london-stadium",
+   "prince-moulay-abdellah-stadium"
+  ],
+  "building_names": [
+   "Lusail Stadium",
+   "Aviva Stadium",
+   "Forsyth Barr Stadium",
+   "London Stadium",
+   "Prince Moulay Abdellah Stadium"
+  ]
+ },
+ {
+  "rank": 112,
+  "name": "Rafael Viñoly",
+  "buildings": 5,
+  "pritzker": false,
+  "qid": "Q952826",
+  "building_ids": [
+   "tokyo-international-forum",
+   "coleccion-fortabat",
+   "20-fenchurch-street",
+   "laguna-garzon-bridge",
+   "carrasco-airport-terminal"
+  ],
+  "building_names": [
+   "Tokyo International Forum",
+   "Colección de Arte Amalia Lacroze de Fortabat",
+   "20 Fenchurch Street",
+   "Laguna Garzón Bridge",
+   "Carrasco International Airport"
+  ]
+ },
+ {
+  "rank": 113,
+  "name": "Raili Pietilä",
+  "buildings": 5,
+  "pritzker": false,
+  "qid": "Q3417698",
+  "building_ids": [
+   "kaleva-church",
+   "dipoli",
+   "mantyniemi",
+   "metso-library",
+   "lieksa-church"
+  ],
+  "building_names": [
+   "Kaleva Church",
+   "Dipoli",
+   "Mäntyniemi",
+   "Metso Library",
+   "Lieksa Church"
+  ]
+ },
+ {
+  "rank": 114,
+  "name": "Raymond Moriyama",
+  "buildings": 5,
+  "pritzker": false,
+  "qid": "Q3421061",
+  "building_ids": [
+   "national-museum-of-saudi-arabia",
+   "bata-shoe-museum",
+   "ontario-science-centre",
+   "william-g-davis-building",
+   "toronto-reference-library"
+  ],
+  "building_names": [
+   "National Museum of Saudi Arabia",
+   "Bata Shoe Museum",
+   "Ontario Science Centre",
+   "William G. Davis Building",
+   "Toronto Reference Library"
+  ]
+ },
+ {
+  "rank": 115,
+  "name": "Reima Pietilä",
+  "buildings": 5,
+  "pritzker": false,
+  "qid": "Q2582922",
+  "building_ids": [
+   "kaleva-church",
+   "dipoli",
+   "mantyniemi",
+   "metso-library",
+   "lieksa-church"
+  ],
+  "building_names": [
+   "Kaleva Church",
+   "Dipoli",
+   "Mäntyniemi",
+   "Metso Library",
+   "Lieksa Church"
+  ]
+ },
+ {
+  "rank": 116,
+  "name": "Riken Yamamoto",
+  "buildings": 5,
+  "pritzker": true,
+  "qid": "Q3432036",
+  "building_ids": [
+   "yokosuka-museum-of-art",
+   "saitama-prefectural-university",
+   "future-university-hakodate",
+   "hotakubo-housing",
+   "the-circle-zurich-airport"
+  ],
+  "building_names": [
+   "Yokosuka Museum of Art",
+   "Saitama Prefectural University",
+   "Future University Hakodate",
+   "Hotakubo Housing",
+   "The Circle, Zurich Airport"
+  ]
+ },
+ {
+  "rank": 117,
+  "name": "Schmidt Hammer Lassen",
+  "buildings": 5,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "black-diamond",
+   "aros-aarhus-kunstmuseum",
+   "katuaq",
+   "dokk1",
+   "turanga-christchurch"
+  ],
+  "building_names": [
+   "Black Diamond",
+   "ARoS Aarhus Kunstmuseum",
+   "Katuaq",
+   "Dokk1",
+   "Tūranga (Christchurch Central Library)"
+  ]
+ },
+ {
+  "rank": 118,
+  "name": "Terunobu Fujimori",
+  "buildings": 5,
+  "pritzker": false,
+  "qid": "Q3134309",
+  "building_ids": [
+   "akino-fuku-art-museum",
+   "lamune-onsen",
+   "takasugi-an",
+   "la-collina-omihachiman",
+   "nira-house"
+  ],
+  "building_names": [
+   "Akino Fuku Art Museum",
+   "Lamune Onsen",
+   "Takasugi-an",
+   "La Collina Omihachiman",
+   "Nira House (Leek House)"
+  ]
+ },
+ {
+  "rank": 119,
+  "name": "Togo Murano",
+  "buildings": 5,
+  "pritzker": false,
+  "qid": "Q7813199",
+  "building_ids": [
+   "nissay-theatre",
+   "meguro-city-office",
+   "prince-kyoto-takaragaike",
+   "memorial-cathedral-for-world-peace",
+   "yokohama-city-hall-1959"
+  ],
+  "building_names": [
+   "Nissay Theatre (Nippon Life Hibiya Building)",
+   "Meguro City Office (former Chiyoda Life Insurance HQ)",
+   "The Prince Kyoto Takaragaike (Kyoto Takaragaike Prince Hotel)",
+   "Memorial Cathedral for World Peace",
+   "Yokohama City Hall (1959 building)"
+  ]
+ },
+ {
+  "rank": 120,
+  "name": "Vilanova Artigas",
+  "buildings": 5,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "fau-usp-building",
+   "rodoviaria-de-jau",
+   "edificio-louveira",
+   "casa-artigas-1949",
+   "estadio-do-morumbi"
+  ],
+  "building_names": [
+   "FAU-USP Building",
+   "Jaú Bus Station",
+   "Edifício Louveira",
+   "Second Artigas House (Residência Vilanova Artigas II)",
+   "Morumbi Stadium (Estádio Cícero Pompeu de Toledo)"
+  ]
+ },
+ {
+  "rank": 121,
+  "name": "Vladimir Shukhov",
+  "buildings": 5,
+  "pritzker": false,
+  "qid": "Q313210",
+  "building_ids": [
+   "shukhov-tower",
+   "novo-ryazanskaya-street-bus-garage",
+   "adziogol-lighthouse",
+   "bakhmetevsky-bus-garage",
+   "shukhov-tower-on-the-oka-river"
+  ],
+  "building_names": [
+   "Shukhov Tower",
+   "Novo-Ryazanskaya Street Bus Garage",
+   "Adziogol Lighthouse",
+   "Bakhmetevsky Bus Garage",
+   "Shukhov Tower on the Oka River"
+  ]
+ },
+ {
+  "rank": 122,
+  "name": "Walter Gropius",
+  "buildings": 5,
+  "pritzker": false,
+  "qid": "Q61071",
+  "building_ids": [
+   "bauhaus-dessau",
+   "fagus-factory",
+   "bauhaus-archiv",
+   "metlife-building",
+   "gropius-house"
+  ],
+  "building_names": [
+   "Bauhaus Dessau",
+   "Fagus Factory",
+   "Bauhaus-Archiv",
+   "MetLife Building",
+   "Gropius House"
+  ]
+ },
+ {
+  "rank": 123,
+  "name": "Welton Becket",
+  "buildings": 5,
+  "pritzker": false,
+  "qid": "Q3052330",
+  "building_ids": [
+   "capitol-records-building",
+   "hotel-habana-libre",
+   "parker-center",
+   "santa-monica-civic-auditorium",
+   "reunion-tower"
+  ],
+  "building_names": [
+   "Capitol Records Building",
+   "Hotel Habana Libre (former Habana Hilton)",
+   "Parker Center",
+   "Santa Monica Civic Auditorium",
+   "Reunion Tower"
+  ]
+ },
+ {
+  "rank": 124,
+  "name": "WOHA",
+  "buildings": 5,
+  "pritzker": false,
+  "qid": "manual:WOHA",
+  "building_ids": [
+   "the-met",
+   "parkroyal-collection-pickering",
+   "oasia-hotel-downtown",
+   "school-of-the-arts-singapore",
+   "alila-villas-uluwatu"
+  ],
+  "building_names": [
+   "The Met",
+   "Parkroyal Collection Pickering",
+   "Oasia Hotel Downtown",
+   "School of the Arts, Singapore",
+   "Alila Villas Uluwatu"
+  ]
+ },
+ {
+  "rank": 125,
+  "name": "Achyut Kanvinde",
+  "buildings": 4,
+  "pritzker": false,
+  "qid": "Q4673974",
+  "building_ids": [
+   "iit-kanpur-academic-area",
+   "dudhsagar-dairy",
+   "atira-ahmedabad",
+   "iskcon-temple-delhi"
+  ],
+  "building_names": [
+   "IIT Kanpur Academic Area",
+   "Dudhsagar Dairy",
+   "ATIRA (Ahmedabad Textile Industry's Research Association)",
+   "ISKCON Temple (Glory of India)"
+  ]
+ },
+ {
+  "rank": 126,
+  "name": "Alberto Campo Baeza",
+  "buildings": 4,
+  "pritzker": false,
+  "qid": "Q2247482",
+  "building_ids": [
+   "casa-gaspar",
+   "casa-de-blas",
+   "caja-granada",
+   "museo-memoria-andalucia"
+  ],
+  "building_names": [
+   "Casa Gaspar",
+   "Casa De Blas",
+   "Caja Granada Headquarters",
+   "Museum of Memory of Andalusia (MA)"
+  ]
+ },
+ {
+  "rank": 127,
+  "name": "Architectus",
+  "buildings": 4,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "qeii-courts-of-law-brisbane",
+   "sydney-modern",
+   "turanga-christchurch",
+   "1-bligh-street"
+  ],
+  "building_names": [
+   "Queen Elizabeth II Courts of Law",
+   "Art Gallery of New South Wales, North Building (Sydney Modern, Naala Nura)",
+   "Tūranga (Christchurch Central Library)",
+   "1 Bligh Street"
+  ]
+ },
+ {
+  "rank": 128,
+  "name": "Artur Tarkhanyan",
+  "buildings": 4,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "armenian-genocide-memorial",
+   "rossiya-cinema-yerevan",
+   "karen-demirchyan-complex",
+   "zvartnots-airport-old-terminal"
+  ],
+  "building_names": [
+   "Armenian Genocide Memorial",
+   "Rossiya Cinema",
+   "Karen Demirchyan Sports and Concert Complex",
+   "Zvartnots Airport Old Terminal"
+  ]
+ },
+ {
+  "rank": 129,
+  "name": "Ashton Raggatt McDougall",
+  "buildings": 4,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "rmit-storey-hall",
+   "perth-arena",
+   "melbourne-recital-centre",
+   "national-museum-of-australia"
+  ],
+  "building_names": [
+   "RMIT Storey Hall",
+   "Perth Arena",
+   "Melbourne Recital Centre",
+   "National Museum of Australia"
+  ]
+ },
+ {
+  "rank": 130,
+  "name": "Behnisch & Partner",
+  "buildings": 4,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "munich-olympic-stadium",
+   "glaspalast-sindelfingen",
+   "bundestag-plenary-building-bonn",
+   "nord-lb-hanover"
+  ],
+  "building_names": [
+   "Munich Olympic Stadium",
+   "Glaspalast Sindelfingen",
+   "Plenary Building of the Bundestag, Bonn",
+   "Norddeutsche Landesbank (NORD/LB) Headquarters"
+  ]
+ },
+ {
+  "rank": 131,
+  "name": "Behnisch Architekten",
+  "buildings": 4,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "ozeaneum",
+   "unilever-haus-hamburg",
+   "max-aicher-arena",
+   "marco-polo-tower"
+  ],
+  "building_names": [
+   "Ozeaneum",
+   "Unilever-Haus",
+   "Max Aicher Arena",
+   "Marco Polo Tower"
+  ]
+ },
+ {
+  "rank": 132,
+  "name": "Berthold Lubetkin",
+  "buildings": 4,
+  "pritzker": false,
+  "qid": "Q827997",
+  "building_ids": [
+   "bevin-court",
+   "gorilla-house-london-zoo",
+   "spa-green-estate",
+   "cranbrook-estate-london"
+  ],
+  "building_names": [
+   "Bevin Court",
+   "Gorilla House, London Zoo",
+   "Spa Green Estate",
+   "Cranbrook Estate"
+  ]
+ },
+ {
+  "rank": 133,
+  "name": "Berthold Lubetkin and Tecton",
+  "buildings": 4,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "highpoint-i",
+   "penguin-pool-london-zoo",
+   "finsbury-health-centre",
+   "dudley-zoo"
+  ],
+  "building_names": [
+   "Highpoint I",
+   "Penguin Pool, London Zoo",
+   "Finsbury Health Centre",
+   "Dudley Zoo"
+  ]
+ },
+ {
+  "rank": 134,
+  "name": "Bruno Taut",
+  "buildings": 4,
+  "pritzker": false,
+  "qid": "Q76729",
+  "building_ids": [
+   "hufeisensiedlung",
+   "gartenstadt-falkenberg",
+   "wohnstadt-carl-legien",
+   "faculty-of-languages-history-and-geography"
+  ],
+  "building_names": [
+   "Hufeisensiedlung",
+   "Gartenstadt Falkenberg",
+   "Wohnstadt Carl Legien",
+   "Faculty of Languages, History and Geography"
+  ]
+ },
+ {
+  "rank": 135,
+  "name": "Charles Girault",
+  "buildings": 4,
+  "pritzker": false,
+  "qid": "Q1064558",
+  "building_ids": [
+   "grand-palais",
+   "petit-palais",
+   "cinquantenaire-arcade-brussels",
+   "royal-museum-central-africa-tervuren"
+  ],
+  "building_names": [
+   "Grand Palais",
+   "Petit Palais",
+   "Cinquantenaire Arcade",
+   "Royal Museum for Central Africa (AfricaMuseum)"
+  ]
+ },
+ {
+  "rank": 136,
+  "name": "David Adjaye",
+  "buildings": 4,
+  "pritzker": false,
+  "qid": "Q1173530",
+  "building_ids": [
+   "national-museum-of-african-american-history-and-culture",
+   "nobel-peace-center",
+   "dirty-house",
+   "moscow-school-of-management-skolkovo"
+  ],
+  "building_names": [
+   "National Museum of African American History and Culture",
+   "Nobel Peace Center",
+   "Dirty House",
+   "Moscow School of Management Skolkovo"
+  ]
+ },
+ {
+  "rank": 137,
+  "name": "E. Stewart Williams",
+  "buildings": 4,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "palm-springs-art-museum",
+   "koerner-house",
+   "palm-springs-unified-school-district-educational-administrative-center",
+   "santa-fe-federal-savings-and-loan-association"
+  ],
+  "building_names": [
+   "Palm Springs Art Museum",
+   "Koerner House",
+   "Palm Springs Unified School District Educational Administrative Center",
+   "Santa Fe Federal Savings and Loan Association"
+  ]
+ },
+ {
+  "rank": 138,
+  "name": "Eduardo Souto de Moura",
+  "buildings": 4,
+  "pritzker": true,
+  "qid": "Q312831",
+  "building_ids": [
+   "braga-municipal-stadium",
+   "casa-das-historias-paula-rego",
+   "pousada-santa-maria-do-bouro",
+   "burgo-tower"
+  ],
+  "building_names": [
+   "Braga Municipal Stadium",
+   "Casa das Histórias Paula Rego",
+   "Pousada Santa Maria do Bouro",
+   "Burgo Tower"
+  ]
+ },
+ {
+  "rank": 139,
+  "name": "Emre Arolat",
+  "buildings": 4,
+  "pritzker": false,
+  "qid": "Q20197529",
+  "building_ids": [
+   "sancaklar-mosque",
+   "zorlu-center",
+   "the-museum-hotel-antakya",
+   "santralistanbul"
+  ],
+  "building_names": [
+   "Sancaklar Mosque",
+   "Zorlu Center",
+   "The Museum Hotel Antakya",
+   "SantralIstanbul"
+  ]
+ },
+ {
+  "rank": 140,
+  "name": "Enric Miralles",
+  "buildings": 4,
+  "pritzker": false,
+  "qid": "Q723669",
+  "building_ids": [
+   "scottish-parliament-building",
+   "igualada-cemetery",
+   "gas-natural-building",
+   "santa-caterina-market"
+  ],
+  "building_names": [
+   "Scottish Parliament Building",
+   "Igualada Cemetery",
+   "Gas Natural Building",
+   "Santa Caterina Market"
+  ]
+ },
+ {
+  "rank": 141,
+  "name": "Ernő Goldfinger",
+  "buildings": 4,
+  "pritzker": false,
+  "qid": "Q655293",
+  "building_ids": [
+   "trellick-tower",
+   "balfron-tower",
+   "metro-central-heights",
+   "2-willow-road"
+  ],
+  "building_names": [
+   "Trellick Tower",
+   "Balfron Tower",
+   "Metro Central Heights",
+   "2 Willow Road"
+  ]
+ },
+ {
+  "rank": 142,
+  "name": "Frei Otto",
+  "buildings": 4,
+  "pritzker": true,
+  "qid": "manual:Frei Otto",
+  "building_ids": [
+   "munich-olympic-stadium",
+   "japan-pavilion-expo-2000",
+   "multihalle-mannheim",
+   "tanzbrunnen-cologne"
+  ],
+  "building_names": [
+   "Munich Olympic Stadium",
+   "Japan Pavilion, Expo 2000",
+   "Multihalle Mannheim",
+   "Tanzbrunnen (Star Wave Tent)"
+  ]
+ },
+ {
+  "rank": 143,
+  "name": "Gerrit Rietveld",
+  "buildings": 4,
+  "pritzker": false,
+  "qid": "Q160435",
+  "building_ids": [
+   "rietveld-schroder-house",
+   "van-gogh-museum",
+   "dutch-pavilion-venice-biennale",
+   "garage-with-chauffeur-s-flat"
+  ],
+  "building_names": [
+   "Rietveld Schröder House",
+   "Van Gogh Museum",
+   "Dutch Pavilion, Venice Biennale",
+   "Garage with Chauffeur's Flat"
+  ]
+ },
+ {
+  "rank": 144,
+  "name": "Giuseppe Terragni",
+  "buildings": 4,
+  "pritzker": false,
+  "qid": "Q458653",
+  "building_ids": [
+   "casa-del-fascio",
+   "asilo-sant-elia",
+   "novocomum",
+   "casa-rustici"
+  ],
+  "building_names": [
+   "Casa del Fascio",
+   "Asilo Sant'Elia",
+   "Novocomum",
+   "Casa Rustici"
+  ]
+ },
+ {
+  "rank": 145,
+  "name": "Grafton Architects",
+  "buildings": 4,
+  "pritzker": true,
+  "qid": null,
+  "building_ids": [
+   "universita-luigi-bocconi-building",
+   "toulouse-school-of-economics",
+   "utec-university-campus",
+   "marshall-building-lse"
+  ],
+  "building_names": [
+   "Universita Luigi Bocconi Building",
+   "Toulouse School of Economics",
+   "UTEC University Campus",
+   "Marshall Building, London School of Economics"
+  ]
+ },
+ {
+  "rank": 146,
+  "name": "Gunnar Asplund",
+  "buildings": 4,
+  "pritzker": false,
+  "qid": "Q312070",
+  "building_ids": [
+   "stockholm-public-library",
+   "woodland-cemetery",
+   "lister-county-courthouse",
+   "gothenburg-law-courts-extension"
+  ],
+  "building_names": [
+   "Stockholm Public Library",
+   "Woodland Cemetery",
+   "Lister County Courthouse",
+   "Gothenburg Law Courts Extension"
+  ]
+ },
+ {
+  "rank": 147,
+  "name": "Henry N. Cobb",
+  "buildings": 4,
+  "pritzker": false,
+  "qid": "Q5726216",
+  "building_ids": [
+   "john-hancock-tower",
+   "place-ville-marie",
+   "fountain-place",
+   "harbor-towers-boston"
+  ],
+  "building_names": [
+   "John Hancock Tower",
+   "Place Ville Marie",
+   "Fountain Place",
+   "Harbor Towers"
+  ]
+ },
+ {
+  "rank": 148,
+  "name": "Henry van de Velde",
+  "buildings": 4,
+  "pritzker": false,
+  "qid": "Q154083",
+  "building_ids": [
+   "boekentoren",
+   "villa-bloemenwerf",
+   "villa-esche",
+   "hohenhof"
+  ],
+  "building_names": [
+   "Boekentoren",
+   "Villa Bloemenwerf",
+   "Villa Esche",
+   "Hohenhof"
+  ]
+ },
+ {
+  "rank": 149,
+  "name": "J. J. P. Oud",
+  "buildings": 4,
+  "pritzker": false,
+  "qid": "Q470588",
+  "building_ids": [
+   "world-forum-congress-building",
+   "de-vonk",
+   "cafe-de-unie",
+   "kiefhoek"
+  ],
+  "building_names": [
+   "World Forum (Congress Building)",
+   "De Vonk",
+   "Café De Unie",
+   "Kiefhoek"
+  ]
+ },
+ {
+  "rank": 150,
+  "name": "J. Mayer H.",
+  "buildings": 4,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "metropol-parasol",
+   "sarpi-border-checkpoint",
+   "mestia-queen-tamar-airport",
+   "stadthaus-scharnhauser-park"
+  ],
+  "building_names": [
+   "Metropol Parasol",
+   "Sarpi Border Checkpoint",
+   "Queen Tamar Airport",
+   "Stadthaus Scharnhauser Park"
+  ]
+ },
+ {
+  "rank": 151,
+  "name": "Juan O'Gorman",
+  "buildings": 4,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "anahuacalli-museum",
+   "diego-rivera-and-frida-kahlo-house-studio",
+   "central-library-unam",
+   "casa-ogorman-1929"
+  ],
+  "building_names": [
+   "Anahuacalli Museum",
+   "Diego Rivera and Frida Kahlo House-Studio",
+   "Central Library (UNAM)",
+   "Casa O'Gorman 1929 (Cecil O'Gorman House)"
+  ]
+ },
+ {
+  "rank": 152,
+  "name": "Kashef Mahboob Chowdhury",
+  "buildings": 4,
+  "pritzker": false,
+  "qid": "Q6374223",
+  "building_ids": [
+   "friendship-centre",
+   "gulshan-society-mosque",
+   "swadhinata-stambha",
+   "friendship-hospital-satkhira"
+  ],
+  "building_names": [
+   "Friendship Centre",
+   "Gulshan Society Mosque",
+   "Swadhinata Stambha",
+   "Friendship Hospital Satkhira"
+  ]
+ },
+ {
+  "rank": 153,
+  "name": "Kazuo Shinohara",
+  "buildings": 4,
+  "pritzker": false,
+  "qid": "Q330274",
+  "building_ids": [
+   "centennial-hall-tokyo-institute-of-technology",
+   "house-in-white",
+   "umbrella-house-kasa-no-ie",
+   "japan-ukiyo-e-museum"
+  ],
+  "building_names": [
+   "Centennial Hall, Tokyo Institute of Technology",
+   "House in White",
+   "Umbrella House (Kasa no Ie)",
+   "Japan Ukiyo-e Museum"
+  ]
+ },
+ {
+  "rank": 154,
+  "name": "Kevin Roche",
+  "buildings": 4,
+  "pritzker": true,
+  "qid": "manual:Kevin Roche",
+  "building_ids": [
+   "oakland-museum-of-california",
+   "ford-foundation-building",
+   "convention-centre-dublin",
+   "cummins-corporate-office-building"
+  ],
+  "building_names": [
+   "Oakland Museum of California",
+   "Ford Foundation Building",
+   "Convention Centre Dublin",
+   "Cummins Corporate Office Building"
+  ]
+ },
+ {
+  "rank": 155,
+  "name": "Kevin Roche John Dinkeloo and Associates",
+  "buildings": 4,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "knights-of-columbus-building",
+   "museum-of-jewish-heritage",
+   "the-pyramids-indianapolis",
+   "power-center-ann-arbor"
+  ],
+  "building_names": [
+   "Knights of Columbus Building",
+   "Museum of Jewish Heritage",
+   "The Pyramids (College Life Insurance)",
+   "Power Center for the Performing Arts"
+  ]
+ },
+ {
+  "rank": 156,
+  "name": "Lacaton & Vassal",
+  "buildings": 4,
+  "pritzker": true,
+  "qid": null,
+  "building_ids": [
+   "nantes-school-of-architecture",
+   "grand-parc-bordeaux-transformation",
+   "cap-ferret-house",
+   "frac-nord-pas-de-calais"
+  ],
+  "building_names": [
+   "Nantes School of Architecture",
+   "Grand Parc Bordeaux Transformation",
+   "House in Cap Ferret",
+   "FRAC Nord-Pas de Calais"
+  ]
+ },
+ {
+  "rank": 157,
+  "name": "Lina Bo Bardi",
+  "buildings": 4,
+  "pritzker": false,
+  "qid": "Q272400",
+  "building_ids": [
+   "masp",
+   "sesc-pompeia",
+   "casa-de-vidro",
+   "solar-do-unhao"
+  ],
+  "building_names": [
+   "MASP",
+   "SESC Pompéia",
+   "Casa de Vidro",
+   "Solar do Unhão"
+  ]
+ },
+ {
+  "rank": 158,
+  "name": "MAD Architects",
+  "buildings": 4,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "harbin-opera-house",
+   "quzhou-stadium",
+   "ordos-museum",
+   "sheraton-huzhou-hot-spring-resort"
+  ],
+  "building_names": [
+   "Harbin Opera House",
+   "Quzhou Stadium",
+   "Ordos Museum",
+   "Sheraton Huzhou Hot Spring Resort"
+  ]
+ },
+ {
+  "rank": 159,
+  "name": "Mansilla + Tuñón",
+  "buildings": 4,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "musac",
+   "gallery-royal-collections",
+   "museu-belles-arts-castello",
+   "auditorio-ciudad-de-leon"
+  ],
+  "building_names": [
+   "MUSAC, Museum of Contemporary Art of Castilla y León",
+   "Royal Collections Gallery",
+   "Museu de Belles Arts de Castelló",
+   "Auditorio Ciudad de León"
+  ]
+ },
+ {
+  "rank": 160,
+  "name": "Nayyar Ali Dada",
+  "buildings": 4,
+  "pritzker": false,
+  "qid": "Q1972516",
+  "building_ids": [
+   "alhamra-arts-council",
+   "gaddafi-stadium",
+   "lahore-expo-centre",
+   "grand-jamia-mosque-bahria-town-lahore"
+  ],
+  "building_names": [
+   "Alhamra Arts Council",
+   "Gaddafi Stadium",
+   "Lahore Expo Centre",
+   "Grand Jamia Mosque, Bahria Town"
+  ]
+ },
+ {
+  "rank": 161,
+  "name": "Nieto Sobejano Arquitectos",
+  "buildings": 4,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "arvo-part-centre",
+   "madinat-al-zahra-museum",
+   "kunstmuseum-moritzburg-extension",
+   "san-telmo-museum-extension"
+  ],
+  "building_names": [
+   "Arvo Pärt Centre",
+   "Madinat al-Zahra Museum",
+   "Kunstmuseum Moritzburg extension",
+   "San Telmo Museum extension"
+  ]
+ },
+ {
+  "rank": 162,
+  "name": "O'Donnell + Tuomey",
+  "buildings": 4,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "saw-swee-hock-student-centre",
+   "central-european-university-budapest",
+   "lewis-glucksman-gallery",
+   "lyric-theatre-belfast"
+  ],
+  "building_names": [
+   "Saw Swee Hock Student Centre, LSE",
+   "Central European University",
+   "Lewis Glucksman Gallery",
+   "Lyric Theatre, Belfast"
+  ]
+ },
+ {
+  "rank": 163,
+  "name": "Peter Celsing",
+  "buildings": 4,
+  "pritzker": false,
+  "qid": "Q352843",
+  "building_ids": [
+   "kulturhuset",
+   "filmhuset-stockholm",
+   "harlanda-church",
+   "riksbank-building-stockholm"
+  ],
+  "building_names": [
+   "Kulturhuset",
+   "Filmhuset",
+   "Härlanda Church",
+   "Sveriges Riksbank Building"
+  ]
+ },
+ {
+  "rank": 164,
+  "name": "Peter Eisenman",
+  "buildings": 4,
+  "pritzker": false,
+  "qid": "Q317164",
+  "building_ids": [
+   "wexner-center-for-the-arts",
+   "memorial-to-the-murdered-jews-of-europe",
+   "state-farm-stadium",
+   "house-vi"
+  ],
+  "building_names": [
+   "Wexner Center for the Arts",
+   "Memorial to the Murdered Jews of Europe",
+   "State Farm Stadium",
+   "House VI (Frank Residence)"
+  ]
+ },
+ {
+  "rank": 165,
+  "name": "Pierre Jeanneret",
+  "buildings": 4,
+  "pritzker": false,
+  "qid": "Q115575",
+  "building_ids": [
+   "gandhi-bhawan",
+   "immeuble-molitor",
+   "villa-stein-de-monzie",
+   "ac-joshi-library-panjab-university"
+  ],
+  "building_names": [
+   "Gandhi Bhawan",
+   "Immeuble Molitor",
+   "Villa Stein-de Monzie (Les Terrasses)",
+   "A. C. Joshi Library, Panjab University"
+  ]
+ },
+ {
+  "rank": 166,
+  "name": "Pietro Belluschi",
+  "buildings": 4,
+  "pritzker": false,
+  "qid": "Q2032354",
+  "building_ids": [
+   "cathedral-of-saint-mary-of-the-assumption",
+   "metlife-building",
+   "555-california-street",
+   "commonwealth-building-portland"
+  ],
+  "building_names": [
+   "Cathedral of Saint Mary of the Assumption",
+   "MetLife Building",
+   "555 California Street",
+   "Equitable Building (Commonwealth Building)"
+  ]
+ },
+ {
+  "rank": 167,
+  "name": "Roy Grounds",
+  "buildings": 4,
+  "pritzker": false,
+  "qid": "Q7372867",
+  "building_ids": [
+   "shine-dome",
+   "national-gallery-of-victoria",
+   "arts-centre-melbourne",
+   "roy-grounds-house"
+  ],
+  "building_names": [
+   "Shine Dome",
+   "National Gallery of Victoria",
+   "Arts Centre Melbourne",
+   "Roy Grounds House"
+  ]
+ },
+ {
+  "rank": 168,
+  "name": "Rudy Ricciotti",
+  "buildings": 4,
+  "pritzker": false,
+  "qid": "Q2811177",
+  "building_ids": [
+   "mucem",
+   "musee-jean-cocteau-menton",
+   "pavillon-noir",
+   "rivesaltes-memorial"
+  ],
+  "building_names": [
+   "MuCEM",
+   "Musée Jean Cocteau, Séverin Wunderman Collection",
+   "Pavillon Noir",
+   "Rivesaltes Camp Memorial"
+  ]
+ },
+ {
+  "rank": 169,
+  "name": "Sauerbruch Hutton",
+  "buildings": 4,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "museum-brandhorst",
+   "gsw-headquarters",
+   "german-environment-agency-dessau",
+   "adac-headquarters"
+  ],
+  "building_names": [
+   "Museum Brandhorst",
+   "GSW Headquarters",
+   "German Environment Agency (Umweltbundesamt), Dessau",
+   "ADAC Headquarters"
+  ]
+ },
+ {
+  "rank": 170,
+  "name": "Sigurd Lewerentz",
+  "buildings": 4,
+  "pritzker": false,
+  "qid": "Q550245",
+  "building_ids": [
+   "st-mark-s-church-markuskyrkan",
+   "st-peter-s-church-klippan",
+   "woodland-cemetery",
+   "flower-kiosk-malmo-eastern-cemetery"
+  ],
+  "building_names": [
+   "St. Mark's Church (Markuskyrkan)",
+   "St Peter's Church, Klippan",
+   "Woodland Cemetery",
+   "Flower Kiosk, Malmö Eastern Cemetery"
+  ]
+ },
+ {
+  "rank": 171,
+  "name": "Smiljan Radić",
+  "buildings": 4,
+  "pritzker": true,
+  "qid": null,
+  "building_ids": [
+   "teatro-regional-del-biobio",
+   "mestizo-restaurant",
+   "vik-winery",
+   "bus-stop-krumbach"
+  ],
+  "building_names": [
+   "Teatro Regional del Biobío",
+   "Mestizo Restaurant",
+   "Viña Vik Winery",
+   "BUS:STOP Krumbach"
+  ]
+ },
+ {
+  "rank": 172,
+  "name": "Snohetta",
+  "buildings": 4,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "bibliotheca-alexandrina",
+   "ithra",
+   "petter-dass-museum",
+   "vaven"
+  ],
+  "building_names": [
+   "Bibliotheca Alexandrina",
+   "Ithra",
+   "Petter Dass Museum",
+   "Vaven"
+  ]
+ },
+ {
+  "rank": 173,
+  "name": "Thom Mayne",
+  "buildings": 4,
+  "pritzker": true,
+  "qid": "Q312847",
+  "building_ids": [
+   "41-cooper-square",
+   "caltrans-district-7-headquarters",
+   "diamond-ranch-high-school",
+   "perot-museum-of-nature-and-science"
+  ],
+  "building_names": [
+   "41 Cooper Square",
+   "Caltrans District 7 Headquarters",
+   "Diamond Ranch High School",
+   "Perot Museum of Nature and Science"
+  ]
+ },
+ {
+  "rank": 174,
+  "name": "Valerio Olgiati",
+  "buildings": 4,
+  "pritzker": false,
+  "qid": "Q116136",
+  "building_ids": [
+   "atelier-bardill",
+   "paspels-school",
+   "swiss-national-park-visitor-centre",
+   "das-gelbe-haus-flims"
+  ],
+  "building_names": [
+   "Atelier Bardill",
+   "Paspels School",
+   "Swiss National Park Visitor Centre",
+   "Das Gelbe Haus"
+  ]
+ },
+ {
+  "rank": 175,
+  "name": "WilkinsonEyre",
+  "buildings": 4,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "gardens-by-the-bay-cooled-conservatories",
+   "gateshead-millennium-bridge",
+   "lille-langebro",
+   "weston-library-oxford"
+  ],
+  "building_names": [
+   "Gardens by the Bay Cooled Conservatories",
+   "Gateshead Millennium Bridge",
+   "Lille Langebro",
+   "Weston Library"
+  ]
+ },
+ {
+  "rank": 176,
+  "name": "Yoshinobu Ashihara",
+  "buildings": 4,
+  "pritzker": false,
+  "qid": "Q3572675",
+  "building_ids": [
+   "national-museum-of-japanese-history",
+   "komazawa-olympic-park-control-tower",
+   "tokyo-metropolitan-theatre",
+   "okayama-symphony-hall"
+  ],
+  "building_names": [
+   "National Museum of Japanese History",
+   "Komazawa Olympic Park Control Tower and Gymnasium",
+   "Tokyo Metropolitan Theatre",
+   "Okayama Symphony Hall"
+  ]
+ },
+ {
+  "rank": 177,
+  "name": "Adolf Loos",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": "Q44323",
+  "building_ids": [
+   "villa-muller",
+   "looshaus",
+   "rufer-house"
+  ],
+  "building_names": [
+   "Villa Müller",
+   "Looshaus",
+   "Rufer House"
+  ]
+ },
+ {
+  "rank": 178,
+  "name": "Affonso Eduardo Reidy",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": "Q382957",
+  "building_ids": [
+   "museum-of-modern-art-rio-de-janeiro",
+   "pedregulho-housing",
+   "flamengo-park"
+  ],
+  "building_names": [
+   "Museum of Modern Art, Rio de Janeiro",
+   "Pedregulho Housing",
+   "Flamengo Park"
+  ]
+ },
+ {
+  "rank": 179,
+  "name": "Aldo Rossi",
+  "buildings": 3,
+  "pritzker": true,
+  "qid": "Q322953",
+  "building_ids": [
+   "bonnefanten-museum",
+   "san-cataldo-cemetery",
+   "quartier-schutzenstrasse"
+  ],
+  "building_names": [
+   "Bonnefanten Museum",
+   "San Cataldo Cemetery",
+   "Quartier Schützenstraße"
+  ]
+ },
+ {
+  "rank": 180,
+  "name": "Aldo van Eyck",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": "Q444571",
+  "building_ids": [
+   "amsterdam-orphanage-burgerweeshuis",
+   "hubertus-house",
+   "pastoor-van-arskerk"
+  ],
+  "building_names": [
+   "Amsterdam Orphanage (Burgerweeshuis)",
+   "Hubertus House",
+   "Pastoor van Arskerk"
+  ]
+ },
+ {
+  "rank": 181,
+  "name": "Alexander Tamanian",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "government-house-yerevan",
+   "yerevan-opera-theatre",
+   "national-library-of-armenia"
+  ],
+  "building_names": [
+   "Government House, Yerevan",
+   "Yerevan Opera Theatre",
+   "National Library of Armenia"
+  ]
+ },
+ {
+  "rank": 182,
+  "name": "Ammar Khammash",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": "Q12228283",
+  "building_ids": [
+   "darat-al-funun",
+   "feynan-ecolodge",
+   "royal-academy-for-nature-conservation"
+  ],
+  "building_names": [
+   "Darat al Funun",
+   "Feynan Ecolodge",
+   "Royal Academy for Nature Conservation"
+  ]
+ },
+ {
+  "rank": 183,
+  "name": "Architecture-Studio",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "louise-weiss-building-european-parliament",
+   "notre-dame-de-l-arche-d-alliance",
+   "onassis-stegi"
+  ],
+  "building_names": [
+   "Louise Weiss Building, European Parliament",
+   "Notre-Dame-de-l'Arche-d'Alliance",
+   "Onassis Stegi"
+  ]
+ },
+ {
+  "rank": 184,
+  "name": "Aris Konstantinidis",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": "Q663351",
+  "building_ids": [
+   "xenia-hotel-mykonos",
+   "archaeological-museum-of-ioannina",
+   "konstantinidis-weekend-house-anavyssos"
+  ],
+  "building_names": [
+   "Xenia Hotel, Mykonos",
+   "Archaeological Museum of Ioannina",
+   "Weekend House, Anavyssos"
+  ]
+ },
+ {
+  "rank": 185,
+  "name": "Arup",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "helix-bridge",
+   "kurilpa-bridge",
+   "beijing-capital-airport-terminal-3"
+  ],
+  "building_names": [
+   "Helix Bridge",
+   "Kurilpa Bridge",
+   "Beijing Capital International Airport Terminal 3"
+  ]
+ },
+ {
+  "rank": 186,
+  "name": "Basil Spence",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": "Q1172126",
+  "building_ids": [
+   "coventry-cathedral",
+   "beehive",
+   "mortonhall-crematorium"
+  ],
+  "building_names": [
+   "Coventry Cathedral",
+   "Beehive",
+   "Mortonhall Crematorium"
+  ]
+ },
+ {
+  "rank": 187,
+  "name": "Benedetta Tagliabue",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": "Q727525",
+  "building_ids": [
+   "scottish-parliament-building",
+   "gas-natural-building",
+   "santa-caterina-market"
+  ],
+  "building_names": [
+   "Scottish Parliament Building",
+   "Gas Natural Building",
+   "Santa Caterina Market"
+  ]
+ },
+ {
+  "rank": 188,
+  "name": "Bernard Tschumi",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": "Q123966",
+  "building_ids": [
+   "acropolis-museum",
+   "parc-de-la-villette",
+   "le-fresnoy"
+  ],
+  "building_names": [
+   "Acropolis Museum",
+   "parc de la Villette",
+   "Le Fresnoy"
+  ]
+ },
+ {
+  "rank": 189,
+  "name": "Brinkman & Van der Vlugt",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "van-nelle-factory",
+   "sonneveld-house",
+   "bergpolderflat"
+  ],
+  "building_names": [
+   "Van Nelle Factory",
+   "Sonneveld House",
+   "Bergpolderflat"
+  ]
+ },
+ {
+  "rank": 190,
+  "name": "Chamberlin, Powell and Bon",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "barbican-estate",
+   "barbican-centre",
+   "golden-lane-estate"
+  ],
+  "building_names": [
+   "Barbican Estate",
+   "Barbican Centre",
+   "Golden Lane Estate"
+  ]
+ },
+ {
+  "rank": 191,
+  "name": "Christoph Ingenhoven",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "european-investment-bank",
+   "lanserhof-sylt",
+   "1-bligh-street"
+  ],
+  "building_names": [
+   "European Investment Bank",
+   "Lanserhof Sylt",
+   "1 Bligh Street"
+  ]
+ },
+ {
+  "rank": 192,
+  "name": "Diller Scofidio + Renfro",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "high-line",
+   "zaryadye-park",
+   "institute-of-contemporary-art-boston"
+  ],
+  "building_names": [
+   "High Line",
+   "Zaryadye Park",
+   "Institute of Contemporary Art, Boston"
+  ]
+ },
+ {
+  "rank": 193,
+  "name": "DP Architects",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "esplanade-theatres-on-the-bay",
+   "national-stadium-singapore",
+   "singapore-flyer"
+  ],
+  "building_names": [
+   "Esplanade - Theatres on the Bay",
+   "National Stadium, Singapore",
+   "Singapore Flyer"
+  ]
+ },
+ {
+  "rank": 194,
+  "name": "Edwin Lutyens",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": "Q378157",
+  "building_ids": [
+   "rashtrapati-bhavan",
+   "sansad-bhavan-old-parliament-house",
+   "johannesburg-art-gallery"
+  ],
+  "building_names": [
+   "Rashtrapati Bhavan",
+   "Sansad Bhavan (Old Parliament House)",
+   "Johannesburg Art Gallery"
+  ]
+ },
+ {
+  "rank": 195,
+  "name": "Egon Eiermann",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": "Q65803",
+  "building_ids": [
+   "kaiser-wilhelm-memorial-church",
+   "matthauskirche-pforzheim",
+   "langer-eugen"
+  ],
+  "building_names": [
+   "Kaiser Wilhelm Memorial Church",
+   "Matthäuskirche Pforzheim",
+   "Langer Eugen"
+  ]
+ },
+ {
+  "rank": 196,
+  "name": "Francisco Ramos de Azevedo",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "mercado-municipal-de-sao-paulo",
+   "palace-of-justice-sao-paulo",
+   "theatro-municipal-de-sao-paulo"
+  ],
+  "building_names": [
+   "Municipal Market of São Paulo",
+   "Palace of Justice of São Paulo",
+   "Theatro Municipal de São Paulo"
+  ]
+ },
+ {
+  "rank": 197,
+  "name": "Friedrich Silaban",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": "Q17411359",
+  "building_ids": [
+   "istiqlal-mosque",
+   "national-monument-indonesia",
+   "gelora-bung-karno-stadium"
+  ],
+  "building_names": [
+   "Istiqlal Mosque",
+   "National Monument (Indonesia)",
+   "Gelora Bung Karno Stadium"
+  ]
+ },
+ {
+  "rank": 198,
+  "name": "Future Systems",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "museo-enzo-ferrari",
+   "selfridges-birmingham",
+   "lords-media-centre"
+  ],
+  "building_names": [
+   "Museo Enzo Ferrari",
+   "Selfridges Building, Birmingham",
+   "Lord's Media Centre"
+  ]
+ },
+ {
+  "rank": 199,
+  "name": "Gigon/Guyer",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "prime-tower",
+   "kirchner-museum-davos",
+   "museum-liner-appenzell"
+  ],
+  "building_names": [
+   "Prime Tower",
+   "Kirchner Museum Davos",
+   "Museum Liner (Kunstmuseum Appenzell)"
+  ]
+ },
+ {
+  "rank": 200,
+  "name": "Giles Gilbert Scott",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "liverpool-cathedral",
+   "cambridge-university-library",
+   "weston-library-oxford"
+  ],
+  "building_names": [
+   "Liverpool Cathedral",
+   "Cambridge University Library",
+   "Weston Library"
+  ]
+ },
+ {
+  "rank": 201,
+  "name": "Giovanni Michelucci",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": "Q984203",
+  "building_ids": [
+   "church-of-the-autostrada-del-sole",
+   "firenze-santa-maria-novella-station",
+   "chiesa-di-longarone"
+  ],
+  "building_names": [
+   "Church of the Autostrada del Sole",
+   "Firenze Santa Maria Novella Station",
+   "Santa Maria Immacolata, Longarone"
+  ]
+ },
+ {
+  "rank": 202,
+  "name": "Glenn Murcutt",
+  "buildings": 3,
+  "pritzker": true,
+  "qid": "Q333509",
+  "building_ids": [
+   "arthur-and-yvonne-boyd-education-centre",
+   "magney-house",
+   "marie-short-house"
+  ],
+  "building_names": [
+   "Arthur and Yvonne Boyd Education Centre",
+   "Magney House",
+   "Marie Short House"
+  ]
+ },
+ {
+  "rank": 203,
+  "name": "Günther Domenig",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": "Q112992",
+  "building_ids": [
+   "documentation-center-nazi-party-rally-grounds",
+   "steinhaus",
+   "zentralsparkasse-favoriten"
+  ],
+  "building_names": [
+   "Documentation Center Nazi Party Rally Grounds",
+   "Steinhaus",
+   "Zentralsparkasse Branch, Favoritenstrasse"
+  ]
+ },
+ {
+  "rank": 204,
+  "name": "Hans Poelzig",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": "manual:Hans Poelzig",
+  "building_ids": [
+   "ig-farben-building",
+   "haus-des-rundfunks",
+   "four-domes-pavilion"
+  ],
+  "building_names": [
+   "IG Farben Building",
+   "Haus des Rundfunks",
+   "Four Domes Pavilion"
+  ]
+ },
+ {
+  "rank": 205,
+  "name": "Heatherwick Studio",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "zeitz-mocaa",
+   "the-hive-nanyang-technological-university",
+   "1000-trees-shanghai"
+  ],
+  "building_names": [
+   "Zeitz MOCAA",
+   "The Hive, Nanyang Technological University",
+   "1000 Trees"
+  ]
+ },
+ {
+  "rank": 206,
+  "name": "Hector Guimard",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": "Q316422",
+  "building_ids": [
+   "paris-metro-entrances",
+   "hotel-guimard",
+   "castel-beranger"
+  ],
+  "building_names": [
+   "Paris Metro Entrances",
+   "Hôtel Guimard",
+   "Castel Béranger"
+  ]
+ },
+ {
+  "rank": 207,
+  "name": "Helmut Jahn",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": "Q77311",
+  "building_ids": [
+   "messeturm",
+   "sony-center",
+   "11-diagonal-street"
+  ],
+  "building_names": [
+   "Messeturm",
+   "Sony Center",
+   "11 Diagonal Street"
+  ]
+ },
+ {
+  "rank": 208,
+  "name": "Hendrik Petrus Berlage",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": "Q318816",
+  "building_ids": [
+   "beurs-van-berlage",
+   "jachthuis-sint-hubertus",
+   "kunstmuseum-den-haag"
+  ],
+  "building_names": [
+   "Beurs van Berlage",
+   "Jachthuis Sint Hubertus",
+   "Kunstmuseum Den Haag (Gemeentemuseum)"
+  ]
+ },
+ {
+  "rank": 209,
+  "name": "Herbert Baker",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": "Q382771",
+  "building_ids": [
+   "sansad-bhavan-old-parliament-house",
+   "union-buildings",
+   "pretoria-railway-station"
+  ],
+  "building_names": [
+   "Sansad Bhavan (Old Parliament House)",
+   "Union Buildings",
+   "Pretoria Railway Station"
+  ]
+ },
+ {
+  "rank": 210,
+  "name": "Hermann Henselmann",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": "Q66490",
+  "building_ids": [
+   "fernsehturm-berlin",
+   "city-hochhaus-leipzig",
+   "hochhaus-an-der-weberwiese"
+  ],
+  "building_names": [
+   "Fernsehturm Berlin",
+   "City-Hochhaus Leipzig",
+   "Hochhaus an der Weberwiese"
+  ]
+ },
+ {
+  "rank": 211,
+  "name": "HOK",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": "manual:HOK",
+  "building_ids": [
+   "flame-towers",
+   "king-khalid-international-airport",
+   "kaust-campus"
+  ],
+  "building_names": [
+   "Flame Towers",
+   "King Khalid International Airport",
+   "King Abdullah University of Science and Technology (KAUST) campus"
+  ]
+ },
+ {
+  "rank": 212,
+  "name": "Houshang Seyhoun",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": "manual:Houshang Seyhoun",
+  "building_ids": [
+   "omar-khayyam-mausoleum",
+   "avicenna-mausoleum",
+   "tomb-of-nader-shah"
+  ],
+  "building_names": [
+   "Omar Khayyam Mausoleum",
+   "Avicenna Mausoleum",
+   "Tomb of Nader Shah"
+  ]
+ },
+ {
+  "rank": 213,
+  "name": "Jean Prouvé",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": "Q381924",
+  "building_ids": [
+   "maison-du-peuple-clichy",
+   "muma-le-havre",
+   "accor-arena-bercy"
+  ],
+  "building_names": [
+   "Maison du Peuple, Clichy",
+   "MuMa (Musée d'art moderne André Malraux)",
+   "Accor Arena (Palais omnisports de Paris-Bercy)"
+  ]
+ },
+ {
+  "rank": 214,
+  "name": "John Andrews",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": "Q436649",
+  "building_ids": [
+   "cn-tower",
+   "cameron-offices",
+   "scarborough-college-andrews-building"
+  ],
+  "building_names": [
+   "CN Tower",
+   "Cameron Offices",
+   "Scarborough College (Andrews Building)"
+  ]
+ },
+ {
+  "rank": 215,
+  "name": "John Lautner",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": "Q965234",
+  "building_ids": [
+   "sheats-goldstein-residence",
+   "chemosphere",
+   "pearlman-mountain-cabin"
+  ],
+  "building_names": [
+   "Sheats-Goldstein Residence",
+   "Chemosphere (Malin Residence)",
+   "Pearlman Mountain Cabin"
+  ]
+ },
+ {
+  "rank": 216,
+  "name": "Jorn Utzon",
+  "buildings": 3,
+  "pritzker": true,
+  "qid": null,
+  "building_ids": [
+   "kuwait-national-assembly",
+   "utzon-center",
+   "svaneke-water-tower"
+  ],
+  "building_names": [
+   "Kuwait National Assembly",
+   "Utzon Center",
+   "Svaneke Water Tower"
+  ]
+ },
+ {
+  "rank": 217,
+  "name": "Josef Paul Kleihues",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": "Q95976",
+  "building_ids": [
+   "hamburger-bahnhof",
+   "museum-of-contemporary-art-chicago",
+   "kant-dreieck"
+  ],
+  "building_names": [
+   "Hamburger Bahnhof",
+   "Museum of Contemporary Art Chicago",
+   "Kant-Dreieck"
+  ]
+ },
+ {
+  "rank": 218,
+  "name": "Joseon builders",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "jongmyo-shrine",
+   "byeongsan-seowon",
+   "janggyeong-panjeon"
+  ],
+  "building_names": [
+   "Jongmyo Shrine",
+   "Byeongsan Seowon",
+   "Janggyeong Panjeon, Haeinsa"
+  ]
+ },
+ {
+  "rank": 219,
+  "name": "Joseph Allen Stein",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": "Q6280989",
+  "building_ids": [
+   "india-habitat-centre",
+   "triveni-kala-sangam",
+   "india-international-centre"
+  ],
+  "building_names": [
+   "India Habitat Centre",
+   "Triveni Kala Sangam",
+   "India International Centre"
+  ]
+ },
+ {
+  "rank": 220,
+  "name": "Kazuyo Sejima",
+  "buildings": 3,
+  "pritzker": true,
+  "qid": "Q253350",
+  "building_ids": [
+   "new-museum",
+   "sumida-hokusai-museum",
+   "gifu-kitagata-apartment"
+  ],
+  "building_names": [
+   "New Museum",
+   "Sumida Hokusai Museum",
+   "Gifu Kitagata Apartment"
+  ]
+ },
+ {
+  "rank": 221,
+  "name": "Kris Yao",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": "Q6437314",
+  "building_ids": [
+   "lanyang-museum",
+   "china-steel-corporation-headquarters",
+   "water-moon-monastery"
+  ],
+  "building_names": [
+   "Lanyang Museum",
+   "China Steel Corporation Headquarters",
+   "Water-Moon Monastery (Nung Chan Monastery)"
+  ]
+ },
+ {
+  "rank": 222,
+  "name": "Leslie Martin",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": "Q1820811",
+  "building_ids": [
+   "royal-festival-hall",
+   "centro-de-arte-moderna-gulbenkian",
+   "kettles-yard"
+  ],
+  "building_names": [
+   "Royal Festival Hall",
+   "Centro de Arte Moderna Gulbenkian",
+   "Kettle's Yard"
+  ]
+ },
+ {
+  "rank": 223,
+  "name": "Lev Rudnev",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": "Q723343",
+  "building_ids": [
+   "moscow-state-university-main-building",
+   "palace-of-culture-and-science",
+   "government-house-baku"
+  ],
+  "building_names": [
+   "Moscow State University Main Building",
+   "Palace of Culture and Science",
+   "Government House, Baku"
+  ]
+ },
+ {
+  "rank": 224,
+  "name": "Lluís Domènech i Montaner",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": "Q317876",
+  "building_ids": [
+   "palau-de-la-musica-catalana",
+   "hospital-de-sant-pau",
+   "casa-fuster"
+  ],
+  "building_names": [
+   "Palau de la Música Catalana",
+   "Hospital de Sant Pau",
+   "Casa Fuster"
+  ]
+ },
+ {
+  "rank": 225,
+  "name": "Lundgaard & Tranberg",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "tietgenkollegiet",
+   "royal-danish-playhouse",
+   "kannikegarden-ribe"
+  ],
+  "building_names": [
+   "Tietgenkollegiet",
+   "Royal Danish Playhouse",
+   "Kannikegården"
+  ]
+ },
+ {
+  "rank": 226,
+  "name": "Marcello Piacentini",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": "Q1382978",
+  "building_ids": [
+   "palazzo-dello-sport",
+   "palazzo-di-giustizia-milano",
+   "matarazzo-building-sao-paulo"
+  ],
+  "building_names": [
+   "Palazzo dello Sport",
+   "Palazzo di Giustizia, Milan",
+   "Matarazzo Building (São Paulo City Hall)"
+  ]
+ },
+ {
+  "rank": 227,
+  "name": "Mario Roberto Álvarez",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": "Q1733523",
+  "building_ids": [
+   "teatro-general-san-martin",
+   "somisa-building",
+   "centro-cultural-general-san-martin"
+  ],
+  "building_names": [
+   "Teatro General San Martín",
+   "SOMISA Building",
+   "Centro Cultural General San Martín"
+  ]
+ },
+ {
+  "rank": 228,
+  "name": "Masato Otaka",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": "Q11441966",
+  "building_ids": [
+   "sakaide-artificial-ground",
+   "fukushima-prefectural-museum-of-art",
+   "gunma-prefectural-museum-of-history"
+  ],
+  "building_names": [
+   "Sakaide Artificial Ground",
+   "Fukushima Prefectural Museum of Art",
+   "Gunma Prefectural Museum of History"
+  ]
+ },
+ {
+  "rank": 229,
+  "name": "Maxwell Fry",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": "Q3199944",
+  "building_ids": [
+   "university-of-ibadan",
+   "kensal-house",
+   "sun-house-frognal"
+  ],
+  "building_names": [
+   "University of Ibadan",
+   "Kensal House",
+   "Sun House"
+  ]
+ },
+ {
+  "rank": 230,
+  "name": "Mecanoo",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "library-of-birmingham",
+   "national-kaohsiung-center-for-the-arts",
+   "montevideo"
+  ],
+  "building_names": [
+   "Library of Birmingham",
+   "National Kaohsiung Center for the Arts",
+   "Montevideo"
+  ]
+ },
+ {
+  "rank": 231,
+  "name": "Mohsen Foroughi",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": "Q5951051",
+  "building_ids": [
+   "mausoleum-of-baba-taher",
+   "fondation-avicenne",
+   "tomb-of-saadi"
+  ],
+  "building_names": [
+   "Mausoleum of Baba Taher",
+   "Fondation Avicenne (Maison de l'Iran)",
+   "Tomb of Saadi"
+  ]
+ },
+ {
+  "rank": 232,
+  "name": "Moisei Ginzburg",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": "Q2493977",
+  "building_ids": [
+   "narkomfin-building",
+   "gosstrakh-apartments",
+   "government-house-almaty"
+  ],
+  "building_names": [
+   "Narkomfin building",
+   "Gosstrakh Apartments",
+   "Government House of the Kazakh ASSR (now KBTU)"
+  ]
+ },
+ {
+  "rank": 233,
+  "name": "Ove Arup",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": "Q717683",
+  "building_ids": [
+   "preston-bus-station",
+   "kingsgate-bridge",
+   "dunelm-house"
+  ],
+  "building_names": [
+   "Preston Bus Station",
+   "Kingsgate Bridge",
+   "Dunelm House"
+  ]
+ },
+ {
+  "rank": 234,
+  "name": "Paul Andreu",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": "Q381827",
+  "building_ids": [
+   "national-centre-for-the-performing-arts",
+   "cdg-terminal-1",
+   "shanghai-oriental-art-center"
+  ],
+  "building_names": [
+   "National Centre for the Performing Arts",
+   "Paris-Charles de Gaulle Airport Terminal 1",
+   "Shanghai Oriental Art Center"
+  ]
+ },
+ {
+  "rank": 235,
+  "name": "Pedro Ramírez Vázquez",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": "Q350915",
+  "building_ids": [
+   "basilica-of-our-lady-of-guadalupe",
+   "museo-de-arte-moderno",
+   "estadio-azteca"
+  ],
+  "building_names": [
+   "Basilica of Our Lady of Guadalupe",
+   "Museo de Arte Moderno",
+   "Estadio Azteca"
+  ]
+ },
+ {
+  "rank": 236,
+  "name": "Peter Behrens",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": "Q76726",
+  "building_ids": [
+   "aeg-turbine-factory",
+   "german-embassy-saint-petersburg",
+   "hagen-crematorium"
+  ],
+  "building_names": [
+   "AEG Turbine Factory",
+   "German Embassy, Saint Petersburg",
+   "Hagen Crematorium"
+  ]
+ },
+ {
+  "rank": 237,
+  "name": "Raj Rewal",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": "Q2128622",
+  "building_ids": [
+   "asian-games-village",
+   "hall-of-nations",
+   "state-trading-corporation-building"
+  ],
+  "building_names": [
+   "Asian Games Village",
+   "Hall of Nations",
+   "State Trading Corporation Building"
+  ]
+ },
+ {
+  "rank": 238,
+  "name": "Ralph Erskine",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": "Q959698",
+  "building_ids": [
+   "byker-wall",
+   "aula-magna",
+   "lilla-bommen"
+  ],
+  "building_names": [
+   "Byker Wall",
+   "Aula Magna",
+   "Lilla Bommen"
+  ]
+ },
+ {
+  "rank": 239,
+  "name": "Ram Karmi",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": "Q2909469",
+  "building_ids": [
+   "supreme-court-of-israel",
+   "hecht-synagogue-jerusalem",
+   "habima-theatre"
+  ],
+  "building_names": [
+   "Supreme Court of Israel",
+   "Hecht Synagogue",
+   "Habima Theatre"
+  ]
+ },
+ {
+  "rank": 240,
+  "name": "Robert Matthew",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": "Q3658496",
+  "building_ids": [
+   "royal-festival-hall",
+   "royal-commonwealth-pool",
+   "central-hall-university-of-york"
+  ],
+  "building_names": [
+   "Royal Festival Hall",
+   "Royal Commonwealth Pool",
+   "Central Hall, University of York"
+  ]
+ },
+ {
+  "rank": 241,
+  "name": "Román Fresnedo Siri",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "hipodromo-do-cristal",
+   "facultad-de-arquitectura-udelar",
+   "paho-headquarters"
+  ],
+  "building_names": [
+   "Hipodromo do Cristal",
+   "Faculty of Architecture, University of the Republic",
+   "Pan American Health Organization Headquarters"
+  ]
+ },
+ {
+  "rank": 242,
+  "name": "Sedad Hakkı Eldem",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": "Q549968",
+  "building_ids": [
+   "hilton-istanbul",
+   "ataturk-library",
+   "social-security-complex-zeyrek"
+  ],
+  "building_names": [
+   "Hilton Istanbul",
+   "Atatürk Library",
+   "Social Security Complex, Zeyrek"
+  ]
+ },
+ {
+  "rank": 243,
+  "name": "Shin Takamatsu",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "shoji-ueda-museum-of-photography",
+   "nima-sand-museum",
+   "national-theatre-okinawa"
+  ],
+  "building_names": [
+   "Shoji Ueda Museum of Photography",
+   "Nima Sand Museum",
+   "National Theatre Okinawa"
+  ]
+ },
+ {
+  "rank": 244,
+  "name": "Teodoro González de León",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": "Q723981",
+  "building_ids": [
+   "museo-tamayo",
+   "museo-universitario-arte-contemporaneo",
+   "el-colegio-de-mexico"
+  ],
+  "building_names": [
+   "Museo Tamayo",
+   "Museo Universitario Arte Contemporáneo",
+   "El Colegio de México"
+  ]
+ },
+ {
+  "rank": 245,
+  "name": "Tezuka Architects",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "fuji-kindergarten",
+   "roof-house",
+   "echigo-matsunoyama-museum-of-natural-science"
+  ],
+  "building_names": [
+   "Fuji Kindergarten",
+   "Roof House",
+   "Echigo-Matsunoyama Museum of Natural Science (Kyororo)"
+  ]
+ },
+ {
+  "rank": 246,
+  "name": "UNStudio",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "mercedes-benz-museum",
+   "agora-theatre",
+   "galleria-department-store-seoul"
+  ],
+  "building_names": [
+   "Mercedes-Benz Museum",
+   "Agora Theatre",
+   "Galleria Department Store (West)"
+  ]
+ },
+ {
+  "rank": 247,
+  "name": "Van den Broek en Bakema",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "aula-tu-delft",
+   "terneuzen-city-hall",
+   "marl-town-hall"
+  ],
+  "building_names": [
+   "Aula TU Delft",
+   "Terneuzen City Hall",
+   "Marl Town Hall"
+  ]
+ },
+ {
+  "rank": 248,
+  "name": "Vann Molyvann",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": "Q379178",
+  "building_ids": [
+   "national-olympic-stadium",
+   "independence-monument-cambodia",
+   "institute-of-foreign-languages"
+  ],
+  "building_names": [
+   "National Olympic Stadium",
+   "Independence Monument (Cambodia)",
+   "Institute of Foreign Languages"
+  ]
+ },
+ {
+  "rank": 249,
+  "name": "Walter Netsch",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": "Q7965714",
+  "building_ids": [
+   "cadet-chapel-us-air-force-academy",
+   "regenstein-library",
+   "inland-steel-building"
+  ],
+  "building_names": [
+   "Cadet Chapel, US Air Force Academy",
+   "Joseph Regenstein Library",
+   "Inland Steel Building"
+  ]
+ },
+ {
+  "rank": 250,
+  "name": "Wang Shu",
+  "buildings": 3,
+  "pritzker": true,
+  "qid": "Q336620",
+  "building_ids": [
+   "ningbo-history-museum",
+   "vertical-courtyard-apartments",
+   "ningbo-museum-of-art"
+  ],
+  "building_names": [
+   "Ningbo History Museum",
+   "Vertical Courtyard Apartments",
+   "Ningbo Museum of Art"
+  ]
+ },
+ {
+  "rank": 251,
+  "name": "Werner Düttmann",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": "Q100542",
+  "building_ids": [
+   "brucke-museum",
+   "academy-of-arts-hanseatenweg",
+   "st-agnes-berlin"
+  ],
+  "building_names": [
+   "Brücke Museum",
+   "Academy of Arts, Hanseatenweg",
+   "St. Agnes (König Galerie)"
+  ]
+ },
+ {
+  "rank": 252,
+  "name": "William Pereira",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": "Q1859204",
+  "building_ids": [
+   "geisel-library",
+   "sheraton-grand-doha",
+   "chet-holifield-federal-building"
+  ],
+  "building_names": [
+   "Geisel Library",
+   "Sheraton Grand Doha",
+   "Chet Holifield Federal Building"
+  ]
+ },
+ {
+  "rank": 253,
+  "name": "Yaakov Rechter",
+  "buildings": 3,
+  "pritzker": false,
+  "qid": null,
+  "building_ids": [
+   "atarim-square",
+   "mivtachim-sanitarium",
+   "heichal-hatarbut-tel-aviv"
+  ],
+  "building_names": [
+   "Atarim Square",
+   "Mivtachim Sanitarium (ELMA Arts Complex and Hotel)",
+   "Heichal HaTarbut (Charles Bronfman Auditorium)"
+  ]
+ },
+ {
+  "rank": 254,
+  "name": "Liu Jiakun",
+  "buildings": 2,
+  "pritzker": true,
+  "qid": "manual:Liu Jiakun",
+  "building_ids": [
+   "hu-huishan-memorial",
+   "west-village-chengdu"
+  ],
+  "building_names": [
+   "Hu Huishan Memorial",
+   "West Village (Basis Yard)"
+  ]
+ },
+ {
+  "rank": 255,
+  "name": "Richard and Su Rogers",
+  "buildings": 1,
+  "pritzker": true,
+  "qid": null,
+  "building_ids": [
+   "22-parkside"
+  ],
+  "building_names": [
+   "22 Parkside (Rogers House)"
+  ]
+ },
+ {
+  "rank": 256,
+  "name": "Robert Venturi",
+  "buildings": 1,
+  "pritzker": true,
+  "qid": "Q212312",
+  "building_ids": [
+   "vanna-venturi-house"
+  ],
+  "building_names": [
+   "Vanna Venturi House"
+  ]
+ }
+]
