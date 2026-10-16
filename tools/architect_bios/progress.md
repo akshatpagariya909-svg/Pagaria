@@ -5,7 +5,7 @@
   Oscar Niemeyer, Zaha Hadid, Le Corbusier, Alvar Aalto, Frank Gehry, Herzog & de Meuron, OMA, Glenn Murcutt.
   Bios 161–190 words. Every fact sourced (Wikipedia/Wikidata, fetched by `tools/fetch_architect_sources.py` into
   `sources.json`, plus the buildings' own Wikipedia articles). Unsourced facts: 0.
-  Links: 46 tried, 39 kept, all checked 16 Oct 2026 by `tools/check_overview_links.py` (report: `links_report.json`).
+  Links: 53 addresses tried, 39 kept, all checked 16 Oct 2026 by `tools/check_overview_links.py` (report: `links_report.json`).
 
 ## Skipped
 - None yet.
