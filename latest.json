@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-10-16T04:21:26+00:00",
+ "fetched_at": "2026-10-16T10:51:12+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 73,
+ "visits_30d": 94,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 35,
+     "count": 42,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -36,6 +36,118 @@
      "path": "/buildings/sakaide-artificial-ground",
      "event": false,
      "title": "Sakaide Artificial Ground \u2014 Masato Otaka, 1968: photos for a case study \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 112066067,
+     "path": "/buildings/villa-tugendhat",
+     "event": false,
+     "title": "Villa Tugendhat \u2014 Mies van der Rohe, 1930: photos, plans & sections for a case study \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112311579,
+     "path": "/buildings/central-library-ucv",
+     "event": false,
+     "title": "Central Library, Central University of Venezuela, 1953",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112296586,
+     "path": "/buildings/st-johann-von-capistran",
+     "event": false,
+     "title": "St. Johann von Capistran \u2014 Sep Ruf, 1960: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112296484,
+     "path": "/buildings/supreme-court-of-pakistan",
+     "event": false,
+     "title": "Supreme Court of Pakistan Building \u2014 Kenzo Tange, 1993",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112290729,
+     "path": "building/pennzoil-place",
+     "event": true,
+     "title": "Pennzoil Place",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112288700,
+     "path": "/buildings/gosstrakh-apartments",
+     "event": false,
+     "title": "Gosstrakh Apartments \u2014 Moisei Ginzburg, 1927: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112288142,
+     "path": "building/national-assembly-of-bangladesh",
+     "event": true,
+     "title": "National Assembly of Bangladesh",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112286190,
+     "path": "/buildings/louvre-lens",
+     "event": false,
+     "title": "Louvre-Lens \u2014 SANAA, 2012: photos, plans & sections",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112285036,
+     "path": "building/johannesburg-art-gallery",
+     "event": true,
+     "title": "Johannesburg Art Gallery",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112282196,
+     "path": "/buildings/national-centre-for-the-performing-arts",
+     "event": false,
+     "title": "National Centre for the Performing Arts \u2014 Paul Andreu, 2007",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112277521,
+     "path": "/buildings/chand-baori",
+     "event": false,
+     "title": "Chand Baori \u2014 Abhaneri, c. 800: photos for a case study",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112276036,
+     "path": "building/lanaras-weekend-house",
+     "event": true,
+     "title": "Lanaras Weekend House",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112275996,
+     "path": "/buildings/lanaras-weekend-house",
+     "event": false,
+     "title": "Lanaras Weekend House \u2014 Nicos Valsamakis, 1963: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112272233,
+     "path": "/buildings/borujerdi-house",
+     "event": false,
+     "title": "Borujerdi House \u2014 Ustad Ali Maryam, 1857: photos",
      "max": 1
     },
     {
@@ -237,17 +349,9 @@
      "event": false,
      "title": "Rockefeller Museum \u2014 Austen Harrison, 1938: photos for a case study \u00b7 Find Great Architecture",
      "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112066067,
-     "path": "/buildings/villa-tugendhat",
-     "event": false,
-     "title": "Villa Tugendhat \u2014 Mies van der Rohe, 1930: photos, plans & sections for a case study \u00b7 Find Great Architecture",
-     "max": 1
     }
    ],
-   "total": 73,
+   "total": 94,
    "more": false
   },
   "referrers": {
@@ -255,18 +359,18 @@
     {
      "id": "Google",
      "name": "Google",
-     "count": 21,
+     "count": 30,
      "ref_scheme": "g"
     },
     {
      "name": "",
-     "count": 19,
+     "count": 28,
      "ref_scheme": "o"
     },
     {
      "id": "ig",
      "name": "ig",
-     "count": 7,
+     "count": 8,
      "ref_scheme": "c"
     },
     {
@@ -295,17 +399,17 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 46
+     "count": 58
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 26
+     "count": 34
     },
     {
      "id": "Firefox",
      "name": "Firefox",
-     "count": 1
+     "count": 2
     }
    ],
    "more": false
@@ -315,27 +419,27 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 29
+     "count": 36
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 22
+     "count": 28
     },
     {
      "id": "macOS",
      "name": "macOS",
-     "count": 12
+     "count": 14
     },
     {
      "id": "Linux",
      "name": "Linux",
-     "count": 8
+     "count": 10
     },
     {
      "id": "Android",
      "name": "Android",
-     "count": 2
+     "count": 6
     }
    ],
    "more": false
@@ -345,12 +449,17 @@
     {
      "id": "IN",
      "name": "India",
-     "count": 33
+     "count": 40
     },
     {
      "id": "US",
      "name": "United States",
-     "count": 22
+     "count": 30
+    },
+    {
+     "id": "DE",
+     "name": "Germany",
+     "count": 4
     },
     {
      "id": "GB",
@@ -368,18 +477,23 @@
      "count": 2
     },
     {
-     "id": "DE",
-     "name": "Germany",
-     "count": 2
-    },
-    {
      "id": "FR",
      "name": "France",
      "count": 2
     },
     {
+     "id": "AU",
+     "name": "Australia",
+     "count": 1
+    },
+    {
      "id": "BR",
      "name": "Brazil",
+     "count": 1
+    },
+    {
+     "id": "ES",
+     "name": "Spain",
      "count": 1
     },
     {
@@ -393,6 +507,11 @@
      "count": 1
     },
     {
+     "id": "MX",
+     "name": "Mexico",
+     "count": 1
+    },
+    {
      "id": "MY",
      "name": "Malaysia",
      "count": 1
@@ -400,6 +519,11 @@
     {
      "id": "PE",
      "name": "Peru",
+     "count": 1
+    },
+    {
+     "id": "PK",
+     "name": "Pakistan",
      "count": 1
     },
     {
@@ -415,7 +539,7 @@
     {
      "id": "phone",
      "name": "",
-     "count": 19
+     "count": 28
     },
     {
      "id": "tablet",
@@ -425,7 +549,7 @@
     {
      "id": "desktop",
      "name": "",
-     "count": 40
+     "count": 52
     },
     {
      "id": "desktophd",
@@ -445,7 +569,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 73
+     "count": 94
     }
    ],
    "more": false
