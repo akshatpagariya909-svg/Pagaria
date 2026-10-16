@@ -25,7 +25,7 @@ jobs:
         run: |
           CMD=$(head -n1 tools/architect_bios/request.txt)
           case "$CMD" in "python -u tools/fetch_architect_sources.py"*|"python -u tools/check_overview_links.py"*) ;; *) echo "Refusing: $CMD"; exit 1;; esac
-          $CMD
+          eval "$CMD"  # eval so quoted --only lists keep their spaces
       - name: Commit results
         run: |
           git config user.name "github-actions[bot]"
