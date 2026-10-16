@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-10-16T16:32:44+00:00",
+ "fetched_at": "2026-10-16T20:58:11+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 107,
+ "visits_30d": 116,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 44,
+     "count": 46,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -23,11 +23,19 @@
      "max": 4
     },
     {
-     "count": 2,
+     "count": 3,
      "path_id": 112334616,
      "path": "/buildings/malaysian-houses-of-parliament",
      "event": false,
      "title": "Malaysian Houses of Parliament \u2014 William Ivor Shipley, 1963",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 112296586,
+     "path": "/buildings/st-johann-von-capistran",
+     "event": false,
+     "title": "St. Johann von Capistran \u2014 Sep Ruf, 1960: photos",
      "max": 1
     },
     {
@@ -68,6 +76,46 @@
      "path": "/buildings/villa-tugendhat",
      "event": false,
      "title": "Villa Tugendhat \u2014 Mies van der Rohe, 1930: photos, plans & sections for a case study \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112386560,
+     "path": "/buildings/gartenstadt-falkenberg",
+     "event": false,
+     "title": "Gartenstadt Falkenberg \u2014 Bruno Taut, 1916: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112376221,
+     "path": "/buildings/buseoksa-muryangsujeon",
+     "event": false,
+     "title": "Muryangsujeon, Buseoksa \u2014 Goryeo builders, 1376: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112373862,
+     "path": "/buildings/kala-academy",
+     "event": false,
+     "title": "Kala Academy \u2014 Charles Correa, 1983: photos for a case study",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112368513,
+     "path": "/buildings/fredensborg-houses",
+     "event": false,
+     "title": "Fredensborg Houses \u2014 J\u00f8rn Utzon, 1963: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112365124,
+     "path": "/buildings/taipei-fine-arts-museum",
+     "event": false,
+     "title": "Taipei Fine Arts Museum \u2014 Kao Er-pan, 1983",
      "max": 1
     },
     {
@@ -132,14 +180,6 @@
      "path": "/buildings/central-library-ucv",
      "event": false,
      "title": "Central Library, Central University of Venezuela, 1953",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112296586,
-     "path": "/buildings/st-johann-von-capistran",
-     "event": false,
-     "title": "St. Johann von Capistran \u2014 Sep Ruf, 1960: photos",
      "max": 1
     },
     {
@@ -415,21 +455,21 @@
      "max": 1
     }
    ],
-   "total": 107,
+   "total": 116,
    "more": false
   },
   "referrers": {
    "stats": [
     {
-     "id": "Google",
-     "name": "Google",
-     "count": 36,
-     "ref_scheme": "g"
+     "name": "",
+     "count": 39,
+     "ref_scheme": "o"
     },
     {
-     "name": "",
-     "count": 33,
-     "ref_scheme": "o"
+     "id": "Google",
+     "name": "Google",
+     "count": 39,
+     "ref_scheme": "g"
     },
     {
      "id": "ig",
@@ -463,12 +503,12 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 70
+     "count": 78
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 35
+     "count": 36
     },
     {
      "id": "Firefox",
@@ -483,7 +523,7 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 42
+     "count": 45
     },
     {
      "id": "iOS",
@@ -493,17 +533,17 @@
     {
      "id": "macOS",
      "name": "macOS",
-     "count": 15
+     "count": 17
     },
     {
      "id": "Linux",
      "name": "Linux",
-     "count": 11
+     "count": 14
     },
     {
      "id": "Android",
      "name": "Android",
-     "count": 10
+     "count": 11
     }
    ],
    "more": false
@@ -518,7 +558,7 @@
     {
      "id": "US",
      "name": "United States",
-     "count": 33
+     "count": 38
     },
     {
      "id": "DE",
@@ -533,6 +573,16 @@
     {
      "id": "GB",
      "name": "United Kingdom",
+     "count": 4
+    },
+    {
+     "id": "CA",
+     "name": "Canada",
+     "count": 3
+    },
+    {
+     "id": "FR",
+     "name": "France",
      "count": 3
     },
     {
@@ -541,23 +591,13 @@
      "count": 3
     },
     {
-     "id": "CA",
-     "name": "Canada",
-     "count": 2
-    },
-    {
-     "id": "FR",
-     "name": "France",
-     "count": 2
+     "id": "TR",
+     "name": "Turkey",
+     "count": 3
     },
     {
      "id": "TH",
      "name": "Thailand",
-     "count": 2
-    },
-    {
-     "id": "TR",
-     "name": "Turkey",
      "count": 2
     },
     {
@@ -613,7 +653,7 @@
     {
      "id": "phone",
      "name": "",
-     "count": 33
+     "count": 34
     },
     {
      "id": "tablet",
@@ -623,12 +663,12 @@
     {
      "id": "desktop",
      "name": "",
-     "count": 60
+     "count": 67
     },
     {
      "id": "desktophd",
      "name": "",
-     "count": 1
+     "count": 2
     },
     {
      "id": "unknown",
@@ -643,7 +683,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 107
+     "count": 116
     }
    ],
    "more": false
