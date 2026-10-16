@@ -37,4 +37,4 @@ looked-up buildings (the list is at the bottom of the home page) to get the firs
 - Repository **Settings → Pages**: "Enforce HTTPS" ticked, custom domain `findgreatarchitecture.com` shown as verified.
 - Search Console **Sitemaps**: `sitemap.xml` listed with status Success; Bing Webmaster **Sitemaps** the same.
 - Search Console **Pages**: look at "Not indexed" reasons ("Crawled – currently not indexed" means pages look too alike).
-- The sitemap also lists `/play/`; it is the only page outside `/buildings/` besides the home page.
+- The sitemap lists the home page, `/play/` (the game), the A–Z index and every building page. The `/yt/` redirect pages are left out on purpose.

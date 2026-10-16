@@ -547,7 +547,7 @@ def main():
     (SITE / 'buildings' / 'index.html').write_text(index_page(items))
     if any(x.get('images') for x in items):
         og_image(items)
-    urls = [BASE, BASE + 'buildings/'] + [f"{BASE}buildings/{b['id']}/" for b in items]
+    urls = [BASE, BASE + 'play/', BASE + 'buildings/'] + [f"{BASE}buildings/{b['id']}/" for b in items]
     (SITE / 'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
                                        + ''.join(f'  <url><loc>{u}</loc></url>\n' for u in urls) + '</urlset>\n')
     (SITE / 'robots.txt').write_text(f'User-agent: *\nAllow: /\nSitemap: {BASE}sitemap.xml\n')
