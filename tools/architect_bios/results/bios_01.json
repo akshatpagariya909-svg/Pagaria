@@ -79,16 +79,9 @@
     "checked": "2026-10-16"
    },
    {
-    "site": "Encyclopaedia Britannica",
-    "title": "Norman Foster",
-    "url": "https://www.britannica.com/biography/Norman-Foster",
-    "why": "short reliable biography",
-    "check_failed": "status 403, name not found on page"
-   },
-   {
     "site": "ArchDaily",
     "title": "Foster + Partners office page",
-    "url": "https://www.archdaily.com/office/foster-partners",
+    "url": "https://www.archdaily.com/office/foster-plus-partners",
     "why": "projects with plans and photos",
     "checked": "2026-10-16"
    }
@@ -170,13 +163,6 @@
     "checked": "2026-10-16"
    },
    {
-    "site": "Encyclopaedia Britannica",
-    "title": "Renzo Piano",
-    "url": "https://www.britannica.com/biography/Renzo-Piano",
-    "why": "short reliable biography",
-    "check_failed": "status 403, name not found on page"
-   },
-   {
     "site": "ArchDaily",
     "title": "Renzo Piano Building Workshop office page",
     "url": "https://www.archdaily.com/office/renzo-piano-building-workshop",
@@ -250,23 +236,27 @@
    {
     "site": "Pritzker Prize",
     "title": "1988 laureate",
-    "url": "https://www.pritzkerprize.com/laureates/1988",
-    "why": "jury citation and biography",
-    "check_failed": "status 404, name not found on page"
+    "url": "https://www.pritzkerprize.com/laureates/1988-0",
+    "why": "jury citation and biography"
+   },
+   {
+    "site": "Pritzker Prize",
+    "title": "1988 laureate",
+    "url": "https://www.pritzkerprize.com/laureates/oscar-niemeyer",
+    "why": "jury citation and biography"
+   },
+   {
+    "site": "Pritzker Prize",
+    "title": "1988 laureate",
+    "url": "https://www.pritzkerprize.com/laureates/1988-1",
+    "why": "jury citation and biography"
    },
    {
     "site": "Fundação Oscar Niemeyer",
     "title": "Foundation",
-    "url": "http://www.niemeyer.org.br",
+    "url": "https://www.oscarniemeyer.org.br/",
     "why": "the architect's foundation and archive",
     "checked": "2026-10-16"
-   },
-   {
-    "site": "Encyclopaedia Britannica",
-    "title": "Oscar Niemeyer",
-    "url": "https://www.britannica.com/biography/Oscar-Niemeyer",
-    "why": "short reliable biography",
-    "check_failed": "status 403, name not found on page"
    },
    {
     "site": "ArchDaily",
@@ -341,22 +331,15 @@
    },
    {
     "site": "Zaha Hadid Architects",
-    "title": "Projects",
-    "url": "https://www.zaha-hadid.com/architecture/",
-    "why": "the practice's full project archive",
+    "title": "Zaha Hadid Architects",
+    "url": "https://www.zaha-hadid.com/",
+    "why": "the practice's own site and project archive",
     "check_failed": "status 404, name not found on page"
-   },
-   {
-    "site": "Encyclopaedia Britannica",
-    "title": "Zaha Hadid",
-    "url": "https://www.britannica.com/biography/Zaha-Hadid",
-    "why": "short reliable biography",
-    "check_failed": "status 403, name not found on page"
    },
    {
     "site": "ArchDaily",
     "title": "Zaha Hadid Architects office page",
-    "url": "https://www.archdaily.com/office/zaha-hadid-architects",
+    "url": "https://www.archdaily.com/office/zha",
     "why": "projects with plans and photos",
     "checked": "2026-10-16"
    }
@@ -425,13 +408,6 @@
     "url": "https://www.fondationlecorbusier.fr/",
     "why": "works, drawings and archive",
     "checked": "2026-10-16"
-   },
-   {
-    "site": "Encyclopaedia Britannica",
-    "title": "Le Corbusier",
-    "url": "https://www.britannica.com/biography/Le-Corbusier",
-    "why": "short reliable biography",
-    "check_failed": "status 403, name not found on page"
    },
    {
     "site": "ArchDaily",
@@ -503,13 +479,6 @@
     "url": "https://www.alvaraalto.fi/en/",
     "why": "the foundation's works, museum and visits",
     "checked": "2026-10-16"
-   },
-   {
-    "site": "Encyclopaedia Britannica",
-    "title": "Alvar Aalto",
-    "url": "https://www.britannica.com/biography/Alvar-Aalto",
-    "why": "short reliable biography",
-    "check_failed": "status 403, name not found on page"
    },
    {
     "site": "ArchDaily",
@@ -589,13 +558,6 @@
     "checked": "2026-10-16"
    },
    {
-    "site": "Encyclopaedia Britannica",
-    "title": "Frank Gehry",
-    "url": "https://www.britannica.com/biography/Frank-Gehry",
-    "why": "short reliable biography",
-    "check_failed": "status 403, name not found on page"
-   },
-   {
     "site": "ArchDaily",
     "title": "Gehry Partners office page",
     "url": "https://www.archdaily.com/office/gehry-partners",
@@ -663,9 +625,9 @@
    },
    {
     "site": "Herzog & de Meuron",
-    "title": "Projects",
-    "url": "https://www.herzogdemeuron.com/projects/",
-    "why": "the practice's complete numbered project list",
+    "title": "Herzog & de Meuron",
+    "url": "https://www.herzogdemeuron.com/",
+    "why": "the practice's own site with its numbered project list",
     "check_failed": "status 302, name not found on page"
    },
    {
@@ -739,13 +701,6 @@
     "checked": "2026-10-16"
    },
    {
-    "site": "Encyclopaedia Britannica",
-    "title": "Rem Koolhaas",
-    "url": "https://www.britannica.com/biography/Rem-Koolhaas",
-    "why": "short reliable biography of the founder",
-    "check_failed": "status 403, name not found on page"
-   },
-   {
     "site": "ArchDaily",
     "title": "OMA office page",
     "url": "https://www.archdaily.com/office/oma",
@@ -811,7 +766,7 @@
    {
     "site": "Architecture Foundation Australia",
     "title": "Glenn Murcutt profile",
-    "url": "https://ozetecture.org/glenn-murcutt-profile",
+    "url": "https://www.ozetecture.org/glenn-murcutt-profile",
     "why": "profile from the foundation he co-runs",
     "checked": "2026-10-16"
    },
@@ -821,13 +776,6 @@
     "url": "https://www.archdaily.com/770780/spotlight-glenn-murcutt",
     "why": "overview of his houses with photos",
     "checked": "2026-10-16"
-   },
-   {
-    "site": "Encyclopaedia Britannica",
-    "title": "Glenn Murcutt",
-    "url": "https://www.britannica.com/biography/Glenn-Murcutt",
-    "why": "short reliable biography",
-    "check_failed": "status 403, name not found on page"
    }
   ],
   "skip": false
