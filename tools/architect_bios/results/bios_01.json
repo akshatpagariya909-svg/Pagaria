@@ -234,27 +234,6 @@
     "checked": "2026-10-16"
    },
    {
-    "site": "Pritzker Prize",
-    "title": "1988 laureate",
-    "url": "https://www.pritzkerprize.com/laureates/1988-0",
-    "why": "jury citation and biography",
-    "check_failed": "status 404, name not found on page"
-   },
-   {
-    "site": "Pritzker Prize",
-    "title": "1988 laureate",
-    "url": "https://www.pritzkerprize.com/laureates/oscar-niemeyer",
-    "why": "jury citation and biography",
-    "check_failed": "status 404, name not found on page"
-   },
-   {
-    "site": "Pritzker Prize",
-    "title": "1988 laureate",
-    "url": "https://www.pritzkerprize.com/laureates/1988-1",
-    "why": "jury citation and biography",
-    "check_failed": "status 404, name not found on page"
-   },
-   {
     "site": "Fundação Oscar Niemeyer",
     "title": "Foundation",
     "url": "https://www.oscarniemeyer.org.br/",
@@ -625,13 +604,6 @@
     "url": "https://www.pritzkerprize.com/laureates/2001",
     "why": "jury citation and biographies",
     "checked": "2026-10-16"
-   },
-   {
-    "site": "Herzog & de Meuron",
-    "title": "Herzog & de Meuron",
-    "url": "https://www.herzogdemeuron.com/",
-    "why": "the practice's own site with its numbered project list",
-    "check_failed": "status 302, name not found on page"
    },
    {
     "site": "ArchDaily",
