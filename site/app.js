@@ -179,19 +179,41 @@
       `<span class="r2">${esc(b.year)} · ${esc(city)}</span></span>`;
     el.querySelector('.open').addEventListener('click', () => { if (!swiped) openBuilding(b.id, false, el); swiped = false; });
     el.addEventListener('pointerenter', () => { loadDetail(b).catch(() => {}); }, { once: true }); // a finger or pointer arriving is a good sign it will open
-    if (n > 1) { // on every tile with more than one photo, a sideways swipe shows the next one; a tap still opens the building
-      let x0 = null, y0 = 0;
-      el.addEventListener('pointerdown', e => { x0 = e.clientX; y0 = e.clientY; });
-      el.addEventListener('pointerup', e => {
-        const dx = e.clientX - x0;
-        if (x0 != null && Math.abs(dx) > 30 && Math.abs(dx) > Math.abs(e.clientY - y0)) { swiped = true; flipTile(b, el, dx < 0 ? 1 : -1); setTimeout(() => { swiped = false; }, 400); }
-        x0 = null;
+    if (n > 1) { // on every tile with more than one photo the photo follows a sideways drag, then slides on to the next one;
+      // a short drag springs back, up and down still scroll, and a tap still opens the building
+      let x0 = null, y0 = 0, t0 = 0, dx = 0, sideways = false;
+      const photo = () => el.querySelector('.open img:not(.peek)');
+      const settle = () => {
+        const i = photo(), p = el.querySelector('.open img.peek'), w = el.clientWidth;
+        if (i) { i.style.transition = 'transform .2s ease-out'; i.style.transform = ''; }
+        if (p) { p.style.transition = 'transform .2s ease-out'; p.style.transform = `translateX(${+p.dataset.dir * w}px)`; setTimeout(() => p.remove(), 220); }
+      };
+      el.addEventListener('pointerdown', e => { x0 = e.clientX; y0 = e.clientY; t0 = performance.now(); dx = 0; sideways = false; });
+      el.addEventListener('pointermove', e => {
+        if (x0 == null) return;
+        dx = e.clientX - x0;
+        if (!sideways && Math.abs(dx) > 8 && Math.abs(dx) > Math.abs(e.clientY - y0)) sideways = true;
+        const i = photo();
+        if (!sideways || !i) return;
+        i.style.transition = 'none'; i.style.transform = `translateX(${dx}px)`;
+        if (b.full) { // the neighbouring photo comes in with the finger, so there is never a gap
+          const dir = dx < 0 ? 1 : -1, p = peekOf(b, el, dir);
+          p.style.transition = 'none'; p.style.transform = `translateX(${dir * el.clientWidth + dx}px)`;
+        }
       });
-      el.addEventListener('pointercancel', () => { x0 = null; });
+      el.addEventListener('pointerup', () => {
+        if (x0 == null) return;
+        x0 = null;
+        if (!sideways) return;
+        swiped = true; setTimeout(() => { swiped = false; }, 400);
+        const flick = Math.abs(dx) > 25 && performance.now() - t0 < 250;
+        if (flick || Math.abs(dx) > Math.min(70, el.clientWidth * .3)) slideTile(b, el, dx < 0 ? 1 : -1); else settle();
+      });
+      el.addEventListener('pointercancel', () => { x0 = null; settle(); });
     }
     el.querySelectorAll('.flip').forEach(btn => btn.addEventListener('click', e => {
       e.stopPropagation();
-      flipTile(b, el, btn.classList.contains('next') ? 1 : -1);
+      slideTile(b, el, btn.classList.contains('next') ? 1 : -1);
     }));
     tiles.set(b.id, el);
     return el;
@@ -205,14 +227,41 @@
     return `<span class="dots" aria-hidden="true">${Array.from({ length: shown }, (_, j) =>
       `<i class="${j === at ? 'on' : ''}${n > MAXD && j === shown - 1 && at < shown - 1 ? ' sm' : ''}"></i>`).join('')}</span>`;
   }
-  function flipTile(b, el, dir) {
-    if (!b.full) { loadDetail(b).then(() => flipTile(b, el, dir), () => {}); return; }
-    const n = b.images.length;
-    const k = ((tileShot.get(b.id) || 0) + dir + n) % n;
+  // The next photo on a tile: the current one slides out the way it was pushed, the next slides in behind it.
+  const stillMotion = matchMedia('(prefers-reduced-motion: reduce)');
+  const shotAfter = (b, dir) => { const n = b.images.length; return ((tileShot.get(b.id) || 0) + dir + n) % n; };
+  function peekOf(b, el, dir) { // the neighbouring photo, waiting just outside the frame on that side
+    const open = el.querySelector('.open'), k = shotAfter(b, dir);
+    let p = open.querySelector('img.peek');
+    if (!p) { p = document.createElement('img'); p.className = 'peek'; p.alt = ''; p.decoding = 'async'; open.appendChild(p); }
+    if (p.dataset.k !== String(k)) { p.src = b.images[k].thumb; p.dataset.k = k; }
+    p.dataset.dir = dir;
+    return p;
+  }
+  function slideTile(b, el, dir) {
+    const img = el.querySelector('.open img:not(.peek)'), w = el.clientWidth;
+    if (!img) return;
+    (b.full ? Promise.resolve() : loadDetail(b)).then(() => {
+      const k = shotAfter(b, dir), p = peekOf(b, el, dir);
+      if (stillMotion.matches) { showTile(b, el, k); p.remove(); return; }
+      const off = parseFloat((img.style.transform.match(/-?[\d.]+/) || [0])[0]) || 0; // where a drag left it
+      p.style.transition = 'none'; p.style.transform = `translateX(${dir * w + off}px)`;
+      p.getBoundingClientRect(); // start from there
+      img.style.transition = p.style.transition = 'transform .25s ease-out';
+      img.style.transform = `translateX(${-dir * w}px)`; p.style.transform = 'translateX(0)';
+      setTimeout(() => {
+        showTile(b, el, k); // the same picture, already loaded, takes the peek's place
+        img.style.transition = 'none'; img.style.transform = '';
+        const done = () => p.remove();
+        if (img.complete) requestAnimationFrame(done); else { img.addEventListener('load', done, { once: true }); setTimeout(done, 800); }
+      }, 260);
+    }, () => { img.style.transition = 'transform .2s ease-out'; img.style.transform = ''; });
+  }
+  function showTile(b, el, k) {
     tileShot.set(b.id, k);
-    el.querySelector('.open img').src = b.images[k].thumb;
+    el.querySelector('.open img:not(.peek)').src = b.images[k].thumb;
     const dots = el.querySelector('.dots');
-    if (dots) dots.outerHTML = dotsHtml(n, k);
+    if (dots) dots.outerHTML = dotsHtml(b.images.length, k);
   }
 
   // Deal tiles into the shortest column, so every column ends at about the same height.
