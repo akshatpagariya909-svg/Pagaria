@@ -274,7 +274,7 @@
     if (t.dataset.rm) { if (t.dataset.rm === 'decades') state.decades = null; else if (t.dataset.rm === 'q') clearSearch(); else F[t.dataset.rm].delete(t.dataset.v); changed(); return; }
     if (t.dataset.k) {
       const k = t.dataset.k, v = t.dataset.v;
-      if (k === 'arch' && !F.arch.has(v) && goPage(v)) return;
+      if (k === 'arch' && goPage(v)) return;
       if (t.classList.contains('fp-found')) {   // from the search list: add it and jump to its tab
         if (k === 'period') { const [a, b] = v.split(',').map(Number); state.decades = [a, b]; }
         else F[k].add(v);
