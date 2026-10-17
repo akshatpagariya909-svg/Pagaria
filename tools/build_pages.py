@@ -322,6 +322,41 @@ def architect_html(b, up):
     return text
 
 
+# The facts table: a small drawing to the left of each fact, on the same 24 x 24 grid as the filter's drawings;
+# the architect's row shows their portrait (black and white) when there is a free one.
+FACT_ART = {
+    'Architect': '<circle cx="12" cy="8" r="4"/><path d="M4 21c1-4.5 4.5-7 8-7s7 2.5 8 7"/>',
+    'Place': '<path d="M12 21s-7-6.5-7-12a7 7 0 0 1 14 0c0 5.5-7 12-7 12z"/><circle cx="12" cy="9" r="2.5"/>',
+    'Year': '<rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/>',
+    'Typology': '<path d="M3 21h18M5 21V9l7-5 7 5v12M9 21v-6h6v6"/>',
+    'Movement': '<path d="M3 12h4l3-7 4 14 3-7h4"/>',
+    'Region': '<circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.6 2.8 3.8 5.8 3.8 9s-1.2 6.2-3.8 9c-2.6-2.8-3.8-5.8-3.8-9S9.4 5.8 12 3z"/>',
+}
+PEOPLE = {}  # architects.js, read once by fact_icon
+FILTER_ART = read_js('filters.js', 'FILTER_ART')  # the filter's drawings, for the building type
+
+
+def fact_icon(k, b):
+    if k == 'Architect':
+        if not PEOPLE:
+            PEOPLE.update(read_js('architects.js', 'ARCHITECTS') or {'people': {}, 'buildings': {}})
+        for qid in PEOPLE.get('buildings', {}).get(b['id'], []):
+            p = PEOPLE['people'].get(qid)
+            if p and p.get('thumb'):
+                return f'<img class="fi face" src="{e(p["thumb"])}" alt="" loading="lazy">'
+    if k == 'Typology':
+        d = (FILTER_ART.get('typeIcons') or {}).get(b['type'])
+        if d:
+            return f'<svg class="fi" viewBox="0 0 24 24" aria-hidden="true"><path d="{e(d)}"/></svg>'
+    return f'<svg class="fi" viewBox="0 0 24 24" aria-hidden="true">{FACT_ART[k]}</svg>'
+
+
+def facts_html(b, up):
+    facts = [('Architect', b['by']), ('Place', place_full(b)), ('Year', b['year']), ('Typology', b['type']), ('Movement', b['movement']), ('Region', b['region'])]
+    return '<dl class="facts">' + ''.join(
+        f'<div>{fact_icon(k, b)}<dt>{e(k)}</dt><dd>{architect_html(b, up) if k == "Architect" else e(v)}</dd></div>' for k, v in facts) + '</dl>'
+
+
 def building_page(b, items):
     up = '../../'
     url = f"{BASE}buildings/{b['id']}/"
@@ -350,7 +385,6 @@ def building_page(b, items):
         gallery = f'<div class="gallery"><div class="slides">{figs}</div><div class="thumbs">{thumbs}</div></div>' + GALLERY_JS
     else:
         gallery = '<div class="gallery none"><p>No free photos yet. Use the links to see photos and drawings elsewhere.</p></div>'
-    facts = [('Architect', b['by']), ('Place', place_full(b)), ('Year', b['year']), ('Typology', b['type']), ('Movement', b['movement']), ('Region', b['region'])]
     rel_html = ''.join(
         f'<a href="{up}buildings/{x["id"]}/"><span class="ph">{f"<img src={chr(34)}{e(at(up, x["images"][0]["thumb"]))}{chr(34)} alt={chr(34)}{chr(34)} loading={chr(34)}lazy{chr(34)}>" if x.get("images") else ""}</span>'
         f'<b>{e(x["name"])}</b><small>{e(x["by"])} · {e(x["year"])}</small></a>' for x in related(b, items))
@@ -362,7 +396,7 @@ def building_page(b, items):
     <p class="by">{e(b['by'])} · {e(place_full(b))} · {e(b['year'])}</p>
     <p class="study"><span>Key features</span>{e(b['study'])}</p>
     <ul class="tags">{''.join(f'<li>{e(c)}</li>' for c in b['concepts'])}</ul>
-    <dl class="facts">{''.join(f'<dt>{e(k)}</dt><dd>{architect_html(b, up) if k == "Architect" else e(v)}</dd>' for k, v in facts)}</dl>
+    {facts_html(b, up)}
     <a class="cta" href="{up}#{b['id']}">See it on the wall</a>
   </article>
 </main>
