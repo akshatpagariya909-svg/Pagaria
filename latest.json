@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-10-16T20:58:11+00:00",
+ "fetched_at": "2026-10-17T07:03:46+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 116,
+ "visits_30d": 133,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 46,
+     "count": 49,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -76,6 +76,118 @@
      "path": "/buildings/villa-tugendhat",
      "event": false,
      "title": "Villa Tugendhat \u2014 Mies van der Rohe, 1930: photos, plans & sections for a case study \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112459460,
+     "path": "/buildings/norwegian-glacier-museum",
+     "event": false,
+     "title": "Norwegian Glacier Museum \u2014 Sverre Fehn, 1991: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112457310,
+     "path": "/buildings/tempodrom",
+     "event": false,
+     "title": "Tempodrom \u2014 gmp (von Gerkan, Marg and Partners), 2001",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112452407,
+     "path": "building/state-kremlin-palace",
+     "event": true,
+     "title": "State Kremlin Palace",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112451079,
+     "path": "/buildings/zetra-olympic-hall-sarajevo",
+     "event": false,
+     "title": "Zetra Olympic Hall (Juan Antonio Samaranch Olympic Hall)",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112449331,
+     "path": "/buildings/aiwan-e-sadr",
+     "event": false,
+     "title": "Aiwan-e-Sadr (Presidential Palace), 1981: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112446310,
+     "path": "/buildings/philharmonie-de-paris",
+     "event": false,
+     "title": "Philharmonie de Paris \u2014 Ateliers Jean Nouvel, 2015",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112444305,
+     "path": "/buildings/wiener-stadthalle",
+     "event": false,
+     "title": "Wiener Stadthalle \u2014 Roland Rainer, 1958: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112439490,
+     "path": "/buildings/avicenna-mausoleum",
+     "event": false,
+     "title": "Avicenna Mausoleum \u2014 Houshang Seyhoun, 1954: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112433001,
+     "path": "/buildings/ufa-kristallpalast",
+     "event": false,
+     "title": "Ufa-Kristallpalast \u2014 Coop Himmelb(l)au, 1998: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112422733,
+     "path": "/buildings/le-corbusier-gymnasium",
+     "event": false,
+     "title": "Le Corbusier Gymnasium \u2014 Le Corbusier, 1980: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112408338,
+     "path": "/architects/oscar-niemeyer",
+     "event": false,
+     "title": "Oscar Niemeyer buildings: photos, plans & key works",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112407618,
+     "path": "/buildings/sainsbury-centre-for-visual-arts",
+     "event": false,
+     "title": "Sainsbury Centre for Visual Arts \u2014 Norman Foster, 1978",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112407614,
+     "path": "/buildings/carre-d-art",
+     "event": false,
+     "title": "Carr\u00e9 d'Art \u2014 Foster + Partners, 1993: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112407594,
+     "path": "/architects/norman-foster",
+     "event": false,
+     "title": "Norman Foster buildings: photos, plans & key works",
      "max": 1
     },
     {
@@ -455,20 +567,20 @@
      "max": 1
     }
    ],
-   "total": 116,
+   "total": 133,
    "more": false
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 39,
+     "count": 49,
      "ref_scheme": "o"
     },
     {
      "id": "Google",
      "name": "Google",
-     "count": 39,
+     "count": 43,
      "ref_scheme": "g"
     },
     {
@@ -503,17 +615,17 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 78
+     "count": 88
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 36
+     "count": 42
     },
     {
      "id": "Firefox",
      "name": "Firefox",
-     "count": 2
+     "count": 3
     }
    ],
    "more": false
@@ -523,27 +635,27 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 45
+     "count": 48
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 29
-    },
-    {
-     "id": "macOS",
-     "name": "macOS",
-     "count": 17
+     "count": 34
     },
     {
      "id": "Linux",
      "name": "Linux",
-     "count": 14
+     "count": 19
+    },
+    {
+     "id": "macOS",
+     "name": "macOS",
+     "count": 18
     },
     {
      "id": "Android",
      "name": "Android",
-     "count": 11
+     "count": 14
     }
    ],
    "more": false
@@ -553,21 +665,26 @@
     {
      "id": "IN",
      "name": "India",
-     "count": 42
+     "count": 49
     },
     {
      "id": "US",
      "name": "United States",
-     "count": 38
+     "count": 44
     },
     {
      "id": "DE",
      "name": "Germany",
-     "count": 5
+     "count": 6
     },
     {
      "id": "ES",
      "name": "Spain",
+     "count": 4
+    },
+    {
+     "id": "FR",
+     "name": "France",
      "count": 4
     },
     {
@@ -581,11 +698,6 @@
      "count": 3
     },
     {
-     "id": "FR",
-     "name": "France",
-     "count": 3
-    },
-    {
      "id": "NL",
      "name": "Netherlands",
      "count": 3
@@ -596,14 +708,19 @@
      "count": 3
     },
     {
-     "id": "TH",
-     "name": "Thailand",
+     "id": "AU",
+     "name": "Australia",
      "count": 2
     },
     {
-     "id": "AU",
-     "name": "Australia",
-     "count": 1
+     "id": "PK",
+     "name": "Pakistan",
+     "count": 2
+    },
+    {
+     "id": "TH",
+     "name": "Thailand",
+     "count": 2
     },
     {
      "id": "BR",
@@ -636,11 +753,6 @@
      "count": 1
     },
     {
-     "id": "PK",
-     "name": "Pakistan",
-     "count": 1
-    },
-    {
      "id": "PT",
      "name": "Portugal",
      "count": 1
@@ -653,17 +765,17 @@
     {
      "id": "phone",
      "name": "",
-     "count": 34
+     "count": 42
     },
     {
      "id": "tablet",
      "name": "",
-     "count": 13
+     "count": 14
     },
     {
      "id": "desktop",
      "name": "",
-     "count": 67
+     "count": 75
     },
     {
      "id": "desktophd",
@@ -683,7 +795,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 116
+     "count": 133
     }
    ],
    "more": false
