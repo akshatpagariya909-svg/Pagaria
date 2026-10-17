@@ -65,6 +65,21 @@
 .arch .t:focus-visible::after { opacity: 1; }
 @media (hover: hover) { .arch .t:hover { transform: translateY(-2px); box-shadow: 0 14px 34px rgba(0,0,0,.18); color: #fff; } .arch .t:hover::after { opacity: 1; } }
 .arch .t img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.arch .t .open { position: absolute; inset: 0; z-index: 1; display: block; }
+.arch .t .open:focus-visible { outline: 3px solid var(--red); outline-offset: -3px; }
+/* the arrows and dots work as on the wall */
+.arch .t .flip { all: unset; position: absolute; z-index: 2; top: calc(50% - 40px); width: 36px; height: 44px; display: grid; place-items: center; cursor: pointer; border-radius: var(--r); background: rgba(17,17,16,.72); opacity: 0; transition: opacity .14s ease; }
+.arch .t .flip svg { width: 18px; height: 18px; fill: none; stroke: #fff; stroke-width: 2.4; }
+.arch .t .flip.prev { left: 6px; }
+.arch .t .flip.next { right: 6px; }
+.arch .t:focus-within .flip { opacity: 1; }
+@media (hover: hover) { .arch .t:hover .flip { opacity: 1; } .arch .t .flip:hover { background: var(--red); } }
+.arch .t.sx { touch-action: pan-y; }
+.arch .t.sw { overflow: visible; margin-bottom: 13px; }
+.arch .t .dots { position: absolute; left: 0; right: 0; bottom: -12px; height: 5px; display: flex; justify-content: center; align-items: center; gap: 4px; pointer-events: none; }
+.arch .t .dots i { width: 5px; height: 5px; border-radius: 50%; background: #F3C2BA; flex: none; }
+.arch .t .dots i.on { background: var(--red); }
+.arch .t .dots i.sm { transform: scale(.6); }
 .arch .t .slot { position: absolute; inset: 0; display: grid; place-items: center; padding: 12px; text-align: center; font: 500 12px var(--mono); letter-spacing: .06em; text-transform: uppercase; color: var(--graphite); }
 .arch .cap { position: absolute; left: 0; right: 0; bottom: 0; padding: 28px 10px 9px; display: flex; flex-direction: column; gap: 2px; background: linear-gradient(rgba(17,17,16,0), rgba(17,17,16,.66)); }
 .arch .cap b { min-width: 0; font-family: var(--display); font-size: 17px; font-weight: 900; letter-spacing: .01em; text-transform: uppercase; line-height: 1.1; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }

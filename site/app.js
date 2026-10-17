@@ -674,9 +674,13 @@
   }
   // Closing (×, Escape, Home…) also rewinds the steps this run added, so the phone's back gesture afterwards leaves the wall
   // rather than reopening buildings.
+  // Opened from an architect's page (it sets this before sending the reader here): closing the popup goes back to that page.
+  let fromArch = false;
+  try { fromArch = !!sessionStorage.getItem('da-from-arch') && !!location.hash; sessionStorage.removeItem('da-from-arch'); } catch (e) { /* no storage */ }
   function closeBuilding() {
     hideSheet();
     const h = here(), n = h ? h.step + (h.pushed ? 1 : 0) : 0;
+    if (fromArch && h) { fromArch = false; history.go(-(n + 1)); return; }
     if (n) { state.unwinding = true; history.go(-n); } else dropHash();
   }
   window.addEventListener('popstate', e => {

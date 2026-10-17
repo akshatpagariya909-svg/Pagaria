@@ -78,24 +78,49 @@ def ratio_of(b):
     return max(2 / 3, min(1.5, im['h'] / im['w'])) if im and im.get('w') else 0.75
 
 
-def tile(bp, b, up):
-    im = (b.get('images') or [None])[0]
+MAXD = 6
+
+
+def dots_html(n, k=0):
+    """The photo dots under a tile, as on the wall: sunset red for the photo showing; past six photos the last dot shrinks."""
+    shown = min(n, MAXD)
+    at = min(k, shown - 1)
+    return '<span class="dots" aria-hidden="true">' + ''.join(
+        f'<i class="{"on" if j == at else ""}{" sm" if n > MAXD and j == shown - 1 and at < shown - 1 else ""}"></i>' for j in range(shown)) + '</span>'
+
+
+def tile_height(b, swipe):
+    return ratio_of(b) + 0.06 + (0.08 if swipe and len(b.get('images') or []) > 1 else 0)
+
+
+def tile(bp, b, up, swipe=False):
+    """One building, as on the wall: tap opens the building's popup (the wall, with it open); two or more photos get hover
+    arrows and a sideways swipe; buildings 'worth the swipe' also get dots. The link is the building's own page for crawlers."""
+    ims = b.get('images') or []
+    im = ims[0] if ims else None
+    n = len(ims)
+    sw = swipe and n > 1
     city = b['place'].split(',')[0]
     ideas = '|'.join(b.get('concepts') or [])
     r = ratio_of(b)
-    img = (f'<img src="{bp.e(bp.at(up, im["thumb"]))}" width="{im["w"]}" height="{im["h"]}" loading="lazy" decoding="async" alt="{bp.e(b["name"])}, {bp.e(city)}">'
+    img = (f'<img src="{bp.e(bp.at(up, im["thumb"]))}" width="{im["w"]}" height="{im["h"]}" loading="lazy" decoding="async" alt="">'
            if im else '<span class="slot">No free photos yet</span>')
-    return (f'<a class="t" href="{up}buildings/{b["id"]}/" data-y="{b.get("y") or 0}" data-n="{bp.e(b["name"])}" data-c="{bp.e(city)}" '
-            f'data-i="{bp.e(ideas)}" data-r="{r:.3f}" style="aspect-ratio:1/{r:.3f}">{img}'
-            f'<span class="cap"><b>{bp.e(b["name"])}</b><span class="r2">{bp.e(b["year"])} · {bp.e(city)}</span></span></a>')
+    label = f'{b["name"]}, {b["by"]}, {b["year"]}, {city}'
+    flips = ('<button type="button" class="flip prev" aria-label="Previous photo"><svg viewBox="0 0 24 24"><path d="M15 5l-7 7 7 7"/></svg></button>'
+             '<button type="button" class="flip next" aria-label="Next photo"><svg viewBox="0 0 24 24"><path d="M9 5l7 7-7 7"/></svg></button>') if n > 1 else ''
+    th = '|'.join(i['thumb'] for i in ims) if n > 1 else ''
+    return (f'<div class="t{" sw" if sw else ""}{" sx" if n > 1 else ""}" data-id="{b["id"]}" data-y="{b.get("y") or 0}" data-n="{bp.e(b["name"])}" data-c="{bp.e(city)}" '
+            f'data-i="{bp.e(ideas)}" data-r="{r:.3f}" data-th="{bp.e(th)}" style="aspect-ratio:1/{r:.3f}">'
+            f'<a class="open" href="{up}buildings/{b["id"]}/" aria-label="{bp.e(label)}">{img}</a>{flips}{dots_html(n) if sw else ""}'
+            f'<span class="cap" aria-hidden="true"><b>{bp.e(b["name"])}</b><span class="r2">{bp.e(b["year"])} · {bp.e(city)}</span></span></div>')
 
 
-def deal(tiles, ratios, ncols=2):
+def deal(tiles, heights_of, ncols=2):
     heights, cols = [0.0] * ncols, [[] for _ in range(ncols)]
-    for t, r in zip(tiles, ratios):
+    for t, hgt in zip(tiles, heights_of):
         i = heights.index(min(heights))
         cols[i].append(t)
-        heights[i] += r + 0.06
+        heights[i] += hgt
     return ''.join(f'<div class="col">{"".join(c)}</div>' for c in cols)
 
 
@@ -162,15 +187,16 @@ def similar(plans, key, n=4):
 SCRIPT = """<script>
 (function () {
   var cols = [].slice.call(document.querySelectorAll('.wallpane .col')), tiles = [].slice.call(document.querySelectorAll('.wallpane .t'));
-  var count = document.getElementById('shown'), st = { sort: 'y', idea: '' };
+  var count = document.getElementById('shown'), st = { sort: 'y', idea: '' }, swiped = false, MAXD = 6;
   var by = { y: function (a, b) { return a.dataset.y - b.dataset.y || a.dataset.n.localeCompare(b.dataset.n); },
              n: function (a, b) { return a.dataset.n.localeCompare(b.dataset.n); },
              c: function (a, b) { return a.dataset.c.localeCompare(b.dataset.c) || a.dataset.y - b.dataset.y; } };
+  function tall(t) { return parseFloat(t.dataset.r) + 0.06 + (t.classList.contains('sw') ? 0.08 : 0); }
   function deal() {
     var list = tiles.filter(function (t) { return !st.idea || t.dataset.i.split('|').indexOf(st.idea) > -1; }).sort(by[st.sort]);
     var h = cols.map(function () { return 0; });
     cols.forEach(function (c) { while (c.firstChild) c.removeChild(c.firstChild); });
-    list.forEach(function (t) { var k = h.indexOf(Math.min.apply(null, h)); cols[k].appendChild(t); h[k] += parseFloat(t.dataset.r) + 0.06; });
+    list.forEach(function (t) { var k = h.indexOf(Math.min.apply(null, h)); cols[k].appendChild(t); h[k] += tall(t); });
     if (count) count.textContent = list.length;
   }
   [].forEach.call(document.querySelectorAll('[data-sort]'), function (b) {
@@ -188,6 +214,40 @@ SCRIPT = """<script>
       if (!on) b.setAttribute('aria-pressed', 'true');
       deal();
     });
+  });
+  // Photos: arrows on hover (a computer) and a sideways swipe (a phone) show the next photo, as on the wall; dots on the tiles worth swiping.
+  function dots(n, k) {
+    var shown = Math.min(n, MAXD), at = Math.min(k, shown - 1), out = '';
+    for (var j = 0; j < shown; j++) out += '<i class="' + (j === at ? 'on' : '') + (n > MAXD && j === shown - 1 && at < shown - 1 ? ' sm' : '') + '"></i>';
+    return '<span class="dots" aria-hidden="true">' + out + '</span>';
+  }
+  function flip(t, dir) {
+    var th = t.dataset.th.split('|'), n = th.length, k = ((+t.dataset.k || 0) + dir + n) % n, s = th[k], d = t.querySelector('.dots');
+    t.dataset.k = k;
+    t.querySelector('.open img').src = /^https?:/.test(s) ? s : '../../' + s;
+    if (d) d.outerHTML = dots(n, k);
+  }
+  tiles.forEach(function (t) {
+    var open = t.querySelector('.open'), x0 = null, y0 = 0;
+    // A tap opens the building as a popup over the wall, like everywhere else; closing it returns here.
+    open.addEventListener('click', function (e) {
+      if (e.metaKey || e.ctrlKey || e.shiftKey || e.altKey || e.button) return;
+      e.preventDefault();
+      if (swiped) return;
+      try { sessionStorage.setItem('da-from-arch', location.pathname); } catch (x) { /* fine without it */ }
+      location.href = '../../#' + t.dataset.id;
+    });
+    if (!t.dataset.th) return;
+    [].forEach.call(t.querySelectorAll('.flip'), function (b) {
+      b.addEventListener('click', function (e) { e.stopPropagation(); flip(t, b.classList.contains('next') ? 1 : -1); });
+    });
+    t.addEventListener('pointerdown', function (e) { x0 = e.clientX; y0 = e.clientY; });
+    t.addEventListener('pointerup', function (e) {
+      var dx = e.clientX - x0;
+      if (x0 != null && Math.abs(dx) > 30 && Math.abs(dx) > Math.abs(e.clientY - y0)) { swiped = true; flip(t, dx < 0 ? 1 : -1); setTimeout(function () { swiped = false; }, 400); }
+      x0 = null;
+    });
+    t.addEventListener('pointercancel', function () { x0 = null; });
   });
 })();
 </script>"""
@@ -238,8 +298,8 @@ def page(bp, plans, key, ctx):
     chips = ''.join(f'<button type="button" class="chip" data-idea="{bp.e(c)}" aria-pressed="false">{bp.e(c)} <span>{k}</span></button>'
                     for c, k in ideas.most_common(IDEA_CHIPS) if k >= 2)
     kw = f'<div class="ideas" role="group" aria-label="Narrow by idea">{chips}</div>' if chips else ''
-    tiles = [tile(bp, b, up) for b in bs]
-    grid = deal(tiles, [ratio_of(b) for b in bs])
+    tiles = [tile(bp, b, up, b['id'] in ctx['swipe']) for b in bs]
+    grid = deal(tiles, [tile_height(b, b['id'] in ctx['swipe']) for b in bs])
     sorts = ''.join(f'<button type="button" class="chip" data-sort="{k}" aria-pressed="{str(k == "y").lower()}">{t}</button>' for k, t in (('y', 'Year'), ('n', 'A to Z'), ('c', 'Place')))
     kind = 'Organization' if rec.get('kind') == 'practice' else 'Person'
     ld = [{'@context': 'https://schema.org', '@type': kind, 'name': name, 'url': url, 'description': first_sentence(rec['bio'], 300),
@@ -292,7 +352,8 @@ def build(bp, items):
     out.mkdir(exist_ok=True)
     if not plans:
         return nm, plans
-    ctx = {'nm': nm, 'books': bp.read_js('books.js', 'BOOKS') or [],
+    import worth_swipe
+    ctx = {'swipe': set(worth_swipe.chosen()), 'nm': nm, 'books': bp.read_js('books.js', 'BOOKS') or [],
            'people': (bp.read_js('architects.js', 'ARCHITECTS') or {}).get('people', {})}
     keep = set()
     for key, p in plans.items():
