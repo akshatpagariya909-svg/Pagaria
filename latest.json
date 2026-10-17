@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-10-17T07:03:46+00:00",
+ "fetched_at": "2026-10-17T10:32:56+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 133,
+ "visits_30d": 152,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 49,
+     "count": 61,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -76,6 +76,62 @@
      "path": "/buildings/villa-tugendhat",
      "event": false,
      "title": "Villa Tugendhat \u2014 Mies van der Rohe, 1930: photos, plans & sections for a case study \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112481251,
+     "path": "/buildings/bouca-housing",
+     "event": false,
+     "title": "Bou\u00e7a Social Housing \u2014 \u00c1lvaro Siza, 2006: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112478671,
+     "path": "/buildings/rock-and-roll-hall-of-fame",
+     "event": false,
+     "title": "Rock and Roll Hall of Fame \u2014 I. M. Pei, 1995: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112476392,
+     "path": "/buildings/indian-coffee-house",
+     "event": false,
+     "title": "Indian Coffee House \u2014 Laurie Baker, c. 1958: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112476372,
+     "path": "/buildings/centre-for-development-studies",
+     "event": false,
+     "title": "Centre for Development Studies \u2014 Laurie Baker, 1971: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112475234,
+     "path": "/buildings/ningbo-history-museum",
+     "event": false,
+     "title": "Ningbo History Museum \u2014 Wang Shu, 2008: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112472529,
+     "path": "/buildings/polin-museum-of-the-history-of-polish-jews",
+     "event": false,
+     "title": "POLIN Museum of the History of Polish Jews, 2013",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112471104,
+     "path": "building/harpa",
+     "event": true,
+     "title": "Harpa",
      "max": 1
     },
     {
@@ -567,20 +623,20 @@
      "max": 1
     }
    ],
-   "total": 133,
+   "total": 152,
    "more": false
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 49,
+     "count": 56,
      "ref_scheme": "o"
     },
     {
      "id": "Google",
      "name": "Google",
-     "count": 43,
+     "count": 47,
      "ref_scheme": "g"
     },
     {
@@ -596,14 +652,38 @@
      "ref_scheme": "c"
     },
     {
+     "id": "gads",
+     "name": "gads",
+     "count": 3,
+     "ref_scheme": "c"
+    },
+    {
      "id": "youtube`",
      "name": "youtube`",
      "count": 3,
      "ref_scheme": "c"
     },
     {
+     "id": "reddit",
+     "name": "reddit",
+     "count": 2,
+     "ref_scheme": "c"
+    },
+    {
      "id": "bing.com",
      "name": "bing.com",
+     "count": 1,
+     "ref_scheme": "h"
+    },
+    {
+     "id": "com.reddit.frontpage",
+     "name": "com.reddit.frontpage",
+     "count": 1,
+     "ref_scheme": "o"
+    },
+    {
+     "id": "gemini.google.com",
+     "name": "gemini.google.com",
      "count": 1,
      "ref_scheme": "h"
     }
@@ -615,17 +695,17 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 88
+     "count": 103
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 42
+     "count": 45
     },
     {
      "id": "Firefox",
      "name": "Firefox",
-     "count": 3
+     "count": 4
     }
    ],
    "more": false
@@ -635,27 +715,27 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 48
+     "count": 56
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 34
+     "count": 37
+    },
+    {
+     "id": "Android",
+     "name": "Android",
+     "count": 21
     },
     {
      "id": "Linux",
      "name": "Linux",
-     "count": 19
+     "count": 20
     },
     {
      "id": "macOS",
      "name": "macOS",
      "count": 18
-    },
-    {
-     "id": "Android",
-     "name": "Android",
-     "count": 14
     }
    ],
    "more": false
@@ -665,17 +745,27 @@
     {
      "id": "IN",
      "name": "India",
-     "count": 49
+     "count": 56
     },
     {
      "id": "US",
      "name": "United States",
-     "count": 44
+     "count": 47
     },
     {
      "id": "DE",
      "name": "Germany",
-     "count": 6
+     "count": 7
+    },
+    {
+     "id": "AU",
+     "name": "Australia",
+     "count": 5
+    },
+    {
+     "id": "GB",
+     "name": "United Kingdom",
+     "count": 5
     },
     {
      "id": "ES",
@@ -688,8 +778,8 @@
      "count": 4
     },
     {
-     "id": "GB",
-     "name": "United Kingdom",
+     "id": "TR",
+     "name": "Turkey",
      "count": 4
     },
     {
@@ -703,16 +793,6 @@
      "count": 3
     },
     {
-     "id": "TR",
-     "name": "Turkey",
-     "count": 3
-    },
-    {
-     "id": "AU",
-     "name": "Australia",
-     "count": 2
-    },
-    {
      "id": "PK",
      "name": "Pakistan",
      "count": 2
@@ -723,8 +803,18 @@
      "count": 2
     },
     {
+     "id": "AT",
+     "name": "Austria",
+     "count": 1
+    },
+    {
      "id": "BR",
      "name": "Brazil",
+     "count": 1
+    },
+    {
+     "id": "IE",
+     "name": "Ireland",
      "count": 1
     },
     {
@@ -756,6 +846,11 @@
      "id": "PT",
      "name": "Portugal",
      "count": 1
+    },
+    {
+     "id": "TN",
+     "name": "Tunisia",
+     "count": 1
     }
    ],
    "more": false
@@ -765,7 +860,7 @@
     {
      "id": "phone",
      "name": "",
-     "count": 42
+     "count": 52
     },
     {
      "id": "tablet",
@@ -775,12 +870,12 @@
     {
      "id": "desktop",
      "name": "",
-     "count": 75
+     "count": 83
     },
     {
      "id": "desktophd",
      "name": "",
-     "count": 2
+     "count": 3
     },
     {
      "id": "unknown",
@@ -795,7 +890,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 133
+     "count": 152
     }
    ],
    "more": false
