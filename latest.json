@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-10-17T10:32:56+00:00",
+ "fetched_at": "2026-10-17T15:27:08+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 152,
+ "visits_30d": 171,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 61,
+     "count": 66,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -15,12 +15,20 @@
      "max": 5
     },
     {
-     "count": 8,
+     "count": 9,
      "path_id": 112020274,
      "path": "/play",
      "event": false,
      "title": "Daily five \u00b7 Guess the building? \u00b7 Find Great Architecture",
      "max": 4
+    },
+    {
+     "count": 6,
+     "path_id": 112522110,
+     "path": "/architects",
+     "event": false,
+     "title": "Architects A\u2013Z \u00b7 Find Great Architecture",
+     "max": 6
     },
     {
      "count": 3,
@@ -76,6 +84,62 @@
      "path": "/buildings/villa-tugendhat",
      "event": false,
      "title": "Villa Tugendhat \u2014 Mies van der Rohe, 1930: photos, plans & sections for a case study \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112528172,
+     "path": "/buildings/grande-halle-de-la-villette",
+     "event": false,
+     "title": "Grande halle de la Villette, 1867: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112528136,
+     "path": "building/stadthaus-ulm",
+     "event": true,
+     "title": "Stadthaus Ulm",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112528000,
+     "path": "/buildings/stadthaus-ulm",
+     "event": false,
+     "title": "Stadthaus Ulm \u2014 Richard Meier, 1993: photos for a case study",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112527838,
+     "path": "/buildings/study-pavilion-tu-braunschweig",
+     "event": false,
+     "title": "Study Pavilion, TU Braunschweig, 2023",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112503462,
+     "path": "building/berlin-state-library-haus-potsdamer-strae",
+     "event": true,
+     "title": "Berlin State Library (Haus Potsdamer Stra\u00dfe)",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112487700,
+     "path": "/buildings/nira-house",
+     "event": false,
+     "title": "Nira House (Leek House) \u2014 Terunobu Fujimori, 1997: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112487066,
+     "path": "/buildings/mercado-municipal-de-sao-paulo",
+     "event": false,
+     "title": "Municipal Market of S\u00e3o Paulo, 1933: photos",
      "max": 1
     },
     {
@@ -623,21 +687,27 @@
      "max": 1
     }
    ],
-   "total": 152,
+   "total": 171,
    "more": false
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 56,
+     "count": 60,
      "ref_scheme": "o"
     },
     {
      "id": "Google",
      "name": "Google",
-     "count": 47,
+     "count": 51,
      "ref_scheme": "g"
+    },
+    {
+     "id": "gads",
+     "name": "gads",
+     "count": 9,
+     "ref_scheme": "c"
     },
     {
      "id": "ig",
@@ -652,21 +722,15 @@
      "ref_scheme": "c"
     },
     {
-     "id": "gads",
-     "name": "gads",
-     "count": 3,
+     "id": "reddit",
+     "name": "reddit",
+     "count": 4,
      "ref_scheme": "c"
     },
     {
      "id": "youtube`",
      "name": "youtube`",
      "count": 3,
-     "ref_scheme": "c"
-    },
-    {
-     "id": "reddit",
-     "name": "reddit",
-     "count": 2,
      "ref_scheme": "c"
     },
     {
@@ -695,12 +759,12 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 103
+     "count": 113
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 45
+     "count": 54
     },
     {
      "id": "Firefox",
@@ -715,27 +779,27 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 56
+     "count": 60
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 37
+     "count": 46
     },
     {
      "id": "Android",
      "name": "Android",
-     "count": 21
+     "count": 25
     },
     {
      "id": "Linux",
      "name": "Linux",
-     "count": 20
+     "count": 21
     },
     {
      "id": "macOS",
      "name": "macOS",
-     "count": 18
+     "count": 19
     }
    ],
    "more": false
@@ -745,21 +809,26 @@
     {
      "id": "IN",
      "name": "India",
-     "count": 56
+     "count": 59
     },
     {
      "id": "US",
      "name": "United States",
-     "count": 47
-    },
-    {
-     "id": "DE",
-     "name": "Germany",
-     "count": 7
+     "count": 50
     },
     {
      "id": "AU",
      "name": "Australia",
+     "count": 11
+    },
+    {
+     "id": "DE",
+     "name": "Germany",
+     "count": 9
+    },
+    {
+     "id": "FR",
+     "name": "France",
      "count": 5
     },
     {
@@ -770,11 +839,6 @@
     {
      "id": "ES",
      "name": "Spain",
-     "count": 4
-    },
-    {
-     "id": "FR",
-     "name": "France",
      "count": 4
     },
     {
@@ -791,6 +855,16 @@
      "id": "NL",
      "name": "Netherlands",
      "count": 3
+    },
+    {
+     "id": "RO",
+     "name": "Romania",
+     "count": 3
+    },
+    {
+     "id": "IT",
+     "name": "Italy",
+     "count": 2
     },
     {
      "id": "PK",
@@ -815,11 +889,6 @@
     {
      "id": "IE",
      "name": "Ireland",
-     "count": 1
-    },
-    {
-     "id": "IT",
-     "name": "Italy",
      "count": 1
     },
     {
@@ -860,7 +929,7 @@
     {
      "id": "phone",
      "name": "",
-     "count": 52
+     "count": 65
     },
     {
      "id": "tablet",
@@ -870,7 +939,7 @@
     {
      "id": "desktop",
      "name": "",
-     "count": 83
+     "count": 89
     },
     {
      "id": "desktophd",
@@ -890,7 +959,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 152
+     "count": 171
     }
    ],
    "more": false
