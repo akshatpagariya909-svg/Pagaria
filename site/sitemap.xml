@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://findgreatarchitecture.com/</loc></url>
+  <url><loc>https://findgreatarchitecture.com/play/</loc></url>
   <url><loc>https://findgreatarchitecture.com/buildings/</loc></url>
+  <url><loc>https://findgreatarchitecture.com/architects/</loc></url>
+  <url><loc>https://findgreatarchitecture.com/architects/alvar-aalto/</loc></url>
+  <url><loc>https://findgreatarchitecture.com/architects/frank-gehry/</loc></url>
+  <url><loc>https://findgreatarchitecture.com/architects/glenn-murcutt/</loc></url>
+  <url><loc>https://findgreatarchitecture.com/architects/herzog-and-de-meuron/</loc></url>
+  <url><loc>https://findgreatarchitecture.com/architects/le-corbusier/</loc></url>
+  <url><loc>https://findgreatarchitecture.com/architects/norman-foster/</loc></url>
+  <url><loc>https://findgreatarchitecture.com/architects/oma/</loc></url>
+  <url><loc>https://findgreatarchitecture.com/architects/oscar-niemeyer/</loc></url>
+  <url><loc>https://findgreatarchitecture.com/architects/renzo-piano/</loc></url>
+  <url><loc>https://findgreatarchitecture.com/architects/zaha-hadid/</loc></url>
   <url><loc>https://findgreatarchitecture.com/buildings/villa-savoye/</loc></url>
   <url><loc>https://findgreatarchitecture.com/buildings/unite-dhabitation/</loc></url>
   <url><loc>https://findgreatarchitecture.com/buildings/notre-dame-du-haut/</loc></url>
