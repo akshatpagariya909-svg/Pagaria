@@ -22,7 +22,7 @@ img { max-width: 100%; display: block; }
 
 .page { display: grid; grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr); gap: clamp(20px, 4vw, 56px); padding: 8px clamp(16px, 3vw, 32px) 24px; align-items: start; }
 .gallery { position: sticky; top: 16px; display: flex; flex-direction: column; gap: 8px; min-width: 0; }
-.slides { display: flex; overflow-x: auto; scroll-snap-type: x mandatory; scroll-behavior: smooth; background: #1B1B1A; scrollbar-width: none; }
+.slides { display: flex; align-items: flex-start; overflow-x: auto; scroll-snap-type: x mandatory; scroll-behavior: smooth; scrollbar-width: none; }
 .slides::-webkit-scrollbar { display: none; }
 .slides figure { flex: 0 0 100%; margin: 0; scroll-snap-align: start; display: flex; flex-direction: column; min-width: 0; position: relative; }
 .slides .nophoto { position: absolute; top: 12px; left: 14px; z-index: 1; font: 500 12px var(--mono); letter-spacing: .06em; text-transform: uppercase; color: var(--graphite); }
@@ -39,7 +39,7 @@ img { max-width: 100%; display: block; }
 .thumbs a[aria-current] { outline-color: var(--red); }
 .gallery.none { aspect-ratio: 4 / 3; border-radius: var(--r-panel); background: #DCDBD5; justify-content: center; align-items: center; padding: 24px; text-align: center; color: var(--graphite); font-size: 15px; }
 .gallery.none p { margin: 0; max-width: 32ch; }
-.info { display: flex; flex-direction: column; gap: 18px; min-width: 0; padding-top: 8px; }
+.info { display: flex; flex-direction: column; gap: 14px; min-width: 0; padding-top: 8px; }
 .kicker { margin: 0; font: 500 12px var(--mono); letter-spacing: 0.06em; text-transform: uppercase; color: var(--graphite); }
 .info h1 { margin: 0; font-size: clamp(48px, 6.4vw, 92px); font-family: var(--display); font-weight: 900; letter-spacing: 0.005em; line-height: 0.92; text-transform: uppercase; text-wrap: balance; }
 .by { margin: 0; font-size: 17px; line-height: 1.4; }
@@ -48,10 +48,13 @@ img { max-width: 100%; display: block; }
 .tags { margin: 0; padding: 0; list-style: none; display: flex; flex-wrap: wrap; gap: 6px; }
 .tags li { border: 1px solid var(--ink); border-radius: var(--r); padding: 5px 10px; font: 500 12px var(--mono); letter-spacing: 0.02em; }
 .lede { margin: 0; max-width: 60ch; font-family: var(--serif); font-size: clamp(19px, 1.6vw, 23px); line-height: 1.4; }
-.facts { margin: 0; display: grid; grid-template-columns: max-content 1fr; border-top: 1px solid var(--ink); }
-.facts dt, .facts dd { margin: 0; padding: 10px 0; border-bottom: 1px solid var(--hair); }
-.facts dt { font: 500 11px/1.9 var(--mono); letter-spacing: 0.06em; text-transform: uppercase; color: var(--graphite); padding-right: 24px; }
-.facts dd { font-size: 15px; }
+/* The facts in two columns, each with its drawing (or the architect's portrait) on the left. */
+.facts { margin: 0; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); column-gap: 24px; border-top: 1px solid var(--ink); }
+.facts > div { display: grid; grid-template-columns: 30px minmax(0, 1fr); column-gap: 10px; align-items: center; padding: 9px 0; border-bottom: 1px solid var(--hair); }
+.facts .fi { grid-row: 1 / span 2; width: 24px; height: 24px; justify-self: center; fill: none; stroke: currentColor; stroke-width: 1.6; stroke-linecap: round; stroke-linejoin: round; }
+.facts img.face { width: 30px; height: 38px; object-fit: cover; object-position: 50% 20%; filter: grayscale(1); background: #DCDBD5; }
+.facts dt { font: 500 11px/1.3 var(--mono); letter-spacing: 0.06em; text-transform: uppercase; color: var(--graphite); }
+.facts dd { margin: 0; font-size: 15px; font-weight: 600; line-height: 1.3; overflow-wrap: anywhere; }
 .cta { align-self: flex-start; background: var(--red); color: #fff; text-decoration: none; border-radius: var(--r); padding: 14px 20px; font-size: 15px; font-weight: 700; }
 @media (hover: hover) { .cta:hover { background: var(--red-ink); color: #fff; } }
 
@@ -95,7 +98,9 @@ img { max-width: 100%; display: block; }
 @media (max-width: 820px) {
   .page { grid-template-columns: 1fr; }
   .gallery { position: static; }
-  .slides img { height: 62vh; }
+  .top nav { flex-wrap: nowrap; }
+  .top nav a { padding: 9px 11px; font-size: 13px; white-space: nowrap; }
+  .slides img { height: min(75vw, 62vh); } /* a 4:3 frame, so a wide photo has no tall black band above and below */
   .dock { bottom: calc(12px + env(safe-area-inset-bottom, 0px)); }
   .dock a { padding: 0 12px; }
 }
