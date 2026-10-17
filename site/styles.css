@@ -200,7 +200,7 @@ body.filtering { overflow: hidden; }
 .t { position: relative; background: var(--slot); overflow: hidden; transition: transform .18s ease, box-shadow .18s ease; }
 .t:focus-within { transform: translateY(-2px); box-shadow: 0 14px 34px rgba(0,0,0,.18); }
 @media (hover: hover) { .t:hover { transform: translateY(-2px); box-shadow: 0 14px 34px rgba(0,0,0,.18); } }
-.t .open { all: unset; position: absolute; inset: 0; cursor: pointer; }
+.t .open { all: unset; position: absolute; inset: 0; cursor: pointer; overflow: hidden; } /* a swiped photo slides inside its frame */
 .t .open:focus-visible { outline: 3px solid var(--red); outline-offset: -3px; }
 /* the sunset red underline on the tile you hover */
 .t::after { content: ''; position: absolute; left: 0; right: 0; bottom: 0; height: 4px; background: var(--red); opacity: 0; transition: opacity .15s ease; pointer-events: none; z-index: 3; }

@@ -30,9 +30,11 @@ looked-up buildings (the list is at the bottom of the home page) to get the firs
 
 - Impressions for queries that contain a building's name plus *plan*, *section*, *case study* or the architect.
 - Which of the "About" pages (the 100 most looked-up buildings and the South Asian ones) earn clicks.
-- Indian buildings appearing for their own name without the architect's: Sangath, IIM Ahmedabad, CEPT.
+- Buildings appearing for their own name without the architect's (for example Barbican, Salk Institute, Sangath), and which countries the clicks come from: the audience is worldwide, Western countries first.
 
-## When the domain changes
+## Checks to repeat now and then
 
-If the site moves to discoverarchitecture.in, add the new address as a second property, submit the sitemap
-again, and use **Settings → Change of address** on the old one. Keep the GitHub Pages address redirecting.
+- Repository **Settings → Pages**: "Enforce HTTPS" ticked, custom domain `findgreatarchitecture.com` shown as verified.
+- Search Console **Sitemaps**: `sitemap.xml` listed with status Success; Bing Webmaster **Sitemaps** the same.
+- Search Console **Pages**: look at "Not indexed" reasons ("Crawled – currently not indexed" means pages look too alike).
+- The sitemap lists the home page, `/play/` (the game), the A–Z index and every building page. The `/yt/` redirect pages are left out on purpose.
