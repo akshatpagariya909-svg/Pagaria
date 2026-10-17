@@ -39,6 +39,13 @@ A wall of buildings that architecture students wander instead of search, with fr
 - Architect pages (v24 option B, approved 16 Oct 2026): one page per architect at `/architects/<slug>/`. Desktop: two panes that scroll on their own, the left a third of the screen (portrait in black and white, name, a 110–190 word write-up with "Read more", "Read about the work" links with logos, books, similar architects), the right "Zaha Hadid buildings": a row of idea keywords (one swipeable line, no label), Year / A to Z / Place sort, and every building in two columns. Phone: one column, portrait beside the name, write-up first, a red "See the N buildings" button, then the buildings. The page title is "Zaha Hadid buildings: photos, plans & key works".
 - Still open: the opened-building look (v4 A, B or C; Claude recommended B with A's dotted link cells). Ask before building it.
 
+## Money (owner's decisions, 15 Oct 2026)
+
+- Goal: **cover costs first**, income later. Ads are acceptable eventually; no paywall in front of the wall.
+- Nothing is signed up for until the site reaches **1,000 visits in 30 days** (GoatCounter's `visits_30d` on the `analytics-data` branch). Remind the owner when it does.
+- Order once that happens: book affiliate links on the opened book (Bookshop.org and Amazon, starting with the US and UK stores) and a small "Support this site" link; ads and sponsors later. The owner signs up for accounts; Claude doesn't.
+- GitHub Pages doesn't allow sites mainly for selling: affiliate links, donations and ads are fine, a shop is not.
+
 ## How the code is laid out
 
 - `site/` is the website: plain HTML, CSS and JavaScript, no build step, no framework.
